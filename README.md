@@ -1,5 +1,10 @@
 # Dialogue Summarization
 
+# Installation
+```bash
+pip install [-e] .
+```
+
 # Running benchmarks
 In this release, dataset is not included in the zip file due to file size limit.
 
