@@ -1,0 +1,19 @@
+The project manager opens the meeting and presents the agenda using slides.
+The marketing expert explains the research she read about, which is a study done on 100 people asking their remote usage habits and preferences.
+The Industrial Designer presents, explaining the basic function of a remote control and how it works.
+He says they should first agree on the technical functions before he creates working design and chooses the chips and infrared components to build it.
+The Interface Designer gives his presentation, talking about the remote's technical function of sending a message to the TV set that is decoded by the TV.
+Standard TV remotes have an on/off button, play, volume change, number keypad, and a 1 or 2 digit option.
+He suggests that in aiming for the next generation they should have a remote for the TV and video integrated together.
+The project manager recieves a message from account manager, which he shares with the group.
+They discuss and determine the target group as well as the possibility of making a universal remote for stereo, VCR, and TV.
+They close the meeting with the project manager telling each group member what they will do before the next meeting.
+The industrial designer will try to find out which components are needed.
+The interface designer will get more specific user interface content.
+The marketing expert will look at what trends are in this type of market
+They will target the 20-40 age group.
+Teletext is a well known feature of televisions but is no longer in frequent use because of the internet, will not be used.
+The remote should be trendy as possible but still have a reliable image so that it does not appear poorly-functional.
+The group is interested in creating a universal remote, however they are unable to deterine what components are needed without looking at the standards and current trends in the market.
+One group member brought up that it is not possible to make a universal high-performance remote with the given budget.
+More research is necessary to determine this.

@@ -1,0 +1,666 @@
+C	so , he 's not here ,
+C	so you get to
+D	will try to explain the thing that did this week during this week .
+D	that work begin to work with new feature to detect voice - unvoice .
+D	what trying two mlp to the with this new feature and the fifteen feature from the bus base system
+E	the the mel cepstrum ?
+D	no , satly the mes the mel cepstrum ,
+D	the new base system the new base system .
+E	the aurora system .
+D	the aurora system with the new filter , vad like that .
+D	and 'm trying two mlp , one that only have three output ,
+D	voice , unvoice , and silence ,
+D	and other one that have fifty - six output .
+D	the probabilities of the allophone .
+D	and tried to do some experiment of recognition with that
+D	and only have result with the mlp with the three output .
+D	and put together the fifteen features and the three mlp output .
+D	and , , the result are li little bit better , but more or less similar .
+C	'm 'm slightly confused .
+C	what what feeds the the three - output net ?
+D	voice , unvoice , and si
+C	no no , what feeds it ?
+C	what features does it see ?
+D	the feature the input ?
+D	the inputs are the fifteen the fifteen bases feature .
+D	the with the new code .
+D	and the other three features are , the variance of the difference between the two spectrum ,
+D	the variance of the auto - correlation function , except the first point , because half the height value is - zero
+D	and also - zero ,
+D	the first coefficient of the auto - correlation function .
+D	that is like the energy with these three feature ,
+D	also these three feature .
+C	you wouldn't do like - one over - zero like that ?
+C	usually for voiced - unvoiced you 'd do , you 'd do something you 'd do energy
+C	but then you have something like spectral slope , which is you get like - one ov over - zero like that .
+E	what are the 's ?
+E	'm missed it .
+D	auto - correlation ?
+D	yes , yes , the variance of the auto - correlation function that uses that
+C	ye - that 's the variance ,
+C	but if you just say " what is "
+C	to first order ,
+C	one of the differences between voiced , unvoiced and silence is energy .
+C	another one is but the other one is the spectral shape .
+D	the spectral shape ,
+C	and so - one over - zero is what you typically use for that .
+C	'm saying that 's what people us typically use .
+C	see , because it because this is this is just like single number to tell you " does the spectrum look like that or does it look like that " .
+C	so if it 's if it 's if it 's low energy but the but the spectrum looks like that or like that , it 's probably silence .
+C	but if it 's low energy and the spectrum looks like that , it 's probably unvoiced .
+C	so if you just if you just had to pick two features to determine voiced - unvoiced , you 'd pick something about the spectrum like - one over - zero , and - zero
+C	or you 'd have some other energy measure
+C	like in the old days people did like zero crossing counts .
+D	also th use this .
+D	bec - because the result are little bit better
+D	but we have in point that everything is more or less the similar more or less similar .
+D	it 's not quite better .
+C	right , but it seemed to me that what you were getting at before was that there is something about the difference between the original signal or the original fft and with the filter which is what
+C	and the variance was one take on it .
+D	used this too .
+C	but it could be something else .
+C	suppose you didn't have anything like that .
+C	then in that case , if you have two nets ,
+C	alright , and this one has three outputs , and this one has
+C	fifty - six , ,
+C	if you were to sum up the probabilities for the voiced and for the unvoiced and for the silence here , we 've found in the past you 'll do better at voiced - unvoiced - silence than you do with this one .
+C	so just having the three output thing doesn't doesn't really buy you anything .
+C	the issue is what you feed it .
+E	so you 're saying take the features that go into the voiced - unvoiced - silence net and feed those into the other one , as additional inputs , rather than having separate
+C	that 's another way .
+C	that wasn't what was saying
+C	but that 's certainly another thing to do .
+C	no was just trying to say if you if you bring this into the picture over this , what more does it buy you ?
+C	and what was saying is that the only thing that it buys you is based on whether you feed it something different .
+C	and something different in some fundamental way .
+C	and so the thing that she was talking about before , was looking at something ab something about the difference between the log fft log power and the log magnitude - spectrum and the filter bank .
+C	and so the filter bank is chosen to integrate out the effects of pitch
+C	and she 's saying
+C	so the particular measure that she chose was the variance of this of this difference ,
+C	but that might not be the right number .
+C	maybe there 's something about the variance that 's that 's not enough
+C	or maybe there 's something else that one could use ,
+C	but that , for me , the thing that struck me was that you wanna get something back here ,
+C	so here 's here 's an idea .
+C	what about it you skip all the all the really clever things , and just fed the log magnitude spectrum into this ?
+C	you have the log magnitude spectrum , and you were looking at that and the difference between the filter bank and computing the variance .
+C	that 's clever thing to do .
+C	what if you stopped being clever ?
+C	and you just took this thing in here because it 's neural net and neural nets are wonderful
+C	and figure out what they can what they most need from things , and that 's what they 're good at .
+C	so you 're you 're trying to be clever and say what 's the statistic that should we should get about this difference
+C	but , maybe just feeding this in or feeding both of them in
+C	another way , saying let it figure out what 's the what is the interaction ,
+C	especially if you do this over multiple frames ?
+C	then you have this over time , and both kinds of measures
+C	and you might get something better .
+E	so so don't don't do the division ,
+E	but let the net have everything .
+C	that 's another thing you could do
+C	it seems to me , if you have exactly the right thing then it 's better to do it without the net
+C	because otherwise you 're asking the net to learn this
+C	say if you wanted to learn how to do multiplication .
+C	you could feed it bunch of you could feed two numbers that you wanted to multiply into net
+C	and have bunch of nonlinearities in the middle
+C	and train it to get the product of the output and it would work .
+C	but , it 's crazy ,
+C	cuz we know how to multiply
+C	and you 'd be much lower error usually if you just multiplied it out .
+C	but suppose you don't really the right thing is .
+C	and that 's what these dumb machine learning methods are good at .
+C	it 's just thought .
+E	how long does it take , carmen , to train up one of these nets ?
+D	not too much .
+D	mmm , one day or less .
+C	it 's probably worth it .
+A	what are what are your frame error rates for this ?
+D	no , the frame error rate ?
+D	fifty - six .
+C	is that maybe that 's accuracy ?
+A	fif - fifty - six percent accurate for voice - unvoice
+D	don't remember for voice - unvoice ,
+D	maybe for the other one .
+C	voiced - unvoiced hopefully would be lot better .
+A	should be in nineties somewhere .
+D	maybe for voice - unvoice .
+D	this is for the other one .
+D	should 't show that .
+D	but that fifty - five was for the when the output are the fifty - six phone .
+D	that look in the with the other nnn the other mlp that we have are more or less the same number .
+D	silence will be better but more or less the same .
+C	at the frame level for fifty - six that was the number we were getting for reduced band width .
+D	that that for the other one , for the three output , is sixty - two , sixty three more or less .
+C	that 's all ?
+C	that 's pretty bad .
+D	because it 's noise also .
+C	actually , so this is test that you should do then .
+C	if you 're getting fifty - six percent over here ,
+C	that 's in noise also ,
+C	if you 're getting fifty - six here , try adding together the probabilities of all of the voiced phones here and all of the unvoiced phones
+C	and see what you get then .
+C	bet you get better than sixty - three .
+D	but th that we have the result more or less . maybe .
+D	don't 'm not but remember @ @ that 't show that .
+C	but that 's that is good check point ,
+C	you should do that anyway ,
+C	given this regular old net that 's just for choosing for other purposes , add up the probabilities of the different subclasses and see how you do .
+C	and that anything that you do over here should be at least as good as that .
+D	will do that .
+E	the targets for the neural net , , they come from forced alignments ?
+A	timit canonical ma mappings .
+C	so , this is trained on timit .
+D	this for timit .
+C	but noisy timit ?
+D	we have noisy timit with the noise of the ti - digits .
+D	and now we have another noisy timit also with the noise of italian database .
+C	there 's gonna be it looks like there 's gonna be noisy some large vocabulary noisy too .
+C	somebody 's preparing .
+C	forget what it 'll be ,
+C	wall street journal ,
+C	some some read task actually , that they 're preparing .
+C	the issue is whether people make decision now based on what they 've already seen , or they make it later .
+C	and one of the arguments for making it later is let 's make that whatever techniques that we 're using work more than connected digits .
+E	when are they planning when would they do that ?
+C	mmm , late in the summer sometime .
+D	this is the work that did during this date
+D	and also mmm hynek last week say that if have time to begin to study
+D	the france telecom proposal
+D	to look at the code
+D	and something like that
+D	to know exactly what they are doing
+D	because maybe that we can have some ideas
+D	but not only to read the proposal .
+D	look insi look carefully what they are doing with the program @ @ and
+D	begin to work also in that .
+D	but the first thing that don't understand is that they are using - the log energy that this quite
+D	why they have some constant in the expression of the lower energy .
+D	what that means .
+E	they have constant in there , you said ?
+C	at the front it says " log energy is equal to the rounded version of sixteen over the log of two "
+D	then maybe understand .
+C	this is natural log ,
+C	and maybe it has something to do with the fact that this is
+C	have no idea .
+E	is that some base conversion ,
+C	that 's what was thinking ,
+C	but , then there 's the sixty - four ,
+D	because maybe they 're the threshold that they are using on the basis of this value
+A	mc - mcdonald 's constant .
+D	because th maybe they have meaning .
+D	but what is the meaning of take exactly this value .
+C	it 's pretty funny looking .
+E	so they 're taking the number inside the log and raising it to sixteen over log base two .
+C	sixteen over two .
+E	does it have to do with those sixty - fours ,
+C	if we ignore the sixteen , the natural log of one over the natural log of two times the natu
+C	maybe somebody 'll think of something ,
+C	it may just be that they want to have for very small energies ,
+C	they want to have some
+D	the the effect don't @ @ understand the effect of this ,
+D	because it 's to do something like that .
+C	it says , since you 're taking natural log , it says that when you get down to essentially zero energy , this is gonna be the natural log of one , which is zero .
+C	so it 'll go down to to {nonvocalsound} the natural log being
+C	so the lowest value for this would be zero .
+C	so you 're restricted to being positive .
+C	and this smooths it for very small energies .
+C	why they chose sixty - four and something else , that was probably just experimental .
+C	and the the constant in front of it , have no idea .
+D	will look to try if move this parameter in their code what happens ,
+D	maybe everything is maybe they tres hole are on basis of this .
+C	it they probably have some fi particular fixed point arithmetic that they 're using ,
+C	and then it just
+E	was just gonna say maybe it has something to do with hardware ,
+E	something they were doing .
+C	that they 're probably working with fixed point or integer .
+C	you 're supposed to on this anyway ,
+C	and so maybe that puts it in the right realm somewhere .
+E	it just , , puts it in the right range ,
+C	given at the level you 're doing things in floating point on the computer , don't matters , would be my ,
+D	this more or less anything
+C	and wh when did stephane take off ?
+D	that stephane will arrive today or tomorrow .
+C	he was gone these first few days ,
+C	and then he 's here for couple days before he goes to salt lake city .
+D	he 's that he is in las vegas like that .
+C	so he 's he 's going to icassp which is good .
+C	if there are many people who are going to icassp
+C	so , make somebody go .
+E	do have have people stopped going to icassp in recent years ?
+C	people are less consistent about going to icassp
+C	and it 's still it 's still reasonable forum for students to present things .
+C	it 's for engineering students of any kind , it 's it 's if you haven't been there much , it 's good to go to ,
+C	to get feel for things , range of things ,
+C	not just speech .
+C	but for dyed - in - the - wool speech people , that icslp and eurospeech are much more targeted .
+C	and then there 's these other meetings , like hlt and asru
+C	so there 's there 's actually plenty of meetings that are really relevant to computational speech processing of one sort or another .
+C	mostly just ignored it because was too busy and didn't get to it .
+C	wanna talk little bit about what we were talking about this morning ?
+C	just briefly , or or anything else ?
+A	so . some of the progress , 've been getting getting my committee members for the quals .
+A	and so far have morgan and hynek , mike jordan ,
+A	and asked john ohala and he .
+A	so 'm need to ask malek .
+A	then talked little bit about continuing with these dynamic ev acoustic events ,
+A	and we 're we 're thinking about way to test the completeness of set of dynamic events .
+A	completeness in the in the sense that if we if we pick these number of acoustic events , do they provide sufficient coverage for the phones that we 're trying to recognize or the the words that we 're gonna try to recognize later on .
+A	and so morgan and were discussing form of cheating experiment where we get we have chosen set of features , or acoustic events ,
+A	and we train up hybrid system to do phone recognition on timit .
+A	so the idea is if we get good phone recognition results , using these set of acoustic events , then that says that these acoustic events are sufficient to cover set of phones ,
+A	at least found in timit .
+A	so it would be measure of " are we on the right track with the choices of our acoustic events " .
+A	so that 's going on .
+A	and also , just working on my final project for jordan 's class ,
+C	actually , let me
+C	hold that thought .
+C	let me back up while we 're still on it .
+C	the the other thing was suggesting , though , is that given that you 're talking about binary features , , maybe the first thing to do is just to count
+C	and count co - occurrences and get probabilities for discrete
+C	cuz that 'd be pretty simple
+C	because it 's just say , if you had ten events , that you were counting , each frame would only have thousand possible values for these ten bits ,
+C	and so you could make table that would say , if you had thirty - nine phone categories , that would be thousand by thirty - nine ,
+C	and just count the co - occurrences and divide them by the occ count the co - occurrences between the event and the phone and divide them by the number of occurrences of the phone ,
+C	and that would give you the likelihood of the of the event given the phone .
+C	and then just use that in very simple
+C	and you could do phone recognition then and wouldn't have any of the issues of the training of the net or
+C	it 'd be on the simple side ,
+C	if the example was giving was that if you had onset of voicing and end of voicing as being two kinds of events , then if you had those all marked correctly , and you counted co - occurrences , you should get it completely right .
+C	but you 'd get all the other distinctions , , randomly wrong .
+C	there 'd be nothing to tell you that .
+C	if you just do this by counting , then you should be able to find out in pretty straightforward way whether you have sufficient set of events to do the level of classification of phones that you 'd like .
+C	so that was that was the idea .
+C	and then the other thing that we were discussing was , how do you get the your training data .
+C	cuz the switchboard transcription project was half dozen people , or so working off and on over couple years ,
+C	similar amount of data to what you 're talking about with timit training .
+C	so , it seems to me that the only reasonable starting point is to automatically translate the current timit markings into the markings you want .
+C	and it won't have the characteristic that you 'd like , of catching funny things that maybe aren't there from these automatic markings ,
+E	it 's probably good place to start .
+C	and short amount of time ,
+C	just to again , just to see if that information is sufficient to determine the phones .
+E	you could even then to get an idea about how different it is , you could maybe take some subset and , go through few sentences , mark them by hand
+E	and then see how different it is from , the canonical ones ,
+E	just to get an idea rough idea of if it really even makes difference .
+C	you can get little feeling for it that way ,
+C	that is probably right .
+C	my would be that this is since timit 's read speech that this would be less of big deal ,
+C	if you went and looked at spontaneous speech it 'd be more of one .
+C	and the other thing would be , say , if you had these ten events , you 'd wanna see , what if you took two events or four events or ten events or
+C	and hopefully there should be some point at which having more information doesn't tell you really all that much more about what the phones are .
+E	you could define other events as being sequences of these events too .
+C	but , what he 's talking about here is translation to per - frame feature vector ,
+C	so there 's no sequence in that ,
+E	unless you did like second pass over it after you 've got your
+C	but we 're just talking about something simple here , , to see if
+E	'm adding complexity .
+C	the idea is with with very simple statistical structure , could you could you at least verify that you 've chosen features that are sufficient .
+C	and you were saying something starting to say something else about your class project , or ?
+A	so for my class project 'm 'm tinkering with support vector machines ?
+A	something that we learned in class ,
+A	and just another method for doing classification .
+A	and so 'm gonna apply that to compare it with the results by king and taylor who did these
+A	using recurrent neural nets , they recognized set of phonological features
+A	and made mapping from the mfcc 's to these phonological features ,
+A	so 'm gonna do similar thing with support vector machines
+E	so what 's the advantage of support vector machines ?
+A	so , support vector machines are good with dealing with less amount of data
+A	and so if you if you give it less data it still does reasonable job in learning the patterns .
+C	they 're succinct ,
+E	does there some distance metric that they use
+E	or how do they for cla what do they do for classification ?
+A	so , the simple idea behind support vector machine is , you have you have this feature space ,
+A	and then it finds the optimal separating plane , between these two different classes ,
+A	and and so ,
+A	what it at the end of the day , what it actually does is it picks those examples of the features that are closest to the separating boundary ,
+A	and uses them to recreate the boundary for the test set .
+A	so , given these these features , or these examples , , critical examples , which they call support support vectors , then given new example , if the new example falls away from the boundary in one direction then it 's classified as being part of this particular class
+A	and otherwise it 's the other class .
+E	so why save the examples ?
+E	why not just save what the boundary itself is ?
+A	let 's see .
+A	that 's good question .
+C	that 's another way of doing it .
+C	right ? so so it it 's
+C	it goes back to nearest - neighbor thing ,
+C	when is nearest - neighbor good ?
+C	nearest - neighbor good is good if you have lots and lots of examples .
+C	but if you have lots and lots of examples , then it can take while to use nearest - neighbor .
+C	there 's lots of look ups .
+C	so long time ago people talked about things where you would have condensed nearest - neighbor ,
+C	where you would you would pick out some representative examples which would be sufficient to represent to correctly classify everything that came in .
+C	support vector goes back to that thing .
+E	so rather than doing nearest neighbor where you compare to every single one , you just pick few critical ones ,
+C	neural net approach or gaussian mixtures for that matter are fairly brute force kinds of things , where you you predefine that there is this big bunch of parameters
+C	and then you place them as you best can to define the boundaries ,
+C	and , as , these things do take lot of parameters
+C	and if you have only modest amount of data , you have trouble learning them .
+C	so the idea to this is that it is reputed to be somewhat better in that regard .
+A	it can be reduced parameterization of the model by just keeping certain selected examples .
+C	but if people have done careful comparisons of this on large tasks or anything .
+C	maybe maybe they have .
+B	do you get some number between zero and one at the output ?
+A	actually you don't get you don't get number between zero and one .
+A	you get you get either zero or one .
+A	there are there are pap
+A	, it 's it 's you get distance measure at the end of the day ,
+A	and then that distance measure is is translated to zero or one .
+C	but that 's looking at it for classification for binary classification ,
+A	that 's for classification ,
+E	and you get that for each class , you get zero or one .
+C	but you have the distances to work with .
+A	you have the distances to work with ,
+C	cuz actually mississippi state people did use support vector machines for speech recognition and they were using it to estimate probabilities .
+A	they had had way to translate the distances into probabilities with the with the simple sigmoidal function .
+C	and did they use sigmoid or softmax type thing ?
+C	and didn't they like exponentiate
+A	there 's some there 's like one over one plus the exponential like that .
+C	and then divide by the sum of them ,
+C	so it is sigmoidal .
+E	did the did they get good results with that ?
+C	don't don't think they were earth shattering ,
+C	but that this was couple years ago ,
+C	remember them doing it at some meeting ,
+C	and don't think people were very critical because it was interesting just to try this
+C	and , it was the first time they tried it ,
+C	so the , the numbers were not incredibly good
+C	but there 's , it was th reasonable .
+C	don't remember anymore .
+C	don't even remember what the task was ,
+C	it was broadcast news , .
+B	so barry , if you just have zero and ones , how are you doing the speech recognition ?
+A	'm not do 'm not planning on doing speech recognition with it .
+A	'm just doing detection of phonological features .
+A	so , this feature set called the sound patterns of english is just bunch of binary valued features .
+A	let 's say , is this voicing , or is this not voicing ,
+A	is this sonorants , not sonorants ,
+A	and like that .
+E	did you find any more mistakes in their tables ?
+A	haven't gone through the entire table , yet .
+A	yesterday brought chuck the table
+A	and was like , " , this is is the mapping from to this phonological feature called " coronal " ,
+A	is should it be shouldn't it be one ?
+A	or should it should it be coronal instead of not coronal as it was labelled in the paper ? "
+A	so ha haven't hunted down all the all the mistakes yet ,
+C	but as was saying , people do get probabilities from these things ,
+C	and we were just trying to remember how they do ,
+C	but people have used it for speech recognition , and they have gotten probabilities .
+C	so they have some conversion from these distances to probabilities .
+C	there 's you have the paper ,
+C	the mississippi state paper ?
+C	if you 're interested you could look ,
+E	so in your in the thing that you 're doing , you have vector of ones and zeros for each phone ?
+A	is this the class project ,
+E	is that what you 're
+A	right , right , right
+A	so for every phone there is there is vector of ones and zeros corresponding to whether it exhibits particular phonological feature or not .
+E	and so when you do your
+E	wh 'm what is the task for the class project ?
+E	to come up with the phones ?
+E	or to come up with these vectors to see how closely they match the phones ,
+A	to come up with mapping from mfcc 's or some feature set , to to whether there 's existence of particular phonological feature .
+A	it 's to learn mapping from the mfcc 's to phonological features .
+A	is it did that answer your question ?
+E	'm not what you what you 're what you get out of your system .
+E	do you get out vector of these ones and zeros and then try to find the closest matching phoneme to that vector ,
+A	no , no .
+A	'm not 'm not planning to do any phoneme mapping yet .
+A	just it 's it 's it 's really simple , detection of phonological features .
+A	so king and taylor did this with recurrent neural nets ,
+A	and this their idea was to first find mapping from mfcc 's to phonological features
+A	and then later on , once you have these phonological features , then map that to phones .
+A	so 'm 'm reproducing phase one of their .
+E	so they had one recurrent net for each particular feature ?
+A	right . right .
+E	wo did they compare that , what if you just did phone recognition and did the reverse lookup .
+E	so you recognize phone and which ever phone was recognized , you spit out it 's vector of ones and zeros .
+C	expect you could do that .
+C	that 's probably not what he 's going to do on his class project .
+C	so have you had chance to do this thing we talked about yet with the
+C	no actually was going different
+C	that 's good question , too ,
+C	but was gonna ask about the changes to the data in comparing plp and mel cepstrum for the sri system .
+E	" changes to the data " ,
+C	so we talked on the phone about this , that there was still difference of of few percent
+C	and you told me that there was difference in how the normalization was done .
+C	and was asking if you were going to do redo it for plp with the normalization done as it had been done for the mel cepstrum .
+E	no haven't had chance to do that .
+E	what 've been doing is trying to figure out
+E	it just seems to me like there 's
+E	it seems like there 's bug ,
+E	because the difference in performance is it 's not gigantic
+E	but it 's big enough that it seems wrong .
+C	but that the normalization difference was one of the possibilities ,
+E	but don't 'm not
+E	don't think that the normalization difference is gonna account for everything .
+E	so what was working on is just going through and checking the headers of the wavefiles ,
+E	to see if maybe there was certain type of compression that was done that my script wasn't catching .
+E	so that for some subset of the training data , the the features was computing were junk .
+E	which would it to perform ,
+E	but , , the models would be all messed up .
+E	so was going through and just double - checking that think first , to see if there was just some obvious bug in the way that was computing the features .
+E	looking the sampling rates to make all the sampling rates were what eight , what was assuming they were ,
+C	that makes sense , to check all that .
+E	so was doing that first , before did these other things , just to make there wasn't something
+C	although really , , couple three percent difference in word error rate could easily come from some difference in normalization , would think .
+E	and , hhh 'm trying to remember but recall that andreas was saying that he was gonna run the reverse experiment .
+E	which is to try to emulate the normalization that we did
+E	but with the mel cepstral features .
+E	, back up from the system that he had .
+E	he said he was gonna
+E	have to look back through my email from him .
+C	he 's probably off at his meeting now ,
+E	he 's gone now .
+C	the sh think they should be roughly equivalent ,
+C	again the cambridge folk found the plp actually to be little better .
+C	the other thing wonder about was whether there was something just in the bootstrapping of their system which was based on
+C	but maybe not , since they
+E	see one thing that 's little bit
+E	was looking 've been studying and going through the logs for the system that andreas created .
+E	and his the way that the system looks like it works is that it reads the wavefiles directly ,
+E	and does all of the cepstral computation on the fly .
+E	and , so there 's no place where these where the cepstral files are stored , anywhere that go look at and compare to the plp ones ,
+E	so whereas with our features , he 's actually storing the cepstrum on disk , and he reads those in .
+E	but it looked like he had to give it
+E	even though the cepstrum is already computed , he has to give it front - end parameter file .
+E	which talks about the com computation that his mel cepstrum thing does ,
+E	so if that it probably doesn't mess it up ,
+E	it probably just ignores it if it determines that it 's already in the right format
+E	but the two processes that happen are little different .
+C	so anyway , there 's there to sort out .
+C	let 's go back to what you thought was asking you .
+E	no and didn't have chance to do that .
+C	you had the sa same answer anyway .
+E	've been , 've been working with jeremy on his project
+E	and then 've been trying to track down this bug in the icsi front - end features .
+E	so one thing that did notice , yesterday was studying the the rasta code
+E	and it looks like we don't have any way to control the frequency range that we use in our analysis .
+E	we it looks to me like we do the fft , and then we just take all the bins
+E	and we use everything .
+E	we don't have any set of parameters where we can say , " only process from hundred and ten hertz to thirty - seven - fifty " .
+E	at least couldn't see any control for that .
+C	don't 's in there ,
+C	it 's in the the filters .
+C	so , the is on everything ,
+C	ignore the lowest bins and the highest bins .
+C	and what it does is it copies
+E	the the filters ?
+C	the filter bank which is created by integrating over bins .
+E	when you get the mel when you go to the mel scale .
+C	it 's bark scale ,
+C	and it 's it it actually copies the the second filters over to the first .
+C	so the first filters are always
+C	and you can you can specify different number of features different number of filters ,
+C	so you can specify different number of filters , and whatever you specify , the last ones are gonna be ignored .
+C	so that 's way that you change what the what the bandwidth is .
+C	you can't do it without changing the number of filters ,
+E	saw something about that looked like it was doing something like that , but didn't quite understand it .
+C	so the idea is that the very lowest frequencies and typically the veriest highest frequencies are junk .
+C	you just for continuity you just approximate them by the second to highest and second to lowest .
+C	it 's just simple thing we put in .
+C	and and so if you
+E	but so the but that 's fixed thing ?
+C	that 's fixed thing .
+E	there 's nothing that lets you
+C	but see my point ?
+C	if you had if you had ten filters , then you would be throwing away lot at the two ends .
+C	and if you had if you had fifty filters , you 'd be throwing away hardly anything .
+C	don't remember there being an independent way of saying " we 're just gonna make them from here to here " .
+E	use this analysis bandwidth .
+C	it 's actually been awhile since 've looked at it .
+E	went through the feacalc code and then looked at just calling the rasta libs and thing like that .
+E	and didn't couldn't see any wh place where that thing was done .
+E	but didn't quite understand everything that saw ,
+C	but it calls rasta with some options ,
+C	for some particular database you might find that you could tune that and tweak that to get that little better ,
+C	but that in general it 's not that critical .
+C	you can you can throw away below hundred hertz or so
+C	and it 's just not going to affect phonetic classification .
+E	another thing was thinking about was is there
+E	was wondering if there 's maybe certain settings of the parameters when you compute plp which would it to output mel cepstrum .
+E	so that , in effect , what could do is use our code
+E	but produce mel cepstrum
+E	and compare that directly to
+C	it 's not precisely .
+C	what you can do is you can definitely change the filter bank from being trapezoidal integration to triangular one ,
+C	which is what the typical mel cepstral filter bank does .
+C	and some people have claimed that they got some better performance doing that ,
+C	so you certainly could do that easily .
+C	but the fundamental difference ,
+C	there 's other small differences
+E	there 's cubic root that happens ,
+C	but , , as opposed to the log in the other case .
+C	the fundamental difference that we 've seen any difference from before , which is actually an advantage for the , , is that the smoothing at the end is auto - regressive instead of being cepstral , from cepstral truncation .
+C	so it 's little more noise robust .
+C	and that 's that 's why when people started getting databases that had little more noise in it , like broadcast news and so on ,
+C	that 's why cambridge switched to plp .
+C	that 's difference that don't think we put any way to get around ,
+C	since it was an advantage .
+C	but we did we did hear this comment from people at some point , that it they got some better results with the triangular filters rather than the trapezoidal .
+C	so that is an option in rasta .
+C	and you can certainly play with that .
+C	but you 're probably doing the right thing to look for bugs first .
+E	just it just seems like this behavior could be caused by some of the training data being messed up .
+E	you 're getting most of the way there , but there 's
+E	so started going through and looking
+E	one of the things that did notice was that the log likelihoods coming out of the log recognizer from the plp data were much lower , much smaller ,
+E	than for the mel cepstral , and that the average amount of pruning that was happening was therefore little bit higher for the plp features .
+E	so , since he used the same exact pruning thresholds for both , was wondering if it could be that we 're getting more pruning .
+C	he he he used the identical pruning thresholds even though the the range of of the likeli
+C	that 's that 's pretty good point right there .
+C	would think that you might wanna do something like , look at few points to see where you are starting to get significant search errors .
+E	what was gonna do is was gonna take couple of the utterances that he had run through ,
+E	then run them through again
+E	but modify the pruning threshold and see if it , affects the score .
+C	but you could if if that looks promising you could , , run the overall test set with with few different pruning thresholds for both ,
+C	and presumably he 's running at some pruning threshold that 's that 's , gets very few search errors
+C	but is relatively fast
+E	right . , , generally in these things you turn back pruning really far ,
+E	so didn't would be that big deal
+E	because was figuring you have it turned back so far that it
+C	but you may be in the wrong range for the features for some reason .
+E	and the the run time of the recognizer on the plp features is longer
+E	which implies that the networks are bushier ,
+E	there 's more things it 's considering
+E	which goes along with the fact that the matches aren't as good .
+E	so , , it could be that we 're just pruning too much .
+C	maybe just be different distributions
+C	so that 's another possible thing .
+C	they they should really shouldn't
+C	there 's no particular reason why they would be exactly behave exactly the same .
+E	- . right .
+E	there 's lots of little differences .
+E	trying to track it down .
+C	this was little bit off topic , ,
+C	because was was thinking in terms of th this as being core item that once we once we had it going we would use for number of the front - end things also .
+B	that 's as far as my goes ,
+C	what 's what 's on
+B	tried this mean subtraction method .
+B	due to avendano , 'm taking six seconds of speech ,
+B	'm using two second fft analysis frames , stepped by half second
+B	so it 's quarter length step
+B	and take that frame and four the four take
+B	take the current frame and the four past frames and the four future frames
+B	and that adds up to six seconds of speech .
+B	and calculate the spectral mean , of the log magnitude spectrum over that .
+B	use that to normalize the the current center frame by mean subtraction .
+B	and then move to the next frame and do it again .
+B	actually calculate all the means first
+B	and then do the subtraction .
+B	and the tried that with hdk ,
+B	the aurora setup of hdk training on clean ti - digits ,
+B	in phony reverberation case
+B	where used the simulated impulse response the error rate went from something like eighty it was from something like eighteen percent to four percent .
+B	and on meeting rec recorder far mike digits , mike on channel , it went from forty - one percent error to eight percent error .
+E	on on the real data , not with artificial reverb ?
+B	and that was trained on clean speech only ,
+B	which 'm guessing is the reason why the baseline was so bad .
+C	that 's ac actually little side point is that 's the first results that we have of any sort on the far field on the far field data for recorded in meetings .
+B	actually adam ran the sri recognizer .
+C	on the near field , on the ne
+B	on the far field also .
+B	he did one pzm channel and one pda channel .
+C	didn't recall that .
+C	what numbers was he getting with that ?
+B	it was about five percent error for the pzm channel .
+C	so why were you getting forty - one here ?
+B	'm 'm guessing it was the training data .
+B	clean ti - digits is , like , pretty pristine training data ,
+B	and if they trained the sri system on this tv broadcast type ,
+B	it 's much wider range of channels
+C	what am saying here ?
+C	so that was the sri system .
+C	maybe you 're right .
+C	cuz it was getting like one percent so it 's still this ratio .
+C	it was it was getting one percent on the near field .
+E	or it wa it was around one .
+C	it was getting around one percent for the near for the for the close mike .
+C	so it was like one to five
+C	so it 's still this ratio .
+C	it 's lot more training data .
+C	so probably it should be something we should try then is to is to see if is at some point just to take to transform the data
+C	and then and then use th use it for the sri system .
+B	you me you mean ta
+C	so you 're so you have system which for one reason or another is relatively poor ,
+C	and you have something like forty - one percent error
+C	and then you transform it to eight by doing this work .
+C	so here 's this other system , which is lot better ,
+C	but there 's still this ratio .
+C	it 's something like five percent error with the distant mike ,
+C	and one percent with the close mike .
+C	so the question is how close to that one can you get if you transform the data using that system .
+B	right , so this sri system is trained on lot of broadcast news or switchboard data .
+B	is that right ?
+B	do which one it is ?
+E	it 's trained on lot of different things .
+E	it 's trained on lot of switchboard , call home ,
+E	bunch of different sources ,
+E	there 's some digits training in there .
+B	one thing 'm wondering about is what this mean subtraction method will do if it 's faced with additive noise .
+B	cuz it 's cuz what log magnitude spectral subtraction is gonna do to additive noise .
+B	that 's that 's the
+C	it 's it 's not exactly the right thing
+C	but but you 've already seen that cuz there is added noise here .
+B	that 's that 's , that 's true .
+B	that 's good point .
+B	so it 's then it 's it 's reasonable to expect it would be helpful if we used it with the sri system
+C	so that 's the question .
+C	we 're often asked this when we work with system that isn't isn't industry standard great ,
+C	and we see some reduction in error using some clever method ,
+C	then , , will it work on on on good system .
+C	this other one 's it was pretty good system .
+C	, one percent word error rate on digits is digit strings is not stellar ,
+C	but given that this is real digits , as opposed to laboratory
+E	and it wasn't trained on this task either .
+C	and it wasn't trained on this task .
+C	actually one percent is , in reasonable range .
+C	people would say " , could imagine getting that " .
+C	and so the four or five percent is is quite poor .
+C	, if you 're doing sixteen digit credit card number you 'll get it wrong almost all the time .
+C	significant reduction in the error for that would be great .
+C	and and then ,
+C	alright , , actually have to run .
+C	so don't think do the digits ,
+C	but , 'll leave my microphone on ?
+E	that 'll work .
+C	be out of here quickly . that 's
+C	have to run for another appointment . ,
+C	left it on .

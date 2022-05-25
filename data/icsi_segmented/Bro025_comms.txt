@@ -1,0 +1,273 @@
+. , it 's it 's actually , , very similar .
+just looking at the data and seeing what 's similar and what 's not similar .
+
+because it 's difficult when we have to add noise to to find the right level .
+. But it 's it 's difficult .
+
+And , , I it 's sort , after that meeting it made more sense to me
+This is essentially , , I it 's it 's more or less like a spee a speech enhancement technique here
+If it 's , , essentially not better , then it 's probably not worth
+
+So what 's what 's happened ?
+. So so what happened right now , we removed the delay of the LDA .
+What what do you , what do you guys see as being what you would be doing in the next week , given wha what 's happened ?
+
+because , , with this way of dropping the frames they improve over the baseline by fourteen percent
+Did you happen to notice how much , , the change was due to just this frame - dropping problem ?
+Just the frame - dropping problem .
+because in the proposal the neural net was also , , working on after frame - dropping .
+but , , couldn't you just send all of the frames , but mark the ones that are supposed to be dropped ?
+, it 's only used f , it 's used for frame - dropping .
+No , no . He 's he 's dropped into the US . .
+
+It 's just one percent off of the best proposal .
+and Sunil already showed that with our current VAD we can improve by more than twenty percent .
+So , our current VAD is more than twenty percent ,
+and But it 's around maybe it 's less than one percent .
+
+So the issue is , , , could we have a neural net that only looked at the past ?
+So there 's the neural net issue .
+There 's the VAD issue .
+and , , if , , something has to take a little longer in latency in order to do it that 's , a secondary issue .
+
+. But the Guenter 's argument is slightly different .
+So , th the Guenter was arguing that , , even if you have a very good VAD , averaging it , like , over the whole thing is not a good idea .
+. So , that 's so that 's still a slight difference from what Guenter is trying
+
+So it so , , it 's it 's not using our full bal bag of tricks , if you will .
+And Stephane 's idea with that , as I recall , was that you 'd have one part of the feature vector that was very discriminant and another part that wasn't ,
+. So that 's the one which Stephane was discussing , like
+
+and then in the end you c up upsample it to match the final features number of
+so in the final weightage it 's b better
+So that 's something you could do with , , this final system .
+Just do this everything that is in this final system except , , use the channel zero .
+
+And , , the best result is when we apply this procedure on FFT bins , , with a Wiener filter .
+, what 's the ideal filtering ,
+. It 's not a median filtering .
+with the ? , it isn't additive with the , , LDA and the Wiener filtering , and .
+
+and then finally drop the frames after the neural net .
+And and you can actually do it for final frame - dropping ,
+
+But just conceptually , where does the neural net go ?
+but they were not , , processed through a neural net .
+, right now it 's , , a neural net with nine frames .
+So we may we 'll see what they decide . We may have , , the , , latency time available for to have a neural net .
+Were you thinking of the two - fifty or the one - thirty when you said we should have enough for the neural net ?
+, the neural net will probably do better if it looks at a little bit of the future .
+And then we have to be careful with that also with the neural net
+So we have a VAD which is like neur that 's a neural net .
+So the net the final net , which is the feature net
+And then , , later on in the month we wanna start including the neural net at the end .
+
+Whereas when you 're when you 're doing the , , , looking at it the other way , you 're gonna be dealing with signals
+and you 're gonna end up looking at power , noise power that you 're trying to reduce .
+But there 're so many different little factors that you adjust in terms of , , , over - subtraction and and ,
+And so the w the default , , boundaries that they provide are they 're OK , but they 're not all that great ?
+, they 're , they 're disputing it .
+. But like we 're saying , if there 's four or five things like that then pretty sho soon you 're talking real improvement .
+, you 're talking about the VAD net .
+So you 're now you 're looking to try to gather a set of these types of features ?
+
+that , , @ @ again we felt the gang should just figure out which it is they wanna do
+, so th , they keep two hundred milliseconds at the beginning and end of speech . And they keep all the
+, it 's used for end of utterance
+because , , there 's if you have more than five hundred milliseconds of of nonspeech then you figure it 's end of utterance like that .
+
+so that there 's a there 's an exponent difference in the index
+And so , so there should be a difference of , conceptually of , , a factor of two in the exponent .
+
+And then focus on everything that 's left .
+, the idea was that , , we 'd we 'd sort out where we were going next with this with this work before he , , left on this next trip .
+
+It 's very simple , smoothing things .
+The the smoothing the m the filtering of the probabilities .
+. The you smooth it and then delay the decision by
+
+, one question is , is it on the , , server side or is it on the terminal side ?
+, if it 's on the server side , it you probably don't have to worry too much about size .
+It might be hard if it 's at the server side .
+Mmm . , we can do the frame - dropping on the server side
+or we can just be careful at the terminal side to send a couple of more frames before and after ,
+If the net 's on the server side then it could use all of the frames .
+
+, it 's trained on noisy PLP
+PLP features computed on noisy speech .
+So that VAD was trained on the noisy features .
+so we can have a better VAD by training the net on the cleaned - up speech .
+
+But and then but , , arguably what we should do is , even though the software can do many things , we should for now pick a set of things ,
+, which would smooth things a bit for those occasions when , , the testing set was quite different than what you 'd trained your discriminant features for .
+That 's that 's a good set of work that ,
+A a set of small features and continue to iterate and find , , a better set .
+
+So it 's , it 's spectral subtraction or Wiener filtering ,
+It 's the same , , idea but it 's working on mel bands , and it 's a spectral subtraction instead of Wiener filter ,
+, so it came down to spectral subtraction versus Wiener filtering .
+There 're so many other choices to make that are almost , if not independent , certainly in addition to the choice of whether you , , do spectral subtraction or Wiener filtering ,
+So depending on that , it becomes either spectral subtraction or Wiener filtering .
+So will the neural net operate on the output from either the Wiener filtering or the spectral subtraction ?
+Do do you wanna h run it on the output of the spectrally subtracted ?
+Will you will you train the net on after you 've done the spectral subtraction or the Wiener filtering ?
+
+if we just take only the , , VAD probabilities computed on the clean signal and apply them on the far - field , , test utterances , then results are much better .
+So , , what we do is we compute the silence probability ,
+So that 's why this improvement I got from the last result .
+
+I they still allow two hundred milliseconds on either side or some ?
+So it 's forty milliseconds plus , , the rank ordering ,
+So , right now it 's one hundred and forty milliseconds .
+So the LDA and the VAD both had a hundred millisecond delay .
+And he says Wiener filter is forty milliseconds delay .
+, they 're saying , one group is saying a hundred and thirty milliseconds and another group is saying two hundred and fifty milliseconds .
+
+So he 's , like he tries to capture only the stationary part in it .
+Because you 're averaging the stationary and the non - stationary , and finally you end up getting something
+which is not really the s because , you anyway , you can't remove the stationary part fr , non - stationary part from the signal .
+
+But given the limited time , , it was time to choose one .
+And we ha , limited machine and human time , and effort .
+. . , it 's not surprising it 'd be worse the first time .
+So it 's , like , it takes a long time to get a decision out of it .
+
+where we 're just creating new if not new speech at least new FFT 's
+You see , the idea is that the , , initial decision to that you 're in silence or speech happens pretty quickly .
+. And that 's fed forward , and you say " , flush everything , it 's not speech anymore " .
+you can you can put them in pretty reliably in synthetic speech .
+But we don't have too much trouble recognizing synthetic speech since we create it in the first place .
+
+And then with over - estimation of the noise , depending on the , the SNR , with smoothing along time ,
+I tried just plugging the , , , Guenter noise estimation on this system ,
+do you have any way of assessing how or how poorly the noise estimation is currently doing ?
+, I did The only experiment where I tried was I used the channel zero VAD for the noise estimation
+, but we need a VAD for noise estimation also .
+but not for the VA - f noise estimation .
+but , , seeing if you cou but , noise estimation could be improved .
+
+On top of the VAD that they provide ?
+Just using either their VAD or our current VAD .
+How how much latency does the , does our VAD add ?
+
+And , , it seems to us that this way of just dropping the beginning and end is not
+
+Test , . Test , test .
+. So probably the VAD and maybe testing out the noise estimation a little bit .
+
+So , I was just noticing on this that it makes reference to delay .
+So we , if so if we if so which is like if we reduce the delay of VA
+So , the f the final delay 's now ba is f determined by the delay of the VAD ,
+So if we re if we reduce the delay of the VAD , , it 's like effectively reducing the delay .
+. , it always seemed to us that it would be to in addition to , , reducing insertions , actually use up less bandwidth .
+
+We can't have unlimited amounts of latency .
+but , , no matter how they end up there , it 's not going to be unlimited amounts ,
+
+But , , when you say u , unified do you mean , , it 's one piece of software now ,
+so instead they went to Yosemite and bonded , and they came out with a single piece of software .
+, the piece of software has , like , plenty of options ,
+but the important thing is that there is a piece of software that you that we all will be using now .
+There 's just one piece of software .
+
+There 's two sheets of paper in front of us .
+We take the first fifteen frame of each utterance to it ,
+, maybe you have to weight the estimate from the first - teen fifteen frames more heavily than was done in your first attempt .
+And , , relying on having fifteen frames at the front is pretty
+
+So , the one one difference is that was there is like we tried computing the delta and then doing the frame - dropping .
+The earlier system was do the frame - dropping and then compute the delta on the
+So there is no frame - dropping till the final features , like , including the deltas are computed .
+And after the deltas are computed , you just pick up the ones that are marked silence and then drop them .
+
+, what we 've done in in the past is to use the neural net , , to transform , , all of the features that we use .
+And then those features are not now currently transformed by the neural net .
+And then the way that we had it in our proposal - two before , we had the neural net transformed features and we had the untransformed features ,
+which I you actually did linearly transform with the KLT ,
+
+So it 's another victory for international collaboration .
+channel one which is far - field microphone .
+
+But , , at this point our major concern is making the performance better
+, that 's a real good point .
+, as a starting point for the project .
+
+. So the sh it 's the sheet that gives fifty - f three point sixty - six .
+But , still so , there will be a piece of software with , , will give this system , the fifty - three point sixty - six , by default
+
+, after that we still do a mess of other things to produce a bunch of features .
+Right now what wha what we did is , like , we just mark we just have this additional bit which goes around the features , saying it 's currently a it 's a speech or a nonspeech .
+but because the current network is just PLP features .
+In in my proposal , I was thinking about starting from a set of , , phonological features , or a subset of them .
+He said , , , these phonological features are figments of imagination also .
+
+which is Sometimes on the SpeechDat - Car you have pauses that are more than one or two seconds .
+And another thing that we did also is that we have all this training data for let 's say , for SpeechDat - Car .
+
+, y , that 's still being debated by the by people in Europe
+, some people are lobbying to make it shorter .
+
+, and so , , th the vector Taylor series hadn't really worked out that much .
+But , , it will probably work to some extent to look only at the past .
+, , although we 're trying to do very on this evaluation , , we actually would like to have something that worked in general .
+So , I 'm I 'm , , taking a look at some of , , Sangita 's work on TRAPS .
+
+and there is also a noise addition after , , cleaning up the mel bins .
+, but , , looking at it another way , maybe more importantly , , we didn't have any explicit noise , , handling
+we didn't explicitly have anything to deal with stationary noise .
+
+because , if you 're dealing with power spectra then how are you gonna choose your error ?
+And so that means it 'll be something like the square of the power spectra .
+and average their power spectra .
+It 's , like , ev even if I use a channel zero VAD , I 'm just averaging the s power spectrum .
+
+But the Guenter 's argument is , like , if it is a non - stationary segment , then he doesn't update the noise spectrum .
+So the averaging is , like , different from updating the noise spectrum only during stationary segments .
+. So you just update only doing or update only the stationary components .
+, it 'd certainly be more robust to different kinds of input if you had at least some updates .
+. We don't want to update the mean and variance during silen long silence portions .
+
+and then we 'll probably wanna come back to this and possibly make some other choices .
+
+depending on if we put if we square the transfer function or not .
+and depending on how you construct the problem .
+it does seem like , , i some compromise between always depending on the first fifteen frames and a always depending on a pause is is a good idea .
+
+the , , one that has the smallest smaller overall number is actually better on the Finnish and Spanish ,
+and , , it was Hynek and Guenter 's and my opinion also that , , , we spread out to look at a number of different ways of doing noise suppression .
+Compared to the last evaluation numbers ? .
+
+And and , , we said , , take a week , go arm wrestle ,
+And , , that our goal should be by next week , when Hynek comes back , , to , really just to have a firm path , , for the , for the time he 's gone ,
+So , Hynek is coming back next week , you said ?
+I the week after he 'll be , , going back to Europe ,
+OK . So next week hopefully we 'll can get Hynek here to join us
+
+So so you guys have combined or you 're going to be combining the software ?
+, I gather you have it sounds like you have a few more days of nailing things down with the software and so on .
+
+And typically you 'll do choose something like a variance .
+because what 'll happen is we 'll change many other things in the system ,
+
+on the multi - condition in TI - digits . .
+Cuz I cuz it certainly always helped us before .
+So it 'd be helpful if we find out from the standards folks whether , , they 're gonna restrict that or not .
+It seems to be helping on the - matched condition .
+
+and and the choice of do you do you operate on the mel bands or do you operate on the FFT beforehand .
+In some cases it divides the error rate by two .
+
+anyway we after coming back from QualComm we had , , very strong feedback
+No , just , , looking into some of the things that , , , John Ohala and Hynek , , gave as feedback ,
+, but that might not be necessarily a good idea according to , , John .
+
+So , , I don't remember what you said the answer to my , , question earlier .
+
+like you can parse command - line arguments .
+And it seems important for , like , the on - line normalization .
+
+She clustered the temporal patterns of , , certain phonemes in m averaged over many , many contexts .
+Right ? , like stop consonants clustered really .
+
+convert it to that binary flag ,
+

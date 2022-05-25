@@ -1,0 +1,11 @@
+The project manager acquainted the team with the tools and equipment around them and then had the team members introduce themselves by name and what role they had in the project.
+The project manager then introduced the upcoming project along with more tools and equipment to the team members.
+The team members then participated in an exercise in which they drew their favorite animals.
+After the drawing exercise, the project manager talked about the project finances and production costs.
+The team then discussed their experiences with remotes and various features to consider when producing a remote.
+The marketing expert will look at user requirement specifications.
+The industrial designer will look at the working design.
+The user interface designer will look at the technical functions design
+The production cost will be 12.50 Euro maximum.
+Creating a remote with a minimal number of buttons yet having lots of functions available on the remote.
+How to accommodate different television models with one remote.

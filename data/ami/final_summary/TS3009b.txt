@@ -1,0 +1,23 @@
+There are some new requirements for the project: the device will have to be for TV only, they should ignore the teletext function, as it is dated, and, also, the remote should be recognisable as a Real Reaction product.
+The target group will be people below 30.
+It transpires that customers are willing to pay more for fancier looking remotes, especially if they include LCD screens and speech recognition.
+Functions like zapping are very prevalent, as well as complaints about remotes being difficult to learn and easy to lose.
+The function of the remote is relatively simple: by pressing a button a current is passed to the chip, and defines what signal is to be sent to the receiver (the TV) via infrared.
+The team agreed to follow a user-centred approach and simplify the design by somehow minimising the number of buttons.
+They plan to include an LCD screen to display relevant information.
+Other functions are served by push buttons: OK, menu, screen sizing, AV, settings buttons, mute, digits 1-9, power, volume control, channel up/down with the last three types being prominent on the device.
+The exact design and placement of the components will be decided in the next meeting.
+Each member of the team will come for the next meeting with their views on function and design issues that they had not time to consolidate during this meeting.
+The solution to complaints about remote controls being difficult to learn is to focus on an intuitive design instead of a thorough manual.
+The idea of interchangeable fronts was mentioned again; if it were adopted, the company should be recognisable in all the available fronts as well as the remote itself.
+The team agreed to follow a user-centred approach and simplify the design by somehow minimising the number of buttons.
+An LCD screen is going to be used to display information, but would not be interactive.
+The buttons are going to include: OK, menu, screen sizing, AV, settings buttons, mute, digits 1-9, power, volume control, channel up/down.
+There is no need for a special button to recognise two-digit numbers.
+The power button will be placed at the top separately.
+The less frequently used buttons will not be hidden under a flip, as it had been previously suggested, as there are not that many of them; they will just be clearly separated from the more important ones.
+A discussion on ergonomic solutions like placing the main buttons (power, channel selection, volume) where they can be easily reached with the thumb (as many users complain of RSI), did not reach a conclusion as to whether this would actually cause more repetitive movements.
+Some advanced features, like LCD screen with program information or speech recognition, would be very important in order to attract their target group, but there are costing issues that have not been clarified yet.
+There was some disagreement as to whether the LCD screen should be placed at the top or the bottom of the remote.
+No consensus was reached regarding the positioning of the main buttons (zapping, volume, power) either: should they be placed close together or more scattered (to avoid RSI complaints)?
+A special AV button for direct access to the video channel, although its necessity was disputed, because there are alternative solutions that make it obsolete.

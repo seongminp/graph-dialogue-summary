@@ -1,0 +1,10 @@
+The Project Manager introduced the project to the group.
+The group set an agenda for the meeting and discussed the materials sent to them by the Account Manager.
+They discussed and explained their roles in the project.
+The group began a discussion about their initial ideas for the product.
+They discussed several usability features: adding speech recognition and an option to choose what to watch by channel or by content, reducing the number of buttons by using the television screen to display options, and adding a light adaptation system.
+All participants were instructed to gather more information for the next meeting, the functional design meeting.
+All participants were instructed to gather information for the functional design meeting.
+The group decided to include an option for the user to choose what to watch by channel or by content or program type.
+The project agenda and the participant roles were not clear to all participants at the beginning of the meeting.
+The group could not decide if they wanted to include speech recognition in the design.

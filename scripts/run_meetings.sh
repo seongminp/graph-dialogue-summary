@@ -14,10 +14,10 @@ echo "ICSI" &&
 python benchmarks/icsi.py -d data/icsi &&
 
 echo "ICSI (pre-Segmented)" &&
-python benchmarks/icsi_segmented.py -d data/icsi -c data/icsi_segmented &&
+python benchmarks/icsi_segmented.py -d data/icsi -s data/icsi_segmented &&
 
 echo "ICSI (POV conversion)" &&
 python benchmarks/icsi.py -d data/icsi -c &&
 
 echo "ICSI (pre-Segmented, POV conversion)" &&
-python benchmarks/icsi_segmented.py -d data/icsi -c data/icsi_segmented -c
+python benchmarks/icsi_segmented.py -d data/icsi -s data/icsi_segmented -c

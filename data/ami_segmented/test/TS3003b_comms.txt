@@ -1,0 +1,240 @@
+So these are the most important functions on a remote control .
+we must use the general functions of the remote control .
+I've been thinking about a simple manner to put a lot of functions in one in one remote control .
+you c you can't put a lot of functions in one . . In one remote control .
+Got many functions in one remote control ,
+And it's a function we don't need in our remote control .
+I suggest let's have a discussion on the control functions .
+
+but This re remote control got a lot of buttons .
+The remote determines what button it is ,
+if we put a lot of effort in those , we can make a remote control with just two or three buttons . Or just a remote which is suitable for the market we wanna reach
+Maybe we can make that another point of advantage in our remote control , if we make a k a button ex for big subtitles ,
+so most existing remote controls simply don't have a lot of buttons either .
+
+What this indicates for our design . we should make a remote for the future .
+this will also be beneficial to the design of the remote .
+we've got to design a remote which is only suitable for T_V_ .
+
+in addition remotes were not very functional .
+And in addition to this it could recharge the batteries in the remote if you put it in .
+
+Main characteristic of this group is that they're very critical on the remote control .
+so that will also be where our main profit would be gettable .
+The results also indicated that about one quarter of the people questioned thought that the remote control caused R_S_ R_S_I_ .
+you can see , this is quite simple remote control .
+Wh what I was th thinking about was you've got this the remote control
+they don't really care what the remote control is like .
+and they want to have a fancy remote control .
+And we have to see what requirements we need for those remote controls .
+which is instantly on the remote control .
+
+where we observed users operating remote controls .
+But I don't think if you're gonna make a remote control only to operate a T_V_ , you there's not much you can gain on having as few buttons as possible .
+there are pretty many remote controls that can only operate a T_V_ ,
+but there's simply not much to gain on the competition when you're making a remote control only for to operate only the T_V_ .
+if you have a remote control only to operate a T_V_ there's simply not a lot of buttons required .
+
+seventy five percent of the people questioned indicated that they thought their remote were was ugly .
+Fifty percent of the people indicated they only loo used about ten percent of the buttons on a remote control .
+And fifty percent of the people indicated that their remote tended to get lost in their room .
+And the functionality As a lot of people indicated , they only use about ten percent of the buttons ,
+Then as mo as a lot of people indicated that their remote got lost in the room ,
+fifty percent of the people indicated that remote control tended to get lost .
+
+But don't you think that if we make a remote which is typically made for this market , that people think the people think that's the device I've looked for although I didn't realise it .
+
+The user presses a button .
+When the user presses a button , a signal got sent ,
+And when a button gets pressed , its goes to the chip .
+When you press a button you can actually see your pressed button .
+which would explain a button if you press it .
+
+like the on-off button . keep it l like a red button .
+And you got here real buttons for selecting a device .
+and th the buttons the real buttons we have to use .
+It gots conductive disks for every button .
+which already only have the minimum number of buttons .
+
+we must keep buttons quite s simple and quite large .
+It's a very simple device , technically speaking .
+we can do a lot with the design and the simple buttons
+
+And thirty four percent thought that it was hard to learn a n how to operate a new control , remote control .
+it would be very hard to actually gain on the competition here .
+since a lot of people indicated that a new remote control is hard to learn ,
+
+Everybody have to use it so ol even old people young people .
+so maybe we can focus ourself on the elderly people .
+For elderly people they can think , I wanna have subtitles ,
+If we're gonna focus on elderly people they'll have to adapt .
+maybe we should do some research into what elderly people like to have in a
+and we're focusing on elderly people here
+because elderly people don't mind if it's a titanium cover or just a plastic one .
+probably elderly people would be a little bit more careful with their remote controls than youngsters .
+Because are we talking about elderly people or people from forty to eighty .
+If we want a with the telephone for elderly people , we can
+target the real elderly people .
+
+and an additional eighty percent indicated that they would spend more money on a fancy-looking remote control .
+if we make a remote control just l with that idea in mind , we could make tons of money , .
+
+important thing of this phase is that we're going to try to get an agreement about the user requirements , technical function design , and the working design . So that we can move onto the second phase .
+We don't have to focus on the on the design then but on functionality .
+Because what we're going to design now is for people above sixty , maybe .
+what we're going to do for the next meeting is the Industrial Designer will do the components concept ,
+
+like to have extra in a new remote control .
+Some extra info . Feedback .
+Extra button info .
+
+the users of forty six to sixty five years cons The make up forty percent of the market .
+Another one is the customer is forty plus . that's the market we have to target ,
+So we have to find a market which is above forty plus
+Besides that , the market for forty plus is like pretty small .
+because it is forty percent of the market .
+
+remotes are being considered ugly .
+And if the remote stays rather small , it should be possible
+
+Anybody has questions about the technical functions ?
+now I hope everybody has a little bit more insight in the functions we all have
+can be a function as . But only if if it won't higher the cost ,
+
+And then the decision on the control functions which we wanna include and those which we don't wanna include .
+So these are two factors that should be included in the design .
+it'd definitely be a bad idea not to include teletext .
+
+another point is we have to skip the teletext ,
+In addition people indicated that teletext simply was an important feature for the remote control .
+So it's pretty dumb to put no teletext feature on it .
+But deaf people need teletext for for subtitles .
+volume up , volume down , and some teletext buttons
+
+But up till forty five it remains feasible .
+People of forty plus , they want it to work ,
+
+You can make a very fancy design with putting the buttons on the right places .
+Should be fancy to , fancy design , easy to learn .
+
+That audio settings , video settings , and channel settings buttons .
+You need a one to zero button , next channel , previous channel ,
+if you should , if you want to switch from channel one to like thirty five , you don't wanna push the next channel button thirty five times .
+
+I've been looking at the user interface of it . f for the techno f functions of it .
+we should focus on aesthetics , the design and the user interface ,
+User Interface Designer the user interface concept ,
+
+maybe we can implement the scroll button ?
+Just look if you look at telephones . The Sony telephone has a scroll button which is very useful in searching names or
+
+and the time to market will be too big , if we wanna have it for more functions .
+this is a bit pity for the Marketing Expert .
+we can see if we can find a way between the functions we wanna use and the market we wanna reach with our product .
+that if we're If we put our marketing right we can sell this just like I if you've heard about it in the news , the elderly mobile phone ?
+That would that would cost a big marketing expedition
+
+Then a surprisingly great deal of people w indicated that an L_C_D_ screen in the remote control would be preferred .
+point is the L_C_D_ screen .
+And it wouldn't have to be touchscreen or a very expensive screen ,
+And with the little screen in it , which explains the buttons . You could we n it would be a lot easier to
+
+and then we can have a little discussion about the new project requirements
+And then we have a little discussion about the requirements and design .
+is there any discussion possible about the new product requirement ?
+just keep in mind the things we've said about the target group , requirements , and the trends which are going on .
+
+sixty percent of the market consists of users between the ages sixteen and forty f six .
+And this means we would have to focus on the age ages sixteen to forty five .
+This was mostly people in the age of sixteen to twenty five .
+that would be the case in the sixteen to forty five age category .
+
+uses the infrared to send a signal to the T_V_ .
+The T_V_ switches to the frequency , or what function it is .
+and transmits tranmi transmits its to the T_V_ .
+but I don't think there are many T_V_s that can switch channels that fast .
+And so you would need like the T_V_ would need an a function where you can actually view all channels and scroll through it .
+
+and you got here the general functions , like the on-off button sound
+Like with your key-chain , if you whistle it goes it makes a sound .
+
+this also makes up most the biggest part of the market ,
+for every device you've got a a f a b a part display of a part buttons .
+if you look in Holland at the whole generation of forty plus , fifty plus , it's the biggest share of the whole population now .
+but it's not the biggest part of the market .
+
+I seen w something on the internet not today but a few weeks ago .
+because in the world of upcoming internet we think teletext is going to be a thing of the past .
+internet is also mentioned in a function we can use .
+And new T_V_s will have internet access on them .
+But if you're targeting people of forty plus , the chance that they will have a T_V_ with internet access
+
+We have we have been doing research in a usability lab
+in addition we did some market research . see what the market consists of . What ages are involved .
+Then we did some research to the most relevant functions .
+
+so you've got a lot of devi devices like D_V_D_ television , stereo .
+So it has to be visible in our design , in the way our device works .
+which tend to have a hard time understanding new devices ,
+
+But it might be a good idea to make a docking station .
+you suggest we could better focus on the docking station .
+Do you think the docking station will is allowed in the budget we have ?
+That's a good advantage point as . If we have a fancy-looking docking station
+we'll have to choose between the docking station or the screen ,
+Few buttons , we talked about that . Docking station , L_C_D_ . general functions
+
+it's , in my idea , it's it's gonna be smart to invest in di in design and not in in the product itself .
+because we are going to develop a new product which is specially designed for the younger customers .
+Because he was aiming on the younger persons .
+that the new products we are gonna make , spef specifically design , are designed for younger people ,
+
+Use a display for specific functions of the different device .
+you got a general f f the functions of the device for a D_V_D_ player or so the pl f for playing reverse .
+And specific instructions will be sent to you by the personal coach .
+
+They won't spend their money very easily .
+But they do tend to spend their money a lot easier .
+
+We had one hundred of these test subjects .
+Channel selection and volume selection both got a ten on a scale of one to ten for relevancy .
+channel selection was also indicated to be used very frequently . One hundred and sixty eight times per hour .
+the most frequently used buttons should be emphasised . Especially the channel selection and audio selection buttons .
+what you told is the channel selection is important . Volume selection , power and teletext .
+
+because I if it will be a lot more money to implement teletext as ,
+So maybe we should implement the audio sign , .
+
+and we've got forty minutes for the whole prese for the whole presentations .
+So I suggest we take about seven minutes per presentation ,
+I suggest let's start with the first presentation .
+I've got a presentation about the working design .
+
+The chip controls the infrared bulb and perf perhaps a normal bulb .
+
+because it would certainly boost the production costs a lot .
+This would also greatly increase the production costs
+And we have to be very attent in putting the corporate image in our product .
+If we're able to really bring an innovative product .
+
+we should use default materials , simple plastics .
+because if you're going to use high-tech materials the price is going to go sky-high .
+and if you use high-tech materials it come back in every product .
+And default materials . that's a good idea as ,
+
+My name is Freek Van Ponnen .
+change our focus on the project ,
+I will put the minutes in the project project document folder .
+
+if we are gonna use a touchscreen we're gonna go way above the twelve and a half Euros .
+you got quite a cheap touchscreen . S it's not in colour .
+you got quite an a touchscreen and it's for twenty Euros or less .
+within the next like twenty years is very slim .
+
+There's a little adaptation in the air conditioning system .
+That that means that you can have a little trouble with , little trouble with the air conditioning ,
+So perhaps we should s stick to the basic layout .
+
+It's in wing C_ and E_ .
+you should go to the top thingy . Slide show .
+

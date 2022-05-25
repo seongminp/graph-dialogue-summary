@@ -1,0 +1,21 @@
+The project manager recapped the decisions made in the previous meeting.
+The industrial designer discussed different options for batteries, materials, and components, as well as restrictions involved in combining particular materials, components, and batteries.
+The team then discussed and decided what materials, components, and what type of battery to use in their product.
+The interface specialist presented examples of existing remotes on the market with good and bad layouts and stated what features the remote required.
+The marketing expert discussed research from trendwatching reports, finding that products now require technological innovativeness, a fancy look and feel, a spongy feel, and a fruit and vegetable theme.
+This lead to a discussion on whether to use Bluetooth or infra-red technology in remote.
+The team then discussed how to incorporate a fruit and vegetable theme into the remote.
+The industrial designer will work on the look and feel of the design.
+The interface specialist will work on the user interface design.
+The industrial designer and the interface specialist will work on a prototype.
+The marketing expert will work on the product evaluation
+The remote will have rubber push buttons.
+The case will be made of rubber.
+The remote will not use a chip on print.
+The remote will use a kinetic battery.
+The case will be double curved.
+There will be no display physically featured on the remote itself.
+Whether to have a sample sensor in the remote.
+What color the remote should be.
+Whether to use Bluetooth or infra-red technology in the remote.
+How to incorporate a fruit and vegetable theme into the remote.

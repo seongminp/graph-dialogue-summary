@@ -1,0 +1,126 @@
+Or are we just doing the design of the remote control itself ,
+
+you just said at the start it was a television remote control ,
+Television remote control .
+
+So we have the project team , which is to to come up with a new r remote control device .
+
+Experience with remote control , first ideas . New remote .
+And sometimes they remote controls defeat their own purpose
+
+I with some remote controls the buttons were a little small
+
+I'm not exactly clear on what we're designing the rem remote for .
+
+we need to maybe think about how we could maybe develop a remote control which moves around the room .
+
+and you'll be doing various designs throughout the day to meet this end .
+
+Whilst at the same time you want , as you rightly said , one remote for all .
+
+And our idea is to to make the new remote control device more user friendly than the previous one ,
+
+you could argue that experience of using devices and similar devices as people get more and more used to using remotes ,
+
+I'm the User Interface Designer .
+
+because you're sat in the chair and the remote is somewhere else in the room .
+
+, so we've got the working design for I_D_ .
+
+And one of the most annoying things is having like five remotes in the house .
+as you rightly said , there's nothing more annoying than having three or four devices littered about the about the room .
+
+method of doing this is split up as you can see into the functional design , the conceptional design , and the detailed design
+to help you folks design our new model as it were .
+For U_I_D_ the technical functions design .
+
+in each of these phases we'll be handing over to yourselves , the designers of this this device .
+we've done some research about what the cutting edge hand held devices are ,
+
+Where we We have twenty five minutes for this meeting .
+we've got five minutes before the end of the meeting .
+And I I'll try and write up some minutes of this meeting to to give it to you for the next meeting .
+
+during the course of our day we might make decisions based on information or meetings that would change where we're going .
+
+We've had more time to prepare over this side ,
+So I we're looking at having a discussion at this point in time
+But at this point in time you're right that shall we make it just a T_V_ .
+
+And so depending what the the overhead costs are will determine how many units we're looking to sell or projecting to sell at this point in time .
+
+Next meeting in thirty minutes .
+Are we all clear what objectives we're looking to meet in the next thirty minutes ?
+
+Because a lot of systems are T_V_ video combined now ,
+or T_V_ D_V_D_ combined .
+So if you've got a combined system , it could be a combined remote .
+
+Marketing , the user requirement specification .
+
+And having meetings so that we can during the course of the day come up with a better inst implement than we had before .
+And therefore have a successful conclusion to the day .
+
+one of the things we found from the market research is that people often get confused by the number of buttons on them as .
+
+That's that's maybe something for the future when you can talk to your television , but
+So it's possible that we could devise a system where you're holding a miniature computer which is controlling all your your television , your stereo ,
+
+Work has been done on this project where by twenty five Euros is the expected selling price .
+
+and therefore to to get a bigger market share and bigger audience .
+That information has come from our marketing manager here .
+
+we have the starting base was the original which has been in existence now for a period of time .
+
+and change the water every couple of months ,
+So whereas in the past you'd have to get up to change the channel ,
+
+So we're looking to sell internationally , not just in Europe .
+
+But is it in a sense it's r mutually exclusive .
+And so these are probably mutually exclusive options
+
+We're looking at having our production costs limited to twelve and an half Euro per unit .
+And therefore making a profit margin of not actually a profit margin it's because you're gonna have overheads and various other costs to take from that to give you your profit margin per unit .
+
+Right so everyone's to supposedly draw their favourite animal over on the white board over there .
+that I would have to say that my favourite animal is the cat .
+
+so maybe we make something with easy to press buttons .
+easy to use so the buttons are accessible .
+
+You get marks for artistic impression .
+As you can see that my artist artistic work is useless as .
+
+But now you you'll move out from the microphone and the camera .
+
+because with most of the animals if you're going away on holiday or whatever , you've gotta spend money or get a friend or whatever to look after them for you .
+
+So what my daughters have got at the moment is they've got a few fish
+fish are are not are reasonable pets in that they're low maintenance .
+
+and I like my animal that looks nothing like a bear because maybe because there's so many cartoon characters made up after the bear
+like the jungle book characters and like that .
+
+Whereas if you got fish , you just gotta put the food in a dripper feed which feeds them over the couple of weeks that you're away
+
+So does anyone have any thoughts as to the tool training that is required ?
+
+Good job I got pockets today .
+so we've all stuck our bits and pieces in our pockets .
+
+and so hopefully won't prove too difficult to draw .
+
+If you hit just hit return and it should get rid of the message .
+
+if you grab the slide to the left and pull it down ?
+
+they're very intelligent , compared to dogs maybe .
+
+so whenever you're feeling a bit down or tired , they're always coming up and they're always quite excited .
+You can sorta get out and they sorta never get tired .
+
+Specific instructions will be sent to you by your person by your personal coach .
+

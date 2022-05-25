@@ -1,0 +1,22 @@
+The User Interface Designer presented the basic functions of the device and discussed the designs of two existing products, showing an example of the simple design that the group wants to implement.
+The Marketing Expert presented feedback from users, showing that users want a simple but fancy-looking remote control and that young users want speech recognition.
+She discussed including only the most basic functions in the interface.
+The Industrial Designer presented her internal design of the device and discussed the processor chip and the energy sources that will be integrated.
+She suggested integrating an extra lightbulb that lit up when the remote was communicating with the television.
+The Project Manager gave the group new requirements for the product design.
+The group discussed marketing the product to a wide range of customers.
+They had a discussion about possibly including a locator function and speech recognition.
+They discussed integrating the company's yellow color and logo into the design, and decreasing the number of buttons in the main interface.
+The Project Manager instructed the Industrial Designer to prepare the components concept, the User Interface Designer to prepare the interface concept, and the Marketing Expert to prepare a trendwatching report.
+The Industrial Designer will prepare the components concept for the device.
+The User Interface Designer will prepare the interface concept for the device.
+The Marketing Expert will prepare a trendwatching report.
+The remote will feature a smart processor chip to accomodate all of the remote's functions.
+The remote will feature an extra lightbulb that will light up when the remote is communicating with the television.
+The interface will contain larger buttons.
+The device will be marketed to all age groups, and made simple for those with less technical skills.
+The remote will feature mainly basic functions, such as channel changing and volume adjustments, so that the interface will have less buttons.
+There will be no buttons for controlling a VCR or other device; the interface will feature only channel and volume up/down buttons, a number pad, and a menu button to access the menu functions on a television.
+The remote will include the company color and logo in its design.
+The group will consider including speech recognition and a locator function in the functional design.
+NA.

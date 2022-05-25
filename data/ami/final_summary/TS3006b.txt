@@ -1,0 +1,24 @@
+The marketing expert reported on research which shows that users think most remotes are ugly, easily lost and bad for RSI.
+Audio settings are rarely used, and the power, channel and volume buttons are used most often.
+The remote should be user-friendly and have a good look and feel.
+The marketing expert and project manager described the new requirements that the target group is users under 40, the remote should not include teletext, should be only for TV, and should feature the corporate logo.
+The user interface designer showed examples of two contrasting remotes, recommending that they should use the best features of both.
+The group decided to use an LCD screen and speech recognition.
+The industrial designer described how a remote works, and explained that his presentation was incomplete because he had not received the necessary information in time.
+The group discussed what functions to include and the layout of the remote, and the marketing expert drew a possible design on the board.
+They decided to have buttons for the basic functions and make the advanced functions accessible through the screen.
+They also discussed what buttons would be needed to navigate the menu on the LCD screen.
+The project manager will write up the meeting minutes.
+The user interface designer will work on the layout of the remote and the LCD screen menu.
+The industrial designer will work on the functional aspects of the remote.
+The remote will have an LCD screen and speech recognition.
+The advanced functions such as audio settings, contrast and channel programming will be accessed through the screen.
+The target group will be aged 16-40.
+A teletext option will not be included.
+The remote will be for TV only.
+The remote will feature the corporate logo and colour.
+The screen and microphone will be at the top of the remote.
+There will be LEDs under the buttons so that buttons in use will light up.
+Some people had problems using the computers.
+The industrial designer did not receive the necessary information in time to prepare his presentation according to instructions, so his presentation was based on his own ideas.
+There was some confusion about the the roles of the user interface designer and the industrial designer.

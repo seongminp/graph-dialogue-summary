@@ -1,0 +1,20 @@
+The Project Manager announced that the remote should only control television, and that the marketing should be targeted towards ages 40 and above.
+The Marketing Expert presented the results of a lab study on users of remote controls, and showed that users want a fancier, less complicated remote that does not get lost easily.
+The group decided not to use speech recognition or an LCD screen to target the older demographic.
+The User Interface Designer discussed the button functions and how to make channel-changing easier.
+The group decided not to include programmable "favorites" buttons.
+The Industrial Designer presented the internal components of the device.
+The group discussed having the remote light up when used.
+He also stressed that the remote must be compatible with all television brands.
+The Project Manager corrected his target group announcement and announced that the target age group was actually ages 40 and below.
+The group again discussed the possibility of adding speech recognition and LCD screens to the design but decided that it was not feasible.
+The group decided to have the remote light up when used and is including teletext.
+The Marketing Expert was instructed to report on trendwatching.
+The Marketing Expert will prepare a report on trendwatching.
+The remote will not feature speech recognition or an LCD screen.
+The remote will light up when a button is pressed, much like a mobile phone.
+Complicated features will be hidden from the more simple functions on the main interface.
+The remote will feature teletext capabilities, and the teletext buttons will be included on the main interface.
+There was a misunderstanding about the target user group that forced the group to reevaluate their decisions on several components once they received the correct information.
+The new requirement that the remote was only to control television forced the group to change some of their initial design ideas.
+The group did not reach a decision on how to ensure that the remote would recognize all brands of televisions.

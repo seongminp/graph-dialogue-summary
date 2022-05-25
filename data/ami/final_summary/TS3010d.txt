@@ -1,0 +1,15 @@
+The industrial designer and user interface designer presented their prototype design, made of yellow rubber and hard plastic, with large, mostly blue buttons, a joystick and LCD screen.
+Led by the marketing expert, the group evaluated the prototype on a scale of one to seven, based on a set of evaluation criteria.
+The overall rating was two.
+The project manager calculated the production costs, which were too high at fifteen Euros.
+The group discussed how to make the design cheaper, and decided to keep the LCD screen, but to remove the special colour and replace the joystick with regular push-buttons.
+Finally the project manager led an evaluation of the project process before closing the meeting.
+Overall, the group were satisfied with the creativity, teamwork and available equipment, although the marketing expert thought the SMARTboard and laptops were sometimes distracting and not that helpful.
+*NA*
+The remote will have an LCD screen.
+The remote will have regular push-buttons instead of a joystick.
+The remote will be a normal colour rather than a special colour.
+There was some confusion about the agenda.
+The production costs of the initial design came to fifteen Euros, so the design had to be changed.
+Which features should be removed or changed.
+Which chip would be needed for the revised design.

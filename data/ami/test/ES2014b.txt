@@ -1,0 +1,349 @@
+A	69.88	so where's the powerpoint presentation ?	opening
+A	81.37	microsoft powerpoint , right .	opening
+A	101.49	so we've got so we've got new project requirements .	opening
+A	116.2	so we've got three things , and we've got forty minutes in which to for this meeting to to discuss the various options .	opening
+B	130.86	we have we have presentation each , 'cause i've got one .	opening
+D	134.2	i've got one too .	opening
+A	134.79	see , right .	opening
+A	136.17	that's to know , one from each of you .	opening
+A	137.97	new project requirements .	opening
+A	140.38	so do we want to do the presentation first , or do we want to got or or three things , relating to the remote being only for t_v_ .	new requirements opening
+A	156.61	we discussed that last time and in actual fact that was pr pretty what we came up with anyway .	new requirements
+A	163.84	so it actually we won't be forestalled in sense .	new requirements
+A	169.32	we've got teletext outdated .	new requirements
+A	172.48	did you get any information on that ?	new requirements
+B	175.54	we didn't , no .	opening
+A	177.69	right and the corporate image was the final thing .	new requirements
+A	182.11	so got that in email form .	new requirements
+A	190.56	so if we go ahead with the with the three presentations .	agenda/equipment issues
+A	197.72	so we'll start with yourself on the basis that , .	agenda/equipment issues
+B	204.33	i'll just i'll grab the wire out the back of this one .	agenda/equipment issues
+C	237.61	what is it ?	agenda/equipment issues
+B	240.82	i'm not quite how it control doesn't seem to be quite working at the moment .	agenda/equipment issues
+C	241.28	you've got to do control f_ eight .	agenda/equipment issues
+C	252.55	shift f_ eight .	agenda/equipment issues
+B	256.5	alt function f_ eight .	agenda/equipment issues
+B	261.06	again not doing anything .	agenda/equipment issues
+D	263.23	there's usually little thing in the top right for the hang on , it's just coming on .	agenda/equipment issues
+C	265.77	there , it's doing something .	agenda/equipment issues
+B	268.98	pressed about five times now .	agenda/equipment issues
+B	305.87	have to go again .	agenda/equipment issues
+B	319.52	hopefully that should be it this time .	agenda/equipment issues
+B	332.07	i'm gonna be looking at the working design .	agenda/equipment issues industrial designer presentation
+B	341.89	of the of the remote control .	industrial designer presentation
+B	345.95	i've just got three sections , first is the research made on the on the remote control itself .	industrial designer presentation
+B	353.61	and then that involves the components required in it and the systems design of the actual the actual remote .	industrial designer presentation
+B	361.16	so having researched the existing models within the market , found my research off the internet .	industrial designer presentation
+B	367.99	i've established what the components required for the remote control to function , actually are .	components, materials and energy sources
+B	373.06	and then also the methods in which these components interact together for the remote to actually do what you want it to do and how it connects with the television .	components, materials and energy sources
+B	382.75	the basic components are an energy source which in most existing models would be battery supply .	components, materials and energy sources
+B	391.17	whether that'll be two batteries , four batteries , it may vary .	components, materials and energy sources
+B	396.11	we then have the user interface , which is the like the the buttons on the actual remote .	components, materials and energy sources
+B	401.46	the various functions used for changing channel , channel up and down , volume , things like that .	components, materials and energy sources
+B	407.9	there's also chip inside the remote which does all the computer type things .	components, materials and energy sources
+B	413.85	and then the sender , which is usually , i've found , an infra-red device which sends signal to the actual television .	components, materials and energy sources
+B	426.86	and the last part is receiver which is important in the system but is not actually part of the remote itself , because that's found in the television .	components, materials and energy sources
+B	435.02	i'm gonna have to actually draw on the board because it was little tricky on powerpoint to get this working , so .	components, materials and energy sources
+B	442.28	i'll just go through there .	components, materials and energy sources
+B	444.84	do we have cloth to wipe this down with , or ?	components, materials and energy sources
+C	448.9	it's that little right .	components, materials and energy sources interface specialist presentation
+A	449.0	there's the rubber on the right , .	components, materials and energy sources
+B	454.31	i'll get rid of the bear that's great .	components, materials and energy sources
+B	466.18	so we start off with battery suppl no , power supply which we'd probably get it's probably gonna be the battery .	components, materials and energy sources
+B	474.36	we then have particular button , which may be that's there's lots and lots of different buttons .	components, materials and energy sources
+B	484.19	but this is how the basic system works .	components, materials and energy sources
+B	487.14	that sends after you press that that sends the message to the chip , which then sends it interprets which button you've pressed and then sends the appropriate message to the sender .	components, materials and energy sources
+B	517.0	that's the remote in itself , that's the components of the remote and how they work together .	components, materials and energy sources
+B	520.47	so this is the user interface .	components, materials and energy sources
+B	528.42	this is the chip itself , which then , and that's the that's the infra-red sender .	components, materials and energy sources
+B	537.64	and then on the separate thing we have on the on the television we have receiver .	components, materials and energy sources
+B	549.54	and the sender sends message to the receiver .	components, materials and energy sources
+A	558.45	so the the top bit's the power source , yes ?	components, materials and energy sources
+B	560.49	yes , that's the power source .	components, materials and energy sources
+B	565.61	going on to personal preferences , i've said that battery seems the best option for the actual remote , just because of the size .	components, materials and energy sources
+B	571.57	you don't want cable attached to the remote otherwise it's not it's not really remote .	components, materials and energy sources
+B	576.98	and then the sender , and infra-red has been used quite successfully .	components, materials and energy sources
+B	581.58	if the battery's on reasonable power , they always seem to work fairly .	components, materials and energy sources
+B	584.73	you don't have to be point directly at the television itself .	components, materials and energy sources
+A	587.47	so the battery is the in the sender .	components, materials and energy sources
+B	591.88	'kay and that's it for the moment .	industrial designer presentation
+A	598.05	so , now more design .	interface specialist presentation
+C	609.19	mine's not quite as complicated as all that .	interface specialist presentation
+A	612.86	that's what we like to hear .	interface specialist presentation
+C	620.09	did press function ?	interface specialist presentation
+A	630.32	is it control function ei , th there you go .	interface specialist presentation
+C	634.41	so i'm gonna talk bit about the technical functions design .	interface specialist presentation
+C	638.28	i'm louisa , the user interface designer , as .	interface specialist presentation
+C	642.19	so the basic method of this is to send signal from the remote to the television set , so that desired function is performed .	interface specialist presentation
+C	651.83	an example of the function could be to change the volume up or down , so you need two different buttons for that .	interface specialist presentation
+C	659.41	to change the channel , either by pressing the number that you want or by channel up or down .	interface specialist presentation
+C	666.1	to switch the television on or off , maybe standby button .	interface specialist presentation
+C	669.78	here are two example remotes .	existing products
+C	673.28	by the look of it they both have play and fast forward , rewind functions , so they incorporate video function which we won't have to worry about .	existing products
+C	685.14	but as you can see , the left remote is quite quite busy looking , quite complicated .	existing products
+C	691.39	whereas the right remote is much simpler , it looks much more user friendly .	existing products
+C	698.85	so my personal preference would be the right remote .	existing products
+C	702.72	so , it's got big buttons , it's got very limited number of buttons .	existing products
+C	706.63	they're , kinda clearly labelled .	existing products
+C	709.92	like the use of the symbols like the triangles and the squares and the arrows as as the words on the play functions and all that .	existing products
+C	720.97	so it's very very user friendly , and it's got little splash of colour .	existing products
+C	724.82	could maybe do with some more colour .	existing products
+A	727.85	there's couple of things there .	look and usability
+A	730.66	we have to remember that we have our own logo and colour scheme .	look and usability
+A	738.69	so we'd have to we'd have to be putting that on the the product .	look and usability
+C	748.4	do we get to see that ?	look and usability
+C	749.82	will you be presenting that in bit ?	look and usability
+A	750.45	haven't as yet , no .	look and usability
+A	754.21	but got got an email that said to make that whatever device we come up with at the end of the day had to incorporate the corporate colour and slogan .	look and usability
+A	767.25	so i'm guessing that notice on the bottom there it's got what's that ?	look and usability
+A	776.68	a_p_o_g_e_e_ that might be the corporate colour scheme , although the only the only colour see in that is the red .	look and usability
+B	790.51	would you be able to get rid of the the extra buttons here , the the circular section , because that seems to be for video as .	look and usability
+B	796.51	so we could dispense with that little bit as and just get it down to just the numbers and the volume .	look and usability
+C	801.83	what do you mean by the circular section ?	look and usability
+C	803.11	like all of that bottom bit ?	look and usability
+B	803.29	just this little bit is that that's still video remote part , so maybe we could get rid of that as .	look and usability
+C	810.1	and don't really think that you need nine numbers .	look and usability
+A	810.72	th the on the for for general television purposes you have channels one to five at this point in time , and we'd have to have some room for future such channels .	look and usability
+C	813.12	how often do you use seven , eight and nine ?	look and usability
+C	815.19	just one to six and then channel up and down should be enough .	look and usability
+C	819.77	like how often do you hit nine ?	look and usability
+B	833.83	it's just people are used to seeing that , so if we didn't have them then they might t's .	look and usability
+A	833.91	but but but , possibly but the the other thing is that with the current expansion of channels in the process of taking place , certainly the button up and down , but how many channels do we have to actual television channels do we have to prepare for ?	look and usability
+A	857.67	would have thought that it's forever expanding and at the moment we've got although you've onl you've got the five standard , you've got the b_b_c_ have come up with further six and there's exactly how many channels there are on when you take into account sky and various other various others .	look and usability
+A	881.46	so would've thought that we wouldn't , , rather , if the time of flicking from one to other , but presumably it'll take second 'cause you have to be able to stop it .	look and usability
+A	891.09	maybe you could have fast forward on the on the channels that and then you could dispense with more otherwise .	look and usability
+A	897.68	you'd want you'd want to get fairly quickly to the channel that you wanted .	look and usability
+C	902.8	some remotes have favourite options where if you always flick from channel one to channel six , if that's favourite you just like by-pass two to five .	look and usability
+A	913.94	suppose in sense you could have if you've got hundred channels then if you had an easy way of getting rather than having to go one to hundred , you could go one to one to ten , ten to twenty and then have second button to get you to the actual channel you want and that would cut down your time .	look and usability
+C	935.21	but lot of like cable and sky and , that would be tuned to one channel , and then you'd have another remote for all of those channels .	look and usability
+C	942.88	like to get to fifty five and the higher numbers .	look and usability
+A	949.76	limit the number of buttons , user friendly .	look and usability
+C	952.62	but suppose nine's not really excessive .	look and usability
+B	954.6	suppose with nine you've got the the like the last one which makes the tenth means you it's like multiples you can put them together so you can make any number .	look and usability
+C	954.83	suppose it does make good pattern .	look and usability
+B	961.32	so with that we'd by-pass any problems with .	look and usability
+A	964.02	that's true , , you could get fifty by five and zero or whatever , that that makes sense .	look and usability
+B	967.85	'cause that facilitates having all the numbers you could ever need .	look and usability
+A	974.26	so so what was the circular thing that you were if it's just for t_v_ , which is what it is at the moment .	look and usability
+C	977.04	that's just for video , so we wouldn't need any of that .	look and usability
+B	981.4	so we could get it down to what ?	look and usability
+B	987.3	so we get to how many buttons have we got ?	look and usability
+B	988.65	we've just got ten , eleven twelve th we got fourteen that we need .	look and usability
+B	994.65	which isn't really too many .	look and usability
+B	995.92	that'll be quite easy to make user guide for fourteen button remote .	look and usability
+A	1000.27	've we've got that it's remote for t_v_ only otherwise project would become too complex with which would endanger the time to market was one of the considerations .	look and usability
+A	1013.85	i'm did you have that information behind the marketing , or was to give you that information ?	look and usability
+D	1020.43	had i've had some market information , but not from the company , no .	look and usability
+A	1024.93	right , , so time to market seems to be important , therefore speed of delivery .	look and usability
+A	1031.28	we've only got about another four hours left .	look and usability
+C	1036.69	so is everyone happy with that ?	look and usability
+B	1039.03	yes yes , that seems good .	look and usability
+C	1041.33	right that's the end of my presentation .	interface specialist presentation
+D	1050.98	i'm gonna pull this off .	marketing expert presentation
+B	1085.46	if you just give it second to maybe catch up .	marketing expert presentation
+A	1087.41	she said twenty seconds to what was that last wee bit there ?	marketing expert presentation components, materials and energy sources
+B	1091.97	i'm we'll have by the end of today .	marketing expert presentation
+D	1097.91	i'll give it another go .	marketing expert presentation
+D	1109.43	there we go .	marketing expert presentation
+D	1116.08	right , we've done some research into the functional requirements that people want out of their remote control .	user requirements
+D	1122.88	and first off we should state that th the remote control's for controlling the t_v_ and how do people use it ?	user requirements
+D	1131.81	we asked them which buttons were useful for them .	user requirements
+D	1134.73	how how does remote control look and feel for them , and what improvements would would they like to remote control .	user requirements
+D	1142.59	and we did that by giving them questionnaire that we'd prepared and asking them to fill in the answers .	user requirements
+D	1150.29	and three quarters of them found that remote controls are ugly and that even higher proportion would spend more for fancier remote control and that of all the buttons on the remote control , the setting buttons for the picture picture and brightness and the audio settings , they weren't used very often .	user requirements
+D	1176.93	people concentrated on the channel buttons and the volume buttons and the power buttons .	user requirements
+D	1182.52	we also asked them about speech recognition for remote control .	user requirements
+D	1187.61	and young people were quite receptive to this , but as soon as we got over about into thirty five to forty age forty five age group and older , people people weren't quite so keen on speech recognition .	user requirements
+D	1200.93	there's lot more th there's lot lot more older people who didn't know whether they wanted it or not as .	user requirements
+D	1206.81	we also asked what frustrated people about remote controls and the number one frustration was that the remote was lost somewhere else in the room and that they couldn't find it .	user requirements
+D	1218.55	and the second second biggest frustration what that if they got new remote control , it was difficult to learn all the buttons and all the functions , and to find your way around it .	user requirements
+D	1230.66	so my personal preferences from the marketing is that we need to come up with some sleek good looking high high-tech design which looks high-tech , .	user requirements
+D	1244.63	and that we should come up with fewer buttons than most of the controls on the market , and we should concentrate on the channels and power , and also volume and that thing , as as louisa said .	user requirements
+D	1258.64	we could maybe come up with menu , an l_c_d_ menu for other functions on the remote control .	user requirements
+D	1266.64	that's worth thinking about .	user requirements
+D	1268.38	and maybe we could think about speech recognition as , because young people are perhaps the ones that are gonna buy buy our new product if we aim it at high-tech design .	user requirements
+D	1283.22	that that might be the market that we're we're looking for .	user requirements
+D	1287.25	and we could maybe think about using speech recogniti recognition as way to find the remote control if it's lost in room , rather than having it to speech recognition to change the channels .	user requirements
+D	1299.63	'cause there's problem with that in that the television makes noise , so it could end up talking to itself and changing its channel .	user requirements
+D	1306.38	and that's the end of the slide show .	marketing expert presentation
+C	1311.52	do lot of there's key rings that you whistle at or clap at , 't remember , and then they whistle back , like that .	components, materials and energy sources
+D	1313.4	about speech recognition ?	components, materials and energy sources
+A	1314.85	speech recognition , .	components, materials and energy sources
+A	1316.74	but that was only for young people that preferred it , older people didn't .	components, materials and energy sources
+D	1320.02	youn young people pref , they they said that they'd be interested in remote control which offered that possibility and as you go up through the age groups , people got less and less interested in remote control that you could talk to , so .	components, materials and energy sources
+B	1332.23	no what maybe it seems the technology would be quite advanced for that and they might end up costing more than our twelve fifty budget for for the speech recognition .	components, materials and energy sources
+B	1344.12	and possibly the thing about the about the remote being lost we could have with your mobile phone , you lose that and you can ring it .	components, materials and energy sources
+B	1349.73	maybe we can have some sensor which is kept somewhere where you can some buzzer system between the two .	components, materials and energy sources
+B	1354.38	so you can press button which is always kept in one place and then it maybe buzzes to somewhere else , wherever the remote actually is .	components, materials and energy sources
+D	1361.22	we'd have that would mean we'd have to put two products together as , which which again would probably be bit expensive , but .	components, materials and energy sources
+B	1364.82	that is true , yes .	components, materials and energy sources
+C	1374.17	that'd probably be really simple , they're cheap .	components, materials and energy sources
+B	1378.24	so it'd be something we could like attach to the or like the same technology could be put inside the inside the remote .	components, materials and energy sources
+A	1379.05	so you're trying to avoid having second product 'cause you could have second product that gave you the right pitch which would set the remote off to say here am thing , without sound recognition .	components, materials and energy sources
+A	1394.77	but if you know .	components, materials and energy sources
+A	1398.84	was gonna say sharp noise , clapping of hand or whatever .	components, materials and energy sources
+A	1406.2	you'd want to try and av just have the one product that if .	components, materials and energy sources
+B	1412.29	if we if we could have it in the actual remote like everything in one one device .	components, materials and energy sources
+A	1417.39	talking about vo if you've got voice recognition then you can do it in that way because it'll recognise the voice and you can give it command , set command whatever that happened to be .	components, materials and energy sources
+A	1431.57	but you've then got the point if if you're not going with voice recognition then .	components, materials and energy sources project specs and roles of participants
+B	1436.0	you could have an option to turn it off .	components, materials and energy sources
+B	1437.95	or perhaps , .	components, materials and energy sources
+B	1442.35	so that would solve the problems with the t_v_ speaking to the remote and changing its own channels .	components, materials and energy sources
+A	1447.21	so any sugges , any conclusions ?	project specs and roles of participants
+D	1453.02	would it take quite while to develop the speech recognition software in the remote control ?	project specs and roles of participants
+A	1460.24	it does then we can't .	project specs and roles of participants
+A	1462.63	it's that simple , because we've got th th three primary requisites from from and email that was sent to me whereby we had the design logo was one , which we've already mentioned .	project specs and roles of participants
+A	1480.11	we've got the remote was only for the television and not for because that would make it too complex and we have to get it market quickly .	project specs and roles of participants
+A	1487.66	and the third thing was that teletext as far as the management is concerned , is becoming dated due to the popularity of the internet .	project specs and roles of participants
+A	1500.02	so that means that so these are the three extra parameters that have been put on this project .	project specs and roles of participants
+A	1510.76	so we're being focused effectively directly at television and it seems to me that the management is wanting us to go down narrow path and not opening out .	project specs and roles of participants
+A	1523.12	so anything that is to be added , such as voice recognition et cetera has to be very simple and has to be very quick because time to market is is critical .	project specs and roles of participants
+B	1528.76	has to be simple enough to suppose if we could get something in which was quite quick and simple that would give us an advantage over the other remotes .	project specs and roles of participants
+A	1544.74	but probably quick and simple is primary rather than added extras .	project specs and roles of participants
+A	1551.46	added extras would be , but the primary consideration is to get the project finished within this short time window , which effectively now is four hours .	project specs and roles of participants
+A	1562.71	so and if and we've gotta get to the end .	project specs and roles of participants
+A	1566.58	first and foremost we've gotta get to the end and then get to the end with added extras if possible .	project specs and roles of participants
+D	1578.16	so about five minutes .	look and usability project specs and roles of participants
+A	1578.87	so need to right .	look and usability
+A	1587.74	so how long we have left of our time .	look and usability
+A	1592.9	but we have to make the decisions on the remote control functions and how we were planning to proceed so that at the next meeting each person that's got task to do is clear from this meeting what that task is .	look and usability
+A	1615.8	we'll also know when the next meeting is so we'll know how long we've got to complete that task .	look and usability
+A	1623.47	and then we can report back at the next meeting and say yes , we've achieved this or we haven't achieved this , this is how far we've progressed .	look and usability
+A	1630.45	does that make reasonable sense ?	look and usability
+B	1633.28	yes that seems right .	look and usability
+A	1635.15	so we have to come effectively to the decision on the remote functions so that you can decide what you're gonna be doing .	look and usability
+A	1643.88	and if dur between the time of this meeting finishing and the next meeting starting , if you get any additional information that only you have at that point in time you'd think would be relevant to other people in terms of their des decision making process , then we should communicate that as quickly as possible and not until the next meeting .	look and usability
+A	1666.27	do it via the email so that rather than coming if you get the information just before the next meeting that's fine .	look and usability
+A	1674.1	come along with it in the next meeting , we can discuss it then and take whatever action is appropriate .	look and usability
+A	1678.38	but if you get it before the next meeting , let everybody else know 'cause that might have an impact on their on what they come up with effectively at the next meeting .	look and usability
+A	1692.14	right , is there would so .	look and usability
+D	1693.94	so do we need to decide on the functions now ?	look and usability
+C	1700.39	it'd be really easy and it'd be big advantage if we did have some whistle back function .	look and usability
+D	1708.45	and and that was that was the number one frustration that people said , so .	look and usability
+C	1708.85	'cause that'll solve the frustration of losing it .	look and usability
+D	1716.26	don't think there's anything else on the market that does that , so .	look and usability
+C	1720.96	don't really know about the voice recognition thing .	look and usability
+B	1728.18	maybe we should concentrate just on the whistle back function at the moment , and if something comes back i'd go more , more for clap .	look and usability
+A	1731.32	if if our primary consideration is to get it there in time , time's short , you want something to meet the major concerns of the consumer so that we can have that as selling point for the product , something that's quick and simple .	look and usability
+A	1746.64	so , sounds good .	look and usability
+C	1747.18	and that wouldn't put off the older generation either , 'cause everyone can whistle or clap , and they wouldn't have to be scared of this new technology .	look and usability
+A	1753.44	so maybe clap rather than whistle would be on the basis that if we've got if we're catering to the whole age range , you want something that's easy to do , now something that doesn't like whis .	look and usability
+D	1766.88	no not everyone can whistle , can they , though ?	look and usability
+A	1769.34	you think that more people can whistle than clap then that's fine , then go for that option , but if would have thought that more people could clap rather than whistle , so so clap option .	look and usability
+D	1773.92	no , clapping , clapping , .	look and usability
+C	1790.56	'kay we've already decided that we don't need teletext button , haven't we ?	look and usability
+C	1795.17	is that one of the .	look and usability
+A	1795.45	ef effectively that's what the that's what they're saying , that if if people are now using the internet then you don't need teletext , so so take out teletext .	look and usability
+D	1801.5	taking out teletext , .	look and usability
+B	1804.74	did we decide on having the ten the ten numbers and then the the little digit next to it which enabled you to put them together .	look and usability
+C	1809.81	so , so zero to nine .	look and usability
+D	1813.69	nowadays you can just get ones where it gives you second or two to press another number , so you can press any two and it'll put them together .	look and usability
+B	1823.4	ten numbers and then some device to allow i'll put delay to allow multiple numbers .	look and usability
+B	1832.89	or multiple digits .	look and usability
+B	1837.8	did we decide anything about the other functions ?	look and usability
+B	1841.65	as in setting the audio and tuning it and like that ?	look and usability
+B	1846.31	you had an had an idea about the menu ?	look and usability
+D	1848.69	we could possibly put an l_ l_c_d_ menu in , but that again is probably an expense that .	look and usability
+B	1856.33	but just thinking people probably you don't have you only have to probably tune in the t_v_ once , but you have to be able to tune it that once .	look and usability
+B	1862.84	so and if finally the t_v_ breaks , you get new one , you're gonna have to be able to tune it .	look and usability
+B	1866.46	you can't really avoid that .	look and usability
+B	1867.94	except the new digital markets which do it by themselves .	look and usability
+B	1871.62	so that'll be in yes .	look and usability
+A	1871.91	but the but that's relying on the television market changing to an automatic and if it is at the moment , that's fine .	look and usability
+A	1880.54	but at the moment it's not , so it seems to me that you have to have device that caters , 'cause otherwise it would make it your device would become inoperable , or only operable in certain circumstances and the idea is to have an international market which is and it's also it's the the product we've got is something that's at the would have said the lower end of the of the cost scale , so we're not really going that's terribly high-tech .	look and usability
+D	1908.63	suppose if people are buying remotes , then they're probably buying it to replace another remote 'cause all most tellies come with remotes , so .	look and usability
+D	1918.32	we're maybe talking about replacing remotes for slightly older televisions , so we maybe need to keep the the tuning function in .	look and usability
+B	1927.24	so how would this menu function work ?	look and usability
+B	1928.58	would you maybe have like one menu button , then you'd use the other buttons , maybe the number buttons to actually do the separate functions .	look and usability
+D	1935.0	that would be good idea , .	look and usability
+C	1935.35	like the volume .	look and usability
+C	1938.45	'cause you do need brightness and contrast and everything as .	look and usability
+C	1941.93	my dad was watching film the other week and it was too dark , so had to go through it and turn the brightness up .	look and usability
+B	1947.66	we're gonna have the the individual numbers and then menu function and maybe slightly more advanced instruction booklet to come with it , to guide presu it'd be quite hard just for people to grasp just off like the menu use different buttons you maybe have to have like some better instructions of how that would actually work .	look and usability
+D	1965.88	i'm not whether the having people have booklet 'cause one the second most annoying thing that people found was having to learn the new one .	look and usability
+D	1975.74	so maybe next to each of the buttons , each of them could have number and then also function written next to it , so you're pressing right .	look and usability
+B	1984.85	that also goes back to the original design when we saw those two , and there was the one on the left hand side which had all like the double functions and which looked too busy and had too much on it , so .	look and usability
+C	1994.95	if we're trying to keep it slee sleek and sexy as , have you seen those remotes where the bottom bit slides down , so there's everything else revealed ?	look and usability
+A	2002.61	so that's very good idea .	look and usability
+C	2003.32	so you don't use it that much , you don't have to see it all the time .	look and usability
+C	2006.0	but it's all there if you need it .	look and usability
+B	2006.72	that is that is good idea actually .	look and usability
+A	2010.16	so you keep right we've got five minutes before we wind up this meeting , so i've been told .	look and usability
+C	2011.8	like hidden panel .	look and usability
+A	2016.69	if you've got the same .	look and usability
+B	2018.52	not quite , but .	look and usability
+A	2020.21	so so keep keep detailed functions hidden at the back .	look and usability
+B	2022.1	keep the other buttons but hide them away .	look and usability
+C	2032.75	and that'll be better for the older generation as 'cause , my dad doesn't like anything that you've got to kinda flick through menu , but he can read button if it's displayed properly .	look and usability
+B	2042.18	so so we're gonna have to have to work out what's gonna be on these other functions as as .	look and usability
+B	2049.63	so we're gonna have like two separate two separate lists , .	look and usability
+A	2054.23	data functions hidden at back .	look and usability
+D	2056.07	so th the the detailed ones would be brightness , sorta mm-hmm .	look and usability
+A	2056.42	can bring out when needed .	look and usability
+A	2063.92	so we're dis so you've got which ones are gonna be on the front and which ones are gonna be on the back .	look and usability
+B	2068.9	so sh should we decide in the next couple of minutes , and then so on the about the number .	look and usability
+A	2069.36	we have to decide .	look and usability
+A	2076.54	so on front , numbers , volume .	look and usability
+B	2083.87	the volume up and down .	look and usability
+C	2084.39	and the volume ?	look and usability
+B	2087.8	shall we have mute button as ?	look and usability
+B	2090.15	mute button as .	look and usability
+B	2093.66	or but then they might not buy it if they haven't got one .	look and usability
+D	2095.34	and probably power one as .	look and usability
+C	2102.77	t's probably like not an issue to raise here , but the whole thing about not using your standby because of the like waste of electricity .	look and usability
+C	2113.51	have you seen the adverts ?	look and usability
+C	2115.0	like if you boil the kettle that's full that's waste .	look and usability
+C	2116.79	if you leave your telly on standby it powers blackpool for certain amount of time .	look and usability
+C	2120.53	like we should maybe try to discourage people from standby .	look and usability
+B	2125.15	'cause people might just be too fickle and not want to change .	look and usability
+C	2125.64	it's maybe too much of big issue for here .	look and usability
+B	2128.33	we can send out flier with the device saying that you shouldn't leave it on stand-by .	look and usability
+A	2129.84	so so are you having the stand-by on the front , then ?	look and usability
+C	2130.65	uh-oh danger sign .	look and usability
+B	2132.79	you probably should .	look and usability
+C	2133.87	but little bit smaller .	look and usability
+B	2139.08	are we gonna have the channel up and down as as the number buttons ?	look and usability
+D	2142.32	'cause the market research said there is quite lot of people do just zap around and flick , so .	look and usability
+B	2148.2	so we'll have so we've got ten eleven twelve thirteen fourteen fifteen sixteen there ?	look and usability
+A	2157.88	channel up and down .	look and usability
+A	2158.74	what else have we got ?	look and usability
+A	2160.0	what was that , sixteen ?	look and usability
+D	2160.66	numbers is ten , volume is twelve , th si one up , one down .	look and usability
+A	2166.08	how many volumes ?	look and usability
+D	2173.1	and mute , .	look and usability
+D	2173.95	that's sixteen isn't it , .	look and usability
+B	2175.11	is there anything else ?	look and usability
+D	2178.7	don't , no .	look and usability
+A	2180.43	power button , stand-by , channel , up and down .	look and usability
+A	2184.63	so is that it ?	look and usability
+A	2187.84	that's sixteen buttons , you reckon .	look and usability
+A	2190.02	and then at the back ?	look and usability
+D	2192.92	you've got brightness and contrast .	look and usability
+B	2198.31	maybe if we're gonna run out of time , one of us should come up with list of these and then get back at the next meeting just at the start and say what they're gonna be .	look and usability
+C	2198.34	and then mm-hmm .	look and usability
+A	2205.72	so on the back it'll have brightness , contrast , anything else ?	look and usability
+C	2212.12	there's audio functions .	look and usability
+A	2212.19	you're also gonna have the channel tuner , as it were .	look and usability
+B	2215.28	so tuner up and down , .	look and usability
+A	2219.72	tuner , would that have up and down ?	look and usability
+B	2221.64	up tune one way , tune the possibly .	look and usability
+C	2222.98	they normally do .	look and usability
+D	2228.79	and then maybe an enter button for , saying that you want that particular thing tuned in .	look and usability
+D	2238.23	so you go up and down and then it pick it finds something and then you wanna press enter to select it , .	look and usability
+B	2239.6	and th and enter button just to select .	look and usability
+B	2247.68	we're keeping it simple .	look and usability
+B	2250.0	we don't really need any other audio funct functions because it's just volume up , volume down .	look and usability
+A	2253.85	up volume , , would have thought so .	look and usability
+C	2257.39	so there's quite lot of like dolby surround studio , surround things .	look and usability
+B	2264.83	do they have their own do they have their own controls on their actual products , then , or do you have to do it via the remote ?	look and usability
+C	2264.89	maybe for the younger market .	look and usability
+C	2271.7	they've got their own controls in this like hidden panel .	look and usability
+B	2275.43	suppose if we've got their if they've got their own controls then we can avoid it for ours just to keep it simple .	look and usability
+C	2280.42	no , like there's individual buttons for them , like on the t_v_ remote .	look and usability
+C	2286.54	but don't really they're for , i've never used them .	look and usability
+C	2288.84	know they're something to do with dolby .	look and usability
+B	2290.28	maybe unless something comes up then we should shall we look into that and just get back together .	look and usability closing
+A	2292.32	you might get some research .	look and usability
+A	2300.42	right so i'll do the minutes of this meeting .	closing
+A	2304.6	and we'll meet back at i'm not .	closing
+A	2309.43	forty minutes , believe is the time .	closing

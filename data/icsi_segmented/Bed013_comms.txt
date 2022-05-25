@@ -1,0 +1,424 @@
+. then the , it 's not a big deal .
+That 's pretty big , though .
+That 's @ @ That 's big .
+Ooo , it 's just big .
+
+I 'm talking about billions and billions and
+That 's just That 's It 's a billion , right ?
+If it takes us a second to do , for each one , and let 's say it 's twenty billion , then that 's twenty billion seconds ,
+
+So there 's also nothing we could query the ontology ,
+let 's observe nothing " , and query all the posterior probabilities .
+Cuz you have to query the node , for every a , or query the net two to the twenty times .
+Sh - and that 's the thing that is being that is the content of the question that 's being queried by one interpretation of " where is X " .
+It 's a question that , , queries on some particular thing X ,
+
+just the fact that we 'll get that getting it to understand one construction doesn't mean that it will n always know exactly when it 's correct to use that construction . Right ?
+, hopefully you can you can say something like constituents tells you what the construction is made out of , , without going into this intense detail .
+that 's that 's the correct way .
+but then so it 's just a for every construction we have a node in the net , right ?
+it just seems like @ @ has to have a node for the construction and then let the chips fall where they may .
+So w if we have a construction node , " where is X " , it 's gonna both get the po posterior probability that it 's Info - on up ,
+
+and he came up we came up with a pretty strange idea .
+Would A be something completely weird and strange ,
+It 's a pretty strange idea .
+It 's i I know it 's it 's strange ,
+
+So the ba basic the same idea as having two chess computers play against each other .
+The basic idea I would be to give allow the system to have intentions , ?
+. So , it be it 's an idea that one could n run past , ,
+so this is just an idea that 's floating around
+And brought forth the idea that we take a sentence , " Where is the Powder - Tower " ,
+And since there 's never a bad idea to document things , no ?
+That 's th that 's definitely a good idea .
+The idea is to say , we encounter a certain entity in a in a utterance .
+
+and B , i if you look the factors , we will never observe people let 's say , in wheelchairs under , in under all conditions ,
+and see what we could possibly hope to observe on the discourse side .
+So it 's not just a particular word 's
+but this is what we hope to be able to observe in general from utterances , and from ontologies ,
+It 's just what would be @ @ observed in in that case .
+Observed when you heard the speaker say " where is X " , or when that 's been parsed ?
+I , maybe we wanna observe the , , the length of the words used , and , or the prosody
+U that 's exactly r , why I 'm proposing It 's too early to have to think of them of all of these discourse things that one could possibly observe ,
+and , Eva can play around with the observed things ,
+
+What 's the part that 's not pretend ?
+It 's not I don't re regard it as a painful thing .
+, it 's obvious that we can't do any evaluation ,
+The fact that the methods here are all compatible with or designed to be compatible with whatever , neurological neuro - biol su .
+No , this is a RME core by agent design ,
+and Thilo 's gonna do the instructing .
+
+and then they also do the generation phase , like Nancy 's thing .
+you remember , in the hand thing in one - eighty - two , like not only was it able to recognize but it was also to generate based upon situations .
+See the generation bit , making the system generate something , is shouldn't be too hard .
+And so , @ @ whatever that is , it 's the generic default intention . That it would find out .
+but that 's not really of general interest ,
+you just sorta said , , here 's the general idea ,
+
+e I 'm have the impression that getting it to say the right thing in the right circumstances is much more difficult than getting it to understand something given the circumstances and so on ,
+It 's difficu it 's more difficult to write on four pages than on eight .
+And it 's also difficult to even if you had a lot of substance , it 's hard to demonstrate that in four pages , .
+I would say that 's closer to six pages actually .
+Look at the web page and let 's talk about it maybe tomorrow afternoon ?
+
+, just cuz it 's harder to learn to speak correctly in a foreign language , rather than learning to understand it . Right ?
+Cuz that 's what needs to be added to the system for it .
+Cuz , if I go home , I can't finish it .
+What is our what 's our take home message .
+Cuz you don't It seems like in the general case you wouldn't know how to characterize them .
+Cuz that has , , , , s it 's in progress still
+Like , cuz that 's getting posted right away when you get it ?
+
+that 's that 's nothing for those neural guys .
+It 's it 's t cognitive , neural , psycho , linguistic ,
+So it 's cognitive , psycho , neural , plausibly motivated , architectures of natural language processing .
+and how we cognitively , neurally , psycho - linguistically , construction grammar - ally , motivated , envision , understanding that " .
+And how much to get into the cognitive neural part ?
+Don't you need to reduce it if it 's a or reduce it , if it 's a cognitive neuro
+the conference may be cognitive neural ,
+Like , NLP cognitive neural .
+that 's the cognitive linguistic - y way ,
+
+If we don't have Let 's assume we don't have any input from the language . Right ?
+like , everything 's exactly thirty percent .
+And like thirty input nodes
+thirty input nodes .
+So to test every output node , , would at least
+Let 's see , so it would be two to the thirty for every output node ?
+and specify , what we think the output , observe , out i input nodes for our Bayes - nets for the sub - D , for the discourse bit , should be .
+
+and that 's that 's not a notion I wanna have evoked .
+And then the idea of entering is active in the discourse ? And then
+And , the discourse can maybe tell us w what 's more likely if we to look for in previous statements .
+rather than the other possibility which is that all through discourse as they talk about different things
+And then , , over in your Bayes - net or whatever , when the person says " where is it " , you 've already got , since they were talking about admission , and that evokes the idea of entering , , then when they go and ask " where is it " , then you 're Enter node is already active
+, and exactly how that gets activated , , like whether we want the sentence " how do I get there ? " to activate that node or not , , that 's that 's the issue that the linguistic - y side has to deal with , right ?
+And , what other discourse information from the discourse history could we hope to get , squeeze out of that utterance ?
+the simulation that 's , according to it , that corresponds to it , and as the as discourse ,
+whatever , conte infor in discourse information ,
+
+It 's a presumably one of the Watergate codes they
+we don't want a hard code , a set of lexemes , or things , that person 's , filter , or search the discourse history .
+So , we may think that if you say , " where is the theater " , , whether or not he has talked about tickets before , then we he 's probably wanna go there to see something .
+Or " where is the opera in Par - Paris ? ,
+And so we can hard code " for opera , look for tickets , look for this , look for that ,
+it 's hard coded ,
+
+I woke up twenty minutes ago , thinking , what did I forget ?
+and it would it was on the order of twenty output nodes and something like twenty
+Bhaskara said , we had calculated out and Bhaskara believes that it 's larger than the number of particles in the universe .
+but if we have to do it two to the twenty times , then that 's a very large number .
+It 's on the twenty second of September , in Saarbruecken Germany .
+Tomasello 's already in Germany anyway ,
+
+It should be possible to make that system produce questions .
+it 'd be fun to look at it , or into that question .
+W the question is what could we actually do and and keep a straight face while doing it .
+That 's the only That 's the question mark .
+We decided t that we 're gonna take a " where is something " question ,
+prior to the " where is it " question they say , , " how much does it cost to get in , , to see a movie around here " ,
+Is the question , for this particular construction how we specify that 's the information it provides ?
+What you 're saying is we have a Where - X question , Where - X node , that makes both happy .
+So , you could say that the s construction is a question asking about this location ,
+focus on this question , how would you design that ?
+, come up with interesting questions , to which you can find interesting answers .
+
+Might be more interesting to do something like let 's assume , we 're right ,
+We 're talking about this , alleged paper that we may , just , w
+See this , if you if you 're not around , and don't partake in the discussions , and you don't get any email ,
+so sh so you 're up to dated caught up .
+and how does it fit to this , and what does it tell us , in terms of the what we 're examining .
+, anyway , the node in the the ultimate , , in the Bayes - net thing when you 're done , the node that we 're talking about , is one that says " request for location , true " , like that , right ?
+That 's what you 're proposing , which is , in my mind
+you 're just being extra helpful .
+Also we 're getting a person who just got fired , from her job .
+
+There 's a s diagram somewhere which tells you how to put that
+and the ontology tells us it has , admission , opening times ,
+So le let 's look up everything we the ontology gives us about that entity ,
+So that And I will I will then come up with the ontology side , bits and pieces ,
+So definitely have an Entity node here which is activated via the ontology ,
+So you 're talking about , , the construction involves this entity or refers to this entity ,
+
+No . Let 's we have to we have some top - down processing , given certain setting .
+We 'd have to set up a situation where , it didn't know where something was and it wanted to go there .
+Which means that we 'd need to set up an intention inside of the system . Right ?
+I what I 'm afraid of is if we don't , , set up a situation , we 'll just get a bunch of garbage out ,
+. So what we actually then need to do is write a little script that changes all the settings ,
+, it 's g Anyway , that given all of these different factors , it 's e it 's it 's still going to be impossible to run through all of the possible situations or whatever .
+And then given that we know that the construction has these two things , we can set up probabilities
+
+You 'll see maybe see the fireworks from your plane coming in .
+You 'll get even better service than usual .
+Once you get to the United States it 'll be a problem ,
+If you just ask , what is the likelihood of that person wanting to enter some something , it 'll give you an answer .
+No that 's that 's actually a problem .
+Does that mean Does that mean you 'll get you 'll fly us there ?
+So , are we looking for a abbreviation of that , that 's tailored to this problem ?
+
+and then I 'm going to meet the very big boss , Wolfgang Walster , in Saarbruecken and the System system integration people in Kaiserslautern
+don't think we 're probably a year away from getting the system to understand things .
+we fixed some more things from the SmartKom system ,
+like , this is the the basic outline of the system or whatever ,
+is it normally like , dialogue systems , or , , other NLP - ish things ?
+So I if the i if th just there 's more s here that 's not shown that you it 's already like part of the system whatever ,
+
+, you 're just talking about like given this user , what 's the th what is it what is that user most likely to want to do ?
+OK . I have taken care that we actually can build little interfaces , {nonvocalsound} to other modules that will tell us whether the user likes these things and , n the or these things ,
+e which tells us how far the user how far away the user is in respect to that entity .
+and g a and t make conclusions about the user 's intelligence .
+And then the the miracle that we get out the intention , Go - there , happens , based on what we know about that entity , about the user , about his various beliefs , goals , desires , blah - blah .
+with context and enough user information ,
+
+It 's great how the br brain does that .
+That 's the mmm actual reason .
+God bless America .
+It 's in some ways easier and some ways harder . nuh ?
+I 'm . I 'm , I 'm . .
+my god , that 's amazing !
+And that might , , give us additional input to belief A versus B .
+So the difference of " where is the railway station " , versus where " where is Greenland " . Nuh ?
+human beings are not allowed to ask anything but " where is X " .
+OK , I 'm eja exaggerating ,
+Versus the old top - down school .
+
+Let 's let 's wh what should we should we , , discuss this over tea
+and Johno coming up with the idea that if the person discussed the discussed the admission fee , in previously , that might be a good indication that , " how do I get to the castle ? " , actually he wants to enter .
+discussing the admission fee in the previous utterance , is a good indication .
+Or , is it the fact that if there 's an admission fee , then one of the things we know about admission fees is that you pay them in order to go in ?
+The that by mentioning admission fees , that just stays active now .
+
+Hey . Plenty of time .
+It 's time to walk the sheep .
+It 's time to walk the sheep ?
+And for the first time in th in the world , we look at our output ,
+I 'm running out of time .
+
+so there 's no end of potential things one could get out of it , if that works .
+Like I ended up at Blakes last night .
+And w i s I Irena Gurevich is going to be here , end of July .
+so that we actually end up with , nodes for the discourse and ontology
+
+Give them the one paragraph whirlwind tour of w what this is for ,
+Right , th this it 's not that this is like semantically ambiguous between these two .
+So th this might be a opening paragraph for the paper as saying , " people look at kinds of at ambiguities " ,
+
+you can observe some user and context and ask , what 's the posterior probabilities of all of our decision nodes .
+, it will d r assign values to all the nodes . Yes .
+Yes . And come up with posterior probabilities for all the values of the decision nodes .
+So we wouldn't even have to t to kick start it by giving it a certain intention or observing anything on the decision node .
+Remember I came in and I started asking you about how we were sor going to sort out the , decision nodes ?
+, these are our , whatever , belief - net decision nodes ,
+i let 's assume we call something like a loc - X node and a path - X node .
+
+So this will be documenting what we think , and documenting what we have in terms of the Bayes - net .
+, there was like we needed to or , in my opinion we need to design a Bayes another sub - Bayes - net
+, it was whether it was whether we would have a Bayes - net on the output and on the input ,
+or whether the construction was gonna be in the Bayes - net ,
+, in the moment it 's a Bayes - net .
+, bef or , before we don't before we cranked it through the Bayes - net .
+So define the input into the Bayes - net based on what the utterance , " where is X " , gives us .
+
+And that 's what I 'm gonna lay on you now .
+Hours and hours and hours .
+Was wollte der Kuenstler uns damit sagen ?
+
+And then I 'm also going up to EML for a day ,
+And I 'm all the people at the airport will be happy to work on that day .
+I 'll ask Eva about the E Bayes and she 's working on that .
+I 've tried about five times so far , where I work for a while and then I 'm like , I 'm hungry .
+And then I try to work at home , but I fail miserably .
+She 's a new linguist working for EML .
+Would be , , also , , bottom - up linguistics , , type message .
+
+, I 've I 've done generation and language production research for fo four and a half years .
+I th @ @ It 's not like it 's a blank slate .
+Someone 's gonna start making Phil Collins jokes .
+I 've blocked every aspect of Phil Collins out of my mind .
+Which would be exactly analogous to what I 'm proposing is , this makes makes something here true ,
+I change I changed my mind actually .
+Look at the results we 've gotten so far for the first , whatever , fifty some subjects ?
+
+So , interesting , both , like , child language people .
+And people will figure out or ask about the bits that are implicit .
+So what would be is that if we encounter concepts that are castle , tower , bank , hotel , we run it through the ontology ,
+that you that when someone 's talking about a castle , that it 's the thing that people are likely to wanna go into ?
+Lots of people go to the opera to take pictures of it and to look at it ,
+and lots of people go to attend a performance .
+And furthermore , we can idealize that , , people don't change topics ,
+And , but , do it do it in such a way that we know that people can also say , " is the town hall in front of the bank " , so that we need something like a w WH focus . Nuh ?
+in the literature there 's " bank "
+
+come back here on the fourth of July .
+furthermore , I told Jerry that I was gonna finish it before he got back .
+And since Jerry 's coming back , we can run it by him too .
+we have as Jerry calls it , a delusion of adequacy ,
+Think of back at the EVA vector ,
+OK . But you 're still doing look up so that when the person So that when the person says , " where is it ? " then you say , let 's go back and look at other things and then decide ,
+
+which is the meeting of all the module - responsible people in SmartKom ,
+that was that was absurdly low , in the last meeting ,
+But that 's what you get for coming late to the meeting .
+They don't have a TeX f style @ @ guide .
+I 'm you read the transcript of last week 's meeting in red
+But , even th for that , there is a student of ours who 's doing a dialogue act , recognition module .
+, so in some ways in the other parallel set of mo more linguistic meetings we 've been talking about possible semantics of some construction .
+
+we 're talking about anything that has the semantics of request for location , right ?
+Where it is located , we have , a user proximity node here somewhere ,
+Right ? Ontology says this thing has a location slot .
+And another one is , , path from current user current location to that location .
+I d I don't like having characterizing the constructions with location and path ,
+Versus , saying , this construction either can mean location or path .
+but it definitely has various feature slots , attributes , , bindings between things
+and then you can additionally infer , if they 're asking about the location , it 's because they wanna go to that place ,
+and whatever kinds of garden path phenomenon .
+
+Imagine if you will , that we have a system that does all that understanding that we want it to do based on utterances .
+So in instead of just being able to observe phenomenon , , and , the intention we might be able just to give it an intention , and make it produce an utterance .
+So this includes the current utterance plus all the previous utterances .
+and then search dynamically through the , discourse history for occurrences of these things in a given window of utterances .
+I don't see unde how we would be able to distinguish between the two intentions just from the g utterance , though .
+we can s define all the tables for ev for those
+and say , that 's all we can activate , based on the utterance out of context .
+
+I 'm gonna work on that today and tomorrow .
+I 'm gonna finish it today , hopefully .
+and I 'll if finish it today , I 'll help you with that tomorrow ,
+I 'm wizarding today .
+So we could we could say this is what 's state of the art today . Nuh ?
+The subjects today know Fey ,
+
+you 're not gonna are you gonna get a variety of intentions out of that then ?
+Which , if we have an algorithm that filters out whatever the best or the most consistent answer out of that , will give us the intention ex nihilo .
+and , w the keynote speaker is Tomasello
+And the keynote speakers are Tomasello , MacWhinney ?
+OK , so the you 're looking for a few keys that are cues to , a few specific cues to some intention .
+which is , OK so implicitly everything in EDU , we 're always inferring the speaker intent , right ?
+So it 's like you infer the speaker intent ,
+
+And , then we look in the discourse , whether any of that , or any surface structure corresponding to these roles , functions aaa has ever occurred .
+. That becomes part of like , their current ongoing active conceptual structure .
+We wanted something that represents uncertainty we in terms of going there or just wanting to know where it is , .
+And so this is prototypically @ @ found in the " where is something " question , surface structure ,
+There 's , like , a lot of structure in representing that .
+
+, they train for millions and millions of epochs .
+You may ruin your career forever , if you appear .
+In a vaguely obscene fashion .
+If i if it 's not triggered by our thing , then it 's irrelevant ,
+just so we can build a language model for the recognizer .
+
+but that might be , , saying " hey " , , some is actually complex , if you look at it in in the vacuum
+and ceases to be complex in reality .
+And some that 's as that 's straightforward in the vacuum , is actually terribly complex in reality .
+
+So if you have the knowledge of how to interpret " where is X ? " under given conditions , situational , user , discourse and ontological conditions , you should also be able to make that same system ask " where is X ? "
+The SUDO - square {nonvocalsound} is , " Situation " , " User " , " Discourse " , right ? " Ontology " .
+Situr - Situation , User , Discourse and
+Situation , user , d ontology .
+
+I maybe it 's just four thousand lines .
+Pure ASCII lines ,
+Four thousand lines of ASCII ?
+. Isn't a isn't it about fifty s fifty five , sixty lines to a page ?
+
+we just it wouldn't hurt to write up a paper ,
+and Nancy said , you whether you have a paper to write up until you write it up .
+and the rest is position paper ,
+, I also think that if we write about what we have done in the past six months , we we could craft a little paper that if it gets rejected , which could happen , doesn't hurt
+I usually enjoy writing papers .
+and have no , we can't write an ACL type paper where we say , " OK , we 've done this
+, maybe you have It would be The paper ha would have , in my vision , a flow if we could say , here is th the th here is parsing if you wanna do it c right ,
+So i so this paper wouldn't particularly deal with that side
+let 's have it fit nicely with the paper .
+And , additionally it might fit in really nicely with the paper .
+
+It hurts . It hurts real bad .
+But coconut anana pineapple , that 's that 's tricky , .
+like Srini , hand parsed ,
+and it doesn't hurt to leave it out for the moment .
+a person from Oakland who is interested in maybe continuing the wizard bit once Fey leaves in August .
+But , until Fey is leaving , we surely will hit the some of the higher numbers .
+We have , found someone here who 's hand st hand transcribing the first twelve .
+
+, th that 's the kinda thing that maybe like , , the general con like NTL - ish like , whatever , the previous simulation based pers maybe you 're talking about the same thing . A general paper about the approach here would probably be appropriate .
+although it could reference the NTL - ish , like , , approach .
+We we should sketch out the details maybe tomorrow afternoon - ish , if everyone is around .
+So , maybe , we 're even in a position where we can take your approach ,
+I kinda like it better without that extra level of indirection too .
+No , we 're approaching twenty now .
+
+, when they say " X " , and there is a ride at the goal , and the parking is good , we can never collect enough data .
+, Keith is comfortable with us calling him " Keith " .
+whereas maybe " where is X located " , we find from the data , is always just asked when the person wants to know where it is ,
+and that 's also maybe interesting for Keith and whoever , if you wanna get some more into the data collection .
+that I that I looked at the first the first one and got enough data to keep me going for , , probably most of July .
+
+, looking at that paper that you had , , like , you didn't really explain in detail what was going on in the XML cases or whatever
+So we want to come up with what gets , input , and how inter in case of a " where is " question .
+So in my c my case , this would make this happy , and this would make the Go - there happy .
+in which case , the you 're jumping a step and saying , " , I know where it is
+
+See the p how the plastic things ar arch out like that ?
+It 's just It 'd just be small .
+that horrible , horrible song that should never have been created .
+a y You can listen to all of them from your Solaris box .
+
+maybe even That 's maybe the time to introduce the new formalism that you guys have cooked up .
+Like introducing the formalism might be not really possible in detail ,
+So it be like using the formalism rather than , introducing it per se .
+Should I introduce it as SUDO - square ?
+
+And the ad and the deadline is the fifteenth of June .
+and then we can fiddle with these things to see what it actually produces , in terms of output .
+so " where is X " produces something that is s stands for X , whether it 's castle , bank , restroom , toilet , whatever .
+and we can run our better JavaBayes , and have it produce some output .
+I wanna would like to look at , what this ad - hoc process of designing a belief - net would actually produce .
+
+I 'll be off to Sicily and Germany for a couple , three days .
+OK , I 'm flying to Sicily to drop off Simon there with his grandparents .
+And then I 'm flying to Germany t to go to a MOKU - Treffen
+and then I 'm flying back via Sicily
+I 'm flying to Sicily next in a w two weeks from now ,
+We 're gonna do an int EDU internal workshop in Sicily .
+
+If you get the system to speak to itself , you may find n break downs and errors and you may be able to learn .
+, both learning and like , comprehension , production , that kinda .
+More cues for us to find it are like , neural cons
+. OK , but I was trying to find something that he didn't grow on his farm .
+So we need to find out what the " where is X " construction will give us in terms of semantics
+
+and B , is planning to come here either three weeks in July or three weeks in August , to actually work .
+He he decided I 'm chilling in the five - one - O .
+w and a week of business in Germany .
+we actually Have we made any progress on what we decided , , last week ?
+but we what we actually decided last week , is to , and this is , again , for your benefit is to , pretend we have observed and parsed an utterance such as " where is the Powder - Tower " ,
+
+Like I 'd I what I didn't do is go to the web site of the conference
+The submitting to a major international conference . .
+There is this conference , it 's the seventh already international conference , on neu neurally , cognitively , motivated , architectures of natural language processing .
+Is that supposed to be the international sign for interface ?
+
+So the news for me is A , my forthcoming travel plans
+and the other bit of news is we had , , I was visited by my German project manager
+Because , it I don't like papers where you just talk about what you plan to do .
+don't make any plans for spring break next year .
+and then infer a plan , a larger plan from that , for which you have the additional information ,
+Is it do you feel confident about saying this is part of the language already to detect those plans ,
+Which is good news in the sense that if we want to continue , after the thir after July , we can .
+
+and so when I looked at what you had , which was a complete submission , said
+but normal statements that seem completely unambiguous , such as " where is the blah - blah " , actually are terribly complex , and completely ambiguous .
+And so , what every everybody else has been doing so far in , has been completely nonsensical , and can all go into the wastepaper bin ,
+Remember this , we can completely change the set - up any time we want .
+
+Except this smacks a little bit more of a schizophrenic computer than AI .
+, , I don't have much experience with , conference papers for compu in the computer science realm ,
+, is this a computer science conference
+but all for the sake of doing computer science .
+, , for me this is just a ba matter of curiosity ,
+

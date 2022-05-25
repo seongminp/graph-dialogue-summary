@@ -1,0 +1,653 @@
+And in some ways it 's it 's very similar to
+There are certain things that are attribute - value , similar to the bindings below
+And the reason that he gave was similar to the reason why Johno thought it was a misleading term ,
+Right , " this guy I know from school came for dinner " does not mean , , " there 's a guy , I know him from school ,
+that 's probably maybe in the long term that 's good news
+
+so this probably not worth trying to do anything till he gets back .
+And furthermore it 's worth missing .
+Let 's let 's mark that .
+, it 's been analyzed by the formalists as being a logophoric pronoun ,
+which means a pronoun which refers back to the person who is speaking or that thing , right ?
+There 's a whole book which operates on this assumption .
+, this book , a ninety - three book on , on pronoun .
+That 's also been analyzed as logophoric and having nothing to do with " I " .
+It 's like , , actually , it 's the same operation .
+
+So , if some other construction says , , " are you of type is this part of type whatever " , , the " designates " tells you which part is the meaning part .
+, these things are like it 's semantically part of it
+I if that 's something we need to spa to like say ever as part of the requirement ?
+And then have it part of the speech - act in some way .
+Can be just another frame that 's part of your
+that , , once we have this defined , it is your tool kit for building the semantic part of constructions .
+That 's up at the reference part .
+, they 're intonational markers for the most part .
+
+If there 's something a lot more complicated like , or so hypothetical or whatever , then you have to do your job ,
+We 're not saying What 's hypothetical about this world .
+, there 's this , , hierarchy there 's a schematization of , , things can be active or they can be , , accessible , inaccessible .
+or this is something that 's like in my world knowledge but not active .
+. So that 's , these are all implicitly one within , within one world .
+, if y if I said " time " is , , " past " , that would say " set that this world " , , " somewhere , before the world that corresponds to our current speech time " .
+The the within the event it 's st it 's still one world .
+So this entire thing is inside a world ,
+
+Or it 's , it 's an identity thing or a contrast with other things ,
+and that 's probably relevant for the like " where is " , , " the castle " thing ?
+cuz I would say , for a particular utterance you have particular referring expressions in it .
+So I so for now , maybe I 'll just have in this list the things that are relevant to this particular utterance , right ?
+So it 's it 's a little bit different from just saying " all these things are true from my utterance " .
+cuz it 's not that f important right now .
+OK , , then this says that when an analysis is finished , the whole analysis is finished , you 'll have as a result , , some s resulting s semspec for that utterance in context ,
+but the fact is that utterances of that sort are generally used to help you draw a conclusion also about some implicit contrast ,
+and find out how thing X is construed as an utterance U .
+
+There 's a there 's a slot for setting time and setting place .
+We we know that it 's what predication it 's setting up .
+but I can't think of like the limited set of possible meanings that you would that you would focu
+the fact that you can get it without any stress and you have some whatever is predicated anyway should be the same set of constructions .
+It 's like , " ! " It was an epiphany that it , topic and focus are a contrast set .
+you have a set of entities that you 're referring to .
+It was like in this particular set , s , instance , it has been referred to recently or it hasn't been ,
+because in terms of the s simspec , it would just mean you put one more set of brack brackets around it ,
+it was Keith 's , , job over the summer to come up with this set of constructions .
+And then Nancy you 're gonna have to , , do your set of
+The pressure 's on you Nancy .
+
+the textual example at the end has clausal construction .
+But because of the nature of this particular construction not just that it 's nominal of some kind
+And then we have a construction that says , , you can have " the " preceding a noun .
+which is an argument structure construction
+, it 's frame - based construction .
+that , , we can have constructions that have constituent structure in that there is like , , , one
+That if we do the constructions right when a particular construction matches , it the fact that it matches , does specify the focus .
+There are constrai , it 's not every but there are constructions , , where you t explicitly take into account those considerations
+So that 's why I was talking about overlapping constructions .
+So that should , , interact with it should overlap with whatever other construction is there .
+I n I don't have as many great examples of like topic - indicating constructions
+, and so one thing that , , we had talked about is this example of like , if you have a passive construction then one thing it does is ch definitely , it is one way to for you to , , specifically take the perspective of the undergoing object .
+But it 's not perceived as a quotative construction .
+my argument is there 's nothing you can do with that you can't do by just having more constructions .
+
+but in particular , that it 's some animate nominal ,
+and which will apply just as to like , , a per , a simple proper noun
+But we want to be uncommitted about whether it 's used for matching or not . Right ?
+So that whether or not it 's used for matching or only for verification , I
+OK , so if you have like " the big red ball " , , you wanna know if there 's an object or a noun .
+the r the , , " big red ball " ,
+And , , you might be able to say things like if the head has to go last in a head - final language , you can refer to the head as a p the , the formal head as opposed to the rest of the form having to be at the end of that decision .
+So a nominal expression is , the fact that it 's animate , is semantic .
+, , construal is a b is a big component of that
+it 's the thing that w a parser might want to think about whether we require
+Keith was telling me , things toward the end of the sentence , post - verbal , tend to be the focused element ,
+Li - , , the best thing come up with is that information has a list of focused elements .
+OK . Anyway . So that 's onl there are there are many more things that are uncl that are like a little bit unstable about the notation
+So that 's that 's the main thing we wanted to aim for
+hhh , the phonology component can handle actually assigning an intonation contour to that .
+that 's that 's , th that 's certainly true .
+that you need to take into account in order to decide which what is being focused .
+But it 's still is limited possibility .
+And this is a big scale comment before I , , look into the details of this .
+And actually it 's just a list of various slots from which you would draw in order to paint your picture , a bunch of frames , bi and bindings , right ?
+I almost listed " discourse status " as a slot where you could say it 's active .
+, I wou I would say that I tried to keep slots here that were potentially relevant to most things .
+OK , it 's so it 's it 's fine where it is .
+So , I 'm still just really not clear on what I 'm looking at .
+is there a slot in here for that tells you how the bindings are done ?
+And bindings to ontology items .
+So that the who that this is the tool kit under whi out of which you can make a semantic specification .
+Other frames that could come in , unfortunately you could bring in say , , , " desire " like that ,
+e so th it 'd be a hierarchical frame them , right ?
+And then when we combine constructions semantically , the goal is going to be to fill out more and more of the bindings needed in order to come up with the final one .
+So it 's it 's Fred and Mary ,
+Except s it 's it 's trickier than that
+And I 'm gonna read the transcript of this one .
+So there should be no categorical difference between your base and all the others that ensue .
+No , but there 's there 's a Gricean thing going on there ,
+it 's it 's converging .
+she modified the GUI so it has now a m a button menu item for saving it into the embedded JavaBayes format .
+how you asked whether we can , like , just observe all the variables like in the same list ?
+OK , that 's that 's a bit unfortunate
+
+No . That was just a mistake of cut and paste from when I was going with it .
+Minor min problem
+and the " would " it 's a different dimension of hypothe - theticality , right ?
+, , that 's my feeling that these are really hard , problems that decide exactly what 's going on .
+It 's it 's his thesis , right ?
+OK . , , , I wouldn't have assumed that it 's an easy problem in absence of all the oth
+It 's a grab bag of
+, to Eva on our web site we can now ,
+But you , it 's a good it 's a good thing to put in your thesis proposal .
+But the question is do you want to , , send the little group , , a draft of your thesis proposal
+
+OK , it 's like , it 's not it might be that there 's a syntactic , , device that you use to indicate focus
+which is , " , the focus we have is we 're emphasizing this value often as opposed to other values " , right ?
+So focus carries along a scope .
+Like if you 're gonna focus on this thing and you wanna know it evokes all the other possibilities that it wasn't .
+and say , " hey , that 's my focus exponent . "
+because , , as a form cue , , not even trained experts can always , they can tell you where the focus exponent is sometimes .
+Or or map from the contour to what the focus exponent is .
+Or it might limit it cert certainly constrains the possibilities of focus .
+And depending on the construction it may or may not f specify the focus , right ?
+Just with a different foc focus constituent ?
+There 's almost , we keep coming back to how focus is like this , , trajector - landmark thing .
+discourse level constructions in a sense , topic - focus constructions that would say , " , when you focus something " then
+So that 's his that 's the best way of talking about focus , is his way .
+
+it 's only slightly more stable than it was before .
+t , and distinguish that from it 's effect
+OK , so this doesn't include something which mi may have some effect on it ,
+ki the ones I included here are slightly arbitrary
+, and then the " status " I used was like , again , in some languages , , like in child language you might distinguish between different status .
+And it happens diff under different circumstances in different languages .
+, it 's an it 's an evidential .
+Actually one of the child language researchers who works with T Tomasello studied a bunch of these constructions
+It 's as far as tell there 's this one major thing we have to do
+
+, " , this event takes place before speech time " , OK , is what this means .
+and then there are many in more interestingly , linguistically anyway , there are relative things that , , you relate the event in time and space to where you are now .
+And that 's also mostly true for read speech .
+if it 's a group whether , , some event is happening ,
+But anyway , there 's som some causal structure for composite events .
+So you 'll say , " event one causes event B
+It 's like it 's like what 's happening that , , what 's happening , , there is that you 're moving the base space like that , right ?
+
+, as usual they 're before and ends .
+but they 're just us usually they 're going to be value fillers , right ?
+You 're missing like the premier American holiday ?
+So so we 're like having our cake and eating it
+Now we 're s now that " Watergate " we 're now talking about the real one ,
+And , , you 're you 're the linguist
+but they 're they 're different meanings .
+, , th critically they 're not required syntactically .
+Often they 're pres presu presupposed and all that .
+But , , if you what you 're what you 're focus is then you 're you 're hopeless - - ly lost anyways ,
+, they 're contex and , I used to have a location thing there
+You 're but it 's used for identification purposes .
+But in actual fact , that they 're intended to be neutral with respect to that .
+if you 're trying to have the nuts and bolts of simulation you need to know that , , whatever , the holder doesn't and
+And they 're bound up in , , their bindings and and values .
+I let 's see , we 're we 're not
+So They 're more lexically marked , right ?
+and they 're how they 're bound together .
+And therefore you 're supposed to say , " Boy , life "
+You 're when you hear something you 're told who the speaker is
+OK , we 're crossing our fingers .
+So that d that does sound like it 's co consistent with what we 're saying , .
+, and we 're going to have to s bound the complexity .
+So so we 're gonna get the w we 're dealing with two domains ,
+So that we say these are the things we 're really gonna try do by the end of the summer
+and you 're you 're coupling a bunch of them together .
+And then ins instead of proving you 're trying to , , compute the most likely .
+
+So the result of m much thinking since the last time we met , , but not as much writing , , is a sheet that I have a lot of , like , thoughts and justification of comments on
+So what 's the what 's the time frame ?
+but it we doesn't don't necessarily want to , , unload all the notation every time we see that it 's past tense .
+, you could imagine for both of those are absolute things you could say about the time and place ,
+An individual sentence could mean a hundred different things depending on , quote , " what the space configuration is at the time of utterance " .
+it is still required , say , by simulation time though
+linear time , linear spaces ,
+but by the time you 're simulating you sh y you should know that .
+, but you Don't we ultimately want to handle that analogously to the way we handle time and place ,
+every time Nancy giggles it means it means that it 's your job .
+You have to make separate queries every time .
+for the time being it 's it 's fine to do it
+, but that 's a different discussion for a different time .
+
+You could build up an appropriately , appropriate structure according to the l the sentence .
+The information in the sentence tells you that much
+, there 's not that much information contained in the sentence .
+Add this structure to this space . "
+, so that 's to keep " focus " being an information structure term .
+, , I 'm inclined to say let 's worry about specifying the information structure focus of the sentence
+, I would say that argument structure in terms of like the main like ,
+since I couldn't think of an easy like limited way of doing it , , all say is that information structure has a focused slot
+So again , information structure has a topic slot .
+but this is the full range of semantic structures available to you .
+These are all so far these structures , especially from " path " and on down , these are relatively familiar , , image schematic slots .
+OK , that 's where the information structure is
+, what 's interesting is that the information structure
+If it 's a new thing you 'd have to like create a structure or whatever .
+But rather than try to a inheritance structure and all that before we we 're doing .
+
+OK , and then again semantic constraints here are just are just bindings .
+And so it was an issue whether constraints , there were some linguists who reacted against " constraints " , saying , " , if it 's not used for matching , then it shouldn't be called a constraint " .
+So that 's why you put semantic constraints up top and meaning bindings down here ?
+Th - so this definitely should be " semantic constraints " down at the bottom ?
+so that you can get some internal structural constraints in .
+as long as Mark isn't around , these are form constraints .
+But it y it 's , just moving it moving the c the cons the constraints around .
+, the un the un - addressed questions in this , , definitely would be semantic constraints we talked about .
+But it 's got to be pieces of this along with constraints among them .
+
+one thing that I didn't do consistently , , is when we get there , is like indicate what thing fits into every role .
+No , just to make that we everybody that 's completely that it has nothing to do with , , form .
+let 's suppose for the moment it 's complete .
+And sadly enough he also just left the IMS in Stuttgart .
+And the role shift thing is completely left out and so on .
+, completely from scratch every time you do construal .
+But it 's in that respect it 's completely scalable .
+
+let 's start b let 's start on number two actually on the notation ,
+it 's pro it 's often sometimes the case in the first case here that what construction it is .
+, or you could just say in the second case that you only know the meaning type .
+which might be too restrictive in case we don't have only bindings .
+And there 's there 's ca some cases where the grammar depends on some form property of the head .
+In the second case we 're imagining hypothetically that Nixon had apologized right away
+Or maybe that 's like a restrictive , non - restrictive
+in which case it 'd be created here ,
+In which case they have to check to see , , who the , , speaker in here wa in order to resolve those .
+d doesn't start with some because it 's so obvi it should be so obvious , at least it is to me , that whenever I say something I could preface that with " . "
+because every time you start to do something you say , " , , but what about this case ? "
+
+I forgot to include that you could have a type included in this line .
+So so the current syntax is if it s if there 's a type it 's before construct
+And as usual I all the constructions her all the examples here have only , , tsk one type of constituent ,
+so I if the syntax will hold but something that gives you a way to do both constructional and meaning types .
+, right now it 's a c contr construction type and meaning type .
+So you could say " construct of type whatever designates something " .
+, you , one other type that I forgot to mention is like query elements
+, no , it 's like X - sc it 's it 's like I was thinking of type constraints
+So the difference is whether you thought it was obvious what the possible fillers were .
+, " aspectual type " probably isn't obvious
+
+Cuz there are we thought of some situations where it would be useful to use whatever the c bindings are , for
+which is , , the discourse situation context record ,
+but actually that 's a property of the situation .
+, like " Naomi wants su a certain situation
+and that situation itself is a state of affairs " .
+So for a particular segment it 's really just a reference to some other entity again in the situation , right ?
+If it 's an old thing it could be referring to , , usually w something in a situation , right ?
+OK , so a situation like " Bob said he was going to the movies " , where that lower subject is the same as the person who was saying or thinking , you 're actually required to have " I " there .
+T 's , therefore we need everything that configures to what the situation is ,
+plus the situation and the user model .
+
+, for now I 'm gonna say like " profile " 's often used
+So " hypotenuse " , you profiled this guy against the background of the right t right triangle .
+They use it to really mean , , this in a frame th this is the profiles on the these are the ones that are required .
+it 's it is like a profile - background thing
+Topic - focused seems to me like , , background profile , OK ,
+
+So if there 's some element that doesn't that isn't yet constructional in the sense that it maps form and meaning .
+meaning category is what 's there .
+about what meaning what specific meaning you want .
+So we have a few funny things where something in the meaning might refer to something in the form .
+A , and a previous , , , version of the notation certainly allowed you to single out the meaning bit by it .
+just to refer to the meaning pole .
+I don't think that it was often used to give an extra meaning const type constraint on the meaning ,
+And you could get , , " the kicked dog " like that , meaning " kicked the dog " .
+the form did constrain the meaning ,
+cuz it seems like any entity in any sentence , , or any meaning component of anyth all the possible meanings you could have , any of them could be the subject of focus .
+And it 's like , , I feel like if I wanted to have an extra meaning
+So if I wanted to I would stick in an extra frame in my meaning , saying ,
+
+I 'm thinking , possibly a little more familiar to , to people .
+but there 's vestiges of other people 's biases .
+The fact that it 's n , a nominal expression I would say on most people 's notion of f , higher form types , this i this is one .
+I don't - , there 's lots of different ways in the world that people use it .
+In in real speech , , people may put stress .
+If you study how people use that it 's also
+we just won't deal with sarcastic people .
+assuming that people were being helpful and weren't trying to d
+because it forces the Meeting Recorder people to cut , the discussions short .
+
+So that 's why That 's why I 'll stick with it .
+So there 's going to be some extra , definitely other notation we 'll need for that which we skip for now .
+, we 'll we 'll get that on the other side a little , like very minimally .
+We 'll we 'll again defer .
+But it did one implication it does f have for the other side , which we 'll get to in a minute is that I couldn't think of a good way to say " here are the possible things that you could focus on " ,
+I forg it 'll be a frame .
+, it 'll be it 'll be another predication or it 'll be , , I , some value from some something , some variable and scope like that ,
+but alternative semantics is if you type that into an , , browser or search engine you 'll get tons of .
+, and then when Robert gets back we 'll look at the set of them .
+And then we 'll we 'll go back over it
+And then we 'll have a at least initial spec of what we 're actually trying to do .
+And that 'll also be useful for anybody who 's trying to write a parser .
+and other things we 'll put on a list of research problems ,
+
+. None of these examples have anything different for formal constraints ?
+Like if you were giving a formal constraint then you 're referring to the formal pole of that .
+and we 're talking about formal struc Which which makes sense .
+, you definitely want to de - couple the formalism from the parsing strategy .
+But it 's what it , it 's pretty easy to put it in the formalism , though .
+, just , , look read even sem semi formal Mats Rooth .
+It 's semi - grammaticalized .
+
+But you can refer to any of the , , available elements and scope ,
+The F subscripts refer to the " form " piece of the construct .
+So , , we could think of our , just like X - schema " walk " refers to this complicated structure , past refers to , , a certain configuration of this thing with respect to it .
+like the question is , what does " Watergate " refer to there ?
+And this is intended to be grammatically specifiable information about a referent , , about some entity that you were going to talk about .
+Or , , like your referring expression might be constrained by certain like unbounded na amounts of prep , predications that you might make .
+So you might imagine that the information you pass to , in identifying a particular referent would be , " , some " , " it 's a guy
+Right , so the constructions might will refer , using pronouns or whatever .
+You you will already have figured who " he " or " you " , mmm , or " I " , maybe is a bett better example , who " I " refers to .
+S so OK , so I would say ref under referent should be something that corresponds to " I " .
+And maybe each referent should probably have a list of way whatever , the way it was referred to .
+, if it were " Harry " it would refer to like some ontology thing .
+So of having like for each referent , having the list of the things t with which it is identified .
+it depends on if it is a referring exp if it 's identifiable already or it 's a new thing .
+
+but it 's most it 's this is , , the current form .
+so you have to say something about , , tense is determined relative to current blah - blah .
+But like what are the distinctions among those that we actually care about for our current purposes ?
+Right , so , , this raises the question of what are our current purposes .
+
+Robert 's not happy now ?
+What 's the point of spending a year here ?
+I like I like spending fourth of July in other countries , whenever .
+I 'm gonna point to at random .
+But the whole point of the whole point of what Fauconnier and Turner have to say about , , mental spaces , and blending , and all that is that you don't really get that much out of the sentence .
+OK , so , , one other thing want to point out is there 's a lot of confusion about the terms like " profile , designate , focus " , et cetera , et cetera .
+Whenever I 'm confused just point to him .
+And and these could actually just point to , , the ID in my other list of enti active entities , right ?
+And it 's again , time , at cert certain points things are located , , near or far from you
+, that 's why I said " point to Robert " , when I did it .
+And y if you want us to spend a pleasant six or seven hours you could get George started on that .
+So , and , , someone had raised like sarcasm as a complication at some point .
+
+And then , you might know something much more specific depending on what construction you 're talking about ,
+, where it 's contextually dependent ,
+So , depending on the linguistic con , context it could be
+But , , we have the properties of dependency grammars and some properties of constituents constituent - based grammar .
+It 's so d context dependent on what was there before , phrase ba breaks , , restarts .
+that I noticed that , , list was discourse dependent .
+all these expressions , nuh , are in much the same way contextually dependent as " here , " and " now , " and " there "
+, and it 's in an extended function
+And then when you embed them sometimes you have to pop up to the h , depending on the construction or the whatever , , you you 're scope is m might extend out to the base one .
+and the fact that I 'm , the fact maybe if it versus he thinks that might , , depending on how much you trust the two of us or whatever ,
+and you need the context dependent modules .
+
+there is a slight complication here which is that when we talk about form it 's useful sometimes to talk about , to talk about there also being a designated object
+, in the short run all we need is a enough mechanism on the form side to get things going .
+So that 's that 's how Fauconnier would talk about it .
+And so I what I 'd like to do is in the short run focus on getting it right .
+So I would say in the short run we 're not gonna b
+if you want to run JavaBayes , , you could see get download these classes .
+We 're really running late ,
+also maybe then run through the , the talk I have to give at EML
+
+So there 's this issue of sometimes there are really exotic explicit space builders that say " in France , blah - blah " ,
+So " in France , , Watergate wouldn't have hurt Nixon " like that .
+, , you say , " alright , I 'm supposed to add some structure to my model of this hypothetical past France universe " like that .
+if you just hear that sentence cold , the assumption is that when you say " Watergate " you 're referring to " a Watergate - like scandal as we might imagine it happening in France " .
+But in a different context , " , , if Nixon had apologized right away it wouldn't , Watergate wouldn't have hurt him so badly in the US
+In the first case , hypothetically we 're imagining that Watergate happened in France .
+And then how they interact with some extra thing like " in France " or " if such - and - such " , that 's like there are certain ways that they c they can
+, but like what was the point of saying that sentence about Nixon and France ?
+, " in France kids are allowed to drink at age three " .
+And w you 're that 's not just a fact about France .
+So similarly for a whole sentence , , " in France such - and - such happens " .
+
+, and then they say the key word construction
+But in general instead of the word " construct " , th here you might have " meaning " or " form " as .
+, the main change with the constructs which each of which has , , the key word " construct " and then some name , and then some type specification , is that it 's
+So whatever I have here is gonna be a form of the word " throw " ,
+or it 's gonna be a form of the word , , I , " happy " , like that .
+Or , , some it 'll be a specific word
+, , there was one time when Hans explained why " constraints " was a misleading word for him .
+Anyway , so the other the other strategy you guys could consider is when you what word to put , you could put no word ,
+and the entity denoted by the word " ball " is the semantic head in some ways of this , , in interesting larger element .
+So you wanna , you have this problem like " OK , , I 'll put the word " , , let 's say , the word " dog " ,
+Because you might want to say that , , location or cert certain WH words bring , automatically focus in a , , " I the identity of this thing " way on certain elements .
+, among the twenty - five percent most used words .
+great word in the English language is called " about " .
+
+So you see it 's " scenario " , " referent " and " discourse segment " .
+So , th the big com and finally " discourse segment " is about speech - act - y information structure - y ,
+So the comment I was going to make about , , changing entity the entity 's block to reference is that you can imagine your discourse
+And you might that might be a general , I , database of all the things in this discourse that you could refer to .
+So maybe that would , , be some intermediate structure that you would pass into the disc to the , whatever , construal engine or whatever , discourse context , to find , either create this reference ,
+And actually there is right now under " discourse segments " , , " attitude " ?
+, things like pronoun reference and tense which we 're thinking of as being these discourse - y things actually are relative to a Bayes space
+, so only the ontology relevant from the discourse
+
+So one option that , , Keith had mentioned also was like , if you have more abstract constructions such as subject , predicate , things like grammatical relations ,
+And that 's the wh and , that according to the party line , that 's the whole story .
+We have a theoretical model of sarcasm now .
+So , , probabilistic , whatever , relational models .
+It 's related to the Hobbs abduction story
+
+we might want to introduce mental spaces
+Just , , as a a mental bridge , I 'm not I 'm skipping fourth of July .
+, it 's often thought of as it is also considered a mental space ,
+And then for other spaces that you introduce , you could just attach y
+, I 'm I 'm s curious about how much of the mental
+, I 'm not that the formalism , the grammatical side of things , is gonna have that much going on in terms of the mental space .
+cuz until we do the , mental space story , we 're not quite Th - th
+So we 're building a mental space , good .
+, we might be able to handle context in the same way that we handle mental spaces
+So that pulling something out of a discourse context is similar to other kinds of , , mental space phenomena .
+, that pronoun references , , , ties in with all this mental space and so on , and .
+OK , so it 's like the unspecified mental spaces just are occurring in context .
+Mmm , isn't , I 'm I was dubious why he even introduces this reality , , as your basic mental space
+which is the mental the whole s mental space thing .
+So that 's just a tangent , a couple of mental disclaimers here .
+
+aside from , , construed and all that , the differences are mainly that , we 've gone to the possibility of having form - meaning pairs for a type
+so something like " past " which i , we think is a very simple , we 've often just stuck it in as a feature ,
+assuming that at any point in discourse there 's the possibility that we could be talking about a bunch of different world scenarios , whatever , and the speaker 's supposed to be keeping track of those . The , the construction that you actually get is just gonna give you a cue as to which one of those that you 've already got going , , you 're supposed to add structure to .
+but , , it seems to me that th these we , we 've talked about maybe a half a dozen linguistics theses in the last few minutes .
+there 's another term that I 've heard for that thing
+So we 've talked about if you 're talking about the lexical item " walk " ,
+, we 've had a lot of other that Keith and I have them working on in terms of like how you deal with like an adjective .
+, so far we 've been getting away with like either a type constraint or , , , whatever .
+, th there 's there 's all this about discourse status . We 've talked about .
+we 've often used " agent " , " patient " , obser
+we 've learned something about France
+Now , this is this is assuming you 've already solved that .
+, I 've I 've never seen anybody write that up
+but to focus really detailed work on the subset of things that we 've we really want to get done .
+
+It 's that now , , I 'm mentioned this ,
+I mentioned in the last meeting , the point of having something called " nominal expression " is , ,
+because it seems like having the verb subcategorize for , , like say taking as its object just some expression which , , designates an object or designates a thing , or whatever , , that leads to some syntactic problems ?
+cuz we know verb meets its object .
+And so you 'd have this problem that the verb has to meet the designatum .
+know that this is Like , we didn't originally have in mind that , that verbs would subcategorize for a particular form .
+in such a way that subject , predicate , or subject , predicate , subject , verb , ob , verb object would require that those things that f fill a subject and object are NOM expressions .
+, so my classic my now - classic example of saying , " , he did go to the meeting ? " ,
+, now that it 's subject is more like a topic .
+There 's things like ther , there 's all kinds of like , , in I mentioned last time in Czech if you have a verb of saying then
+, , the past tense being copied onto the lower verb doesn't happen there ,
+
+And so one on one side is on one side is a the revised updated semantic specification .
+And the other side is , , a revised construction formalism .
+that 's the other side of information .
+should we flip over to the other side officially then ?
+But B , which is more relevant to your life , is this is also the tool kit that is used in the semantic side of constructions .
+So this is an that anything you have , in the party line , anything you have as the semantic side of constructions comes , from pieces of this ignoring li
+Can I ask a quick question about this side ?
+
+, specific X - schema frames .
+Because this partly came from , , Talmy 's schema
+And others are a little bit seemingly inherently dynamic
+And different X - schemas use them in a way that 's either static or dynamic .
+, , it 's gonna be something in the X - schema that tells you " is this static or is this dynamic " .
+Agent , , the performer of the X - schema ,
+part of what I 'm going to hand you is a whole bunch of s , schemas , image , and X - schemas .
+Bed015Edialogueact1254	276824	277096	E	Grad	s	-1	0	Here are some examples of the sorts of things you might have in there .
+which just tells you how various what schemas you 're using
+, telling you what percent reality you should give this
+Even with just semantic schemas we have some examples .
+
+or " there was a whole list of possible speaker attitudes that like say Talmy listed .
+And what I 'm confused about is what the speaker and the hearer is doing there .
+And down there in the speaker - hearer part ?
+, , it 's the speaker may in English is allowed to say " I . "
+If it were if it 's " I " it would refer to the current speaker ,
+Hhh , I there used to be a slot for speaker , ,
+We we don't have to care too much about the speaker attitude , right ?
+There 's lots of different attitudes that the speaker could have and that we can clearly identify , and so on , and .
+, in model theory cuz the semantics is always like " speaker believes not - P " ,
+because it forces us to think a little bit more carefully how we want to get an out output .
+
+that , , the other terms that are related are like focus and stress .
+And when you , , you have stress on something that might be , , a cue that the stressed element , or , the negated element is related to information structure .
+So , , like " stress " , th stress is a pun on you might have like whatever , like , , accent stress .
+, w we 'll want to distinguish stress as a form device .
+, there 's all these different things that if you put stress on a different part of it then you 're , c focusing , whatever , on ,
+canonically speaking you can if you look at a curve over sentence , you can find out where a certain stress is
+You mean t forget about stress , the form cue ?
+So , then you have a separate thing that picks out , , stress on something relative to everything else .
+S s the question is , do we have a way on the other page , , when we get to the s semantic side , of saying what the stressed element was , or stressed phrase , .
+If you stressed , , " John went to the " , , " the bar " whatever , you 're focusing that
+and then just tell it to negate whatever the content of that is in terms of irony
+
+Sometimes I 'm intentionally inconsistent
+Is this , was it intentional to leave off things like " inherits "
+, , there should be I wanted to s find out someday if there was gonna be some way of dealing with , , if this is the right term , multiple inheritance ,
+where one construction is inheriting from , from both parents ,
+, and inheritance is only one , that 's one way to organize it
+
+You 'll say " I need a p spatial relation phrase here "
+It 's it 's the equivalent of a noun phrase or a prepositional phrase , like that there .
+If you have an " if - then " phrase , do what the " then " phrase is called ?
+, ball is going to be the designated element of that phrase .
+So the ball is the head of the phrase ,
+, this is not reverting to the X - bar theory of phrase structure .
+and it w and that would have to it might be ambiguous as , , whether it picks up that element , or the phrase , like that .
+put just the phrase " " as a parenthetical in the middle of a sentence and so on , and .
+
+Purely linguistic cues , right ?
+, the purely form cues , .
+that was the example that was caught on by the linguists immediately .
+There 's that quote in Jurafsky and Martin where it goes where some guy goes , " every time I fire a linguist the performance of the recognizer goes up . "
+It 's uglier and it d doesn't have the deep linguistic insights and .
+
+But to make it m precise at least in my mind , , it 's not precise .
+this came up when , , Ben and I were working with the Spaniards , , the other day
+, and my suggestion to Keith is that you , over the next couple weeks , n
+, the construal bit that , , has been pointed to but hasn't been , , made precise by any means , , may w may work as follows .
+we have , , precise format in which to write it ,
+And if this can be made to work , that 'd be funky .
+Thursday 's my last day here .
+
+that 's actually gonna turn out to m be certainly the most common kind .
+So a very common example of this is that , , in directed motion , the first person to do something should be an agent of some kind ,
+So the example again at the bottom , which is directed motion ,
+which is , The question was did we want directed motion ,
+, and then you 'd just be able to refer to Harry , , in wherever that person whatever role that person was playing in the event .
+
+And , , after a little bit more discussion and especially like Keith and I have more linguistic things to settle in the next few days , , it 'll probably change again some more .
+And certain things that have , , changed , have changed back to this .
+but about changing it to " semantic n effects " ,
+So now , , this is actually this little change actually goes along with a big linguistic change ,
+, that , , is it , , a state or is it a change of state , or is it a , , action of some kind ?
+But the reason why I left it in is cuz you might have a change of state , let 's say , where some state holds and then some state doesn't hold ,
+
+you might need a nominal expression to take the place of , , , " the big th " , , " the big the tall dark man " , , " walked into the room " .
+Or Actually it 's more often that , only to handle this one special case of , , " George and Jerry walk into the room in that order " .
+, if I " I walked into the room " , you tend to think that , whatever , " into the room " is like the more focused thing .
+he walked to the meeting as opposed to " he ran " ,
+or " he did walk to the meeting " as opposed to " he didn't walk " . ,
+So , you could say it 's the tense on this as opposed to , , the action . OK .
+So " Harry walked into the room " ,
+
+which is that " designates " isn't only something for the semantics to worry about now .
+So we want s " designates " to actually know one of the constituents which acts like a head in some respects
+One is in the traditional like semantic highlight of one element with respect to everything else .
+the " designate " that we have in terms of meaning is really the " highlight this thing with respect to everything else " . OK ?
+
+, one thing I 'm uncertain about is how polarity interacts .
+So we had started with the idea that the actual , , constraint was related to this tourist domain
+and the kinds of interactions that might occur in the tourist domain ,
+which you isn't probably of much use in dealing with a tourist guide .
+the tourist domain and the and the child language learning .
+It 's just you need an ontology of the domain
+
+the idea of sorting out what the person meant .
+, it also has this idea it carries along with it the idea of an actor
+Or if you talk about an adjective " red " , it carries along the idea of the thing that has the property of having color red .
+So it 's that I meant the idea of like that the semantic value is filled in by sim simulation .
+but I should have So , neglected to stick something in . " Perspective " , " actor " , " undergoer " , " observer " , ,
+, there 's all sorts of God knows , irony , and like
+and then we have an idea of the initial range .
+And the thing about this idea is that you don't ever have to sit down and think about it or write about it .
+
+The idea is that sometimes there are , , general constructions that , that you 're going to need .
+And that , , in general it 'll be unambiguous .
+, one is a more specific version of the general pattern that the grammat grammar gives you .
+But the not inherently like the general principles still work though ,
+and the only way of figuring out what that is , is , , by generating all the possible alternatives to each focused element , decide which one in that context makes sense and which one doesn't .
+general cultural frames and general like , , other action f
+, in general , you ignore lots of it .
+And then my proposal would be to , , not cut off more general discussion
+And then as a separate thread , think about the more general things and all that .
+, I also think the detailed discussion will hit , bring us to problems that are of a general nature
+So , is that does that make sense as a , a general way to proceed ?
+You may have some general rules as to how things can be can be construed as what , so that will allow you to craft the the initial notes .
+See the critical thing about the PRM is it gives these relations in general form .
+but there but the , , The cove the P R Ms are like rules of inference
+
+if there is a form category constraint , you could imagine having a triple there that says , that 's weird .
+and you have to build up you ha you would imagine that would require you , , to be very specific about the machinery ,
+this would involve everything you can imagine to fit under your C dot something
+but you could imagine that , , you need to figure out wheth
+N now , for the moment we just need the ability to l write it down if somebody figured out what the rules were .
+You could imagine that you skip out this , leave off this polarity ,
+, imagine you write a Bayes - net ,
+, since you can unfold a PRM into a straightforward Bayes - net
+Except there 's no theorem prover involved .
+
+what is now ,
+Bed015Adialogueact502	106333	106429	A	Grad	qh	-1	0	what was past ,
+Bed015Fdialogueact500	106284	106321	F	Grad	b	-1	0	Mm - .
+Bed015Adialogueact503	106429	106519	A	Grad	qh	-1	0	what is in the future ,
+Bed015Adialogueact504	106519	106561	A	Grad	qh	-1	0	where is this ,
+Bed015Adialogueact505	106561	106605	A	Grad	qh	-1	0	what is here ,
+Bed015Adialogueact506	106605	106664	A	Grad	qh	-1	0	what is there ,
+Bed015Adialogueact507	106664	106712	A	Grad	qh%--	-1	0	what is
+John is on the bus ,
+Bed015Adialogueact906	199063	199162	A	Grad	s:s	-1	0	not Nancy .
+So that 's focuses on John .
+John is on the bus and not on the train .
+John is on the bus versus " John is on the train . "
+And " John is on the bus " versus " was " , and e
+
+and exactly what that means for the overall ongoing interpretation is quite open .
+or a slot chain based on a variable and scope .
+And " scenario " is essentially what what 's the basic predication ,
+, and I left the slot , " predications " , open
+Then " predications " makes sense to have it open for something like , , accessibility or not .
+I was just checking like , when we wanna , , get the posterior probability of , like , variables .
+
+actual , , like modified constraining purposes .
+, , all of these so - called space builders that are in the sentence are going to
+, a sentence examples you gave in f did constrain the meaning b
+, but maybe I 'm mixing , this is like the final result after parsing the sentence .
+But what I want to do is is to constrain the things that we really feel responsible for .
+
+So if you don't have like a lot of grammar experience , then like this might , , be a little o opaque .
+you can just say whatever , " i is the container being focused or the entire whatever , both , and . "
+like a container or support - ish .
+like " source , path , goal " is often thought of that way
+And for a particular instance which I will , , make an example of something , is that you might have an instance of container and path , let 's say , as part of your , , " into " , definition .
+So you would eventually have instances filled in with various values for all the different slots .
+, so that the , , goal of the , , " source , path , goal " has to be the landmark of the conta , the interior of this container .
+And that fills in your CPT 's with which you can then query , , the net that you just wrote
+So once you have instantiated the PRM with the instances and ther then you can then you can unfold it .
+
+OK , so the top block is just a abstract nota
+And i if you not if you compare like the top block and the textual block , , we dropped like the little F subscript .
+so the middle block doesn't really give you any more information , ex than the top block .
+And the bottom block similarly only just illus , all it does is illustrate that you can drop the subscripts and that you can drop the , , that you can give dual types .
+So , , strike out the M subscript on the middle block .
+So maybe having made that big sca like large scale comment , should go through each of these slots , each of these blocks , , a little bit ?
+, mostly the top one is image schematic .
+, to decide like how you want to split up , like , s image schematic contributions versus , like , X - schematic contributions .
+
+And just pick any paper on alternative semantics .
+He wrote a paper about thirty - five years ago on that one .
+Would you believe that paper lead directly to the development of anti - lock brakes ?
+Just a white piece of paper .
+then y you 'd simply write , , these into onto your white piece of paper .
+You can just give him the abstract that we wrote for the paper .
+
+, you could say that , , , " name - one dot " , t , " number equals " , , a plural like that .
+So a lot of this isn't happening at the grammatical level .
+It seems like , , the grammatical things such as the auxiliaries that introduce these conditionals , whatever , give you the most basi
+Which which I 'm not saying one and two are mutually exclusive
+But the important things for grammatical purposes are for things like number , gender ,
+So " house " is gender neuter ?
+

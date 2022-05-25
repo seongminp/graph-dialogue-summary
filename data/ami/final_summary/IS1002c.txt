@@ -1,0 +1,21 @@
+The Industrial Designer presented an overview of the internal components of a remote control device.
+He discussed energy source and material options, and suggested that using rubber and plastic would be the most versatile option.
+He displayed the three options for chips.
+The User Interface Designer discussed voice recognition with the group, and the group decided to not use it in their design.
+He suggested using rubber buttons because of their durability.
+He discussed the size of the device and the layout of the interface, and suggested that the remote be moderately sized to prevent its getting lost.
+The Marketing Expert expressed concern that the remote lacked enough features to be distinctive.
+The group had a discussion to decide on the product features.
+They decided to include a charging stand, to use a thin rubber casing material, to include a locator function and a scroll wheel with two channel-changing options to increase its usability.
+The group discussed the cost of the various components and decided to sell the device at a point between thirty-five and fifty Euros.
+The User Interface Designer and the Industrial Designer were instructed to construct the prototype.
+The User Interface Designer and the Industrial Designer will construct the prototype.
+The remote will not feature voice recognition.
+The group decided to include a charging stand to help users keep track of their remote.
+A locator function will also be included.
+The device will be covered in a thin rubber casing.
+A scroll wheel will be included for the channel-changing function, and will allow users to switch between scrolling through pre-programmed favorite channels and through all channels.
+The projected price point will be changed to a point between thirty-five and fifty Euros.
+The remote will feature back-lit buttons.
+There was a lack of information on the cost of components.
+The group had difficulty finding a balance between keeping the project cost low and adding enough features to make the product distinctive.

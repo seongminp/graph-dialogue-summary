@@ -1,0 +1,633 @@
+A	100.08	wouldn't wanna be project manager .	opening
+A	103.26	what we going to do .	opening
+A	104.5	once again i'm gonna take minutes .	opening
+A	107.51	so , no presentation for me .	opening
+A	110.37	first we have prototype presentation by g_ and g_ .	opening
+D	116.3	j_ and j_ .	opening
+A	116.33	afterwards some eval eval evalu evaluation .	opening
+A	124.78	evaluation crit criteria .	opening
+A	126.95	in combination with the finance received an an excel file which we have to fill in later on .	opening
+A	142.48	and then we must see if we stay under the twelve and half euro .	opening
+A	148.77	so , that's that's big so let's it we have we have must , we must have some time for that because it will be , quite lot of mathematics .	opening
+C	150.75	that's gonna be problem .	presentation of prototype(s)
+A	163.05	and after that , an evaluation of the process how we how we have done it here with the smartboard , with the with our laptops , with the all all this .	opening
+A	175.5	and afterwards , we closing .	opening
+A	177.27	once again , forty minutes , so let's start .	opening
+A	180.01	would give the word to g_ and g_ for the prototype presentation .	opening
+B	183.54	shall give short introduction and then .	presentation of prototype(s)
+D	187.13	j_ and j_ .	presentation of prototype(s)
+A	187.84	j_ and j_ .	presentation of prototype(s)
+D	189.96	jane and jane .	presentation of prototype(s)
+B	190.75	j_ and j_ , .	presentation of prototype(s)
+D	193.92	'kay guys , take it away .	presentation of prototype(s)
+B	195.55	take it away .	presentation of prototype(s)
+B	203.2	this was our first concept .	presentation of prototype(s)
+B	204.87	we decided to use single touch-screen .	presentation of prototype(s)
+B	208.54	so , we've worked out this concepts , how to how to hold it , where to put the buttons and and .	presentation of prototype(s)
+B	214.78	and , , we began with with form of shape , that is is easy to hold in one hand , left or right handed .	presentation of prototype(s)
+B	222.35	so , we made it little bit less thick and it has some ar artistic meaning .	presentation of prototype(s)
+B	229.3	this isn't nothing .	presentation of prototype(s)
+B	232.15	idea maybe is better .	presentation of prototype(s)
+B	237.21	during the meeting showed you the concept of placing the buttons on top , usable with your thumb , and the menu structure , if necessary , with your other hand , so it's just gonna hold it easily .	presentation of prototype(s)
+B	250.06	and it has to be acce accessible with your other hand too , .	presentation of prototype(s)
+B	255.5	so we began working out concept .	presentation of prototype(s)
+C	257.75	, and as you saw , we would just have the basic remote with the panel l_c_d_ screen .	presentation of prototype(s)
+C	264.97	these would be the main buttons , you could change them later on in your own profile if you want to .	presentation of prototype(s)
+C	269.77	but , t's standard they will be delivered with this set-up .	presentation of prototype(s)
+C	273.85	we have the more advanced menu setting right here .	presentation of prototype(s)
+C	278.05	we have the sub-menus and stu .	presentation of prototype(s)
+C	280.59	we made top , or front view .	presentation of prototype(s)
+C	282.72	just so like you wanna back view .	presentation of prototype(s)
+C	285.38	as you can see , this there , there are two weird bumps in it .	presentation of prototype(s)
+C	291.12	this is for the added effect of youth and dynamic .	presentation of prototype(s)
+C	297.54	and this is for the artistic effect .	presentation of prototype(s)
+C	299.85	what we figured is we'll show you picture later on you have more better idea after that .	presentation of prototype(s)
+C	305.75	but , idea is for to stay in balance with these two with these two .	presentation of prototype(s)
+C	310.91	and so when you put it on the table , it will just lay down .	presentation of prototype(s)
+C	313.58	it won't roll around or .	presentation of prototype(s)
+C	316.15	but it will lie more in your hand like an old telephone maybe , or like these old phones .	presentation of prototype(s)
+C	321.81	you you may get the idea .	presentation of prototype(s)
+C	324.0	so thi this is about how we figured it should be .	presentation of prototype(s)
+C	327.63	the panel we you would hide with some more rubber layers , like we discussed early on .	presentation of prototype(s)
+C	334.24	you would you wouldn't see the straight panel , but more fluidly and round .	presentation of prototype(s)
+B	339.86	the panel just goes like this .	presentation of prototype(s)
+B	344.35	but the overlaying layer is little bit curved and .	presentation of prototype(s)
+C	350.26	and , in these bumps you could actually put some electronics that would you can make more thinner design , and that would actually look very , .	presentation of prototype(s)
+C	362.8	and , about the colour , what have , , as colours , do you do you have the picture in .	presentation of prototype(s)
+B	364.53	we added that this can be held with your hands for this maximum is om , one and half centimetres .	presentation of prototype(s)
+B	371.87	so , you have room here for your battery and maybe even other electronic chips .	presentation of prototype(s)
+B	377.22	and you can just be the the layer of the touchscreen and some have some wires underneath it to make it as thin as possible in the middle for good grip .	presentation of prototype(s)
+C	393.53	now , this is the idea about the bumps .	presentation of prototype(s)
+C	395.83	you can see there's very youthful dynamic exterior .	presentation of prototype(s)
+C	401.98	it you just want to hold it you you are young and dynamic like us .	presentation of prototype(s)
+D	405.34	's it's like an easter egg .	presentation of prototype(s)
+C	407.3	it's like an but this is for children .	presentation of prototype(s)
+C	409.06	we we want more adult version .	presentation of prototype(s)
+C	410.88	but , this is like remote control for children .	presentation of prototype(s)
+A	413.18	it's called weemote weemote .	presentation of prototype(s)
+C	417.69	hey , that's actually brilliant marketing stand .	presentation of prototype(s)
+C	421.17	but so this actually basic the idea .	presentation of prototype(s)
+D	422.0	what got in mind .	presentation of prototype(s)
+C	426.72	we we just want to build more adult vers adult version of of this .	presentation of prototype(s)
+C	432.88	and and for colours , we we figured starting with basic colours like white or metallic grey .	presentation of prototype(s)
+C	439.7	those are the technological colours actually , so it or blue or whatever .	presentation of prototype(s)
+B	443.08	it would be best to to appeal to broad public and make the covers exchangeable , so the young people will buy an orange and red and blue and purple , but when the older people go in the shop and they see an orange remote control , it would be less appealing than white one .	presentation of prototype(s)
+B	463.04	and young people , we think , are little bit more flexible , they think , i'll buy for couple of euros some noi hip , cover is necessary , 'cause als otherwise you'll just have the l_c_d_ screen .	presentation of prototype(s)
+D	469.21	maybe it's an idea to sell it without cover , so that you can pick cover in the in the shop .	presentation of prototype(s)
+B	479.27	so , there must be some cheap standard cover , maybe white , that's could comes with it and you can buy , so we can make extra money .	presentation of prototype(s)
+A	486.69	but you you mustn't forget that our target aim is younger people .	presentation of prototype(s)
+A	494.18	we had decided to put some flashy fruity colours in it , and in the survey from milan and paris it it came out that the the older people are more willing to to spend money on extra features .	presentation of prototype(s)
+A	517.79	so it will be better idea to have some flashy fruity colours as as standard , and for the people who really want more sophisticated , more traditional look , they're willing to pay that .	presentation of prototype(s)
+B	522.03	the other way around , you mean .	presentation of prototype(s)
+A	533.62	they want they want more luxury , but they have the money to do it and they want to to buy that .	presentation of prototype(s)
+A	539.63	so , maybe it's an idea to put that as an extra and not as standard .	presentation of prototype(s)
+C	543.39	maybe , perhaps you're right .	presentation of prototype(s)
+C	545.32	would would actually agree with this sounds logical .	presentation of prototype(s)
+D	548.98	an another idea .	presentation of prototype(s)
+D	550.45	maybe we could develop cover with wood style .	presentation of prototype(s)
+D	556.88	they'll the elder users as .	presentation of prototype(s)
+B	559.83	colour of wood style , white and couple of hip fruity colours .	presentation of prototype(s)
+B	565.87	and lea delivered standard with fruity colour , but not too not too much .	presentation of prototype(s)
+D	570.29	not not too .	presentation of prototype(s)
+B	571.69	this is banana and mango , not not purple or orange and yellow .	presentation of prototype(s)
+A	577.42	but , the mai th the standard must be some attractive flashy colours .	presentation of prototype(s)
+D	578.05	or blue or .	presentation of prototype(s)
+A	585.41	not too , but little , because that's our aim .	presentation of prototype(s)
+C	587.33	li like like this like this .	presentation of prototype(s)
+C	589.07	this isn't this isn't too much , is it ?	presentation of prototype(s)
+A	592.84	the buttons don't have to be all all of .	presentation of prototype(s)
+C	595.05	the buttons , , something like this would be .	presentation of prototype(s)
+D	596.57	except for the buttons it's it could be standard model .	presentation of prototype(s)
+C	603.7	that's that's it from us .	presentation of prototype(s)
+D	606.4	'kay , it's my time now .	evaluation of prototype(s)
+B	607.84	it's my turn .	evaluation of prototype(s)
+A	612.35	the marketing expert .	evaluation of prototype(s)
+D	629.67	during the design design life-cycle we we made lot of requirements and trend analysis and .	evaluation of prototype(s)
+D	640.78	now is the time to evaluate our prototype concept to to the past requirements .	evaluation of prototype(s)
+D	649.99	so we are going to evaluate the design according to the past user requirements and trends analysis .	evaluation of prototype(s)
+D	657.69	we're going to do that with seven point scale .	evaluation of prototype(s)
+D	662.72	opening word document now .	evaluation of prototype(s)
+D	676.27	one , , have to expla explain something .	evaluation of prototype(s)
+D	681.09	we have to be consensive about about things .	evaluation of prototype(s)
+D	690.08	so , it has to be group group decision .	evaluation of prototype(s)
+A	693.87	so we gon we gonna evaluate the , the the thing we saw .	evaluation of prototype(s)
+D	694.57	we're going to vote .	evaluation of prototype(s)
+D	702.03	the remote control is designed for people with age below forty .	user requirements
+D	709.32	seven is false .	user requirements
+D	711.65	one or most true ?	user requirements
+C	717.05	it's not just designed for people under the age of forty .	user requirements
+C	720.5	it's also designed for people above forty .	user requirements
+D	722.27	so so one is appropriate ?	user requirements
+C	723.61	so have i've , two or three , because it's not just the qu question is aimed at is it designed for people with age below forty .	user requirements
+D	725.32	or , more like four .	user requirements
+B	725.47	no no , little more in the middle .	user requirements
+B	726.98	no , three or .	user requirements
+C	736.88	but it's also designed for people of age above forty .	user requirements
+C	739.52	so , i'll say it's about three .	user requirements
+B	741.79	it will be primary appealing to to minus forty , but also appealing to .	look and usability user requirements
+D	747.17	but also for , .	user requirements
+D	749.65	the remote control is beautiful .	look and usability
+D	754.15	acco according to us , it's one ?	look and usability
+D	756.25	or , of you have to be very positive and enthusiastic about your own product .	look and usability
+B	757.29	it's the marketing angle on television .	look and usability
+B	760.51	we have wonderful .	look and usability
+B	768.1	it's also fancy then .	look and usability
+D	769.65	the remote control looks fancy .	look and usability
+B	775.21	we have perfect remote .	look and usability
+D	777.78	the remote control has big , clear channel switching buttons .	look and usability
+B	783.65	they have to agree but i'm the user interface expert .	look and usability
+C	786.06	leads to user face , .	look and usability
+D	788.96	teletext buttons and volume buttons ?	look and usability
+A	792.81	no teletext buttons .	look and usability
+A	794.08	teletext is in the menu .	look and usability
+B	794.18	you you've different menu .	look and usability
+B	798.86	and volume is impo .	look and usability
+A	800.03	volume is true .	look and usability
+D	803.02	big and clear ?	look and usability
+C	804.98	the they are big and clear .	look and usability
+B	805.49	big and clear .	look and usability
+A	806.68	big and clear .	look and usability
+B	807.39	but you could make teletext button six .	look and usability
+B	810.26	otherwise , the people who read this are gonna think we have no teletext button .	look and usability
+C	814.45	but but the teletext button .	look and usability
+C	815.9	you can ch that's in menu .	look and usability
+D	816.83	it's it's not , it five ?	look and usability
+C	817.68	so , it's , it it it it isn't entirely unclear , but so , wouldn't give it seven .	look and usability
+C	822.86	would give it more five or six .	look and usability
+C	826.89	what do you think , mister project manager ?	look and usability
+A	830.52	was thinking very black and white .	look and usability
+B	833.83	black and red .	look and usability
+B	840.93	don't forget to save it .	look and usability
+B	842.39	when we put in fancy colours , and .	how to find when misplaced look and usability
+D	844.82	the remote control is easy to be found .	how to find when misplaced
+C	851.08	it has these all these fruity colours and it has strange shape .	how to find when misplaced
+C	854.16	so , if you so if you have trouble finding it , then then i'll go for four .	how to find when misplaced
+B	856.15	but , it it's not making any sound , have we deciding ?	how to find when misplaced
+D	859.88	, but 'kay , look .	how to find when misplaced
+B	860.82	so it'll make difference .	how to find when misplaced
+D	862.77	if you put your normal remote control under your bed , or you throw this remote control under your bed , is it better findable ?	how to find when misplaced
+B	873.89	we have the better re .	how to find when misplaced
+B	877.26	my remote control's black .	how to find when misplaced
+D	878.71	li little bit maybe ?	how to find when misplaced
+B	879.87	little bit , but .	how to find when misplaced
+A	881.51	we we can do it glow in the dark .	how to find when misplaced
+D	882.81	fi , five .	how to find when misplaced
+A	884.13	so , if it's in the dark place , you still see it glowing .	how to find when misplaced
+B	885.06	fo fo fo five is .	how to find when misplaced
+D	888.32	it's it's it doesn't really make lot of four ?	how to find when misplaced
+C	894.78	because four is between three and also between between true and false .	how to find when misplaced
+B	898.02	, you're right .	how to find when misplaced
+C	898.75	so i'll i'll go for four .	how to find when misplaced
+A	899.98	you must see it as , according to the the other remote controls , there may be there in your t_v_ room , this one will stand out , .	how to find when misplaced
+D	900.68	yes , but five is between four and six .	how to find when misplaced
+C	903.64	wha , that that's better question actually .	how to find when misplaced
+D	914.21	it it's , .	how to find when misplaced
+A	915.02	exa that that's what it's about .	how to find when misplaced
+B	915.48	if your fifteen remotes in drawer , you find it , ?	how to find when misplaced
+A	918.46	if it if this lying on your couch , you're you're you think what's that for kinda orange thing .	how to find when misplaced
+D	923.84	but but the survey under users was that they really lost it .	how to find when misplaced
+D	931.58	like , no not not seeing it , but lost it in the house .	how to find when misplaced
+B	937.25	but when you lost it you're just not , mostly when you lose your remote control , it it's under your most of times when you lose it you're sitting on it .	how to find when misplaced look and usability
+C	938.17	if if you see strange shape lying somewhere , then you'd recognise it as , whoa , that is strange .	how to find when misplaced
+A	944.9	that's our remote control .	how to find when misplaced
+C	946.74	what is that .	how to find when misplaced
+D	947.19	agree , agree .	how to find when misplaced
+D	949.8	eight , the remote control has fresh , fruity colours .	look and usability
+B	951.11	would call choose two , 'cause we decided not to make two fresh colours , as it would not .	look and usability
+D	956.06	, not too flashy .	look and usability
+D	960.42	the remote control is made of soft material .	look and usability
+B	962.93	kinda soft , but but not this .	look and usability
+C	963.06	rubber , is soft .	look and usability
+A	964.61	but not too soft we have decided .	look and usability
+B	970.53	easy to use , very afford .	look and usability
+A	971.45	easy to use .	look and usability
+D	972.91	easy to use ?	look and usability
+A	973.57	can it be zero ?	look and usability
+C	974.59	don , it is it no .	look and usability
+D	976.79	top easy to use ?	look and usability
+D	978.18	it's it's not the most easy to use it can be easier .	look and usability
+B	979.71	no , you can do two , because it can be easier .	look and usability
+D	984.0	jus just with ten buttons , that's the easiest .	look and usability
+B	984.12	but then you're , but then you'll lose function , functionality and our fancy look , so .	look and usability
+D	992.14	but the most easy to use is just with one button on , , but easy not not the most easy to use , .	look and usability
+B	994.05	but it is it is rather easy to use , because you have the primary buttons always visible .	look and usability
+C	1003.26	no , it's it i'll go for two .	look and usability
+C	1005.0	my vote's on two .	look and usability
+D	1008.46	we also have to compare it to the to the remote controls on the market nowadays .	look and usability
+D	1014.2	so , i'm hurrying .	look and usability
+B	1014.38	but waits just minutes .	look and usability
+A	1020.19	what's the time ?	look and usability
+A	1020.81	we also have to do the evaluation , the production costs and .	look and usability
+B	1022.58	these are the regular remotes .	look and usability
+D	1027.98	the remote control is innovative .	evaluation of prototype(s)
+B	1030.01	yes , true , one .	evaluation of prototype(s)
+A	1032.36	you're agree , tim ?	evaluation of prototype(s)
+A	1034.77	you haven't seen more innovative thing in paris ?	evaluation of prototype(s)
+D	1037.1	the remote control has remova removable from multilux .	evaluation of prototype(s)
+B	1040.2	yes , one .	evaluation of prototype(s)
+D	1047.4	the remote control , it has speech recognition .	evaluation of prototype(s)
+C	1052.07	yes , it , they are built in .	evaluation of prototype(s)
+B	1053.78	this is used with speech recognition , this .	evaluation of prototype(s)
+D	1055.9	the remote control has built-in games ?	evaluation of prototype(s)
+B	1059.1	but , maybe make it two , because the games are in sub-menu and not it's not an entire game .	evaluation of prototype(s)
+A	1063.76	but they are built in , so it's one .	evaluation of prototype(s)
+D	1068.68	and the last , paren parental advisory function .	evaluation of prototype(s)
+C	1077.49	you really like the parental advisory .	evaluation of prototype(s)
+D	1079.88	yes , do .	evaluation of prototype(s)
+B	1080.83	th did you make this or the , it changes it maybe .	evaluation of prototype(s)
+C	1081.92	bu , he made it .	evaluation of prototype(s)
+D	1088.65	will do the the math .	evaluation of prototype(s)
+D	1096.23	now it's your turn .	evaluation of prototype(s)
+A	1128.19	we have now to to calculate the production cost .	costing
+A	1133.2	if it's under twelve and half euro , then it's .	costing
+A	1140.54	but is it if it is ?	costing
+A	1142.81	no , this isn't right .	costing
+B	1146.78	if they're under twelve fifty .	costing
+A	1147.41	if they under .	costing
+B	1153.2	cau 'cause so it's .	costing
+A	1155.33	if the costs are under twelve and half euro , then we can ra move on to the project evaluation , as we have experienced it .	costing
+A	1166.61	otherwise , we have do have to do little redesign thingy .	costing
+A	1170.87	so , we have to fill in the numbers of the component components .	costing
+A	1177.88	we have to fil , want to do it in and see if we stay under the twelve and half euro .	costing
+A	1187.62	so , do we have hand dynamo ?	costing
+C	1191.69	me , too .	costing
+B	1194.42	battery , yes .	costing
+A	1195.21	battery , one ?	costing
+B	1198.52	kinetic , one .	costing
+A	1199.01	kinetic , one ?	costing
+A	1200.43	solar cells , zero .	costing
+A	1202.64	simple chip on print ?	costing
+A	1208.04	no , advanced chip .	costing
+A	1210.16	sample sensor sample speaker ?	costing
+B	1211.96	no , the advanced chip is .	costing
+D	1212.83	advanced chip is three .	costing
+D	1215.97	three euros , .	costing
+C	1217.07	we have one .	costing
+A	1217.21	but it it's one one thing , it's three euro .	costing
+C	1218.0	we have one .	costing
+D	1219.02	one piece , .	costing
+C	1221.71	no , sev zero .	costing
+A	1221.78	what's the sample sensor ?	costing
+C	1223.94	that's , speech recognition and zero .	costing
+D	1225.04	speech recognition , .	costing
+B	1225.93	you give it sample , one .	costing
+A	1232.88	but is it it's not made from single uncurved thingy and then and then no ?	costing
+A	1242.23	so it's only once double-curved .	costing
+D	1245.53	yes , three .	costing
+B	1245.95	'cause the layer around it fits around the bubbles on the on the the back of the , we don't have anything else .	costing
+A	1251.65	we're now in problem , 'cause we have reached eleven euro yet .	costing
+B	1258.61	so could you step little to the right ma .	costing
+A	1259.63	but we have .	costing
+D	1259.75	just go on .	costing
+C	1260.42	just go on .	costing
+C	1260.92	then we'll see we'll we'll see wha how much we are over budget .	costing
+B	1270.87	or and zero .	costing
+A	1273.23	titanium , no ?	costing
+B	1274.9	special is the special colour ?	costing
+C	1278.09	no , this is standard colour .	costing
+C	1282.34	yes , this is special colour .	costing
+D	1282.47	but but but daniel , tha that's that's another brand .	costing
+A	1283.12	but we want to make the wood colours , that , one .	costing
+B	1286.1	if if you're honest , we'll type one , special colour .	costing
+C	1289.68	that's an add-on .	costing
+D	1293.21	that's another article to sell .	costing
+A	1297.94	but we we going to , that's true .	costing
+A	1301.1	but , it's it's it , the push-button , no .	costing
+B	1301.83	maybe we'll finish the the list first and then look back , aye ?	costing
+D	1301.84	that doesn't account for this .	costing
+B	1308.17	scroll wheel , no .	costing
+A	1308.89	scroll-wheel , no .	costing
+A	1313.12	yes , one .	costing
+A	1314.72	button , no .	costing
+A	1317.22	no , the the we don't have no .	costing
+B	1317.77	is it no .	costing
+C	1320.09	we're only four euro over budget .	costing
+C	1322.95	but , other case , we can make it single-curved or uncurved .	costing
+A	1323.11	so , what's the thing we can change ?	costing
+A	1330.33	can say something ?	costing
+A	1333.35	no , can say something as project manager ?	costing
+B	1337.08	just cut off the kine .	costing
+A	1337.51	the kinetic thing , can we just skip it , because you have to shake it , but that's not really innovative .	costing
+B	1343.29	we just put good battery it it .	costing
+B	1345.29	mobile phones nowadays .	costing
+D	1346.85	daniel , what do you think about here .	costing
+D	1349.82	what do you think about putting battery in it , but also selling like the covers , docking station just apart from the from the thing , so that you can put rechargeable batteries in it and just , , .	costing
+B	1368.38	but you can use rechargeable batteries anyway , just you you have to recharge them manual .	costing
+A	1371.98	and not really .	costing
+A	1373.75	but we if you forget about the kinetic , we do that , we shall .	costing
+D	1375.03	just an idea .	costing
+B	1376.08	that's cost reduc .	costing
+C	1381.0	you you can go from double-curved to single-curved .	costing
+A	1381.67	so , but but the single-curved is just , , .	costing
+C	1386.02	and that would solve the budget problem .	costing
+B	1388.29	so we have to bake the ba back flat , and then no , it's it's just one curve and not back curved .	costing
+C	1393.0	it's just , the single-curve that .	costing
+B	1398.5	or or are these two curves ?	costing
+A	1399.99	so that's wh tha that's one option .	costing
+B	1401.58	but what else do we have to cut out ?	costing
+A	1403.8	and then , and then we could have it , but it's its' t's it's it is the main point of the the the the look .	costing
+C	1413.57	we going to cut , we just make it flat .	costing
+B	1413.62	no advanced chip , that's little bit of problem .	costing
+A	1415.86	no , tho that that can be done .	costing
+A	1418.26	so , , little less conversation .	costing
+B	1418.7	although , can we make it with regular chip ?	costing
+D	1423.56	hey , those ar arcs , why are there for ?	costing
+D	1428.12	the blue blue .	costing
+A	1430.67	fill in just explanation .	costing
+A	1435.42	delete it for you if you want .	costing
+B	1435.53	but does it fit with our design ?	costing
+D	1436.8	no , no no .	costing
+A	1437.89	so , if we do this , we're on twelve and half euro .	costing
+A	1443.45	and we're done .	costing
+B	1447.63	do we have to adapt it ?	costing
+A	1448.48	the only thing that don't , single-curved , but there's curve in it .	costing
+B	1453.58	could we just make the bubbles cut off the back , and then we're has .	costing
+A	1454.83	so , it's really static value .	costing
+D	1460.54	but , wha 'kay , look , what is the if you make it double-curved , it costs one euro more .	costing
+C	1460.89	but , you do function .	costing
+D	1470.58	but no , but does it have lot of extra fun function more like .	costing
+B	1470.73	you make it optional .	costing
+C	1479.68	worth , does it have added worth ?	costing
+B	1480.23	there's an athe aesthetic value , but not functionality .	costing
+C	1482.22	no , , let's assume it is .	costing
+D	1486.42	you make like eleven and half euros profit instead of twelve and half .	costing
+D	1494.74	but if twelve and half is fixed fixed price .	costing
+D	1501.5	no , we can't go above that .	costing
+C	1503.11	we we should assume it that it is .	costing
+C	1505.49	but figured that the kinetic would be marketing promotion .	costing
+C	1509.46	if you promote kinetic kinetic remote control , , that would sell better than an normal remote control .	costing
+A	1520.21	do you think ?	costing
+A	1521.46	now you can shake your remote control .	costing
+C	1523.48	no , , , you can go into your neighbour and tell him , ha , my remote control is kinetic .	costing
+C	1528.88	you have standard old battery control remote con true .	costing
+D	1531.88	what what about all the the environment freaks ?	costing
+D	1535.72	not freaks , the envi no .	costing
+B	1535.99	but it doesn't fit in our co cost profile .	costing
+B	1538.42	so you ma can make an an especialised extra gold version .	costing
+D	1539.95	it's it's it look like this one .	costing
+A	1547.69	who because if you want to go to kinetic , you're you're on thirteen and half and you must go to flat , and now it's it's more of compromise thing .	costing
+A	1560.67	and if you make the single curve ha just big curve , then it's then it's , one big good curve .	costing
+B	1567.28	just one big curve .	costing
+A	1572.53	was going to say nasty words , but don't .	costing
+A	1576.49	this is strange by the way .	costing
+A	1578.8	wood is is is is cheaper than rubber .	costing
+A	1581.88	we thought that wood would be more expensive .	costing
+B	1583.62	this american figures .	costing
+B	1585.41	you just cut down some trees .	costing
+A	1588.88	but that this is this is it ?	costing
+D	1592.07	this is it .	costing
+A	1592.66	this is it .	costing
+B	1593.01	whoever makes remote control out of titanium .	costing
+A	1594.22	i'm gonna save it .	costing
+C	1598.26	it is possible , but you can't use double curves for titanium .	costing
+C	1603.73	that's one of the functionability , th you two , especially you and and daniel , you you you both had the less creative roles in the project .	costing evaluation of project process
+A	1605.66	, considering we have , we were above , so we did little redesign , now it's about time to talk about this project .	costing evaluation of project process
+D	1610.32	no , we have to do all those hours again .	costing
+D	1618.72	costs on no redesign .	costing
+B	1626.17	we , we'll start her all all over again .	costing
+A	1638.07	were there room for was there room for creativity in our meetings or in your individual meetings ?	evaluation of project process
+B	1642.2	for us , there was lot of creativity .	evaluation of project process
+D	1647.66	that there was lot of room for it .	evaluation of project process
+D	1650.97	but , that's mainly because of the information that was delivered to us .	evaluation of project process
+D	1656.37	it was just fixed information and get your from there , and couldn't go on on on the internet and search my own .	evaluation of project process
+A	1666.77	agree with that .	evaluation of project process
+C	1679.41	'cause jeroen and , we had more design we could have more we had more room for creativity than than you two .	evaluation of project process
+B	1681.04	we could just sign up an remote if we liked .	evaluation of project process
+A	1696.97	how about the leadership ?	evaluation of project process
+D	1699.9	leadership was crappy .	evaluation of project process
+C	1702.59	nah , the leadership wasn't crappy , it was the leader that was crappy .	evaluation of project process
+C	1707.67	no , the leadership was .	evaluation of project process
+A	1710.02	now we're done .	evaluation of project process
+B	1711.0	example of crappy leadershi , .	evaluation of project process
+D	1713.82	no , leadership was , the first meeting was little bit of unstructured meeting .	evaluation of project process
+C	1716.54	it was good .	evaluation of project process
+D	1721.83	you could have but , it was your first , no no disrespect , but you could have structure it little bit more .	evaluation of project process
+D	1730.03	so like , was talking most of the time the first meeting meeting , and .	evaluation of project process
+B	1734.61	you could of said , shut up you fool .	evaluation of project process
+D	1737.64	but about me .	evaluation of project process
+A	1737.8	notice it too .	evaluation of project process
+A	1738.49	was was also very unhappy , very unsatisfied about the about the first meeting .	evaluation of project process
+A	1746.04	so , hope the the the other meetings get better and the the last two meetings also we we reached some good decisions about talk .	evaluation of project process
+D	1749.35	you made up .	evaluation of project process
+C	1749.39	try to learn from your mistake .	evaluation of project process
+C	1750.89	and we will never do it again .	evaluation of project process
+D	1754.54	no , it you did better .	evaluation of project process
+B	1759.37	more more consensus .	evaluation of project process
+B	1760.91	ev everybody was agreeing every .	evaluation of project process
+D	1762.5	much more constructive .	evaluation of project process
+A	1767.38	maybe that's only , it's for us , because .	evaluation of project process
+B	1770.3	we work together on project , but everybody has his own task .	evaluation of project process
+A	1774.22	and it's wo more like presentation and some points were discussed .	evaluation of project process
+B	1774.23	so , it is little bit .	evaluation of project process
+A	1777.94	but , really teamwork were you two the ?	evaluation of project process
+B	1778.45	no , it went .	evaluation of project process
+C	1782.42	that went it went .	evaluation of project process
+C	1783.81	it's it's just nah .	evaluation of project process
+A	1785.58	no hard feelings .	evaluation of project process
+B	1785.61	stupid stupid pen , but , but but draw something difficult .	evaluation of project process
+C	1788.1	we we had some trouble with the pen , but , but us .	evaluation of project process
+A	1790.96	now you you must push little while .	evaluation of project process
+B	1796.28	just write your name right now .	evaluation of project process
+B	1798.36	try to write your name , in in writing letters , , ?	evaluation of project process
+B	1806.94	normally , this the block letter sign it , ?	evaluation of project process
+B	1812.28	just just write your name in in one line .	evaluation of project process
+B	1814.45	if it's little bit too small bit quicker now .	evaluation of project process
+B	1817.8	it didn't he he knows how it works , .	evaluation of project process
+A	1817.88	you can be you can go quicker , 'cause then it it won't notice it .	evaluation of project process
+A	1824.95	follow the master class for the smartboard , so that's the that's the main issue .	evaluation of project process
+A	1830.94	so about this one you were you're dealing with , the the the the digital pen .	evaluation of project process
+B	1838.56	th the the idea is great , but it doesn't work properly .	evaluation of project process
+D	1843.57	digital pen , th the first time did individual work , used it .	evaluation of project process
+D	1849.21	but , and the first two meetings brought it with me , but didn't use it after the first the first meeting .	evaluation of project process
+C	1856.26	no , have it working .	evaluation of project process
+C	1857.19	but , , no , it doesn't have that much added value to the .	evaluation of project process
+D	1858.52	it's it's not real real use for me .	evaluation of project process
+B	1863.27	as as said few moments ago , it would like , myself , to write with normal pen , because must , it's almost the same concept , but you can just sim more simply put it on our scanner .	evaluation of project process
+B	1876.73	it's the same concept as the pen , where you have to download the software or very slow .	evaluation of project process
+A	1883.94	and it is still your own handwriting popping up in word .	evaluation of project process
+B	1886.16	no , and it doesn't give any added value .	evaluation of project process
+A	1889.21	no , that's true .	evaluation of project process
+D	1889.61	not really , no .	evaluation of project process
+A	1892.09	and the smartboard is useful , but the the pen is not user-friendly , .	evaluation of project process
+A	1899.45	be it it takes lot of time to draw things and to write things , and that's the , but that's not th the the you when you at foreign audience , you don't gonna wr write small .	evaluation of project process
+B	1902.11	and it's it's not very precise .	evaluation of project process
+B	1904.12	we're trying to to , it may , and tr try to wri write your name in in normal size , .	evaluation of project process
+D	1904.23	like when you do this .	evaluation of project process
+B	1917.24	just like when you're writing on letter .	evaluation of project process
+B	1925.62	no , as you saw on on this drawing , just open open this one or that one .	evaluation of project process
+B	1931.1	it's th it it , we had more problems even here when we trying to draw these buttons , it's almost impossible to get clear when you're and the eraser was another problem .	evaluation of project process
+A	1942.66	but maybe there's some function with no , it isn't .	evaluation of project process
+B	1947.76	it is is this large .	evaluation of project process
+B	1949.6	and when you try to erase this line , i'm gonna erase my name there .	evaluation of project process
+A	1953.36	i'm gonna erase my name .	evaluation of project process
+A	1958.61	it's big big eraser .	evaluation of project process
+B	1962.47	abo what new ideas ?	evaluation of project process
+A	1963.29	the the idea of the touch-screen is i'm just what what .	evaluation of project process
+B	1970.42	new ideas about the working of this software , about about the project , about the remote controls or hello .	evaluation of project process
+D	1990.98	did you heard what he said ?	evaluation of project process
+D	1998.26	have some figure .	evaluation of prototype(s)
+D	2001.5	the eva the evaluation , the the mean number is one point eight one point eight six .	evaluation of prototype(s)
+D	2010.88	so that's fairly fairly good , .	evaluation of prototype(s)
+A	2012.98	because what does it mean ?	evaluation of prototype(s)
+D	2015.3	that all the requirements are true or very true , right .	evaluation of prototype(s)
+A	2018.06	all the mo , are between one and two .	evaluation of prototype(s)
+A	2029.72	but the new ideas found for wi with working with this software ?	evaluation of project process
+B	2034.97	not really , just they have to improve it .	evaluation of project process
+A	2035.82	not really , ?	evaluation of project process
+B	2037.49	the concept is , but it has to be quicker .	evaluation of project process
+B	2041.75	it is still opening my programme , almo almost my entire computer is locked up during the process and it , , just takes too many time .	evaluation of project process
+B	2051.07	people will still feel the need to to write it quickly on page and not download it and save it , and more user-friendly .	evaluation of project process
+A	2058.17	you had expected it to to be more more .	evaluation of project process
+B	2065.41	'cause when you use pen , you can just draw like you draw normally , and you do .	evaluation of project process
+D	2069.88	may maybe the idea you proposed is screen here .	evaluation of project process
+D	2075.71	and draw it , and it's it's placed over there .	evaluation of project process
+B	2077.66	that would be easier .	evaluation of project process
+B	2080.48	or at least when you you don't have to adapt to the technology , just you can write in the way you normally write .	evaluation of project process
+B	2088.05	and now you have to keep constantly in mind that you're drawing on this screen .	evaluation of project process
+B	2092.91	and that's very bad concept .	evaluation of project process
+B	2097.04	nah , , it's my opinion that , it's can be saved easier .	evaluation of project process
+D	2097.2	but this is better than regular flip-overs , but .	evaluation of project process
+B	2105.89	but if you're in normal flip-over you lot of people write text .	evaluation of project process
+B	2110.22	there's no text option .	evaluation of project process
+B	2111.79	and writing text , , you've gotta really do your best to write some .	evaluation of project process
+A	2116.34	and and maybe some functions for circle or square .	evaluation of project process
+A	2125.42	you have to draw it yourself now .	evaluation of project process
+B	2126.95	or maybe even insert picture .	evaluation of project process
+B	2129.3	if you have some presentation , and you have some .	evaluation of project process
+C	2131.36	or text function .	evaluation of project process
+C	2132.43	just type text , and that that would be excellent .	evaluation of project process
+D	2136.28	but insert image isn't available ?	evaluation of project process
+B	2141.31	'cause then you could , .	evaluation of project process
+D	2142.3	picture from scanner , clip-art .	evaluation of project process
+A	2143.58	that that can be done already .	evaluation of project process
+A	2146.07	but not the the the the predefined squares ?	evaluation of project process
+B	2146.16	so you can with w_w_ dot google dot com .	evaluation of project process
+D	2151.33	hey , what if you do like hyperlink ?	evaluation of project process
+D	2155.16	type type it ?	evaluation of project process
+D	2160.97	re real reaction dot n_l_ .	evaluation of project process
+D	2164.7	yes , is now is .	evaluation of project process
+B	2168.09	you'll just make link in .	evaluation of project process
+B	2173.74	there's one way to maybe if if you're not using the eraser something else th , arrow .	evaluation of project process
+A	2175.49	is it here .	evaluation of project process
+D	2176.26	'kay , double-click it .	evaluation of project process
+A	2188.56	here , that .	evaluation of project process
+A	2190.46	so you have as you saw , you have little , you can , .	evaluation of project process
+A	2199.22	you can go there .	evaluation of project process
+A	2204.05	so there the the the functionality is there , but it's not it's not ideal , and it's it's very it costs lot of time to to use .	evaluation of project process
+B	2211.81	to use , .	evaluation of project process
+A	2213.66	and that's pity , if you if you have thirty , forty minutes for this things , and we are now with four people , but it , imagine you are here you're with the ten people and everyone .	evaluation of project process
+B	2219.26	and that's that's mostly the case , from the over here with the managements you get two minutes to make your case , and if you have to do all this kind you'll rather use powerpoint and work it out in advance .	evaluation of project process
+A	2230.93	two minutes of drawing , .	evaluation of project process
+B	2236.53	and th the one or two things you have to draw when you're there , just use flip-board .	evaluation of project process
+D	2241.47	what really miss also is is is turtle is decision decision system like with the evaluation , you have to polls like , what do you want , one , two , maybe little application like give your own number and click one two three four five six seven .	evaluation of project process
+A	2272.7	just like he said with the with the screen which you can write , also voting mechanism .	evaluation of project process
+D	2277.5	ju ju , voting application .	evaluation of project process
+D	2280.46	just little group group decision application .	evaluation of project process
+C	2283.76	but , problem is , you can't discuss anything you you ca you can , but you will discuss lot less than like we did now .	evaluation of project process
+C	2293.12	we one one person maybe said three .	evaluation of project process
+C	2297.26	but , we said , no th think two , because this and this , and then you can react on it .	evaluation of project process
+C	2303.62	but if you you put three on it , just figure , everybody knows what i'm knowing , so they'll all just put two on .	evaluation of project process
+D	2311.95	but , you can still discuss about it , but but click it in an application , that's lot easier to process .	evaluation of project process
+C	2316.13	but it would .	evaluation of project process
+C	2321.68	the for processing part .	evaluation of project process
+C	2324.37	but then , the idea of one person entering it and the rest discussing it , that isn't that bad idea , actually .	evaluation of project process
+C	2333.88	not that your opinion isn't valued , but but still .	evaluation of project process
+A	2340.3	so , just about , because , tomorrow ?	closing
+B	2341.12	yo , manager .	closing
+B	2342.84	when are when are we going to produce it ?	closing
+A	2348.94	the costs are within the budget .	closing
+A	2351.52	the project is evaluated .	closing
+A	2353.53	but , before we going to celebrate , have little question which you can't answer , because there must be some end report .	closing
+A	2362.95	am busy with the end report right now .	closing
+A	2365.16	you might thinking what the hell was he doing about all the meetings , what we have decided , report of this day .	closing
+D	2367.01	what is an end report ?	closing
+A	2373.53	that must be made , but , here is standing whoa , we can celebrate now , but the end report is , that that can be done .	Filling in final report closing
+D	2379.51	you ha you have ten minutes left , read .	closing
+D	2383.39	you have now ten minutes left to finish up the end report .	Filling in final report
+A	2387.77	maybe we can do it together .	Filling in final report
+A	2389.29	you can see what i've ?	Filling in final report
+A	2391.31	so will put it on story-board .	Filling in final report
+A	2396.37	you can see it .	Filling in final report
+D	2399.58	you you already made beta version , or pages .	Filling in final report
+A	2399.79	because it will it must be , it's three with seventy five , just about .	Filling in final report
+C	2412.83	seventy five pages .	Filling in final report
+D	2423.78	do you want chair maybe ?	Filling in final report
+A	2427.55	no no no , i'm just you can you can read it and here here it is .	Filling in final report
+C	2432.86	so you you finished it actually , and so we just have to read it and say yes or no ?	Filling in final report
+A	2437.68	this not nit it read-only .	Filling in final report
+A	2440.4	but it's not fully finished yet .	Filling in final report
+D	2441.54	five minutes for finishing .	Filling in final report
+A	2444.47	this is about the functional design , the things .	Filling in final report
+D	2447.91	management expert , you have to change that .	Filling in final report
+A	2450.87	i'm when said it , remember had it here .	Filling in final report
+B	2453.8	it's read-only version .	Filling in final report
+D	2455.9	but you can save it the under another name .	Filling in final report
+A	2459.22	marketing expert , .	Filling in final report
+A	2461.03	about the three functions where which are most used and which must immediately be visible on our remote control .	Filling in final report
+A	2472.12	it must be simple to use , very clear what to do , and at the younger people .	Filling in final report
+A	2478.03	so , this is really about wh what kind things must be in it and .	Filling in final report
+D	2483.26	maybe the the .	Filling in final report
+B	2490.97	one two three .	Filling in final report
+A	2491.48	understand you , talk little bit dutch .	Filling in final report
+D	2494.91	no , you have to put , switch channels at the top , because that's the most used function and teletext at the second nay , volume changing , second .	Filling in final report
+A	2499.82	oka , , really didn't knew that .	Filling in final report
+A	2507.7	so , this one's first .	Filling in final report
+D	2508.44	switch , yes .	Filling in final report
+A	2511.49	you go there and you go there .	Filling in final report
+A	2516.04	maybe then do it one two three .	Filling in final report
+D	2520.86	yes , very good .	Filling in final report
+A	2522.91	if the order is in is is important , that's the word for .	Filling in final report
+A	2528.43	then the conceptual design .	Filling in final report
+A	2533.4	all the things we have discussed , the energy , which turn out to be batteries , so that's , because .	Filling in final report
+B	2541.79	, maybe you can add it later that we decided in the end because of the cost .	Filling in final report
+A	2546.54	he here it is still double-curve , the rubber , the flashy , the fruity , the removable .	Filling in final report
+C	2553.29	it's not double .	Filling in final report
+C	2554.39	it's not double anymore , ?	Filling in final report
+A	2555.94	not double anymore .	Filling in final report
+A	2556.9	nay but that this is what .	Filling in final report
+D	2559.21	was initial , the plan .	Filling in final report
+D	2561.1	the initial plan .	Filling in final report
+A	2561.59	and the the added functions like tetris snake , it's under the parental control , the touch-screen .	Filling in final report
+C	2566.94	on thing one small thing , the added functions .	Filling in final report
+A	2567.05	so , it's just summary of what we had discussed , it's very cheap , you you maybe you you you you come at it's very necessary .	Filling in final report
+C	2572.06	was it included in the cost ?	Filling in final report
+B	2575.51	it's very cheap .	Filling in final report
+C	2576.82	it's very cheap .	Filling in final report
+D	2581.12	no , it's it's not very cheap , but that no , but it's development inside corporation .	Filling in final report
+D	2590.16	like , we don't have to buy parental control .	Filling in final report
+D	2594.45	our own people can make that , .	Filling in final report
+A	2596.11	but it still has some .	Filling in final report
+D	2597.89	it it has some cost , but .	Filling in final report
+A	2599.65	but so we can discuss that we can discuss that things with the with the the board of what's it what's the company called ?	Filling in final report
+B	2599.96	he'll do it in his free time .	Filling in final report
+B	2601.42	so of directur or directors .	Filling in final report
+A	2611.25	keep forgetting it .	Filling in final report
+A	2613.84	real real reaction .	Filling in final report
+A	2619.22	real reaction , .	Filling in final report
+B	2620.3	you can ask your personal , the end conclusion .	Filling in final report
+A	2620.83	so anybody misses something here about , , that's that's what i'm gonna write between now .	Filling in final report
+B	2625.82	but , the decision to make the buttons on the top , and the menu on the on the bottom .	Filling in final report
+D	2628.18	still the end conclusion .	Filling in final report
+D	2629.38	that's all , .	Filling in final report
+A	2629.56	but , in here nothing mm-hmm .	Filling in final report
+B	2638.95	and clearly , touch-screen you've mentioned .	Filling in final report
+A	2643.06	touch-screen i've mentioned .	Filling in final report
+D	2643.82	but but the the decisions are put in the conclusion , .	Filling in final report
+D	2649.47	why we decided to use flat l_c_d_ .	Filling in final report
+A	2653.36	, gonna redesign something now .	Filling in final report
+A	2662.04	because it will , five minutes from to finish meeting .	Filling in final report
+B	2664.23	before you change anything maybe you save it first .	Filling in final report
+B	2678.72	you can't you can select file and export and then those j_ peg files .	Filling in final report
+D	2683.41	but then you had the same thing .	Filling in final report
+B	2686.42	and we have , another blank one .	Filling in final report
+D	2689.12	example of children remote .	Filling in final report
+B	2689.69	did we change anything ?	Filling in final report
+B	2710.88	it's new commercial logo .	Filling in final report
+B	2722.91	don't save it , aye ?	Filling in final report
+A	2725.88	that's , tim .	Filling in final report
+B	2740.94	why are only the first five smartboard files saved ?	closing
+A	2741.06	finish meeting now .	closing
+A	2742.23	i'm i'm i'm going to finish my end report .	closing
+C	2747.63	hereby is the meeting is finished .	closing
+A	2753.82	am the one who can say that .	closing
+A	2756.71	hereby the meeting is finished .	closing

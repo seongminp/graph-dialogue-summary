@@ -1,0 +1,21 @@
+The Industrial Designer presented options for each component.
+He suggested kinetic energy, a titanium case, and rubber push buttons.
+The group will ask if the kinetic energy component can provide enough energy.
+The User Interface Designer introduced the graphical user interface to the group and suggested using an LCD screen.
+He presented several existing products and suggested the following: large buttons; voice recognition; either push, scroll, or spinning buttons; and incorporating some customizable components.
+The group discussed including a help button; it was decided that it would make the device seem more complicated.
+The Marketing Expert presented that users found remotes too easily lost, complicated, and ugly.
+He showed that users were willing to pay more for a fancy remote.
+He suggested the LCD screen; the group felt that it was better to utilize the user's television as a display screen, but that they would inquire about cost before deciding.
+The group will inquire about the cost of voice recognition and scroll buttons.
+The group discussed incorporating a locator function and customization for children.
+They discussed the sensitivity of the voice recognizer to other noises; the group will ask about the capability of the recognizer.
+The group will find out if the kinetic energy component can provide enough energy.
+The group will inquire about the cost of voice recognition and the scroll button.
+The group will ask about the capability of the voice recognition component.
+The group decided not to include a help button on the device because it would make the remote seem more complicated.
+There was not enough information about the capabilities of the voice recognizer or the kinetic energy source.
+There was not enough information on the cost of several components.
+No decision was made about whether or not the LCD screen should be included.
+No decision was made about including a locator function, or what form it should take.
+No decision was made about making the remote programmable for children.

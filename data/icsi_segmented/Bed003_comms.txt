@@ -1,0 +1,432 @@
+they 'd all be like pointing to the one node .
+Versus pointing to just at " tourist " ,
+That 's that 's an interesting point .
+It might be that if you add a new thing pointing to a variable , you just like it just overwrites everything .
+So a person pointing to something on the screen , ,
+
+Whether it 's a Whether it 's a public building , and whether it 's actually has a door .
+explain to me why it 's necessary to distinguish between whether something has a door and is not public .
+It seems like it 's equivalent to say that it doesn't have a door a and it
+Or " not public " and " not a door " are equivalent things ,
+Can we add , just so see how it 's done , , a " has door " property
+
+In the sense that , , if it 's Tom the house of Tom Cruise , , it 's enterable but you may not enter it .
+Whether it 's practically speaking enterable , or actually physically enterable or not ?
+S so it 's matrix between if it 's not enterable ,
+And if it if you do it If you could connect it too hard you may get such phenomenon that like " So how much has it cost to enter ? "
+So you 're thinking like a hundred and forty four possible things numbers to enter ,
+
+What if the context , which is not set , but still they say things like , " I want to go , see the the castle and , et cetera . "
+If the context were to set one way or another , that like strongly , says something about whether or not they 're tourists .
+So what 's interesting is when it 's not when it 's set to " unknown " .
+We - what set the they set the context to " unknown " ?
+
+right now it 's still in a toy version of it ,
+which is maybe something that is , a more general version of the actual phenomenon that you can observe .
+that 's like the bigger , version of it .
+
+Not because it would expedite the probabilities , cuz it wouldn't .
+cuz I got a wireless mike on .
+Cuz if it 's like , If it 's four things coming in ,
+
+It 's talks about It just refers to the fact that one of main things we had to do was to decide what the intermediate nodes were ,
+So the " tourists " node should be , very consistent with the context node .
+Like is that to be if that 's accurate then that would determine tourist node .
+How long would it take to add another node on the observatory and , , play around with it ?
+actually it 's it wouldn't affect any of our nodes ,
+That would all f funnel into one node that would constitute entrance requirements like that .
+the nodes , the observed nodes , for your middle layer .
+Or we could like add more , , middle nodes .
+Like we could add a node like do they want to enter it ,
+and we make up some toy a observable " nodes "
+
+I if that question 's in general ,
+but in general they would be a probability distribution over all verbs .
+If you say that 's more their in general what their background is .
+Actually we could write a program that could generate this .
+if there 's a way to define it or maybe generalize it some way
+so I how if any of this was discussed but how i if it all this is going to interact with whatever general , other discourse processing that might be happen .
+just refine some of the more general nodes .
+
+The context , which in this case we 've limited to " business person " , " tourist " , or " unknown " ,
+it 's just the businessman , the tourist , unknown .
+
+but are you saying that in this particular domain it happens the that landmark - iness cor is correlated with
+And I was just wondering whether that 's the same as what you describe as " landmark - iness " .
+There 's landmark for , touristic reasons and landmark for
+The landmark is facing to the tourists .
+That 's because we 're talking about landmarks as touristic landmarks
+So maybe we wanna have " landmark " meaning now " enterable landmark " versus , something that 's simply just a vista point , .
+
+but the middle thing , we were thinking along the lines of maybe trying to figure out , like , the concept of whether they 're a tourist or whether they 're running an errand like that
+Whether the destination was their final destination ,
+but the other ones , the final destination , the whether they 're doing business , whether they 're in a hurry , and whether they 're tourists ,
+Whether you 're It 's whether It 's not
+y If you 're running an errand you maybe more likely to be able to enter places that are usually not al w you 're not usually not allowed to m
+So this again points to " final destination " , " doing business " , " tourist hurry " and .
+Then again , everything else is free then once you 're ins in there .
+but we should try to keep in mind that , , we 're doing this for research ,
+here 's like we 're gonna segment off a bit of that comes from discourse
+One task is more likely you 're in a hurry when you do that s doing business ,
+and less in a hurry when you 're a tourist
+tourists may have never have final destinations , because they are eternally traveling around
+In which case you 're supposed to alert the authorities , and see appropriate action .
+
+Can you maximize the window so all that on the side isn't doesn't appear ?
+it 's it 's an issue ,
+and it also helps in coordinating the gesture screen issues .
+What 's the technical term ?
+You think there 's a chance we might need Liz for , whatever , the technical side of things ?
+experimental setup u on the technical issue
+
+Yes , we could things we couldn't extract the from the data , the hidden variables .
+So then the hidden variables hair variables we came up with were whether someone was on a tour , running an errand , or whether they were in a hurry ,
+What 's common is you just like don't observe the variable ,
+So it 's addressing a variable that 's " enterable or not " .
+So I if there There 's some m more than one way of organizing the variables into something
+so it , my computer does not know its IP address ,
+Like we wanna we wanna be able to collect as much of the variables that are needed for that ,
+
+, , " the search for the middle layer " .
+So then our next idea was to add a middle layer ,
+So , the middle layer is also binary ?
+but to get thinking about that hidden middle layer .
+So maybe this could be a separate region of the net , which has two has it 's own middle layer .
+That 's a whole set of discourse related cues to your middle layer .
+They ra may have there own hidden layer that points to some of the real hidden layer , or the general hidden layer .
+And maybe there 's a hidden layer for that .
+so maybe what what happened what might happen is that we do get this task - based middle layer ,
+and then we 'll get these sub - middle layers , that are more cue - based .
+
+So there are certain cues that are very strong either lexical or topic - based , concept cues
+We were like " , if the person does this and this , let 's say forty percent for this ,
+I I like about these meetings is one person will nod , and then the next person will nod , and then it just goes all the way around the room .
+, there might be other cues that , say , , in the last few utterances there has been something that has strongly associated with say one of the particular modes
+it 's more for a cue that the person actually wants to get somewhere else
+So tha that structure that Robert drew on the board was like more , cue - type - based ,
+not ex it 's implicit that the person wants to enter ,
+
+Like we don't have nodes for " discourse " and " parse " ,
+I once we look at the data more we 'll get more hidden nodes ,
+and this may influence these hidden nodes of the discourse
+
+But if you really want to find out what it 's about you have to click on the little light bulb .
+One thing that bugs me about JavaBayes is you have to click that and do this .
+it 's cra has a GUI and it 's
+probably double cli click on it .
+so we should find a limit that 's reasonable and not go , , all the way back to Adam and Eve .
+This person is , finding out information about this thing in order to go in as a tourist or finding out how to get to this place in order to do business .
+, that 's how we get a corpus that we can label .
+
+anything with a question mark after it in that picture is a binary node .
+But all those things without question marks are also binary .
+but it doesn't have question mark because it 's extracted .
+So like an " enterable , question mark " .
+And then , there 's also the question whether it may be entered .
+So I your question is so far I have no really arg no real argument why to differentiate between statues as statues and houses of celebrities ,
+
+And then " Let 's look at the belief - net " OK .
+although like in some sense they are parts of this belief - net .
+So the issue is that in belief - nets , it 's not common to do what we did of like having , , a d bunch of values and then " unknown " as an actual value .
+
+What 's what 's " Disc admission fee " ?
+There were there 'd be other things besides just the admission fee ,
+so one thing I 'm unsure about , is how we have the discus the " admission fee " thing set up .
+but you could see perhaps discus the " admission fee " going directly to the mode pointing at " Enter " ,
+Disc - " admission fee " is a binary thing ,
+I like I like Word Pad because it has the the returns ,
+is that maybe we ob we could observe a couple of discourse phenomena such as the admission fee ,
+So instead of single node , for like , if they said the word " admission fee "
+admission fee , or maybe , , " how much to enter "
+, the " discourse admission fee " node seems like it should point directly to the
+which is affected by admission fee and by whether it 's closed and by whether it has a door .
+that the h nothing beats the admission charge prices in Japan .
+
+because if you 're gonna get real close to a building in the Tango mode ,
+But if you looked at it real close , you could see the in intricacy of the of the walls .
+Something you want to inspect at close range because it 's interesting .
+it just had the er and what time it closed .
+Close it and load up the old state so it doesn't screw that up .
+like they want to enter , but it 's closed ,
+
+We couldn't we couldn't figure out how to turn it off of " Tango " .
+So the discourse refers to " admission fee " but it just turns out that they change their mind in the middle of the discourse .
+there 's a there 's change across several turns of discourse
+and , if the discourse takes a couple of turns before everything all the information is needed ,
+So so if on Friday it turns out that she really likes it and we really like her , then nothing should stop us from sitting down next week and getting all the details completely figured out .
+
+I saw directory called " source " ,
+I 'd rather stay home and watch TV "
+, that 's what it 's called .
+It 's amazing what human beings can do .
+I actually made a mistake because it fell asleep
+and when Linux falls asleep on my machine it 's it doesn't wake up ever ,
+
+because it 's because have the time of day
+And then in that second row or whatever that row of Time of Day through that So all of those Some of them come from the utterance
+Unmark @ @ Time of Day
+time of day is like morning , afternoon , night .
+And the time of day is night ?
+it 's night time ,
+
+It 's a needless good idea .
+OK , So our initial idea was not very satisfying , because our initial idea was all the features pointing to the output node .
+The person at the screen is trying to communicate some abstract idea ,
+like " I 'm " the abstract idea being " I am a tourist
+But The idea is that we just extract those features from them , so we don't actually have a node for the entire parse ,
+
+Reasons being , , it 'd be a pain to set up all the probabilities for that .
+The probability whether the probability of a Vista , Tango , or Enter .
+And that would require s updating the probability distribution for " mode " as .
+and then try to find the probability of other nodes .
+Like , we hand - tuned the probabilities ,
+It 's So we have to like fit the probabilities .
+However , it The purpose was not really , at this stage , to come up with meaningful probabilities
+That 's how actual probability tables are specified .
+we can maybe write an interface th for entering probability distributions easily ,
+I actually seem to recall Srini complaining about something to do with Entering probability
+. The additional thing is I learning the probabilities , also .
+
+Normally context will include a huge amount of information ,
+No I Earlier I went {nonvocalsound} and Bhaskara went {nonvocalsound} and you did it .
+So even without an a ana anaphora somebody has to make that information we had earlier on is still here .
+so it 's a it 's a rather huge thing
+and then get s some more information and then you see " here 's a sequence that this roughly fits into " .
+So it may get us some more information on the human - machine pragmatics , , that no one knows anything about , as of yesterday .
+
+So it seems like that would really help you for doing business versus tourist ,
+do they allow business people to be doing non - business things at the moment ?
+but we cannot be in a medium hurry at the moment ?
+So . Are " doing business " versus " tourist "
+Business on the other hand is , , definitely what you 're doing .
+wh you have to go get money and so you are doing business at that stage .
+it 's it affects th The " doing business " is certainly not .
+You could affect Theoretically you could affect " doing business " with " has door " .
+
+whether they discuss the admission fees .
+say they discussed the admission fee
+They don't discuss the admission fee .
+If it 's night time , they have not discussed admission fee , and the n walls are .
+So a more general thing than " discussed admission fee " , could be
+Something Somebody can have discussed the admission fee and u the answer is s if we
+We can query it whether admission fees were discussed in the last turn
+, did that person ever discuss admissions fee fees in his entire life ?
+So one thing that might be helpful which is implicit in the use of " admission fee discussion " as a cue for entry , is thinking about the plans that various people might have .
+
+that 's always warping on something some entity ,
+Or or any good old Pink Floyd concert .
+One time I saw a report on trains ,
+you always had to change trains at Omaha ,
+I 'm frightened by Amtrak myself .
+It 's not like German trains .
+I used Amtrak quite a bit on the east coast
+But it 's a , , simple solution .
+So what 's " Economics , the fallacy " ?
+
+meaning " It 's way out of my budget "
+see whether she can actually do all the spontaneous , eloquent and creativeness that we expect of the wizard .
+figured it has to be someone who 's , , familiar enough with the data to problems for the wizard , so we can , , see if they 're good .
+, in this case it 's a p it 's a testing of the wizard rather than of the subject .
+except we st we still need a recording device for the wizard ,
+and have the wizard partake in the ultimate definition probe .
+
+OK , so , so note the four nodes down there , the , the things that are not directly extracted .
+The " closed " is also not directly extracted I ,
+we kept things from directly affecting the mode beyond the concept ,
+or increase the probability of " enter directly " versus " going there via tourist " .
+Either like make an arrow directly or put a new node .
+
+And then maybe there are some discourse acts if they happened before ,
+now it 's up for us to figure out what going there is is happening ,
+Because not every module keeps a memory of everything that happened .
+so whenever the , person is not actually rejecting what happened before ,
+
+It opens the Assistant that tells you that the font type is too small .
+That 's " saliency " , or the " salience " of an object .
+we have an object type statue .
+And then we have , , an object type , , that 's a hotel .
+It 's the hotel Zum Ritter ,
+the verbs used , the object types used , modifiers .
+
+the prosody , the discourse , verb choice .
+but you can imagine maybe wanting the oth both kinds of things there for different , goals .
+Verb used is actually personally amusing
+mainly because it 's it 's just whether the verb is a Tango verb , an Enter verb , or a Vista verb .
+Similarly prosody is not all of prosody
+It it can take values in the set of all verbs , that they could possibly use .
+but you can imagine that it 's verb plus various other things that are also not in the bottom layer that would that would help you
+
+and " open to suggestions " , isn't actually a feature .
+It 's " We are open to suggestions . "
+I either could put " walls " on its own line or " open to suggestions " off the slide .
+. I would actually suggest we go through this one more time so we all , agree on what the meaning of these things is at the moment
+So , I suggest w to for to proceed with this in the sense that maybe throughout this week the three of us will talk some more about maybe segmenting off different regions ,
+
+So then the features we decided or we decided we were talked about ,
+but I decided to put it on the same line for space .
+If you have N features , then it 's two to the N or exponential in N .
+so we decided that for the purposes of this it 'd be simpler to just have three verbs .
+But we just decided to keep all the things we extracted to point at the middle and then down .
+but simply for our purposes whether or not they appear tense or relaxed .
+
+So that 's like a huge clue that they 're trying to Enter the place rather than to Tango or Vista ,
+So that is the probability that they 're Entering , Vista - ing or Tango - ing .
+So slightly biased toward " Tango " ing
+Maybe the bias toward " Tango " ing was yours , then ?
+Spent my youth practicing the tango de la muerte .
+But , , it 's still an unlikely candidate for the Tango mode I must say .
+and especially since Johno can't stop Tango - ing , we may actually include , , those intentions .
+
+Dat - dat - dah .
+it get into plan recognition kinds of things in the discourse .
+, because then anything that 's a cue for one of the steps would be slight evidence for that overall plan .
+They 're in non in more traditional AI kinds of plan recognition things you have , some idea at each turn of agent doing something ,
+OK , wha what plans is this a consistent with ?
+It 's in the these plan schemas .
+And then these should then connect somehow to the more plan - based deep space
+
+Because I 'm gonna switch to the JavaBayes program
+but , we are just using the particular part of the context which consists of the switch that they flick to indicate whether they 're a tourist or not , I .
+The the So the context is a switch between tourist or non - tourist ?
+so , that was directly given by the context switch .
+I 'm just wondering whether the context , the background context of the discourse might be
+
+There 's like an XML format for Bayes - nets .
+But if th if there is an XML file that or format that it can also read
+and he 's updated it for an XML version of I Bayes - nets .
+There 's a Bayes - net spec for in XML .
+So essentially a lot of those nodes can be expanded into little Bayes - nets of their own .
+, another thing to do , , is also to , I to ask around people about other Bayes - net packages .
+I how much the structure of the evolving Bayes - net will af affect
+
+You Like you could have a post office with , murals .
+So , a big flat structure .
+I 'm a big fan .
+That 's my favorite editor .
+It helps an anaphora resolution and it and it fills in all the structures that are omitted ,
+But , I whether it 's which ones are safer , , statistically .
+
+I didn't i install that into my PowerPoint presentation .
+Why are you doing this in this mode and not in the presentation mode ?
+but then I have to end the presentation in the middle so go back to open up
+every presentation have a should have a " Future Work " slide .
+And if you have a presentation that doesn't have something that doesn't work , then you have " What I learned " , as a slide .
+OK , so that our presentation 's finished .
+It 's it 's actually the whole memory of the entire system , that knows what wh who said what , which was what was presented .
+the discourse model actually stores what was presented at what location on the s on the screen
+it looks up some that , , is that is in the written by the operating system only if it if you get a DHCP request ,
+
+It 's It 'll work .
+I 'll also get rid of this " Click to add notes " .
+I 'll talk about it when I get the picture up .
+And that 'll affect whether you want to enter or you if you
+It 'll ask you what you what it wants what you want to open it with and see what BAT , I .
+giving his job talk .
+And then maybe we 'll discover the phenomenon the phenomena that we want to solve , , with whatever engine we come up with .
+
+If we moved onto the next step and did learning of some sort , according Bhaskara we 'd be handicapped .
+and the answer is two hundred fifty dollars ,
+There are places in Germany where it costs two hundred fifty dollars to enter ?
+So there , two hundred dollars is moderate for getting into a discotheque .
+and it 's fifty steps ,
+And it 's because that person actually is following , You execute a whole plan of going through a hundred and fifty steps , , without any information other than " New York " ,
+
+They 're not exclusive groups ,
+They 're not mutually exclusive ?
+And are those mutually exclusive sets ?
+
+They refer to your current task .
+entering or som like they might be more task - based .
+that What you guys did is really nicely sketching out different tasks , and maybe some of their conditions .
+but , if we take a subject that is completely unfamiliar with the task , or any of the set up , we get a more realistic
+So now we should maybe have at least one navigational task with explicit
+and maybe some task where it 's more or less explicit
+
+We can do a demo in the sense that we can , just ob observe the fact that this will , do inference .
+The reason I say the demo doesn't work very is yesterday we observed everything in favor of taking a tour ,
+that 's future work .
+I , the fact that the there 's a complete separation between the observed features and in the output .
+you 'd have to figure out what knowl what knowledge representation would work for that .
+just for buying a ticket at a ticket counter ,
+W when we talked we had the example , , of you being a s a person on a ticket counter working at railway station
+
+the of " doing business " as more of running an errand type thing .
+So if you run out of cash as a tourist , and and you need to go to the AT
+and somebody r runs up to you with a suitcase in his hands , says New York
+Jerry however suggested that we should have a trial run with her ,
+and it looks as if Friday afternoon will be the time when we have a first trial run for the data .
+So who would be the subject of this trial run ?
+just a tape recorder that 's running in a room .
+
+And it 's either because you 're in route to something else or you wanna look at the walls .
+can ask the walls part of it is that , in this particular domain
+So " walls " is a stand in for like architecturally it , significant
+but if it 's architecturally significant you might be able to see it from
+I was at this place in Europe where they had little carvings of , like , dead people on the walls .
+So that count as counts as a wall .
+and some of them are either world knowledge or situational things .
+walls is something that we extract from our world knowledge .
+- And lots of detail , c and carvings , engravings and ,
+
+So we 're gonna set up features along the lines of where they want to go
+You 'd probably have to transfer in Chicago .
+Is that t San Francisco , Chicago ?
+but there was like a California to Chicago line of some sort .
+there are tourists and all this weird happens at the line up and you 're like
+The data we get from Munich is very command line ,
+
+So Tom Cruise 's house is not a public building
+So , the most famous building in Heidelberg is actually a hotel .
+which is the only Renaissance building in Heidelberg that was left after the big destruction and for the Thirty Years War , blah - blah .
+, , still , based on that result is never going to enter that building .
+
+OK , I have to report , data collection .
+meaning be the wizard for the data collection ,
+So , is it a experimental setup for the , data collection ready determined ?
+The the basic u idea behind the data collection was the following .
+So we wanted just to collect data , to get that elicits more , , that elicits richer language .
+So in other words this data collection is more general .
+Whereas , , if we 'd just get data we 'd never they actually wanted ,
+
+Although I 've I 've never I what the light bulb is for .
+So the thinking behind that was we have the features that we 've drawn from the communication of some Like , the someone s
+and what they 've said previously and whatnot .
+But that would 've made the probably significantly be more complicated to enter ,
+we should have exponentially more middle nodes than features we 've extracted .
+I like how we 've you guys have successfully narrowed it down .
+
+or dis we could discrete it des descret - ize it .
+so I it 's averaging over all those three possibilities .
+What movie was selected in what cinema in what town is going to be added into the disc into the representations every di at each dialogue step , by the discourse model discourse model ,
+And the dialogues are pretty concise
+, the only like possible interpretation is that they are like come here just to rob the museum to that effect .
+
+it 's starting to grow on me
+There are various things that you might w not want to eat a meal there but your own table .
+also we can , start looking at the SmartKom tables
+And if I reboot without a network , I will not be able to start SmartKom , because I need to have a network .
+But once you start sart start SmartKom you can be on You don't have to be on a network anymore .
+
+One track ended there and the other one started at five meters away from that
+. The - they will be aud ad - hoc for for some time to come .
+The probabilities and all are completely ad - hoc .
+but , they 're even like like , close to the end we were like , , we were like really ad - hoc .
+Is Srini gonna be at the meeting tomorrow ,
+Bu - e I 'm even This this Tango , Enter , Vista is , itself , an ad - hoc scenario .
+So is this the official end of the meeting now ?
+
+Goats eat cans , to my understanding .
+There is actually a text file that you can edit .
+I could have misread the web page ,
+So e because at the end the more we add , , the more spider - web - ish it 's going to become in the middle and the more of hand editing .
+and then it 's handed on to the discourse history which is , o one of the most elaborate modules .
+New York Rhode Island ,
+
+but also recruiting subjects , organizing them , and .
+Liz also volunteered to be the first subject , which might be even better than us guys .
+I 'm we can get other people around who anything , if we want another subject .
+it should tell us also maybe something about the difference between people who think they speak to a computer versus people who think they speak to a human being
+
+I 'm ju I 'm just jo
+plants ? e u someone who can plant difficult things .
+

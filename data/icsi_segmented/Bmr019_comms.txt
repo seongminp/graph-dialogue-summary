@@ -1,0 +1,550 @@
+, Morgan an and , Adam and Jane could all be talking ,
+It 's the person 's fault .
+It 's Morgan 's fault .
+It 's always Morgan 's fault .
+
+, and in retrospect that 's not as surprising as maybe i
+It 's d it 's very specific .
+They had something very specific in mind when they designed it . Right ?
+
+like there 's one meeting where , , Jose 's giving a presentation
+but , , this is , , Jose 's last day .
+get our last bit of , , Jose 's Jose 's digit
+You have to , Jose , if you haven't done this , you have to plug your ears while you 're t talking
+
+Hav - Have you ever t Have you ever tried this exact same recognizer out on the actual TI - digits test set ?
+but I 'd like to see it on the same exact same data set that we did the other thing on .
+and you put another set of tags in there to keep those straight .
+But it 's , It 's clean ,
+, so that 's that 's something we can test .
+
+so it 's it 's a very different task than the natural .
+Cuz our sense from the other from the Aurora , , task is that
+, it 's it 's actually the Aurora task .
+because everybody 's so sick and tired of the Aurora task .
+, no . If you if you have it 's to if you discuss some relation to the Aurora task ,
+, you could you could do a paper on what 's wrong with the Aurora task by comparing it to other ways of doing it .
+Simultaneous digit chocolate task .
+
+It 's pretty sad .
+It 's it 's easy enough to try ,
+So if it doesn't bounce around too much , that 's actually good placement .
+It 's tha that we were saying , , is how much worse is far than near , .
+So , we have a version that 's pretty good for the native speakers .
+We it 's straightforward to actually just have a penalty that doesn't completely disallows it but discourages it .
+, no , tha that That went away a couple of versions ago ,
+, this is like a poor man 's ver formatting version .
+, that 's that 's pretty solid , on the segmentation .
+Maybe the sections that are not right afte , after lunch when everybody 's still munching
+It 's network services and applications .
+
+, so e edited out the first , i , word of the utterance .
+It 's not that they say one word and then there 's a bunch of words together .
+They 're might say one word and then another word far away if they were doing just backchannels ?
+But in general , if there 's , like , five or six words and one word 's far away from it , that 's probably wrong on average .
+Right now the words like partial words are reject models
+but by some speaker there 's a lot of words .
+and then the more I looked at it , " OK , it 's moving these words leftward
+like , the beginning of the first word , the end of the last word
+, just from We were looking at word frequency lists to try to find the cases that we would allow to have the reject words in between in doing the alignment .
+if you looked at just a word frequency list of one - word short utterances .
+I was trying to find what 's a word for a continuous region with pauses around it ?
+which essentially has it 's just a linear sequence of words with the begin times for every word and the duration .
+Third column is the , , start times of the words and the fourth column is the duration of the words .
+OK . Then we have a messy alignment process where we actually insert into the sequence of words the , , tags
+, and inside the words or between the words you now have begin and end tags for overlaps .
+All we care about is whether that there 's a certain word was overlapped by someone else 's word .
+even equalize , and make that they have all the words in the right order .
+
+So , it 's , that 's the number there .
+the one with Dan Ellis in it and Eric .
+You did you adjust the utterance times , , for each channel ?
+And furthermore , I found that there were a certain number where not a lot , but several times I actually moved an utterance from Adam 's channel to Dan 's or from Dan 's to Adam 's .
+. So , with under , , listening to the mixed channel , there were times when , as surprising as that is , I got Adam 's voice confused with Dan 's and vice versa
+
+, it 's so i but I would I 'd pick that one .
+When I was looking at these backchannels , they were turning up usually very often in w , I won't say " usually " but anyway , very often , I picked them up in a channel w which was the person who had asked a question .
+but it does seem more natural to give a backchannel when you 're somehow involved in the topic ,
+No . it 's actually what 's going on is backchannelling is something that happens in two - party conversations .
+But in addition , , if someone has done this analysis himself and isn't involved in the dyad , but they might also give backchannels to verify what the answer is that this that the answerer 's given
+There 's just probably less backchannelling in general ,
+
+which Jane said that Liz and Andreas had in information on ,
+And Andre - Andreas , your microphone 's a little bit low .
+But there are fewer there are fewer " - huhs " .
+This is This is Bever 's Bever 's effect ,
+, you move things around until you get to a low information point
+and it 's it 's a it 's
+To Andreas , the idea is good . s To eat here .
+
+So there 's there 's some issues about u
+, , Chafe had this wor it was Chafe , or somebody had a the word " spurt " originally ,
+Was thi it 's Chafe ?
+I know I know Ch - Chafe dealt with
+Chafe speaks about intonation units .
+I thi it 's just an issue we haven't dealt with before ,
+
+, , there the point of interest to the group was primarily that , , the , the system that we had that was based on H T K , that 's used by , , all the participants in Aurora , was so much worse than the S R
+. The Aurora there 's a special Aurora
+There 's a special Aurora session
+and the Aurora pe people involved in Aurora have till Ma - , early May to turn in their paper .
+Maybe you can submit the digits paper on e for the Aurora session .
+It 's it 's not the Aurora
+Aurora 's very specific .
+a paper that is not on Aurora would probably be more interesting at that point
+How does an Aurora system do on , on digits collected in a in this environment ?
+Nah , , Aurora 's pretty closed community .
+And the Aurora folks here will definitely get something in on Aurora ,
+
+Probably the fact that it picks up other people 's speakers other people 's talking is an indication of that it the fact it is a good microphone .
+Right . So in the digits , in most cases , there weren't other people talking .
+But I 'm saying if you do the same limited thing as people have done in Switchboard evaluations or as a
+I got this whacky idea that just from looking at the data , that when people talk their words are usually chunked together .
+when where In psy ps psycho - linguistics you have these experiments where people have perceptual biases a as to what they hear ,
+, , the people who were involved in the only people who are allowed to test on that are people who made it above a certain threshold in the first round ,
+, that if some peopl If you 're actually are getting at something that has some conceptual substance to it , it will port .
+and we 're fitting around people 's times a bit .
+And I would like to to say very much , , to all people in the group and at ICSI ,
+, , it 's enough , , for more peopl for more people after .
+We could do digits while other people eat .
+
+because no one else had time any words in that segment
+So the word " " is in this segment multiple times ,
+you would be able to , like , have the words located in time ,
+
+Two items , which was , , digits and possibly on , , forced alignment ,
+OK , so there 's digits , alignments ,
+Talk about aligning people 's schedules .
+, it 's forced alignment of people 's schedules .
+Or you can do a forced alignment on the close - talking to determine that , the , within this segment , these really were the times that this person was talking
+and W we were able to get some definite improvement on the forced alignments by looking at them first and then realizing the kinds of errors that were occurring
+, but it turned out for to get accurate alignments it was really important to open up the pruning significantly .
+and the aligner th aligns it everywhere else to everybody else 's " mixed " ,
+and as soon as it occurs usually the aligner will try to align it to the first person who says it .
+because , the alignments share a lot in common ,
+but I thou I wanted to raise this when you were , with respect to also a strategy which might help with the alignments potentially ,
+but we So we 're taking these , , alignments from the individual channels .
+And then we merge all the alignments from the various channels
+
+So , , everyone who 's on the wireless check that they 're on .
+They 're they 're intended to be omni - directional .
+. But , , w when you it depends whether you 're ju were just using this as a starter task for , to get things going for conversational or if we 're really interested i in connected digits .
+But but how did we get the how did we determine the links , , that we 're testing on in the we reported ?
+So they are they 're not the PZM three hundred dollar type .
+And you 're yo you 're looking at these segments where there 's a lot of speech .
+So then you 're so and then you 're expected to backchannel
+We were I the other thing we 're I should say is that we 're gonna , try compare this type of overlap analysis to Switchboard ,
+If yo if you hermetically stay within one task and don't look left and right , then you 're gonna
+We won we wanna , they 're there 's gonna be , , Jeff , Katrin , Mari and two students .
+We 're gonna we 're gonna do digits at the same
+You have to write down , like , while y what you 're what ch chocolate you 're eating
+so yo you 're supposed to pause between the groupings .
+
+I strongly suspect that they have more speakers than we do .
+Right . But it 's not the amount of speakers ,
+it 's the num it 's the amount of data per speaker .
+because we may have to do an extract to get the amount of data per speaker about right .
+It might also depend on which speaker th it is and how close they are to the PZM ?
+You want to probably choose the PZM channel that is closest to the speaker .
+And finally I did it using the speakers of my , of , off the CPU on my on my machine
+and I was able to , an and this meant that there were some speaker identif identifications
+, I know there were some speaker labelling problems , , after interruptions .
+, there 's no speaker identification after that line .
+But you 're actually saying that certain , , speakers were mis - identified .
+Tha - There are some cases like where the wrong speaker , these ca Not a lot , but where the wrong person the speech is addre attached to the wrong speaker
+
+Where who the speaker is and there 's no overlap ?
+and elsewhere in the segment other people are overlapping
+The bad numbers were from the segments where there was overlap .
+which meant in overlaps , I was at a at a terrific disadvantage .
+and embedde embedded in overlaps .
+how you time - align things that are overlapping anyway .
+So you at that point , you discretize things into just having overlap or no overlap .
+But if you wanted to do a more fine - grained analysis and say , , how far into the word is the overlap , you could do that .
+, she , , i indicated that , that 's very important for overlap analysis .
+And I 'm by the result of overlapping ,
+
+, cuz we were getting sub one percent numbers on TI - digits also with the tandem thing .
+, but the other is that , , the digits recorded here in this room with these close mikes , i , are actually a lot harder than the studio - recording TI - digits .
+, so there 's a little bit of correction but it 's definitely not as clean as TI - digits .
+So my expectations is TI - digits would , especially
+TI - digits is all American English .
+Wha - what 's TI - digits ?
+I couldn't remember whether that was TI - digits or one of the other digit tasks .
+So does so th so does , , the TI - digits database have speakers that are known ?
+So , we might have to modify that script to recognize the , , speakers , , in the in the , , , TI - digits database .
+The other thing is , isn't TI - digits isolated digits ?
+I 'm I looked through a bunch of the digits t corp corpora ,
+. Most of TI - digits is connected digits , .
+It was that 's that was isolated digits .
+It 's just the rest of the digits the rest of the digits are very clean ,
+
+So we have to equip him with a with a with a head - mounted , , cell phone
+So , also , Andreas , on that one the back part of it should be right against your head .
+But , even if there was , , only a factor of two , like I was saying in the email , that 's that 's a big factor .
+It 's this thing 's This is too big for my head .
+E th everybody 's ears are too big for these things .
+Prob - a part of it is just the distance .
+, so that was one big factor that helped improve things
+or did you do some probabilistic weighting distance , or ?
+it 's a littl little far - fetched .
+Th - that part 's definitely gonna confuse somebody who looks at these later .
+
+Cuz my cuz my sense ,
+And we had lowered that we had used tighter pruning after Liz ran some experiments showing that , , it runs slower
+So for free recognition , this the lower pruning value is better .
+It 's probably cuz the recognition 's just bad en at a point where it 's bad enough that you don't lose anything .
+It had average recognition performance in a bunch of speakers
+I did re - run recognition on your new version of MR one .
+, cuz there 's this one instance when , , you 're running down the stairs .
+So , , there 's one point when you 're running down the stairs .
+which we hadn't done cuz we weren't running recognition on it ,
+cuz I have a strong allergy to nuts ,
+He 's try No , he 's trying to get good recognition performance .
+
+So , although I know how to run it , there are a little a f few details here and there that I 'll have to dig out .
+but altogether you 'll see a lot of words up there .
+And , that 's all , I 'll stop there ,
+It 's just it 'll just require more
+, for the evaluations , yes , we 'll run a version that hasn't been touched .
+So tha so we 'll , maybe you guys 'll have one .
+
+that it was the only thing that was even slightly surprising was that the lapel did so .
+The lapel mike is a very high - quality microphone .
+The lapel is typically worse on the on clothes rustling ,
+but if no one 's rustling their clothes ,
+D do the lapel mikes have any directionality to them ?
+it 's just that there 's less quality control .
+And Chuck 's on the lapel here ,
+
+It 's the it 's the spurt format .
+It , we 're calling these " spurts " after Chafe .
+. I know that th the Telecom people use " spurt " for that .
+because I because I looked up in some books and I found OK , I wanna find a spurt in which
+But how fast do they do the words within the spurt ?
+, that 's what we were calling spurt ,
+Spurt has the horrible name overloading with other with hardware at ICSI .
+, see , I know S Sue wrote about spurts of development .
+So we have spurts and we have spurt - ify dot shell and spurt - ify
+and we kept the and disfluency dashes , kept those in because we wanna know where those are relative to the spurt overlaps
+And then there 's a then there 's a process where you now determine the spurts .
+And so you extract the individual channels , , one sp spurt by spurt as it were .
+
+where , , , from the data or from maybe some hand - corrected alignments from transcribers that
+So , we would need a hand - marked , , word - level alignments
+, just mark , like , the beginning and end of the foreground speaker 's real words
+and then I hand - marked it myself so that we do have , , the beginning and ending of individual utterances .
+if that 's a sufficient unit , that you do have hand - marking for that .
+
+but it would be the person who asked the question .
+and the most natural way is for you to have initiated the topic by asking a question .
+And if you ask someone a question , you essentially initiating a little two - party conversation .
+which is that , , so th there are lots of channels where you don't have these backchannels , w when a question has been asked
+where we have both sides , so that we can try to answer this question of , , is there really more overlap in meetings or is it just because we don't have the other channel in Switchboard
+and an because cuz it 's another question about how many pauses they put in between them .
+so whether it was , like , question mark or period or , , , comma and things like that ,
+But , , one of the reasons I have him messing around with that , because it 's an open question that we the answer to .
+So that 's that 's an interesting question .
+
+but were you intending to do a Eurospeech submission ,
+In previous years , Eurospeech only had the abstract due by now ,
+Because we figure that 's about the level of analysis that we want to do for this paper .
+So , I , we 'll try to write this Eurospeech paper .
+No , it 's that 's the good thing about these pape paper deadlines and , , , class projects , and things like that ,
+, you and , and Dan have a paper that 's going in .
+It 's a Eurospeech paper but not related to meetings .
+
+Ye - we and we 'd have to force you to read lots and lots of digits ,
+Right . , a lot of people are just leaning over and reading the digits ,
+You don't move much during reading digits , .
+And another might be that , , I 'd I would presume that in the studio , , situation recording read speech that if somebody
+So that , if someone just read the wrong digit , I corrected it .
+Cuz one of them was literally people reading a single digit .
+Because it 's further away from most of the people reading digits .
+I , , unless somebody has something else , we 'll read our digits
+You 've read digits together with us , haven't you
+
+Whereas , I took out the ones that I noticed that were blatant that were correctable .
+, I noticed the script that extracted it .
+Right . So we could probably do an extraction that was roughly equivalent .
+So th the system actually extracts the speaker ID from the waveform names .
+And there 's a there 's a script and that is actually all in one script .
+So there 's this one script that parses waveform names
+. , we 're still , like , writing the scripts for doing the research ,
+It 's like there 're twelve different scripts which you run
+
+because otherwise it would do greedy alignment , , in regions where there was no real speech yet from the foreground speaker .
+, as Liz said the we f enforce the fact that , , the foreground speech has to be continuous .
+We probably want to adapt at least the foreground speaker .
+But , I Andreas tried adapting both the foreground and a background generic speaker ,
+just because often the background speakers match better to the foreground than the foreground speaker .
+and then one copy of it would be adapted to the foreground speaker to capture the rejects in the foreground ,
+and the other copy would be adapted to the background speaker .
+So it 's background crunching .
+
+. When you listen to it , , the PZM and the PDA , th the PDA has higher sound floor
+and he 's talking about , , the word " mixed signal "
+And so your speech - ch was s saying something about mixed signal .
+And the next turn was a lot of people saying " mixed " ,
+like " he means mixed signal " or " it 's mixed " .
+The other thing that was w interesting to me was that I picked up a lot of , , backchannels which were hidden in the mixed signal ,
+So it 's actually not even possible , , for any person to listen to a mixed signal ,
+So these are from the early transcriptions that people did on the mixed signals , like what you have .
+
+I suspect that to get the last bit out of these higher - quality recordings you would have to , , use models that , , were trained on wider - band data .
+It 's wide - band , .
+, we can improve these numbers if we care to compr improve them by , , not starting with the Switchboard models but by taking the Switchboard models and doing supervised adaptation on a small amount of digit data collected in this setting .
+Because that would adapt your models to the room acoustics
+use that as the starting models for your speaker adaptation .
+That 's where the most m acoustic mismatch is between the currently used models and the r the set up here .
+and that 's actually a little bit of a f funky model .
+And you and what we wanted to try with , once we have this paper written and have a little more time , , t cloning that reject model
+and tune the parameters of the of the model , , to op to get the best performance .
+And so the reject is also mapping and pauses
+It 's just , like , defined by the acoustics .
+
+because Liz might join us in time for that .
+With with whatever it was , a month and a half ahead of time , the only time we could find in common roughly in common , was on a Saturday .
+In the H L T paper we took segments that are channel time - aligned ,
+But , , we just didn't have time to play with , , tuning yet another yet another parameter .
+It seems like she if she 's g if she 's moving time marks around ,
+So so those are actually retro - fitted into the time alignment .
+And then you merge everything in terms of , , linearizing the sequence based on the time marks .
+at the very last stage we throw away the actual time information .
+but , , I haven't enough time to with six months it 's not enough to to research ,
+because , i in my opinion is better , , for us to spend more time here
+, it 's a very short time .
+You laughed at me , too , the first time I sa said
+
+Have we thought about having a conference call to include him in more of in more of the meeting ?
+so I can't be having a conference call while driving .
+did something a little funny or n pronounced something a little funny or made a little that they didn't include it ,
+Maybe it 's the Bell Gram .
+And then it 's got all it 's a verb now .
+i Because these the conference organizers actually have an interest in getting lots of submissions .
+
+. I I was thinking was that maybe , , i we could actually t try at least looking at , , some of the large vocabulary speech from a far microphone ,
+It cannot be you cannot have a background speech hypothesis in the middle of the foreground speech .
+You can only have background speech at the beginning and the end .
+, so , and then there 's a background speech model .
+But then the background speech was also a reject model ,
+or at least the boundaries of the speech betw , between the speakers .
+, interface - wise if you 're looking at speech , you wanna be able to know really where the words are .
+And that 's , I was using that for a while when I was doing the rate of speech ,
+So , you have everything lined up and in a form where you can look at the individual speakers and how their speech relates to the other speakers ' speech .
+but , , this if this is a better interface for making these kinds of , , , lo clos local changes , then that 'd be fine , too .
+
+starting with some techniques that some other people have found somewhat useful , and .
+And another one is turns , like people starting with " "
+You mean like , word start insights .
+if you have start points , if you have , like , time tags ,
+but this time where the other people start and end talking
+, where their spurts start and end .
+and I could align each of them to be starting their utterance at the correct time ,
+
+Plus , it would make for interesting noise background noise .
+so it could get real car noise .
+And as Morgan pointed out , that there are actually some advantages to it in terms of breath noises and clothes rustling if no one else is talking .
+, it 's , the bre the breath noises and the mouth clicks and like that , the lapel 's gonna be better on .
+but they 're not noise - cancelling .
+, , one reason for that , , might be that there 's still even though it 's close - talking , there still is some noise and some room acoustics .
+So , Morgan , you 're getting a little breath noise .
+and f for the far - field microphones , , to the noise .
+and there 's no real difference in
+we also made noise models for the different grouped some of the mouth noises together .
+
+And the interesting thing is that even though , yes , it 's a digits task and that 's a relatively small number of words and there 's a bunch of digits that you train on , it 's just not as good as having a l very large amount of data and training up a a good big HMM .
+I could and they are using a system that 's , , h is actually trained on digits ,
+, but h otherwise uses the same , , decoder , the same , , training methods , and ,
+this , , very limited training HTK system .
+I don't h I don't have any stock in HTK or Entropic or anything .
+No . , this it 's the HTK that is trained on a very limited amount of data .
+, a colleague at SRI developed a improved version of MMIE training .
+because it 's a , it doesn't take weeks to train it .
+And got some very impressive results , , with , , discriminative , , Gaussian training . , , like , , error rates go from I , in very noisy environment , like from ,
+
+And is there is there enough data or a comparable amount of data to what we have in our recordings here ?
+. So that 'd be anoth another interesting data point .
+But it 's an important data point , if you 're if
+, s when I came up with the original data suggested data format based on the transcription graph , there 's capability of doing that thing in there .
+, u Jane likes to look at data .
+cuz it that the , my preference in terms of , like , looking at the data is to see it in this musical score format .
+No , we don't have any data with background eating .
+
+But but , I have , people at SRI are actually working on digits .
+, this contraption around your head is not working so .
+but it 's not , , the system that people here are used to using to working with .
+And then , , , also Dave is thinking about using the data in different ways , , to , , explicitly work on reverberation
+So just working through a bunch of debugging kinds of issues .
+And I was telling Don , do not take this as an example of how people should work .
+because that 'll at least get us to the point where we have We have this really database format that Andreas and I were working out that
+We - I ju Otherwise we won't get the work done on our deadline .
+th the other good thing about the alignments is that , , it 's not always the machine 's fault if it doesn't work .
+and to work more time i in a topic .
+
+, but , , I , my impression was that you were actually interested in the far - field microphone , , problem ,
+Liz , you could also just use the other mike if you 're having problems with that one .
+Could we do exactly the same thing that we 're doing now , but do it with a far - field mike ?
+Cuz we extract the times from the near - field mike ,
+but you use the acoustics from the far - field mike .
+They , i it 's more or less the same principles as these other mikes are built under ,
+because even if you weren't studying overlaps , if you wanna get a transcription for the far - field mikes , how are you gonna know which words from which speakers occurred at which times relative to each other ?
+
+, also you had the adaptation in the SRI system , which we didn't have in this .
+, bu although I 'd be it 'd be interesting to just take this exact actual system
+One is , , the SRI system is a lot better than the HTK
+, that 's maybe why they don't f know that they have a crummy system .
+People always say very glibly that i if you s show improvement on a bad system , that doesn't mean anything ,
+cuz it may not be show , because , , it doesn't tell you anything about the good system .
+And , most methods that people now use were originally tried with something that was not their absolute best system at some level .
+If we 're getting three percent error on , , u , English , , nati native speakers , , using the Aurora system , and we do some improvements and bring it from three to two , do those same improvements bring , , th , the SRI system from one point three to , to point eight ?
+
+and possibly a problem with needing constraints on word locations .
+and so this constraint of not allowing rejects in between
+But then that constraint of , proximity constraint will push it over to the person who really said it in general .
+Is the proximity constraint a hard constraint ,
+Cuz it 's just hard to do .
+It 's hard to hard to say .
+
+Di - did I send you some results without adaptation ?
+So there was a significant loss from not doing the adaptation .
+but there was {nonvocalsound} there was a significant , , loss or win from adaptation with adaptation .
+that was the phone - loop adaptation .
+Point six , I believe , is what you get with both , , means and variance adaptation .
+one issue with that is that , the system has this , , notion of a speaker to which is used in adaptation , variance norm , , both in , , mean and variance normalization
+, the other thing would be to do it without the adaptation and compare to these numbers without the adaptation .
+Right . , but I 'm not so much worried about the adaptation , actually , than the , , the , , VTL estimation .
+And then you use those adapted models , which are not speaker adapted but acous , channel adapted
+And for connected digits over the telephone you don't actually want to put a whole lot of effort into adaptation
+cuz there 's no adaptation yet .
+He he 's worried about a ticket .
+
+. , we actually talked about this in the , , front - end meeting this morning , too .
+But remember , we 're using a telephone bandwidth front - end here , , on this , on this SRI system ,
+and just front - end those pieces .
+But the other is , it 's very , , even though there 's I 'm the f the SRI , , front - end has some pre - emphasis , it 's it 's , still , th it 's picking up lots of low - frequency energy .
+And then , , from the point of view of the front - end research , it would be s , substituting for HTK .
+It 's , , the front - end is f i tha that 's in the SRI recognizer is very in that it does a lot of things on the fly
+for , like , where sentence ends of sentence ,
+you identify the beginnings and ends of these spurts ,
+
+If you have a strong fe if you have a strong preference , you could use this .
+, we convert it to this format that the , , NIST scoring tool unders , CTM . Conversation Time - Marked file .
+It 's just a ASCII line by line format ,
+What 's interesting is it 's exactly what , , i in discussing with , , Sue about this ,
+And also , s , Sue 's preference as .
+and you find a solution in some few tim , months , ?
+Ye - ye you prefer , , to eat , , chocolate , , at the coffee break , , at the ? Or you prefer now , before after ?
+like n nuts chocolate with nuts , chocolate without nuts .
+
+I the other thing , which I came unprepared for , , is , , to dis s see if there 's anything anybody wants to discuss about the Saturday meeting .
+Or you can fake names for these waveforms that resemble the names that we use here for the for the meetings .
+Actually if you run , though , on a close - talking mike over the whole meeting , during all those silences , you get , like , four hundred percent word error .
+So we only r hav I only looked at actually alignments from one meeting that we chose ,
+and it was a Meeting Recorder meeting .
+thi it 's not like you 're being encouraged by everybody else to keep talking in the meeting .
+but the , the morning meeting folks actually have an extra month or so .
+, this is we 're recording secret NSA meetings ?
+
+So , even discriminating against it , I 'm some of it 's getting through .
+but he drove for fourteen hours an and wasn't gonna make it in today .
+We knew we knew that it had these insertion errors from
+I didn't realize this till today ,
+It 's like a like a Greek choir ?
+
+And , , es I when Chuck will be back
+He 's he 's back ,
+And also I went back to the original one that I first transcribed and did it w , utterance by utterance for that particular one .
+, a crummy back - end .
+But , one of the reasons I have Chuck 's messing around with the back - end that you 're not supposed to touch
+I hadn't heard back from Mari after I u , brought up the point abou about Andreas 's schedule .
+So , , maybe when I get back there 'll be some mail from her .
+I will come back to home to Spain .
+but , , I pretend to continuing out to Spain , , during the following months ,
+I hope if you need , , something , , from us in the future , I will be at Spain , to you help ,
+
+some of the errors occurring very frequently are just things like the first word being moved to as early as possible in the recognition ,
+things like words that do occur just by themselves a alone , like backchannels that we did allow to have background speech around it
+And the word " mixed " in this segment occurs , like , a bunch of times .
+especially when you get lots of the same words , , occurring in the
+and also as a human , like , I don't always hear these in the actual order that they occur .
+I 'm not about the order of magnitude .
+
+and we took cases where the transcribers said there was only one person talking here ,
+, and see if you can in maybe incorporate it into the Transcriber tool some way ,
+Transcriber , , outputs CTM .
+since our representation in Transcriber uses time marks , it seems like there should be some way of using that benefitting from that .
+, it wou the advantage would just be that when you brought up a bin you would be able if you were zoomed in enough in Transcriber to see all the words ,
+And the reason was because I transcribed that at a point before , before we had the multiple audio available
+I transcribed it off of the mixed channel entirely ,
+But in any case , , thi this is this was transcribed in a in a , , less optimal way than the ones that came after it ,
+But , in any case , it 's a good term ,
+So , Don , , propagated the punctuation from the original transcriber
+
+There 's , You can use times where that person is talking only from the transcripts but the segmentations were synchronized .
+that if you look at the individual segments from just one person you don't see a lot of words ,
+because the person is addressing you directly and not everybody .
+even if you consider every other person altogether one person in the meeting ,
+and yo then you can bring in the other person .
+th the other thing that that yo that you usually don't tell your graduate students is that these deadlines are actually not that , , , strictly enforced ,
+, I bring the chocolate , , to tear , , with you ,
+
+So , the what that means probably for the foreseeable future is that you have to , , dump out ,
+, if you want to use some new features , you have to dump them into individual files
+So tha that 's exactly what the P - file is for .
+, the the cumbersome thing is , is that you actually have to dump out little files .
+So for each segment that you want to recognize you have to dump out a separate file .
+but instead you have feature file segments .
+from each alignment we 're producing , , one of these CTM files ,
+It looks like a Waves label file almost . Right ?
+, and the good thing is that we have It 's a beginning of what Don can use to link the prosodic features from each file to each other .
+
+And then there was a very small like point one percent on the natives , win from doing , , , adaptation to the recognition hypotheses .
+and the variances added another or subtracted another point one percent .
+, before we 'd get , , a hundred and fifty percent error ,
+but if , if we 're getting thirty - five , forty percent , u
+And then , , , if we were getting , what , thirty - five , forty percent , something like that on that particular set ,
+Was it like from ten percent to eight percent or from e , point , from one percent to point eight percent ?
+Hey , that 's the same percent relative ,
+Twenty percent relative gain .
+
+and it was actually twenty kilohertz sampling .
+, they 're twenty - five cents or so .
+They 're the twenty - five cent ,
+buy them in packs of thousand type .
+It 's , , two thousand eleven twenty - one thousand .
+
+, if you 're not doing something ridiculous like feeding it to a speech recognizer , they they , you can hear the sou hear the sounds just fine .
+we want to have the ability to feed it different features .
+And then if we can feed it different features , then we can try all the different things that we 're trying there .
+So so the key thing that 's missing here is the ability to feed , , other features i into the recognizer
+but it unfortunately is not designed and , like the , , ICSI system is , where you can feed it from a pipeline of the command .
+
+, I th I 'm thinking just ch e incorporating it into the representation .
+In addition it was before the channelized , , possibility was there .
+And then you extract the individual channels again ,
+I 'm looking forward to seeing your representation .
+It also raises the possibility of , , using that representation , I , this 'd be something we 'd wanna check , but maybe using that representation for data entry
+and then displaying it on the channelized , , representation ,
+
+No , actually I have to I have to shuttle kids from various places to various other places .
+If you have only one utterance per speaker you might actually screw up on estimating the warping , , factor .
+And there 's a screw that you can tighten .
+And then also , ca the pruning , , was too severe .
+But , , I will try to recommend , , at , , the Spanish government
+
+which is now h being changed in the transcription process ,
+remember you saying you got them to be cheap on purpose .
+is i does it have to be Waves ? Because if we could benefit from what you did , incorporate that into the present transcripts , that would help .
+But it 'd be wonderful to be able to benefit from your Waves .
+You have to be able to get a transcript like this anyway , just for doing far - field recognition .
+You can find , , problems with the transcripts ,
+Remember to read the transcript number , .
+
+I sh actually should 've picked a different one ,
+, , i in retrospect it would 've been good to ha have got I should 've gotten a headphone .
+, I 've I 'm very acquainted with this meeting .
+I 've heard " burst " also .
+we 've we 've covered that one up extremely .
+, we 've gotta until after di after we take the mikes off .
+

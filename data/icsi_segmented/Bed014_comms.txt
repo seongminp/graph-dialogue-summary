@@ -1,0 +1,406 @@
+It 's a hard puzzle .
+But that 's g that 's , as far as tell , it 's it 's putting together two real hard problems .
+And sometimes it 's actually easier to solve two hard problems than one
+There 's a really hard problem
+, I 'll just pick a piece of the problem and then just push the hard into the center and say it 's Robert 's .
+cuz it 's hard enough .
+, cuz i it 's As , it 's real hard and if w if we
+
+Or in some cases , it 's it 's quite definitely
+In which case we w we can just say that they 're the effects or the bindings .
+
+Now , But Ro - Robert 's right , that to determine that , OK ? you may want to go through a th thesaurus
+But but what 's Robert 's saying is ,
+So , it 's very likely that Robert 's thesis is going to be along these lines ,
+We have many jobs for you , Ro - Robert .
+So consequently don't I get to decide then that it 's Robert 's job ?
+OK , whate What Robert 's saying is that
+
+OK . , this is highly relevant to someone 's thesis .
+and the local rules are if it 's your thesis , you get to decide how it 's done .
+OK . So if , if this is , if this becomes part of your thesis , you can say , hey we 're gonna do it this way , that 's the way it 's done .
+It 's always me when it 's someone 's thesis .
+, he said he 's gonna f finish his thesis by then .
+, but it he the decisions I made wer had to do with my thesis .
+This is the first time I 've seen a thesis proposal change .
+
+But that 's some conversion program ?
+
+Anyway , w let 's talk separately about how t
+OK , so that 's a that 's a separate issue .
+, let 's let 's talk after Friday the twenty - ninth .
+And then , w I would talk to you and figure out everything , that , see if they 're consistent .
+Someday we also have to we should probably talk about the other side of the " where is X " construction ,
+
+It 's a it 's like a game , but it 's for , like , dancing .
+Hard to It 's like karaoke , but for dancing ,
+, definitely . They have , like , places instead of like , instead of karaoke bars now that have , like , DDR ,
+, , I didn't until I started hanging out with this friend , who 's like " , , bring over the DDR if you want . "
+
+Tha - that 's the part I didn't understand .
+And if we if the formalism is good , then we should be able to have , , moderate scale thing .
+Right . So . Right . So thing That 's part of why we want the formalism ,
+Part of what was missing were markings of all sorts that weren't in there ,
+But that 's part of the formalism
+
+Cuz it 's That starts counting from zero
+And it looks to me like we 're now at a good point to do something start working on something really hard .
+, this is this is , speaking of hard problems , this is a very good time , to start trying to make explicit where construal comes in
+And it 's a it 's a perfectly fine place to start .
+
+It - it 's just like why the generation ma the presentation manager is now working ?
+so it should be feasible to set them up in such a way that if you 've got the past tense and the present tense and each of those is a separate , belief structure that they do their inferences with just the couplings that are appropriate .
+, between let 's say between the past and the present ,
+if it 's got , let 's say one in , , different tenses
+So it won't be , like , a for semi - formal presentation of my proposal .
+We 'll make a presentation of your propo of your proposal .
+
+is that it actually transfers from head to head .
+l let 's , let 's have that as a goal anyway .
+It it might even be interesting then to say that I should be forced to , pull some of the ideas that have been floating in my head out of the , out of the top hat
+, so there was like , , m in my head the goal to have like an intermediate version , like , everything I know .
+but that 's not where our heads were at in these meetings .
+
+Here 's my plan for today .
+Bed014Cdialogueact644	157354	157383	C	Professor	s^e%-:s%-	-1	0	I wanna
+Here 's my plan for tomorrow . "
+, or , in the morning I 'm planning t to go shopping ,
+, tal so I 'm talking about shopping
+it 's like I g The other thing is , whether you have a m user model that has , , whatever , a current plan , whatever , plans that had been discussed ,
+It 's - it 's a coincidence that he can't do couldn't do it today here .
+
+there was this , thing that Nancy to in a in a weak moment this morning that
+Let 's call them constraints , around which one has to
+Anyway , , so let 's let 's for the moment call it that until we think of something better .
+He actually brought a clone called Stepping Selection ,
+
+So there 's all the problems that the linguists know about , about mental spaces , and the cognitive linguists know about ,
+One is the linguistic part of what are the couplings
+like " This make , I 'm going to pretend I 'm a linguist who has nothing to do with this .
+so , , he 's like a relatively friendly linguist
+
+, there 's good news from Johno .
+I was just gonna say , though , that , , there was , out of a meeting with Johno came the suggestion that " , could it be that the meaning constraints really aren't used for selection ? "
+
+That 's how of our continuing interaction .
+for each e entity . We look it up check whether any of these were mentioned and then activate the corresponding nodes on the discourse side .
+But Keith suggested that a much cleaner way would be is , , to keep track of the discourse in such a way that you if that something like that ha has been mentioned before , this just a continues to add up ,
+so it could just keep track of how long it 's been since something 's been mentioned , and automatically load it in .
+And so it could be that when another , en tourist entity gets mentioned , you
+, and and the simple idea is that it 's on it 's only for m for the current , tourist e entity of instre interest .
+That 's fine . So we might continue our email thing
+
+Sometimes Hans has been coming in there as like a devil 's advocate type role ,
+No , right . , tha that role is , , indispensable
+and Ben and Hans are , if anything , more , they have more to say than , let 's say , I would about some of these things .
+
+But the other part of it is the way they connect to these , , probabilistic relational models .
+So the story is that if you have these probabilistic relational models , they 're set up , in principle , so that you can make new instances
+So when you admit have admission fee and it changes something , it 's only for that particular It 's relational , right ?
+So it could be that he 's actually , at some level , thinking about how am I going to communicate this story
+
+But c the meeting looks like it 's , it 's gonna be good .
+Right . So h he 's got a th he 's got a meet meeting in Germany with his thesis advisor .
+Meeting regular meeting time for the summer ,
+And the NTL meeting moved to Wednesday ,
+To tell you the truth , I 'd rath I 'd , I 'd would like to avoid more than one ICSI meeting per day , if possible .
+And the s meeting recorder meeting recording on meeting meetings
+So you 're proposing that we meet Tuesday .
+, we 're meeting Tuesday .
+we usually meet Tuesday or l like , linguists , at two .
+Is the Speech - Gen meeting still at on Tuesdays ?
+like in th the meeting , he I thin like the last meeting we had , we were all very much part of it
+
+which I already told the SmartKom people we aren't gonna use because they 're really bad .
+it 's also something that people have not done before , is , abuse an ontology for these kinds of , , inferences , on
+Because it seems to me that this is a time where when we have things to discuss with other people , there
+people differ in their tastes in this matter .
+But in a sense , it 's good to know that he of all people
+, like maybe a lot of people would have m much stronger reactions ,
+, it 's gonna be plenty hard for people to understand it as it is ,
+
+So assume these are two , , nodes we can observe in the Bayes - net .
+and the Bayes - net figures out which under the c situation in general is more likely ?
+and the Bayes - net figures out whether this actually now means ?
+We didn't we never did figure out how we were gonna do emphasis in , the semspec .
+, it 's hard for me to figure out with our general linguistic issues , how they map onto this particular one ,
+it 's , it 's a , , generate and test thing ,
+
+, occur as an argument of a higher construction , but a bare singular stem doesn't get to act that way .
+it th thi think of arguments in either direction on that .
+What , what 's the argument for putting it in the construction ?
+, wel , the ar the The argument is that you 're gonna have the
+That that 's the argument in the other direction .
+
+That 's the LISP - type scheme .
+even without getting into it , even though the Scheme li , is really documented in the Festival .
+that th there 's one of the advantages of a document , right ? ,
+Right ? As long as we allow our type constraints to be reasonably complex .
+
+OK , so natural language generation produces not a just a surface string that is fed into a text - to - speech but , a surface string with a syntax tree that 's fed into a concept - to - speech .
+Now and this concept - to - speech module has certain rules on how if you get the following syntactic structure , how to map this onto prosodic rules .
+and look up certain linguistic surface structures that are related to these concepts
+OK ? So let 's think of a name for whatever the this intermediate structure is .
+, that 's what text substitution macros are for .
+
+Ergo , the classic off - by - one error .
+And , , pretty mu on t on the top of my list , I would have asked Keith how the " where is X ? " hand parse is standing .
+the XML trees for the for the gene for the synthesizer are written .
+He 's - spends a fair amount of time here .
+but no individual member kno
+The one I sent you was from GMD , out of a European CRUMPET .
+priming a spreading activation
+, cuz it would the thread would nodes like , needed to be activated ,
+This is this is essentially the Bayes - net equivalent of the spreading activation .
+so but my is what 'll probably will happen , Here 's a here 's a proposed design . is that there 're certain constructions which , , for our purposes do change the probabilities of EVA decisions and various other kinds
+re essentially re - initiali , re - i essentially re - initialize the state .
+in the afternoon to the Powder - Tower
+So , if the issue is , if so now th this construction has been matched and you say " OK . Does this actually have any implications for our decisions ? " Then there 's another piece of code that presumably does that computation .
+there 's , ther there 's that as .
+I wo I would like I would get a notion of what you guys have in store for me .
+, so it 's a m minimal change .
+In in logic , it 's it 's @ @ it 's actual ?
+Right . Let 's put a Skolem constant in ,
+That - that 's not that 's not saying it 's bad ,
+, if you if you do wanna discuss focus background and then get me into that
+which has been implicit in the parsing strategy we talked about .
+Which , so far , in terms of like putting up all the constraints as , , pushing them into type constraints , the when I 've , , propo then proposed it to linguists who haven't yet given me , we haven't yet thought of a reason that wouldn't work .
+, if there are some constraints that you hold back and don't use , in your initial matching then you 'll match some things
+The original bad idea of purely context - free grammars died because there were just vastly too many parses .
+, exponentially num many parses .
+
+But those 'll be pretty similar to the old ones .
+and then I 'll - I 'll check with , , Morgan on the money .
+So it 'll say it 's nonsense with perfect intonation .
+But I do th think that the It 'll turn out that it 's gonna be depend on whether there 's been an override .
+so we 'll we 'll find a way .
+Y you 'll come and take all the headph the good headphones first and then remind me .
+So the idea is on Monday at two we 'll we 'll see an intermediate version of the formalism for the constructions ,
+It 'll be more like towards finalizing that proposal .
+Cuz then you 'll find out more of what we 're making you do .
+I 'll I 'll send you a style file , right ?
+and we 'll figure out exactly how to write that up and so on ,
+And he 'll just go off on parts of it which definitely need fixing
+
+one of the things I w would like to do over the next , , month , it may take more , is to st understand to what extent we can not only figure out the constructions for them for multiple worlds
+and to the extent we don't , let 's find out what we need to do .
+And i if we had a fancier one with multiple worlds you could have , you could keep track of what someone was saying about this and that .
+
+but by , we can ask , , did you get to read all four hundred words ?
+If you 've recognized the word ,
+you 've recognized the word , which means you have a lexical construction for it ,
+. There 's a problem with that word , too , though .
+and yet a word like " constraint " causes a lot of problems .
+
+and then we 'll figure out a way for you you to get connected with , their group .
+We 've talked about it , but only the innermost inner group currently , ,
+No , you , people in this group connecting with
+And then you hand it back to your hippocampus
+, that 's good . That 's that should be the core group
+, but . But th then w then we have to come back to the bigger group .
+
+, actually we w we did scrap our Monday time just because Bhaskara couldn't come Monday .
+So there 's Nothing 's impeding Monday anymore either .
+Although you wanted to go camping on Monday er , take off Mondays a lot so you could go camping .
+so why don't we plan to meet Monday
+, I i , I actually Two is the earliest meet on Monday .
+Here I 'm blissfully agreeing to things and realizing that I actually do have some scheduled on Monday .
+m @ @ , w maybe Mond - Maybe we can put This is part of what we can do Monday , if we want .
+Why don't w Maybe you and I should meet more or less first thing Monday morning and then we can work on this .
+
+, I if you 're not used to functional programming , Scheme can be completely incomprehensible .
+, , if you ask " how much does a train ride and cinema around the vineyards cost ? " and then somebody tells you it 's sixty dollars and then you say " OK How much is , I would like to visit the " whatever , something completely different , " then I go to , , Point Reyes " ,
+but it 's , , a complete rejection of entering by doing that .
+I 've always been completely in favor of consensus decisions ,
+, I d I don't think there 's any way that it could completely fail .
+I 'm I 'm in favor of that .
+So , you your dance card is completely filled now ?
+
+The question of whether the polysemy is like in the construction or pragmatic .
+but pragmatically that 's construed as meaning " tell me how to get there " .
+So I a I th I agree with you that , , it 's a disaster to try to make separate constructions for every , pragmatic reading ,
+Or have every construction list all the possible pragmatic implications of the same one .
+Like " conceptually these have to be construed as this , and this " might still give us quite a few possibilities
+
+But , that was before he knew about that George lecture probably .
+This this is not It 's not bad for the project if Keith is talking to George .
+And that is , Keith , what I encouraged George to be talking with you about .
+but but I interrupted before Keith got to tell us what happened with " where is the Powder - Tower ? " or whatever
+I would say that tha that those discussions have been primarily , , Keith and Keith and me ,
+But when it 's like , , w how do we capture these things , , it 's definitely been Keith and I who have d , who have worried more about the
+
+Your mike number is what we 're t
+they 're just not context - free trees .
+, if you say we 're we 're dump dump .
+they 're ju they 're just proposals .
+So that , so th thi this , so this is the point , is we 're going to have to cycle through this ,
+s You said you 're busy over th until the weekend , right ?
+. Great . And then we 're gon we 're gonna
+, it has to in the sense that you 're gonna use them eventu
+
+No , but the paper 's correct .
+I didn't det I was saying the microphone , not the paper .
+OK , which was that o one of the things I would like to see happen is a paper that was tentatively called " Towards a formal cognitive semantics "
+
+back to the old Johno observation that if y if you have a dialogue history and it said the word " admission fee " was , mentioned , it 's more likely that the person actually wants to enter than just take a picture of it
+So if someone mentions admission f fees , that activates an Enter schema which sticks around for a little while in your rep in the representation of what 's being talked about .
+And then when someone asks " where is X ? " you 've already got the Enter schema activated
+in th in the bl Bayes - net you could you could think about it this way , that if at the time " admissions fee " was mentioned you could increase the probability that someone wanted to enter .
+We - th that 's what I wa I wasn't I was I wasn't thinking in terms of Enter schemas .
+When th When the this is mentioned , the probability of , let 's say , entering changes
+You could just hav , just , ob it It observes an er , it sets the a node for " entered " or " true " ,
+so you could just as tag the lexical construction with the fact that it 's a , , thirty percent increase in probability of entering .
+You So you could you could invert the whole thing , so you s you tag that information on to the lexicon
+
+and my suggestion is that we start digging into them both , , in a way we that , , th
+Then there is the really clever way that was suggested by Keith
+and then there is the , , middle way that I 'm suggesting
+If that 's a problem for me then I shouldn't suggest it .
+OK . This is consistent with the role I had suggested that he play ,
+
+And Fey has foolheartedly to rewrite , the German concept syntax - to - prosody rules
+. Rewrite the German ones into English .
+if sh y she 's really going to do that , then we should be able to get prosody as .
+
+the question is , is this conventional or conversational implicature ?
+Now my is that it 's not a question of time but it is a question of whether another intervening object has been mentioned .
+so , has the current object been mentioned in with a question about concerning its
+which is the issue of , , how do you simulate questions ?
+incl including the questions
+The WH question has this as extra thing which says " and when you 're done , tell me who fills that slot " or w .
+and you just get intonation to tell you that it 's a question .
+
+, there 's this guy who 's got a joint appointment ,
+And it 's probably also uninteresting for all of you to , learn that as of twenty minutes ago , David and I , per accident , managed to get the whole SmartKom system running on the , ICSI Linux machines with the ICSI NT machines
+thereby increasing the number of running SmartKom systems in this house from one on my laptop to three .
+So , the people at Saarbruecken and I decided not to touch it ever again .
+, . I think we already came to the conclusion that we have two alternative paths that we two alternative ways of representing it .
+And I , see , the more important thing at this stage is that we should be able to know how we would handle it in ei
+f in the short run it 's more important to know how we would treat technically what we would do if we decided A and what we would do if we decided B , than it is t to decide A or B r right now .
+So I In the short run , let 's let 's be real clear on h what the two alternatives would be .
+which we decided long ago we don't care that much right now .
+
+that she 's also got a new student working on this and that we should get in touch with them again in August
+But at least try and work out what the state of the art is right now .
+th that the , , standard way that the these contexts work is stack - like or whatever ,
+OK . I was actually gonna work on it for tomorrow like this weekend .
+because , I wo I w scientifically worked on that for almost two years .
+that 's , , very close to the maximum number of people working together that can get something done .
+
+and when you have a certain , , construction , that implies certain couplings and other couplings ,
+No , I know , I th that is gonna be the key to this wh to th the big project of the summer of getting the constructions right
+But , , c almost certainly " can you pass the salt " is a construction worth noting that there is this th this
+Now what could imagine to , , have a list for each construction of things that one should look up in the discourse history , ?
+and he 's right , is you don't want to try to build into the construction itself all the synonyms and all , all the wo
+, it 's just another , , construction side is how to get at the possible inferences we can draw from the discourse history
+Even though the lexical construction itself out of context , , won't do it .
+and , where c where the construction per - se ends and where construal comes in ,
+but th the draft of the p proposal on the constructions is going to tell us a lot about what we think needs to be done by construal .
+
+because right now the voice sounds like a murderer .
+Smarticus sounds like a murderer .
+, let 's just pick whatever sounds best .
+Cuz sometimes he sounds like we 're talking a bunch of goobledy - gook from his point of view .
+
+So need to do the , write a new set of tree combining rules .
+but I 'm about to write it up this evening .
+, just trying to write up essentially what you guys have worked out so that everybody has something to look at .
+Right , t if to the extent that we have it , let 's write it
+so , , , I don't have a write - up of or I haven't elaborated on the ideas that we were already talking about
+And then the we had another idea floating around , which we wanted to , , get your input on ,
+and do an on - line merging with my construal ideas .
+
+so I also had a email correspondence with Daphne Kohler , who said yes she would love to work with us on the , , , using these structured belief - nets and
+but then there 's this problem of the belief - net people have only done a moderately good job of dealing with temporal belief - nets .
+they incorrectly call dynamic belief - nets .
+So there 's a term " dynamic belief - net " , doesn't mean that .
+what the formalism will look like and where the slots and fillers will be , but also what that would translate into in terms of belief - net and the inferences .
+and then we have this inference problem of exactly technically how does the belief - net work
+
+Like there 's lots of unnamed functions
+and feed those through the dialogue history
+, , is it doesn't it seem like if you just managed the dialogue history with a thread , that , kept track of ho of the activity of
+whether anything relevant to the current something has been , has crept up in the dialogue history already , or not .
+I have the , If we wanted to have that function in the dialogue hi dialogue module of SmartKom , I have the written consent of Jan to put it in there .
+. That 's , I 'm I 'm keeping on good terms with Jan .
+
+It turns out there 's the long - standing links with these guys in the speech group .
+It doesn't The first paragraph doesn't seem to have any link to the second paragraph .
+
+if it 's OK that we give her a couple of more hours per week , then she 'll do that .
+Anyway , , that we were that we 're gonna try to get a , first cut at the revised formalism by the end of next week .
+No , w we 're talking about a week fr e end of next week .
+and that 's Ir - Irina Gurevich from EML who is going to be visiting us , , the week before , , August
+And she would like to apply the ontology that is , being crafted at EML .
+The ontology will tell us that castles have opening hours ,
+So we have subjects anyway Except for this week , we have subjects in here .
+. , if , i part of what the exercise is , t by the end of next week , is to say what are the things that we just don't have answers for yet .
+
+I 've bested you again , Nancy .
+We 've been so far working on things that are easy .
+if you 've got huge ra huge range of possible choices
+No , no . We 've got a lot we 've got a lot of theses going .
+Cuz I know , , we 've been using this one easy sentence
+and I 'm you guys have , maybe you are the one who 've been looking at the rest of it
+
+W do you have data , like the You have preliminary data ?
+it 'd it 'd be useful for me , if we want to have it a little bit more data oriented .
+To tell you the truth , what I 've been looking at has not been the data so far ,
+when we 're into data and looking at the some specific linguistic phenomenon in English or in German , in particular , whatever , that 's great ,
+
+My is I asked for a commented version of that file ?
+Now if it turns out that effort leads us into some big hole that 's fine .
+So , forward chaining in a way , rather than backward .
+It 's i Is it staying at the Wednesday noon ?
+I already sent you my fi my bib file .
+But if he g if he turns is really gonna turn around and help t to write this version that does connect with as many as possible of the other linguists in the world then it becomes important to use terminology that doesn't make it hard
+My friend has a home version and he brought it over ,
+
+So , Eva just reported she 's really happy about the CBT 's being in the same order in the XML
+as in the be Java declaration format
+so you don't have to do too much in the style sheet transversion .
+The , Java the embedded Bayes wants to take input , a Bayes - net in some Java notation
+and Eva is using the Xalan style sheet processor to convert the XML that 's output by the Java Bayes for the into the , , E Bayes input .
+That 'd be weird , that he has both the Java Bayes and the embedded Bayes in
+
+various issues of how come a plural noun gets to quote " count as a noun phrase " ,
+I solved that at the same time as " how do we keep adjectives from floating to the left of determiners and how do we keep all of that from floating outside the noun phrase " to get something like " I the kicked dog " .
+If we encounter a phrase such as " where is X ? " , should that set this to true and this to true ,
+because Kate has a photography show .
+, if you have time after this I 'll show you the noun phrase thing .
+said " alright let 's see if get noun phrases and , , major verb co , constructions out of the way first . " And I have not gotten them out of the way yet .
+
+The question is whether the construction is semantic or like ambiguous between asking for location and asking for path .
+or whether the construction semantically , , is clearly only asking for location
+Is it is it like that or is it just obvious from world knowledge that no one you wouldn't want to know the location without wanting to know how to get there or whatever .
+, we talked about semspec , for " semantic spec specification "
+So by just having semantic even bringing semantics in for matching just in the form of j semantic types , right ?
+
+since we have this idea about the indefinite pronoun thing and all that , , I ca can try and , run with that ,
+OK . Do you wanna run the indefinite pronoun idea past Jerry ?
+the idea of saying that you treat from the simulation point of view or whatever you treat , , WH constructions similarly to , indefinite pronouns
+because lots of languages , , have WH questions with an indefinite pronoun in situ or whatever ,
+It makes sense from that point of view , too , which is actually better .
+
+Mental mental Palm Pilot .
+Probably skipping the mental spaces part .
+Can we ? Is it worth thinking of an example out of our tourism thing domain , that involves a a decent mental space shift or setting up
+Hhh . Maybe I do need a Palm Pilot .
+So you perform the mental sum
+
+It is , we have the choice between the , , usual Festival voices ,
+, the usual party voices .
+OGI has , , crafted a couple of diphone type voices that are really
+Unfortunately , probably male voices , a bit more research on .
+
+, if one thing is , this room is taken at after three - thirty pr every day
+Because , , this room is again taken at two - thirty by Morgan .
+
+So Mary fixed the car with a wrench .
+and then , , " who fixed the car with a wrench ? "
+In the in analogously to the way you would do " someone fixed the car with a wrench " .
+
+Does OGI stand for ? Original German Institute ?
+Oregon Graduate Insti
+Oregon @ @ Graduate Institute
+

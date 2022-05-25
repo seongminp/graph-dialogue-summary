@@ -1,0 +1,27 @@
+The project manager recapped the events and decisions of the previous meeting.
+The marketing expert presented research on user preferences and tendencies with remote controls.
+The research indicated that users want remotes to be more attractive, to match the behavior of the user, to be easier to locate when misplaced, and not to cause RSI.
+The research also indicated that younger users were interested speech recognition.
+The user interface designer spoke on the option to have a universal remote, presented two differently designed remotes available on the market, and described some features a user-centered remote should include.
+The industrial designer discussed the interior workings of a remote and then the team discussed the option to include speech recognition in their design.
+The project manager briefed the team on some new requirements to abide by.
+The team then discussed the option to include a recharger with a locater button in their design, the appearance of their remote, buttons, how to make an ergonomic remote, and the option to have a two-piece remote.
+The industrial designer will work on components.
+The team will explore the option of a two-piece remote.
+The user interface designer will explore how well a rounded, ergonomic remote and a two-piece remote work with the user.
+The marketing expert will examine trend watching reports
+The remote will only be used for televisions.
+The team will not work with teletext.
+The corporate color and slogan must be incorporated into the design.
+The remote will be simple.
+The remote will look appealing.
+The remote will be easy to find.
+The remote will have a minimal number of buttons.
+The remote will be yellow with black or gray buttons.
+The corporate slogan will appear on the bottom of the remote.
+The remote will have buttons for numbers, volume up and down, channel up and down, power, mute, and a menu.
+The remote will include a scroll action.
+The remote will be rounded in shape such that it fits comfortably in the hand.
+The reliability of speech recognition.
+Whether to include speech recognition.
+How to accommodate left-handed people with an ergonomic design that fits right-handed people.

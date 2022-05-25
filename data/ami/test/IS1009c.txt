@@ -1,0 +1,235 @@
+A	44.79	how how we doing ?	opening
+A	49.27	first we going over the minutes of the last meeting , more or less .	opening
+A	56.25	in the last meeting the marketing manager had presented her method of working , meaning gathering suggestions from everyone to see how she best could market this this product at the within the budget that was given .	opening
+A	81.38	in general the idea is that it should be something that is not difficult to use .	opening
+A	89.75	it's also an item that people lose lot .	opening
+A	94.57	so we should address that .	opening
+A	98.14	and , , it should be something that is very simple to use .	opening
+A	105.56	in addition to that to make it sell , , the marketing manager wishes that it be very attractive , or like she says put some sizzle into it in one way or another so that the people are buying it now because , in particular with smaller items , that's very important fact , 'cause if they say , , go home and think about it , that won't work .	opening
+A	130.79	also mentioned was it should be it should have very short learning curve .	opening
+A	138.68	and maybe it could be sold by using slogan .	opening
+A	145.45	our technical manager has then said that she feels it should have chip that has infra-red bits and it has an interface controls interface that controls the chip .	opening
+A	161.42	therefore , messages will be controlled in the same manner .	opening
+A	166.36	there should be extra features like lid buttons , maybe beep .	opening
+A	170.55	if too many buttons are pressed , child lock and maybe display clock so that people could you could see the time , , what show they want to watch .	opening
+A	188.18	also mentioned was maybe different shapes .	opening
+A	193.38	so the components of the thing should be button , bulbs , infra infra-red bulbs , battery , chips , wires , and maybe some holder for the for the item .	opening
+A	210.26	francino who is our interface designer has mentioned that the that it , , should have an on-off button , and also has mentioned an interesting feature that it should have maybe channel lock .	opening
+A	230.09	particularly with maybe small children that they couldn't watch channel that is undesirable .	opening
+A	235.61	it should be compact .	opening
+A	236.83	her personal favourite was it should be t-shaped .	opening
+A	240.93	and maybe have an anar alarm-clock .	opening
+A	243.26	and the material should possibly be not of non-allergic nature .	opening
+A	250.22	the different systems that exist are infra-red or radio-waves .	opening
+A	258.04	maybe it should have electri electrici electricity saving feature .	opening
+A	265.83	and even possibly timer to so that people can program their favourite program on th right from the remote .	opening
+A	279.09	are we all in agreement that that's about what we discussed last time ?	opening
+D	284.68	that is it .	opening
+A	286.87	then we i'm looking for three presentations .	opening
+A	290.94	and whether the order matters much , don't don't , so whoever wants , .	opening
+B	305.45	now my slide , .	user interface presentation
+A	314.19	come on , close already .	user interface presentation
+A	321.45	and that's number two , right ?	user interface presentation
+B	337.56	now as an interface designer , would give more emphasis on the interface , how the remote looks like so that it is sellable , it is attractive to customers .	user interface presentation
+B	351.7	now the function of remote is to send messages to the television .	basic buttons
+B	356.89	this messages could be switch on-off message or switch to next channel message or swapping the channels or switching onto particular channel , like you can have the numbers one , two , three , four , up to nine .	basic buttons
+A	373.92	nine channel switches ?	basic buttons
+A	377.96	nine channel switches ?	basic buttons
+B	379.14	yes , nine numbers .	basic buttons
+B	382.97	and then you have swapping of button by which using which you can swap the channels if you don't want to see the third channel you can swap it to the fourth channel or vice versa .	basic buttons
+B	395.8	then it should have next button , and next button channel by which you can keep on scrolling the channels one by one .	basic buttons
+C	402.87	going to the nex next .	basic buttons
+B	406.85	next slide , .	basic buttons
+B	410.4	then you should have button which should which ca which can be used for increasing or decreasing the volume .	basic buttons
+B	418.1	then , there should be button which can give subtitles for particular program which is going on television .	basic buttons
+B	424.59	if you are watching french program and you would like to have subtitles in english , then there should be channel which can trigger this mechanism in the television so that the user can see the the subtitles on the screen .	basic buttons
+B	441.93	then there should there should be some buttons which can control features like the colour , colour of the picture , the contrast , sharpness , brightness of the picture .	basic buttons
+B	456.77	now there should be memory switch .	basic buttons
+B	462.72	there should be mute button .	basic buttons
+B	464.72	suddenly if if if viewer he gets telephone call , and if he want he doesn't want to switch off the t_v_ , but he he can reduce the sound , he can bring the volume down and he can watch he can while talking he can watch the t_v_ .	basic buttons
+B	482.36	now the most important feature would like to have in my remote would be the speech recognition feature .	speech recognition
+B	490.45	it's an integrated progra programmable sample sensor speaker unit .	speech recognition
+B	498.52	so remote can be th can be designed which can have the voice recognisers , you can record your own voice which can be recognised by as voice recogniser in the television , , if you want to see we if you want to see the ninth channel if you say just say ninth channel , th now the the , the remote will automatically it will switch to the ninth channel .	speech recognition
+B	528.11	so the t_v_ will have some recogniser which will recognise the user's voice and accordingly it will change its functionalities .	speech recognition
+B	535.86	so this is one of the very important feature remote control can have .	speech recognition
+B	541.18	so this is one one of the interface which can be created .	alternative interface options
+B	547.2	very simple interface which has all the important features .	alternative interface options
+B	553.37	then , , next slide .	alternative interface options
+B	555.73	then , these are some of the remotes which are different in shape and colour , but they have many buttons .	alternative interface options
+B	562.63	so sometimes the user finds it very difficult to recognise which button is for what function and all that .	alternative interface options
+B	568.61	so you can you can design an interface which is very simple , and which is user-friendly .	alternative interface options
+B	573.6	even kid can use that .	alternative interface options
+B	575.96	so can you go on to the next slide .	alternative interface options
+B	579.0	so this is one of the interface or one of the remote which has this vi voice recogniser .	alternative interface options
+B	585.06	and this has multi-purpose use , it can be used for t_v_ , it can be used for cable-satellite , it can be used for v_c_r_ , d_v_d_s and audio .	alternative interface options
+B	595.19	and this has in-built voice recogniser .	alternative interface options
+B	601.65	can you go on to the next slide ?	alternative interface options
+B	603.35	now this is an interface for chil for remote which child can use .	alternative interface options
+B	610.14	this is user-friendly , it's very attractive and children can use it as as they can play with it .	alternative interface options
+B	616.64	and this comes with different colours , different shapes .	alternative interface options
+B	626.93	and this this child interface has minimum buttons and all the important buttons are there in this small , compact , attractive child interface .	alternative interface options
+B	646.56	next slide , .	alternative interface options
+B	647.79	now this is big over-sized remote which cannot be misplaced or it's impossible to misplace .	alternative interface options
+D	657.48	could lose that in minute .	alternative interface options
+B	661.14	so this is no this is very big , you cannot misplace it anywhere .	alternative interface options
+B	667.29	so this is jumbo universal remote control and it's impossible to im misplace or lose .	alternative interface options
+B	673.89	this this is one such interface which can be created .	alternative interface options
+B	678.37	and the personal preference would be spe to incorporate speech recognisers which will respond to user's voice for particular function .	user interface presentation
+A	713.67	any comments on her presentation ?	user interface presentation
+D	720.37	looks like we still have quite choice of things out there .	user interface presentation
+D	724.94	what i'm no suggestion's bad .	user interface presentation
+D	728.92	but we're gonna have to narrow it down little more .	user interface presentation
+D	731.78	don't think that we can get the t-shape is good , the child one is good , the too big to misplace , it's just funny .	user interface presentation
+D	740.06	don't think that's gonna be our impulse purchase at the checkout counter .	user interface presentation
+A	742.29	th no , the these are her presentations , but as far as the decision making we getting to that after after but if wanted to know whether anybody had any any anything to add to her presentation .	user interface presentation
+D	748.14	it's it's gonna be little bit too unwieldy .	user interface presentation
+D	754.76	have to come back to that later .	user interface presentation
+D	762.54	no , her presentation was good , and she really explored all the options .	user interface presentation
+A	767.35	ho who wants to go next ?	industrial design presentation
+C	778.3	the next one , .	industrial design presentation
+C	780.1	it's it was the old one .	industrial design presentation
+A	787.6	the components design .	industrial design presentation
+C	796.98	this time i'm i'm going to concentrate more on the components and the technical side of the remote controller design .	components
+C	807.15	can you go on to the next slide , .	components
+C	810.13	have just brief down few components which we require for the remote control construction .	components
+C	817.22	the first one is case to keep all the components like integrated circuit , battery , etcetera , etcetera , it's like it can be plastic one , hard plastic , so that it can be strong , even if you just , , if you if it falls down , then it doesn't break .	components
+C	835.49	so it should be strong .	components
+C	837.53	and there are no harmful materials used in that .	components
+C	841.99	and it should be recyclable .	components
+C	845.23	and , , and also using of colouring compon components like if we want to have different colours , blue , red , green , so we have to use some colouring compone compone components .	components
+C	858.84	and the second important thing is integrated circuit .	components
+C	864.44	which we can use highly sophisticated one because it's like the it's like the heart of the remote controller .	components
+C	870.57	if it is not efficient then everything wi is going to be like the lef ess less efficient so it you should we should have highly sophisticated one .	components
+C	879.57	and it should be resistant to high as as low temperatures .	components
+C	883.48	suppose if it is thirty-eight degrees outside forty degrees outside , it should it should be able to re resist the temperature highs and high temperatures and low temperatures .	components
+C	895.79	and it should be with equipped with timer and alarm facility .	components
+C	901.4	and the other component we should we have in the remote controller is resistor which is like it is very very much important for the electricity flow through through through the remote controller and also capacitor which is which is it's it's like battery , capacitor .	components
+C	921.99	can you go on to the next slide , ?	components
+C	926.05	diode , transistor , resonator , these are all this technical electri electronic compons components which are which we have to use in remote controller .	components
+C	936.92	battery , would like to suggest one thing if we if we will be able to make res rechargeable battery then we sh we need not go for high performance battery , even if it is low performance battery it ca it can't it can't charge much .	components
+C	954.34	it it it's not high voltage battery .	components
+C	956.28	then also we can if it is rechargeable one , then people can use it for long time , so in that way we can cut cut the cost , but that we have to make the battery as rechargeable one .	components
+C	968.32	and we we have circuit board in remote controller .	components
+C	972.15	can you go to the next slide , .	how it works
+C	974.46	and how it works , how the remote controller works .	how it works
+C	977.54	when you press button .	how it works
+C	987.14	when you press button , when you do that , you complete specific connection that means when you when you press button there will be small circuit underneath the button , and it will send some signals through the wires , and then the chip will send start connection and knows that which button is pressed .	how it works
+C	1006.04	suppose you have pressed channel one button , number one you have pressed , then the chip will know that the number one button was pressed .	how it works
+C	1013.97	it pros produces mors morse code line signal specific to that button .	how it works
+C	1018.28	every button , every individual button , has its own morse code .	how it works
+C	1021.81	suppose the user has pressed butto button one , then it will have spe the circuit will generate specific morse code to that that button , and the transistor will amplify the signal and send then to the l_e_d_ which translates the signal into infrared light .	how it works
+C	1038.96	like you have got signal by pressing button .	how it works
+C	1042.47	that's morse code has been generated by the integrated circuit .	how it works
+C	1046.9	now , that signal , that morse code , has to be amplified by the transistor .	how it works
+C	1050.88	that is the use of transist transistor we which we use in the remote controller .	how it works
+C	1054.49	it will amplify the signal and it will send it to the l_e_d_ and which translates the signal into an infra infrared bits .	how it works
+C	1062.05	the sensor on the t_v_ can see the infrared light , and seeing the signal seeing the signal re it reacts appropriately , that when it sees the amplified mo morse code signal , then it will it will know which what what action it has to do .	how it works
+C	1078.71	then it will do the appropriate action .	how it works
+C	1081.0	so this is how the remote controller works .	how it works
+C	1086.08	can you go to the next slide , .	components
+C	1088.18	have few pictures .	components
+C	1089.5	when you look at the remote controller it's it's it this is normal remote controller .	components
+C	1096.02	and to the next slide , .	components
+C	1099.16	and where we had few buttons and all .	components
+C	1101.76	and if you open the remote controller you have this circui circuit board and few electronic components , like you can see chip there which is having eighteen pins , and also capac capacitor , three resistors and also resonator , and di and diode transistor .	components
+C	1124.1	the electronic components all of the electronic components have all those things like chip and diode transistors an , di can you can see the t_a_ double one eight three five labelled chip .	components
+C	1142.74	you can also see the the green two green things are these are they are they are resistors , and just beside that you can see transistor , and cylinder shape , that one is capacitor .	components
+C	1156.95	and also there are resistors , ther there is diode .	components
+C	1162.37	can you go go on to the next slide .	components
+C	1164.98	so this is the circuit board .	components
+C	1166.63	the green one is circuit board .	components
+C	1168.62	actually , building circuit bo board is pretty pretty easy and also it's it's inexpensive .	components
+C	1175.06	it's it costs less than what you print on paper , because when you when you are building some circuits some circuits and also wires , it's it's better to go for printing , because you can build these circuit boards on on bulk and it's just printing , nothing like , , you don't need to use wires and all .	components
+C	1196.07	it's not exactly wires we are using .	components
+C	1198.42	it's just printing something on board .	components
+C	1201.32	tha tho those prints will acti act as wires and ci circuits .	components
+C	1206.71	so th that green thing is circuit board , and also you can see there are like access for buttons , like when you press button , the circuit under the button will be activated th it will it will he get some signals from it and it will it will ch its ch se send signal signals to the , , integrated circuit .	components
+C	1229.29	can you go to the next slide , .	components
+C	1231.24	so this is these are the circuits un underneath the buttons .	components
+C	1235.28	can you see the black , round marks ?	components
+C	1237.81	they they are the circuits .	components
+C	1241.13	and like we have designed before we have seen some few things like instead off buttons we have some scrolls .	components
+C	1250.76	but push-button requires simple chip underneath it , but whereas scroll wheel requires normally regular chip which is higher price range .	components
+C	1260.04	like for scrolls we have to go for sophisticated and and full complete chip .	components
+C	1266.66	and as energy source we offer basic battery , more ingenious hard dynamo , kinetic provision of energy , more than what is that you shake casually to provide energy .	components
+C	1279.68	so that also we can have in battery , or we can use solar sells .	components
+C	1289.93	the product can be de delivered into different cases .	components
+C	1293.58	usually , the cases and card flat that we see usually normal remote controller .	components
+A	1304.09	and you have more pictures .	components
+A	1305.22	we have five minutes to the end of the meeting .	components
+C	1306.72	maybe have just one more slide , .	components
+C	1312.14	like we can have ma material such as plastic , rubber , wood , titanium , but titanium we can't use .	components
+C	1318.05	and also for electronics we can use simple and regular re or an advanced chip on the print , also infra it includes the infrared se sender .	components
+C	1329.75	the for the movie just to develop samples and so spe sample speaker .	components
+C	1337.16	an , that's it .	components
+C	1339.22	it's all for me now , .	components
+A	1342.48	any particular comments by anybody ?	industrial design presentation
+D	1346.48	on the scroll and the push-button , ca you can achieve scrolling by repeatedly pushing button ?	industrial design presentation
+C	1353.52	no , no , no , th the the the scrolling wheels are different , like you can go for sw switches like buttons or scrolls , which which we used to do before ten ten years before , .	industrial design presentation
+C	1363.26	now , nobody uses that because you need you need sophisticated chip and all .	industrial design presentation
+C	1367.83	so it's better we go for ordinary buttons .	industrial design presentation
+D	1371.09	we'll just go for push buttons for in the interest of cost .	industrial design presentation
+A	1374.98	we don't have lot of time left and we will still have to make decision , and the marketing expert has to present her her thing .	marketing presentation
+D	1381.88	go right to my first my next slide .	marketing presentation
+D	1386.41	alright , my method is i'm interested in what the competition is doing , and wanna see how we can make ourselves different from the competition , so i've really been looking at the press and the ads that are out there for other remote controllers .	marketing presentation
+D	1402.22	spend lot of time on the internet surfing around doing the same thing .	marketing presentation
+D	1407.93	and then when i'm out in people's houses or at meetings or anything like that , try to notice what remote controls people have , and if it's convenient in the conversation ask about it .	marketing presentation
+D	1418.86	and would encourage you all to do the same .	marketing presentation
+D	1421.48	and my findings from this is that , , small is beautiful .	marketing presentation
+D	1426.85	people like something that really fits in their hand .	marketing presentation
+D	1430.16	simple is beautiful .	marketing presentation
+D	1431.44	they don't want to have to squint at small print , they want buttons whose functions are obvious , and they want as few buttons as possible , and they don't care for the mode thing .	marketing presentation
+D	1443.55	they want each button to do something .	marketing presentation
+D	1445.58	and eye-catching is important .	marketing presentation
+D	1446.76	it's gotta look cute , it's gotta look appealing .	marketing presentation
+D	1449.23	go ahead , i'm trying to finish fast for you .	marketing presentation
+D	1451.45	and our preference is , as far as i'm concerned , are we got to get to the market before the competition .	marketing presentation
+D	1457.82	ours has to be look really great and it has to come out before the others , so that we have leg up on time to sell it and push it before other people get out their christmas item .	marketing presentation
+D	1468.4	and we should develop one or two features we can really dwell on in our ad campaign .	marketing presentation
+D	1473.54	if we try to tell people it has too many great features , the consumer just gets confused and we don't get anywhere .	marketing presentation
+D	1480.32	so we've gotta narrow our selection down to li two things , , that we gonna say are really great about our our our new product .	marketing presentation
+D	1488.72	and i've been looking around at what designs every year different things are popular .	marketing presentation
+D	1494.81	and in my research this year found out that fruit and vegetable shapes are really popular .	marketing presentation
+D	1499.39	and people are tired of hard plastic and hard metal .	marketing presentation
+D	1503.24	they are more back into soft feel , spongy feeling things , things with maybe little cloth on them .	marketing presentation
+D	1509.82	so those are things maybe we wanna look at as far as saleability of the item .	marketing presentation
+A	1518.2	that concludes the presentation of everyone .	decisions
+A	1524.85	and what we really have to decide in this meeting is the concept of the remote .	decisions
+A	1533.62	and so what do we think on the concept of the remote ?	decisions
+D	1545.19	you wanna try to come back to yours , and limit yours bit ?	decisions
+B	1547.66	yes , would like to include this feature which is called as voice recogniser .	decisions
+D	1556.31	so speech recognition is most important as far as you're concerned ?	decisions
+B	1559.94	this could be one feature which could be sellable .	decisions
+D	1562.76	that could that could that could be our star feature .	decisions
+D	1565.29	that that be really good , , agree with that .	decisions
+C	1566.82	but but what i'm very very much doubtful how how far it will work , because speech recogniser like it it has its own problems , issues .	decisions
+C	1578.56	it's not distance problem it it's recognising person's voice , like maybe different people will be having different voices , so it like it's everything so so to get good recogni recognising system , it's costly thing , .	decisions
+A	1586.54	you you teach you have to teach , before we get too far off here , the components of the concept is the energy .	decisions
+B	1591.21	no , it's it's , , it it's like your recording of all question already , and then you're expecting an answer from th , you have t_v_ system , i'm the user and my family members are the user , will already record question like , good morning , like around eight o'clock want to see the news in the television .	decisions
+B	1614.38	so i'll say just good morning and the t_v_ will switch on .	decisions
+B	1617.56	it will recognise my voice and will switch on .	decisions
+A	1626.07	what energy do we foresee ?	decisions
+D	1630.36	battery , and we all on that .	decisions
+D	1633.63	that that's that's gonna be most cost-effective and the best thing .	decisions
+A	1636.99	then chip on print .	decisions
+A	1641.76	and the case .	decisions
+A	1642.67	and we all agree on the case , we wanna have something maybe bright , colourful .	decisions
+D	1648.16	bright , colourful , trendy trendy design , and strong .	decisions
+C	1649.14	and also strong .	decisions
+B	1651.19	trendy design and compact .	decisions
+A	1654.79	trendy design , compact and strong .	decisions
+A	1660.28	user interface concept , interface type , supplements .	decisions
+A	1669.6	that will be your area , right , jana .	decisions
+C	1674.28	like the switches , like we use buttons for user interface .	decisions
+A	1685.19	and not what they mean by supplements .	decisions
+B	1687.91	and supplements like different types of features buttons , like can have mute button or swapping button .	decisions
+D	1689.9	that , or or like her speech recognition would also be supplement .	decisions
+D	1696.94	her speech recognition feature would be supplement .	decisions
+A	1698.02	right , right , right , mm-hmm .	decisions
+D	1700.12	so why don't we put down speech recognition if possible pending some more research from our industrial engineer on how expensive that is .	decisions
+A	1712.59	our next meeting will be in thirty minutes , and the i_d_ is to this is the individual actions to be taken until then , to have the look and feel design , and the u_i_d_ is supposed to come up with the user interface design , and the marketing expert with the product evaluation .	closing
+A	1743.01	in this phase , the two of you , jana and francine , have to work together on prototype using modelling clay , it says here .	closing
+A	1752.88	you will receive specific instructions will be sent to you by your coaches .	closing
+A	1759.54	if you have any questions , , you you can always contact me or or your coach , suppose .	closing
+D	1771.36	wherever they're hiding ?	closing
+A	1773.27	so we conclude the meeting here and we come back in thirty minutes , according to our timetable here .	closing

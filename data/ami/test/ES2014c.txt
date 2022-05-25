@@ -1,0 +1,367 @@
+A	118.01	conceptual design meeting .	opening
+A	123.83	so right from the last meeting was trying to send you the minutes , but it didn't work out too , so maybe in quick summary of the last meeting , quickly give you what we what we had .	opening
+A	155.62	right , so wishing hadn't closed the damn right so we had the fact that we're gonna have the the logo the company logo in its colour scheme incorporated onto the the device the remote device .	opening
+A	178.58	we had made our decisions about made our decisions about the device itself , that it was gonna be simple to make it enable us to complete the project in time .	opening
+A	196.27	we're gonna have effectively two pages , front page which had the features that the the customers most wanted , and then the the backup features on the second page so that it could meet the technical requirements .	opening
+A	215.06	and the customers wouldn't have to look at them too often , only as and when required .	opening
+A	224.08	so what decisions have we made ?	opening
+A	229.3	have there been any changes ?	opening
+B	232.04	we all have presentation again , so if we go through those and then .	opening
+A	235.56	three presentation , .	opening
+B	236.24	shall go first again ?	opening
+A	237.38	so , fine .	opening
+B	249.18	see this little more smoothly than the last one .	industrial designer presentation
+B	288.06	let's get started .	industrial designer presentation
+B	289.3	the for the i'll back actually .	industrial designer presentation
+B	298.56	for the components design , next step is the the way the remote's gonna work is still the same idea as before .	components, materials and energy sources
+B	306.77	we still have the user interface which is all the buttons we're gonna incorporate .	components, materials and energy sources
+B	311.81	then there is chip and still the sender .	components, materials and energy sources
+B	316.07	so yes including the power supply as .	components, materials and energy sources
+B	320.45	i'll go on to my findings in each of these areas .	components, materials and energy sources
+B	325.1	first in the power supply , we have the option of just the standard battery , .	components, materials and energy sources
+B	335.4	any of you think of like the the old torches which you wind up .	components, materials and energy sources
+B	342.01	there's kinetic option , which if any of you've seen those new watches which you you power up by waving around , it just requires small amount of movement which would mean the batteries wouldn't have to be replaced .	components, materials and energy sources
+B	353.49	that's one option , but that was gonna cost little more .	components, materials and energy sources
+B	356.43	and then there's solar cells .	components, materials and energy sources
+B	358.42	as final option .	components, materials and energy sources
+B	361.41	for the buttons , we have an integrated push button , which is just to say all all these are supplied by real reaction .	components, materials and energy sources
+B	370.99	so for the ease of for quickness and ease we should take them from at least like one of these options .	components, materials and energy sources
+B	377.04	so for the buttons there's an integrated push button , which is just the same as the standard ones .	components, materials and energy sources
+B	383.24	this says it's similar to the button on the mouse for normal for like like modern computer .	components, materials and energy sources
+B	391.21	there's scroll wheel which is the new mouse has just got like the centre section which you can scroll up and down , which may be for the volume .	components, materials and energy sources
+B	399.47	you could do do that .	components, materials and energy sources
+B	402.64	one issue for the buttons is , depending on which material we use , if we use rubber buttons then it requires rubber case , so we have to take that into consideration .	components, materials and energy sources
+B	413.06	moving on to the printed that's on the next th the there wasn't too much difference in the cost , that that related to the actual buttons , but it does affect the printed circuit board .	components, materials and energy sources
+A	414.53	what would be the cost do do we know ?	components, materials and energy sources
+B	427.08	which is the next section .	components, materials and energy sources
+B	429.18	for the circuit board which is the middle , it's just see it down there the chips like the like the workings of the actual of the remote .	components, materials and energy sources
+B	438.42	the firm supplies simple , regular and an advanced circuit board .	components, materials and energy sources
+B	444.39	and there's different prices according to each .	components, materials and energy sources
+B	446.41	so if we've got the scroll wheel for one of the buttons , that would require slightly more advanced circuit board than if we just had standard push button .	components, materials and energy sources
+B	457.03	one final thing we came up with was some information on the speech recognition .	components, materials and energy sources
+B	461.3	there's small unit available through the company which would be an extra cost , but it wouldn't affect the size of the remote too much .	components, materials and energy sources
+B	470.18	and that would require more advanced circuit board , so there is an extra price in that sense .	components, materials and energy sources
+B	476.58	there is th an extra cost in that sense .	components, materials and energy sources
+B	479.0	going to my personal preferences , possibly for power we could use kinetic which is the idea of the watches that you move you move the remote around to power it up .	components, materials and energy sources
+B	492.66	and this would avoid batteries running out , having to replace batteries and such like .	components, materials and energy sources
+B	497.82	for the buttons , we'd probably get away with just having the standard push buttons rather than the scroll wheel .	components, materials and energy sources
+B	507.22	and for the circuit board , again depends on which features we want in the actual in the remote .	components, materials and energy sources
+B	513.9	so if we wanted the scroll wheel and wanted the voice recognition , then we'd have to get more costly circuit board .	components, materials and energy sources
+B	521.56	and that's it .	components, materials and energy sources
+A	531.36	with the printed circuit boards you were going for the mm-hmm .	components, materials and energy sources
+B	535.47	it depends if we're gonna have the speech recognition , we'd have to probably get an advanced one .	components, materials and energy sources
+B	543.15	but , so that is something i'll have to look into .	components, materials and energy sources
+A	544.97	but are we going right .	components, materials and energy sources
+B	546.5	that's that's decision for all of us .	components, materials and energy sources
+A	550.66	so are we able to make that decision now in sense that this is the point at which we're discussing that issue , so would it not be best to rather than one way is to do each of the presentations and then make decisions going back to the various presentations as they were .	components, materials and energy sources
+A	568.24	the other way would be to do the presentation and then make the decision at that point in time .	components, materials and energy sources
+C	573.88	that's probably better one , to discuss it straight away .	components, materials and energy sources
+A	576.79	'cause at that point then you've got the details up there , so if we wanted to know that the scroll wheel required the regular and what required advance .	components, materials and energy sources
+A	586.96	then if we were able to see that down then we could make the decision at that point in time and then that would be the end of that issue .	components, materials and energy sources
+A	593.34	does that make sense ?	components, materials and energy sources
+C	595.97	have lot of the information there .	components, materials and energy sources
+C	597.84	it might not be very clear .	components, materials and energy sources
+C	602.16	unless you want to plug it back in to yours .	components, materials and energy sources
+B	606.17	we could do , .	components, materials and energy sources
+B	618.82	as say it only specified that we need more advanced circuit board for the scroll wheel , it didn't the voice recognition came as separate piece of information .	components, materials and energy sources
+A	627.23	no the scroll wheel required the regular , so the .	components, materials and energy sources
+B	629.72	if if you down .	components, materials and energy sources
+B	632.8	it's just this bit at the bottom which i've highlighted , but the scroll wheel requires mini minimally regular chip , which is in the higher price range .	components, materials and energy sources
+C	642.23	the scroll wheel , and if we're going for sleek and sexy , scroll wheel is maybe bit kinda bulky ?	components, materials and energy sources
+A	642.37	the display requires an advanced chip the display requires an advanced chip which in turn is more expense .	components, materials and energy sources
+B	647.11	also the display's else which we decided against .	components, materials and energy sources
+B	649.92	but that bit and note that the push button just requires simple chip , so that would keep the price down .	components, materials and energy sources
+C	666.05	i've got pictures 've seen pictures with it sticking off the side of it , and they don't really look great .	components, materials and energy sources
+B	672.62	so maybe just simple push button , and that would cut costs on the did everyone get this on the speech recognition ?	components, materials and energy sources
+A	675.72	so we're going for .	components, materials and energy sources
+A	679.56	so is simple push button .	components, materials and energy sources
+D	690.05	so are we going for the are we going for the simple one , are we ?	components, materials and energy sources
+B	698.63	the it was what we said before , the idea that you record in set message , and then it picks up that message and replies to you .	components, materials and energy sources
+B	707.72	so it is the concept we discussed before .	components, materials and energy sources
+B	710.54	but then we for whether it would require more complicated circuit board .	components, materials and energy sources
+B	716.3	i'm guessing it would , but got like the definite information .	components, materials and energy sources
+B	719.25	maybe we should go on what we're certain of rather than if it's just the push button then it just needs the simple circuit board .	components, materials and energy sources
+A	721.88	so if we go for the simple push button , so effectively we're going for the simple printed circuit board are we ?	components, materials and energy sources
+A	726.62	or are we going for the regular ?	components, materials and energy sources
+A	733.75	but is there any other , that's true for the for for that element , but we have to take all el elements into consideration .	components, materials and energy sources
+A	745.86	and so if there is one element that requires the more expensive one , or say the regular one , or the more advanced , then that would have to be the same for all of them .	components, materials and energy sources
+D	756.98	suppose we need we need to find out what circuit board that requires , maybe before we make decision .	components, materials and energy sources
+C	757.37	but but the way that interpret that it doesn't seem to send out signal to the telly , it just it's like parrot just rep reply replying to your message .	components, materials and energy sources
+D	771.99	suppose so , .	components, materials and energy sources
+B	773.48	so maybe that would be something separate , .	components, materials and energy sources
+C	774.38	so don't would effect our circuit board .	components, materials and energy sources
+B	776.9	so we'd have simple circuit board and that would be an extra that would be in addition to it .	components, materials and energy sources
+C	781.05	and don't think you could really perform any of the remote functions with it .	components, materials and energy sources
+B	781.15	that makes sense .	components, materials and energy sources
+C	784.38	'cause the example that they've given there is good morning coffee machine , good morning jo .	components, materials and energy sources
+C	788.71	it might be useful to say like where are you remote .	components, materials and energy sources
+C	791.02	here am , jo .	components, materials and energy sources
+C	793.21	but that's maybe as far as that one could go ?	components, materials and energy sources
+B	797.94	that makes sense , so we'd stick with the simple circuit board and then think of the speech recognition as an extra an extra possibility .	components, materials and energy sources
+C	803.64	just as fun way to find it .	components, materials and energy sources
+A	808.0	simple circuit board .	components, materials and energy sources
+A	809.83	simple push button .	components, materials and energy sources
+C	816.1	and it says that it said the cost of that isn't too much .	components, materials and energy sources
+A	817.32	you were you were wanting to go for the kinetic power supply .	components, materials and energy sources
+B	820.82	so just for just for ease of not having to replace the batteries .	components, materials and energy sources
+A	827.56	and how does it get charged up ?	components, materials and energy sources
+B	830.08	it's it works on the basis they have some ball bearings inside .	components, materials and energy sources
+B	834.7	it's it's some on watches which you you you shake to power it up .	components, materials and energy sources
+B	840.15	somehow the mechanism inside powers up through movement .	components, materials and energy sources
+B	843.38	so you'd you'd move the remote around little bit and then that powers it up to use it .	components, materials and energy sources
+A	847.61	so the speech recognition was are we going for speech recognition ?	components, materials and energy sources
+A	852.27	'cause that required the advanced had speech recognition requires advanced req require .	components, materials and energy sources
+C	854.32	it would be helpful to find it , but don't t'd , so .	components, materials and energy sources
+D	856.72	just just just for the call and find thing .	components, materials and energy sources
+B	858.21	did we decide it didn't affect the circuit board , it just affected it was just no th that's what that's what , but maybe maybe it doesn't .	components, materials and energy sources
+B	870.44	might have got that wrong .	components, materials and energy sources
+D	871.84	'cause it's it's separate isn't it , it's not part of the mm-hmm .	components, materials and energy sources
+A	873.53	speech recognition you reckon then is simple .	components, materials and energy sources
+B	876.72	it's it's just an addition thing it's .	components, materials and energy sources
+A	879.58	and so we would want it in as an extra because it doesn't appear to cost too much .	components, materials and energy sources
+A	883.88	would that be , it wouldn't really cost anymore , would it ?	components, materials and energy sources
+B	888.34	'kay shall pass on to you now ?	components, materials and energy sources
+C	888.97	i'll just just check what it said .	components, materials and energy sources
+C	900.72	actually don't really says anything about the cost , but it says that it's already in the coffee machines , so like it's already .	components, materials and energy sources interface specialist presentation
+B	909.28	assume it would cost extra , but maybe we maybe we'll find out how much that does cost and have to decide slightly later .	components, materials and energy sources
+A	915.27	and then have to change all change everything at the last minute .	components, materials and energy sources
+C	929.73	that was quick .	interface specialist presentation
+C	932.24	so very brief presentation , .	interface specialist presentation
+C	938.34	from looking at the remotes that are out there at the minute , none of them are particularly sleek and sexy .	existing products
+C	943.95	haven't actually got the examples of the scroll button there , but there's some curved cases that you can see , range of sizes .	existing products
+C	952.94	all of them have lot of buttons there they seem to just have the rubber buttons .	existing products
+C	958.83	does that move it ?	existing products
+C	961.21	it just seems to be skipping on without us doing anything .	existing products
+A	962.33	i've found that try and get it back .	existing products
+B	965.72	if you right click and then go onto previous slide .	existing products
+C	969.24	there wasn't much more to say about that , just rambling .	existing products
+C	972.85	some of the remotes that looked at , one of the models da did actually have voice recognition where you could where it was connected to the remote control functions .	existing products
+C	983.7	and it was quite swish model , where it can control four devices , t_v_ , cable , satellite , video , d_v_d_ , audio .	existing products
+C	993.42	so that's bit of competition there .	existing products
+C	996.16	so maybe it's better not to try and compete with that thing and just to market it as completely different like different viewpoint as finding your lost control rather than trying to compete with the functions .	existing products
+C	1011.09	the scroll buttons , as you've already mentioned , there's examples of those , but they don't look as sleek as other models .	existing products
+C	1020.54	and there's no real advantage and because it impacts on other on the materials and the price it's not great .	existing products
+B	1025.0	on the price , .	existing products
+A	1028.06	so you were saying the scroll buttons mm-hmm .	existing products
+C	1030.93	th there was specialist type of remote that we could think about , .	existing products
+C	1036.88	there was children's remote , where they just had very limited range of buttons and they were bright and colourful and you you could program them so that they could only look at certain channels .	existing products
+C	1049.99	but if that's really in our field ?	marketing strategy
+C	1051.92	but that's something that's out there .	marketing strategy
+B	1052.36	we're going for the biggest market , maybe not , but was it was it specified that we went for the biggest ?	marketing strategy
+A	1059.16	're to go for the international market rather than local market but that that wouldn't necessarily preclude the one thing that you can often do with products is you can make small modifications .	marketing strategy
+A	1071.76	so you have your basic model which you would sell at whatever , and then you could have additional features in like you'd have model one , model two and model three , and therefore you can sub-divide your market up .	marketing strategy
+A	1084.96	but that's really where your field is .	marketing strategy
+B	1088.1	so maybe the children's remote should be like next step , but maybe for ours , maybe we should .	marketing strategy
+A	1092.11	anyway you could add on for an extra package , but on this basic one i'm reckoning that we're going for the basic model to be discussed here and that you would have for future reference the possibility of adding in extra features at extra cost to take care of specialist market segments .	marketing strategy
+C	1112.99	right that's something that we can be aware of .	marketing strategy
+A	1113.09	is that so so what are we deciding to do here ?	marketing strategy
+C	1119.49	because there's already very good voice recognition technology out there , and because ours might not cover the same functions that the leading brands do , it might be good idea to market it as finder function .	marketing strategy
+A	1133.63	the fi , the finder function rather than as speech function to find your remote .	marketing strategy
+B	1139.06	so you also said for going for the international market that some some maybe older people might not like the speech recognition .	marketing strategy
+C	1148.05	different languages might not be compatible .	marketing strategy
+B	1150.68	it it would make it quite complicated , where ours at least keeps it fairly simple and then the , .	marketing strategy
+C	1158.06	'cause you program this one yourself , like to say like whatever you want to your question .	marketing strategy
+D	1166.28	and ours is quite cheap device , so how much we'll be able to put into it .	marketing strategy
+A	1171.9	so you'd have finder feature rather than voice recognition feature .	marketing strategy
+C	1176.75	maybe unless something else comes up .	marketing strategy
+A	1177.2	and you were talking .	marketing strategy
+A	1179.32	and you were talking about scroll buttons ?	marketing strategy
+C	1181.69	we've decided that it's gonna increase the cost and give no real kinda extra benefit and it's gonna decrease from the sleekness of it .	marketing strategy
+A	1189.64	alright , so we're just gonna have the the rubber buttons , was that right ?	marketing strategy
+C	1195.75	and just to be aware that there are specialist functions and specialist remotes but we probably don't want to focus on those like such as the children's remote .	marketing strategy
+A	1206.44	so not to be focused on .	marketing strategy
+C	1209.55	there was mention just as warning about button design .	look and usability
+C	1215.15	just to avoid ambiguity .	look and usability
+C	1219.42	so it gave the example of say your volume buttons for up and down , they might both have v_ on for volume , let's think how they did this .	look and usability
+A	1230.3	good in in flip it round in ninety degree hundred and eighty degrees and have it up and down .	look and usability
+C	1231.64	i'm just gonna check so do this right .	look and usability
+A	1236.54	an upside-down v_ .	look and usability
+A	1238.88	so that would show that volume was going up , whereas the one underneath would see the volume going down .	look and usability
+C	1239.35	what did they say ?	look and usability
+C	1243.64	the thing was that if you decide to do this , to have triangular buttons , somebody might look at this one and say this triangular button is pointing up , and that's the first thing that they see actually that can't be right , can it ?	look and usability
+C	1259.75	no , they might see , they might see this pointing down and think right that's gonna turn the volume down , whereas the actual button's pointing up , so the function is to turn the button up .	look and usability
+C	1272.58	so , be careful what you put on the buttons and be careful of the shape that you make them , because they might be two contradicting shapes .	look and usability
+B	1273.11	so maybe we could have like .	look and usability
+B	1281.66	so maybe we could have volume written on the side and then up and down on the on the buttons themselves .	look and usability
+A	1287.51	you could have volume up and volume volume up , down and like that .	look and usability
+A	1295.66	and 'cause the idea was to have limited it was to have sizable amount of information on it .	look and usability
+A	1302.36	limited number of buttons .	look and usability
+A	1304.67	'cause it was sixteen buttons , wasn't it that were .	marketing expert presentation look and usability
+B	1306.4	we got it down to not too many .	look and usability
+C	1311.48	and that's all had to say for that .	interface specialist presentation
+C	1319.86	so what was the decision on the design of the volume button ?	marketing expert presentation
+B	1323.88	are we are we gonna go through the design of all the buttons at the moment , or are we gonna , maybe we should see yours first .	marketing expert presentation
+D	1330.84	i've i've got some things to say about possible design things from trend watching .	marketing expert presentation
+D	1352.55	right , i've been looking at some trends in in fashion on top of doing the research into the remote control market the the one that's the one talked about last time , that we'd asked people about remote controls and what what was good about them , what was bad , what they used .	trendwatching
+D	1374.73	and we've also been looking at fa fashions and what people are wanting out of consumer goods at the moment .	trendwatching
+D	1381.94	so we've had people in paris and milan watching the fashion trends .	trendwatching
+D	1388.0	so so just to summarise the most important things which came out of the remote control market investigation .	trendwatching
+D	1398.02	the most important thing was that the thing look and felt fancy rather than just functional .	trendwatching
+D	1403.46	and second , there should be some technological innovation .	trendwatching
+D	1407.63	and then third and less important than the other two , there should be an ease of use as .	trendwatching
+D	1413.51	and , the fashion trends are that people want clothes and shoes and things with fruit and vegetables theme .	trendwatching
+D	1425.42	but the feel of the material should be spongy , which is contrary to last year , .	trendwatching
+D	1431.23	presume it must have been not not spongy last year .	trendwatching
+D	1435.41	so we need to emphasise the fancy design with on on our remote control above all else .	marketing expert presentation
+D	1445.17	and then also try and add in technological informat innovation which could be our find the thing with hand clap .	marketing expert presentation
+D	1452.41	and then we need to ma make it easy to use that's as third priority , so perhaps fewer fewer buttons and functions as we've as we've discussed .	marketing expert presentation
+D	1463.5	and then maybe find way to incorporate these trends so that we capture people's imaginations .	marketing expert presentation
+D	1468.77	so maybe we could make the buttons shaped like fruit and veg , or the the buttons could be spongy , somehow .	marketing expert presentation
+D	1477.3	maybe we could make them out of rubber rather than hard plastic .	marketing expert presentation
+D	1481.46	and then even wackier than that , we could maybe have fruit or vegetable shaped remote , say in the shape of banana like that .	marketing expert presentation
+D	1490.42	right , so that'll be it .	marketing expert presentation
+D	1493.25	maybe banana or courgette .	marketing expert presentation
+D	1499.89	how how far we actually want to go along and follow the trends , do we think the trends are particularly important for this type of gadget , or or , do they not matter that much ?	look and usability
+C	1512.37	if you start making the buttons fruit shaped , it might make it more complicated to use .	look and usability
+A	1517.1	you were just talking about you've got to be careful how you shape your buttons , 'cause you're can mis-direct people .	look and usability
+A	1522.33	and would've thought the functionality 'cause the people get cheesed off by things by having to read instructions et cetera , so .	look and usability
+C	1531.52	maybe just one button , say the standby button is quite kinda separate from all the other functions .	look and usability
+C	1536.53	maybe that could be little apple .	look and usability
+C	1538.71	and then that wouldn't get in the way of like kinda one to nine , and it wouldn't confuse the numbers .	look and usability
+A	1543.9	no th that that incorporates the trend whilst at the same time not confusing people , if you're looking for functionality .	look and usability
+B	1551.48	dunno maybe fruit and vegetables may be popular at the moment , but as we know how fickle the fashion markets are , maybe it just seems realistic that the remote control market isn't the thing which takes in those kinds of fashion trends .	look and usability
+A	1555.49	but what are they gonna be next .	look and usability
+A	1557.09	what are they gonna be next year .	look and usability
+A	1559.78	but but th but but you you can incorporate the tr if if you change all the buttons then you've got the problem that this year's fruit and veg , next year's was gonna say animals or elephants or whatever .	look and usability
+C	1559.89	but suppose as long as it's quite subtle design , even if the design changes , it seems like you're gonna have rubber cases , as as buttons .	look and usability
+A	1574.36	that means you're constantly changing your production schedule , and you've gotta make different moulds and everything else , so that's not good idea would would suggest .	look and usability
+D	1580.33	i'm not i'm not what what what the timescale we're thinking of selling the product over is .	look and usability
+B	1593.28	to something which is maybe more universal .	look and usability
+A	1596.95	but if mm-hmm .	look and usability
+B	1600.78	we maybe can imply fruit shape possibly .	look and usability
+B	1605.37	maybe the spongy feel is something we could think about , .	look and usability
+B	1611.12	maybe still with rubber design we could .	look and usability
+A	1613.58	was that in the fashion sense that this or was the spongy feel was that fashion ?	look and usability
+A	1619.53	it was , wasn't it ?	look and usability
+A	1621.8	so the mm-hmm .	look and usability
+C	1628.74	and that you can make them curved or double-curved and that would be the sleek and sexy look .	look and usability
+B	1632.93	one of the things were if you had rubber buttons then you had to have rubber case .	look and usability
+C	1637.55	right , that fits , doesn't it ?	look and usability
+B	1637.57	no no no it's if you use the rubber double curved case then you must use rubber buttons .	look and usability
+B	1644.0	that's the way round .	look and usability
+B	1644.55	if you have the rubber case then you have to have the rubber buttons to go with it .	look and usability
+B	1648.36	which makes sense .	look and usability
+A	1651.51	rubber buttons require rubber case .	look and usability
+C	1653.99	and that would fit in with what we want , wouldn't it , for the spongy feel , to have everything rubber .	look and usability
+A	1659.85	the the main problem is how how frequently do the fashions change ?	look and usability
+A	1663.82	'cause in essence in the production you want things to stay you want to mint them out 'cause if you've got fashion changes and that you're incorporating , then it means that your stock is is last year's stock and therefore you're selling it or having to sell it at discounted rate which you wouldn't want to do .	look and usability
+A	1684.5	whereas if you kept the product the same but you could have difference from year to year , it seems to me that you could incorporate fashion statement if you like , rather than changing the whole kit and caboodle .	look and usability
+A	1698.3	you're just changing one aspect like like the standby button like that , and especially 'cause then you could make it something that , you might be limited in space , that yes .	look and usability
+B	1706.81	suppose we maybe are limited in the fact that we still have to put the logo on the actual would or not .	look and usability
+A	1714.28	you two are gonna find that out fairly quickly when you move over to your kit modelling stage as to how much pl how much how much how pliable is plasticine .	look and usability
+B	1726.53	maybe we could think of the the cases like changing with the fashions like the nokia phones where you could take the casing off the outside .	look and usability
+B	1732.65	but whether that would be too much to incorporate in production , whether that would just increase the costs , make it more complicated .	look and usability
+D	1740.87	that's possibly it .	look and usability
+A	1740.95	so you're talking there about changing changing the casing .	look and usability
+B	1747.11	the the actual the the look from the outside , so where the buttons would stay the same , and the general function of the remote would stay the same , but you could change the the way it looked .	look and usability
+C	1756.61	and then you could have but you still would have to have the logo on every new case , but you could have like pink cases for girls and red ones and things like that .	look and usability
+A	1764.38	you you could do colour change , so therefore you would that's effectively what they did with the with the mobile phones , was to have some in blue , some in red , some in rather than all in black or , , which four do you want , as long as it's black ?	look and usability
+A	1779.44	but so yes that's true that might no not necessarily , because you could have your company we're we're meant to be finishing up .	look and usability
+B	1781.94	so it is possibility , .	look and usability
+C	1783.67	but we are supposed to use the company colour scheme , aren't we ?	look and usability
+C	1787.0	we haven't really seen that yet it might and we might be able to do both but it might clash with certain things .	look and usability
+B	1787.57	yes that is mm-hmm .	look and usability
+A	1799.18	you could have your company badge and logo .	look and usability
+A	1801.46	lot of computers like like on the one you've got there , it actually has stick on badge so what you would al all you would really need , whether it , , whether the casing be any colour , could be any colour , but that badge would then have to stick out on top of it so that in sense , with with logo like that , because it's on white background , the only colour that it might not stick out so on would be white casing .	look and usability
+A	1832.86	'cause you you're you're badging it .	look and usability
+A	1835.12	and lot of companies get somebody else to make them and literally just badge them themselves with their own badge over the top .	look and usability
+A	1842.53	and the way they've got that there even if you had that on white , which is the predominant colour of the the windows badge , you'd still be able to see it clearly from white casing product .	look and usability
+B	1856.74	and whether we'd have big enough market to have this like secondary market of selling the cases might be something to consider .	look and usability
+C	1864.37	it's for young people , like the phone generation , that thing'd probably go down , and the market research has been on that side of things , hasn't it ?	look and usability
+D	1873.15	it's people say that it's the look , they want the fancy looking thing but i'm .	look and usability
+D	1880.22	i'm not convinced on whether having changeable covers would be something that people would buy into .	look and usability
+D	1885.13	with the mobiles , it's the , it's communication device , people see you with it all about and if it .	look and usability
+B	1890.75	suppose , where you you keep the remote hidden under the sofa most of the time .	look and usability
+A	1892.92	it's in in the house , isn't it , suppose .	look and usability
+C	1896.45	so if we just went for one colour of rubber case did we decide on the rubber case ?	look and usability
+A	1899.87	so don't change case .	look and usability
+A	1902.36	change case colour .	look and usability
+A	1904.34	and we're saying no to that .	look and usability
+C	1909.63	the spongy feel , or did we think that that might go as trend ?	look and usability
+D	1913.73	it was different last year .	look and usability
+D	1915.57	the trend was different last year .	look and usability
+D	1917.47	it was not not spongy feel .	look and usability
+D	1919.54	but whether the trend will change .	look and usability
+D	1923.46	whether it's one of those things that like having all fruit shaped keys , that that probably would go out of fashion very quickly , whereas just the fact that it was rubber case is probably less less of something that you're gonna end up hating in year , .	look and usability
+B	1935.99	less likely to so then th th that would .	look and usability
+A	1942.23	if you're going for fashion trends like that they'll need you'd have to have interchangeable cases so that you could or 'cause otherwise someone's gonna have to buy complete new remote rather than just case .	look and usability
+B	1953.28	it seems to make sense that we we'd just maybe stick with the standard rubber case , and then have the standard rubber buttons as .	look and usability
+C	1960.45	we haven't really talked about the curvature of the case .	look and usability
+C	1964.14	there's flat , there's single-curved and there's double-curved .	look and usability
+C	1969.06	i'm not exactly what these things look like .	look and usability
+B	1969.14	mayb maybe curves give it like the slightly more aesthetic feel ?	look and usability
+B	1973.4	but the double curve wouldn't require us to perform miracles with the plasticine .	look and usability
+C	1979.25	says that i'm not exactly .	look and usability
+D	1981.88	when you say when you say double-curved , what what exactly does that mean ?	look and usability
+C	1987.66	i'll show you the remotes that i've got .	look and usability
+C	1993.71	see how let's just get that bigger .	look and usability
+C	1998.05	see how the one i'm not plugged in , am ?	look and usability
+D	2000.34	no you're not connected to me anymore .	look and usability
+C	2000.92	that doesn't help .	look and usability
+A	2002.07	one one thing to cons one thing to consider is that in some ways you want by having fairly standard case it means they can all fit together on top of each other therefore for storage purposes in shops and the like and it makes it easier that you can if you can store them up on top of each other .	look and usability
+C	2003.23	shall turn it round for time ?	look and usability
+D	2008.91	that should come up .	look and usability
+A	2018.64	whereas if you do fancy things with it , you then gotta put it in ca packaging box that that does that .	look and usability
+A	2026.88	and the cost of packaging could be quite important vis-a-vis the total cost of the product .	look and usability
+B	2033.74	so shall we go through quickly and just work out what we've decide on , if we have to 'kay , so shall we quickly we'll go for single curve , .	look and usability
+A	2037.95	so but no .	look and usability
+C	2040.45	it's not very clear up there , but you can see some of them have got bulges , like the second one and the end one where there's curve there .	look and usability
+C	2047.95	i'm not exactl if double curve is maybe it comes up slightly , or ?	look and usability
+D	2052.15	that's what was trying to work out .	look and usability
+C	2054.98	but it is kinda sleeker look if you've got curves in there .	look and usability
+A	2058.56	so do you wanna go for curves , more curves ?	look and usability
+A	2062.0	we're meant to be we're meant to be finishing this meeting in about minute or so .	look and usability
+C	2062.22	definitely single , maybe double .	look and usability
+C	2067.43	shall we go for single curve , just to compromise ?	look and usability
+A	2070.59	curved or double curved ?	look and usability
+A	2072.41	so it's single curved .	look and usability
+B	2074.02	so did we did we decide on the kinetic power supply ?	discussion
+B	2077.0	the one you move around ?	discussion
+D	2077.57	that think that's good idea .	discussion
+B	2079.93	we ca , we'll still have the are we gonna go for the simple circuit board just to keep the cost down ?	discussion
+C	2084.21	and the rubber push buttons , rubber case .	discussion
+D	2085.6	rubber rubber buttons and case .	discussion
+C	2091.57	and we don't really know much about the colour scheme or logo yet do we , but possibly sticker .	discussion
+B	2102.76	th we can by by not having anything too complicated .	discussion
+C	2107.38	and and the voice recognition , we can use that can't we , just to find it .	discussion
+C	2111.97	without affecting the circuit board .	discussion
+B	2113.92	and see we could always decide against it if something comes up that's just something to that we seemed to leave out .	discussion
+D	2122.76	and then are we going for one button shaped like fruit .	discussion
+C	2127.59	that sounds like it wouldn't do too much harm in couple of years .	discussion
+C	2131.51	what shape do we want ?	discussion
+A	2135.45	so we've got spongy feel buttons as , have we ?	discussion
+A	2138.37	as as or or was that so it's rubber buttons , so it's not really spongy feel buttons , it's just rubber buttons .	discussion
+D	2140.47	that's ru rubber buttons , .	discussion
+B	2141.67	it was just 'kay .	discussion
+A	2145.95	with rubber case right ?	discussion
+C	2146.19	so it's not too wacky .	discussion
+D	2146.27	reasonably spongy , .	discussion
+A	2148.93	and the standby button is gonna be different .	discussion
+C	2153.56	an apple would be good recognisable shape .	discussion
+C	2156.72	if you start getting into kinda aubergines and things , it gets bit weird .	discussion
+A	2161.01	so what what shape are we making the standby button ?	discussion
+C	2166.65	shall we vote on it ?	discussion
+B	2167.99	we will go for the apples apples .	discussion
+C	2168.31	anyone got any suggestions ?	discussion
+D	2168.7	apple apple qu quite big one , as .	discussion
+D	2175.21	could be red apple , .	discussion
+C	2175.38	could be red .	discussion
+D	2179.65	either , don't mind .	discussion
+C	2181.78	'cause we wanna incorporate bit of colour if we can , once we find out .	discussion
+B	2186.65	and then we're gonna are you gonna work on keeping the button design quite simple ?	discussion
+B	2190.79	just like the just working out what we're gonna do for the next time .	discussion
+C	2199.97	that seems pretty straight forward .	discussion
+C	2202.22	'cause most of them will just be mainly circular or like very plain .	discussion
+A	2213.21	what was that last thing again there ?	discussion
+C	2215.46	just to keep the shape of the buttons simple .	discussion
+A	2219.09	right much option on that .	discussion
+A	2221.47	you were going for single curve and alright .	discussion
+C	2224.17	just the shape of the buttons .	discussion
+B	2228.98	and , just keeping the the labelling them labelling of them fairly simple as .	discussion
+B	2234.72	fairly self explanatory .	discussion
+A	2236.95	right , so shape of buttons simple .	discussion
+A	2249.28	so that's that , .	closing
+A	2252.8	we should now go away and get these things sorted out .	closing
+A	2255.26	you two are on plasticine duty or whatever .	closing
+B	2266.58	is that the end ?	closing
+D	2268.1	looks like it .	closing

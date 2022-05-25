@@ -1,0 +1,22 @@
+The project manager opens the meeting, asking the industrial designer to present first.
+The industrial designer begins talking about the functional aspect of the working design and features to make the product unique, such as visibility in the dark, locator alarm, and environmentally-friendly materials.
+To make an environmental impact, they could use smart materials that can be heated and cooled so that the individual components easily separate to be reused or recycled.
+The group asks some questions about this idea and then the interface designer presents about technical functions, explaining the difference between a multifunctional and single function remote.
+The group discusses the two types and decides that a single function design is more suitable for the budget.
+The marketing expert presents on user requirements by using research done on remote control users.
+She summarizes these findings andexplains her personal preference for a user-friendly, unique design since certain features could be too complex.
+The project manager receives some decision-affecting information from management, which she shares with the group.
+They have a discussion about the remote control functions and close the meeting.
+*NA*
+The remote will be a single function design- television only.
+Teletext is outdated and will not be used.
+Remotes must incorporate corporate logo and color.
+No LCD, no voice recognition.
+Alarm locator will be implemented.
+Glow in the dark buttons, self-timed lighting.
+Will consider using number-shaped buttons.
+Will research changable covers.
+Will reserach environmental factor.
+Need to research on whether locator device will need a separate battery.
+Need to research possibility of changable covers.
+Need to research using envrionemntal materials.

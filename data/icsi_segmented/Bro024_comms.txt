@@ -1,0 +1,558 @@
+I meant in the , , multi - language , , Finnish and
+It seems the performance seems worse in Finnish ,
+, it 's not trained on Finnish .
+It 's not trained on Finnish ,
+, the MLP 's not trained on Finnish .
+But And I expect improvement at least in Finnish because the way
+
+But in the case of the mobile , , presumably the acoustic 's changing all over the place .
+And in that case you probably don't wanna have it be endless because you wanna have some it 's not a question of how long do you think it 's you can get an approximation to a stationary something , given that it 's not really stationary .
+and in this case the noise is more about two thousand hertz .
+and I have two cases d where The first case is where the constant is twenty - five DB below the mean speech energy
+No , in this case it 's just the gain .
+And in your case it 's all noisy ,
+
+, it 's , , cuz they 're the baseline results are worse than , , Andreas than results Andreas got previously .
+So the results that I 've shown here are the complete results using the new
+, some intermediate result , because it 's not optimized for anything .
+that 's the that 's about the results .
+At the beginning it was not surprising to me that you get really the best results on doing it this way ,
+and then , must choose them somehow to give on average the best results for a certain range of the signal - to - noise ratios .
+Maybe it 's @ @ it 's possible to have the same result .
+One thing that I note are not here in this result but are speak are spoken before with Sunil I improve my result using clean LDA filter .
+Sunil in your result it 's
+No , I my result is with the noisy LDA .
+This is Your results are all with the clean LDA result ?
+and c create all the results for the whole database that you get to the final number as Sunil did it
+
+So about a about an eight percent , , seven or eight percent relative ?
+and then there 's a minus five percent for the " Babble " ,
+fifty percent relative performance .
+I 'm I 'm trying to understand why it 's it 's eighty percent
+which is like three percent relative degradation .
+So it 's just like it 's like a three percent relative degradation ,
+
+, usually you have in the training set you have similar conditions ,
+But if you have muddy condition training you get only twenty percent .
+, and in that twenty percent @ @ it 's very inconsistent across different noise conditions .
+Like for clean training condition .
+
+And also there are like funny noises on Finnish
+But maybe if you does do it before you get less of these funny - looking things he 's drawing .
+
+cuz I 'm @ @ I p there are some it 's it 's like a bit of a tricky engineering problem .
+But that 's that 's just , , a prejudice .
+Cuz again , it should do a transformation to a domain where it maybe looks more Gaussian .
+Cuz I notice the TI - digits number is exactly the same for these last two ?
+For the France Telecom , spectral subtraction included in the our system , the TI - digits number are the right one ,
+
+, the first thing I did was scaled the noise estimate by a factor which is less than one to see if that because I found there are a lot of zeros in the spectrogram for the TI - digits when I used this approach .
+So the first thing I did was scaled the noise estimate .
+, the n the new technique is nothing but the noise estimate scaled by a factor of point five .
+So the results The trend the only trend I could see from those results was like the p the current noise estimation or the , , noise composition scheme is working good for like the car noise type of thing .
+Then if we can improve the noise estimation , then it should get better .
+So here , I found that it 's if I changed the noise estimate I could get an improvement .
+So that 's so it 's something which actually pursue , is the noise estimate .
+, this is your noise estimate and you somehow subtract it or do whatever .
+which is estimated on the world database .
+you smooth somehow the noise estimate ,
+I 'm close to this noise estimate ,
+So you could you could base it on your estimation of the signal - to - noise ratio on your actual
+
+So so the they it 's I don't mean to say that they 're they 're irrelevant .
+I one thing that might also be an issue , , cuz part of what you 're doing is you 're getting a spectrum over a bunch of different kinds of speech sounds .
+It 's just that you 're making a choice
+that 's what we 're doing in this Aur - Aurora .
+So , , in a dialogue system , where you 're gonna be asking , , , th for some information , there 's some initial th something .
+if it 's a dialogue system , it 's within whatever this characteristic you 're trying to get rid of is expected to be consistent over ,
+so in that situation , though , th maybe what 's a little different there , is you 're talking about there 's only one
+because what you 're really trying to get at is the is the reverberation characteristic .
+So we 're s just continuing to keep aware of what the trade - offs are and , , what do we gain from having longer or shorter latencies ?
+But since we always seem to at least get something out of longer latencies not being so constrained , we 're tending to go with that if we 're not told we can't do it .
+But , again , we 're the approaches that we 're using are ones that take advantage of
+No , they 're using a nine - point window ,
+
+, and , it 's not clear to me yet whether that 's something significant .
+, for any non - stationary noise like " Babble " or " Subway " or any " Street " , some " Restaurant " noise , it 's like it 's not performing w very .
+, see if you add something everywhere , it has almost no effect up up on top .
+So they add a random noise to it .
+cu if you add noise to one of the parameters , you widen the distributions
+it 's logical that it performs worse .
+Also it 's clear when you don't add noise , it 's much worse .
+And if you add too much noise it get worse also .
+I someti are more or less similar but are worse .
+With the noise I have worse result , that if I doesn't use it .
+
+Because right now use an alignment obtained from a system trained on channel zero .
+It 's it was trained on some alignment obtained
+So the alignments from the different database that are used for training came from different system .
+was the alignments were w were different for s certainly different because they were independently trained .
+
+And and th the third thing , , , is , , Barry explained LDA filtering to me yesterday .
+And so , , Mike Shire in his thesis , did a series of experiments , , training LDA filters in d on different conditions .
+But then , , the LDA i , is interesting because it would say , suppose you actually trained this up to do the best you could by some criterion ,
+If I use , , the LDA filter that are training with the noisy speech , that hurts the res my results .
+Because that you did some experiments using the two the two LDA filter , clean and noi and noise ,
+d , it 's much better when you we used the clean derived LDA filter .
+It 's it 's not the clean LDA .
+It 's with the clean LDA .
+
+I don't I don't think the TI - digits data that I have , , i is would be appropriate for that .
+, I wasn't getting that r results on the TI - digit .
+And I found that , the noise estimation is a reason for the TI - digits to perform worse than the baseline .
+Because I 've the only p very good result in the TI - digits is the noise car noise condition for their test - A ,
+For that 's for the clean training and the noisy testing for the TI - digits .
+This is this is TI digits we 're looking at ?
+This whole page is TI - digits
+, it 's TI - digits .
+The first r spreadsheet is TI - digits .
+, it 's Italian TI - digits .
+Like , for TI - digits you used a previous system that you had , I .
+so I didn't test the spectral subtraction on TI - digits yet .
+because I didn't test it yet this system , including with spectral subtraction on the TI - digits data .
+still I don't have the result for TI - digits .
+Maybe for this weekend I will have result TI - digits
+but , it matters , , a lot on TI - digits .
+but TI - digits it 's like two or three percent absolute , , better .
+On TI - digits this matters .
+what 's Do you think we , , should do the digits or skip it ?
+if you could just leave , , your mike on top of your , , digit form
+
+So I 've been working on integrating this mean subtraction approach into the SmartKom system .
+But at after they 've given one utterance you 've got something .
+so that 's that 's what I 've been doing .
+So we 've got forty minutes left ,
+So tried another sk system , another filter which I 've like shown at the end .
+because it 's completely causal .
+we 've got twenty minutes
+Right at the point where you 've done the subtraction .
+
+so the last week , , I showed some results with only SpeechDat - Car
+So I have like a forty - five percent for " Car noise "
+And so it 's not it 's not actually very consistent across .
+The only correlation between the SpeechDat - Car and this performance is the c stationarity of the noise that is there in these conditions and the SpeechDat - Car .
+, it 's consistent in the SpeechDat - Car
+, I get the best performance in the case of " Car " , which is the third column in the A condition .
+, the " Car " noises are below like five hundred hertz .
+But for this you only have to look right now on the SpeechDat - Car performance
+tested it on SpeechDat - Car .
+s So to summarize the performance of these , SpeechDat - Car results is similar than yours so to say .
+but it doesn't matter on SpeechDat - Car ,
+But I observe my case it 's in , , at least on SpeechDat - Car it doesn't matter
+
+And so the issue is what are some other filters that you could use , , in that sense of " filter " ?
+And if we introduce now this u spectral subtraction , or Wiener filtering
+And then you try to subtract it or Wiener filter or whatever .
+Which is very similar to the existing , filter .
+because it 's a it 's not a symmetric filter anymore .
+so the median filtering is fixed .
+but with , Wiener filtering from , France Telecom included .
+It 's just something that 's fixed .
+if you don't weigh differently the different condition , you can see that your , the win the two - stage Wiener filtering is maybe better
+but the final result are not still mmm , good like the Wiener filter .
+
+You 're saying point three percent ,
+you take a point three percent hit , when the training and testing links are don't match ?
+That 's point three percent
+On The the accuracies w went from it was something vaguely like ninety - five point six accuracy , , improved to ninety - five point nine wh when I
+It 's , to get something that 's practical , that you could really use .
+, , on the one hand in a practical system if something is , , four point four percent error , four point one percent error , people won't really tell be able to tell the difference .
+On the other hand , when you 're doing , , research , you may , you might find that the way that you build up a change from a ninety - five percent accurate system to a ninety - eight percent accurate system is through ten or twelve little things that you do that each are point three percent .
+That seventy - five point seven nine in the Finnish mismatch which is that the eleven point nine six what we see .
+And if it changes to point five , which is equal @ @ for transition and self loop where it becomes eighty - eight percent .
+So the fifty - one point O nine has become forty - eight point O six ,
+and the different points of the curves are for five , thresholds on the probability from point three to point seven .
+with a maximum overestimation factor of two point five .
+
+in the sense , they are better than what the French Telecom gets .
+i It is known , this medium match condition of the Finnish data has some strange effects .
+Not much in the match and the medium match and TI - digits also right now .
+i the condition where it 's better than your approach , it 's it just because maybe it 's better on matched and that the weight on matched is bigger ,
+So over all it gets , , worse for the matched condition ,
+that 's that 's the best thing , is like the French Telecom system is optimized for the matched condition .
+everywhere the matched 's performance is very good for the French Telecom .
+
+If you have clean training , you get also a fifty percent improvement .
+which is still very imbalanced because there are like fifty - six percent on the SpeechDat - Car and thirty - five percent on the TI - digits .
+ps the fifty - six percent is like comparable to what the French Telecom gets ,
+is that fifty percent improvement ?
+which is like some fifty percent improvement .
+I the fifty - six percent improvement in the SpeechDat - Car becomes like sixty - seven percent .
+So three hundred and fifty inputs ,
+, so this gives like fifty - seven point seven percent , , s , error rate reduction on the SpeechDat - Car data .
+and for these s two system we have like fifty - five point , , five - percent improvement ,
+So again , it 's around fifty - six , fifty - seven .
+So you so you just should look at that fifty - eight perc point O nine percent and so on .
+so the fifty - eight is like the be some fifty - six point
+
+, in a p , if you were going for an evaluation system you 'd care .
+The how to g I was thinking that for the ASRU paper we could have a section saying , " For SmartKom , we d in we tried this approach in , , interactive system " , which I don't think has been done before .
+, I was thinking more from the system aspect , if you 're making a choice for SmartKom , that that it might be that it 's it c the optimal number could be different , depending on
+Bec - because I so this SmartKom task first off , it 's this TV and movie information system .
+I was I was about to say . So if you ask it " What what movies are on TV tonight ? " ,
+, if we look at the figures on the right , we see that the reference system is very bad .
+then after that it is s almost the same as the baseline prop system .
+It 's the system that Sunil just described .
+and then I have two sheets where it 's for a system where
+
+If we think twelve seconds is ideal we could train the models using twelve seconds to calculate the mean , to mean subtract the training data .
+, but , for I tried twelve seconds in train .
+I 'm a I tried six seconds in train .
+And six seconds in train was about point three percent better .
+Like I saw something like if you only have two seconds in test , or , , maybe it was something like four seconds , you actually do a little better if you , , train on six seconds than if you train on four seconds .
+but the case , with the point three percent hit was using six seconds in test , , comparing train on twelve seconds versus train on six seconds .
+The train on twelve seconds .
+, I wrote to him asking about he chose the two seconds .
+say between one and three seconds , in a few different reverberation conditions ,
+with the sampling rate I was using , one second or two seconds or four seconds is at a power of two , number of samples
+a actually I was just thinking about what I was asking about earlier , wi which is about having less than say twelve seconds in the SmartKom system to do the mean subtraction .
+if I look at my wristwatch when I say that it 's about two seconds .
+
+So like I did an experiment where I , , was using six seconds in test ,
+with the with the HTK set - up I should be able to do some experiments , on just varying that length ,
+And anybody working on this with some particular task would experiment .
+But that 's that 's not a that 's a cheating experiment .
+Stephane also has the same experience of using the spectral subtraction right ?
+Because I actually I als always had a good experience with spectral subtraction ,
+because we 're all still experimenting with trying to make the performance better in the presence of noise .
+, I only say that the this is , a summary of the of all the VTS experiments
+
+it 's still not clear to me in the long run whether the best thing to do would be to do that or to have some stylized version of the filter that looks like these things you 've trained up , because you always have the problem that it 's trained up for one condition and it isn't quite right for another .
+a at the beginning we had only this multi condition training of the TI - digits .
+, what you do is in when you have the this multi - condition training mode , then you have then you can train models for the speech , for the words , as as for the pauses where you really have all information about the noise available .
+it seems to be the best what wh what we can do in this moment is multi - condition training .
+And these artificial distortions , I have the feeling that they are the reason why we have the problems in this multi - condition training .
+And and I was thinking that might be the reason why you get these problems in the especially in the multi - condition training mode .
+
+just to de - emphasize the jarring .
+If it 's in the kiosk , then the physical situation is the same .
+which is very which is a very strange situation where we used the we changed the proto for initializing the HMM
+, , similar to what you see really u in the real noisy situation .
+It 's it 's just especially in these segments ,
+
+So that is the performance for Italian , Finnish and Spanish .
+there is u normally a figure for the Finnish and one for Italian .
+, it 's trained on Italian ?
+We actually trained , , the on the Italian training part .
+So it was a f a phonetic classification system for the Italian Aurora data .
+took their entire Italian training part .
+so the way I did that , i measured the average speech energy of the all the Italian data .
+for Italian and Spanish it 's th this value works good but not necessarily for Finnish .
+I already know that if I completely remove this latency , so . , it there is a three percent hit on Italian .
+and say that the result in the last , for Italian the last experiment for Italian , are bad .
+, actually I g I the , the Spanish government , , requires that anyway .
+
+And I finish writing a proposal and submit it to the committee .
+And , should I should I explain , , more about what I 'm proposing to do , and s and ?
+But the but the , , forty - seven point nine percent which you have now , that 's already a remarkable improvement in comparison to the first proposal .
+So we had forty - four percent in the first proposal .
+So this is still at three or four percent improvement over the first proposal .
+If we look at the France Telecom proposal , they use some noise addition .
+I didn't use the scheme that 's currently in the proposal
+Actually , it 's not exe exactly proposal - one .
+
+So that 's that 's standard .
+and there 's this thirty - three for the " Station " .
+It was in the order of thirty milliseconds
+But but this thirty milliseconds they did it did not include the delta calculation .
+So by , by reducing the noise a decent threshold like minus thirty DB , it 's like , you are like r reducing the floor of the noisy regions , right ?
+So when you say minus twenty - five or minus thirty DB , with respect to what ?
+so you 're creating a signal - to - noise ratio of twenty - five or thirty DB ?
+wha what I observed is that for Italian and Spanish , when you go to thirty and twenty - five DB , it 's good .
+But for Finnish , you have a degradation already when you go from thirty - five to thirty
+
+I don't think it 's just for any mismatch you take a hit .
+, actually the noise compensation whatever , , we are put in it works very for the high mismatch condition .
+But this fifty percent is that the high mismatch performance equivalent to the high mismatch performance in the speech .
+So n s So since the high mismatch performance is much worse to begin with , it 's easier to get a better relative improvement .
+So " clean " corresponds to " high mismatch " .
+But the only number that 's still , which Stephane also got in his result was that medium mismatch of the Finnish ,
+So the major improvement that we got was in all the high mismatch cases ,
+, our tradition here has always been to focus on the mismatched .
+Because I have , mmm , worse result in medium mismatch and high mismatch .
+
+and , , so in tha in that case , wh what do they do when they 're t , performing the cepstral mean subtraction on the training data ?
+Just taking , what we were used to u use , , , some type of spectral subtraction , y you get even worse results than the basis
+Then I tried the same exactly the same spectral subtraction algorithm on these Aurora tasks
+We probably should at some point here try the tandem the system - two with this , with the spectral subtraction for that reason .
+But in this case we have spectral subtraction
+
+It 's gonna , the exact interaction of the microphone 's gonna differ depending on the person and .
+So it 's just an ad - hoc
+So it could reduce the dependence on the amplitude and so on .
+And then , after subtraction , I add a constant to the energies
+and then you simply add an additive constant again .
+So before it 's like adding this , col to the o exi original
+, essentially you 're adding a constant into everything .
+just , adding this constant and looking how dependent is it on the value of the constant
+And it seems that right now this is c a constant that does not depend on anything that you can learn from the utterance .
+It 's just a constant noise addition .
+but you were adding an amount that was twenty - five DB down from the signal energy .
+, it 's just a constant amount over all .
+and and dependent on this additive constant , it is s better or worse .
+
+if I 'm if I take if I use that frame to calculate the mean , then I 'm just gonna get n nothing .
+That 's the way the the frames are packed ,
+Because it 's the CRC is computed for two frames always .
+So they don't have to more than one more frame to know whether the current frame is in error .
+, in the system we want to add like speech frame before every word and a little bit of , , s a couple of frames after also .
+
+so , , the this past week I 've been main mainly occupied with , , getting some results , u from the SRI system trained on this short Hub - five training set for the mean subtraction method .
+But , , there 's a question of how to set up the models . So , we could train the models .
+I 'm trying to figure out what 's the optimal way to set this up .
+And you just happened to have picked a particular one by setting all the weights to be equal .
+The way I currently have the mean subtraction , , set up , the analysis window is two seconds .
+just looking at a relatively small n small , , space of hypotheses .
+It 's a very , very small set , actually .
+i When when you have this , after you subtracted it , , then you get something w with this , , where you set the values to zero
+Just you just ta you just set it for a particular signal - to - noise ratio that you want ?
+
+So it 's improvement over the baseline mel cepstrum ?
+But the baseline mel cepstrum under those training doesn't do as
+To the just the energy , or to the mel , to the mel filter ?
+So it Cuz , this is most interesting for the mel filters .
+, it 's not the mel filter bank output .
+not from the mel filter banks .
+
+and , do how they address this issue of , , testing versus training ?
+But the ideally , it seems to me anyway , that you would wanna do the same thing in training as you do in test .
+, what is important to see is that there is a big difference between the training modes .
+How does clean training do for the , , " Car "
+, this is because it gets stuck in some local minimum in the training .
+, in comparison to any type of training on clean data and any type of processing .
+That means the H M Ms we trained , they are they are based on Gaussians ,
+So is the is the training is the training based on these labels files which you take as reference here ?
+For the Aurora data that it was trained on , it was different .
+
+And then your second pass , , eliminates those most of those hypotheses by , by having an improved version o of the analysis .
+That 's " Percentage increase " is the percentage improvement over the baseline .
+so " percentage increase " means decrease ?
+So that 's where the biggest improvement came up .
+If we put everything , we improve a lot u the spectral use of the VTS
+
+Might wanna close the door so that , Stephane will
+Could you go ahead and turn on , , Stephane 's
+So that 's the virtual Stephane over there .
+maybe if you get something that sounds that 's does a pretty job at that .
+but it 's it may be due to the fricative sounds
+But the way Stephane did it , it is exactly the way I have implemented in the phone ,
+I made s similar investigations like Stephane did here ,
+
+Only , only thing is that the phase is like a nonlinear phase
+, there is smoothing of the gain trajectory with some , low - pass filter ,
+Your your smoothing was @ @ , over this s so to say , the factor of the Wiener .
+this smoothing , it was over the subtraction factor , so to say .
+It 's a smoothing over the gain of the subtraction algorithm .
+And did you try simply to smooth to smooth the t to smooth stronger the envelope ?
+As far as I remember you smooth somehow the envelope ,
+and later on you smooth also this subtraction factor .
+it 's it 's just the gain that 's smoothed actually
+But the way it 's done is that , for low gain , there is this non nonlinear smoothing actually .
+For low gains , I use the smoothed sm , smoothed version
+but for high gain @ @ it 's I don't smooth .
+The best is to do the smoo smoothing as early as possible .
+So , before estimating the SNR , @ @ smooth the envelope .
+Then I would need to find a way to like smooth less also when there is high energy .
+Cuz I noticed that it helps a little bit to s like smooth more during low energy portions and less during speech ,
+then you have a bad signal - to - noise ratio and then you would like to have a stronger smoothing .
+
+And the other thing is , , there 's two sides to these really small , , gradations in performance .
+, there are two figures showing actually the , mmm , , performance of the current VAD .
+, but to estimate the performance of the VAD , we don't want to do that ,
+six thousand hidden nodes and two outputs .
+So maybe just looking at this frequency range for from five hundred to two thousand would improve somewhat the VAD
+actually when we look at the VAD , for some utterances it 's almost perfect ,
+So there are some utterances where it 's almost one hundred percent VAD performance .
+but I don't trust the current VAD .
+
+And they add noise on the trajectory of , , the log energy only , right ?
+and they add this number to the log energy simply .
+the log energy , the after the clean cleaning up .
+But but they do not apply filtering of the log energy or what
+And then they calculate from this , the log energy
+And then the final log energy that they that they get , that to the to that they add some random noise .
+, but again , that 's just log energy as opposed to filter bank energy .
+These are log energy computed from the time s domain signal ,
+, the music energy 's very low .
+But still , when you do this and you take the log after that , it reduce the variance .
+I obtained this average energy
+
+and , , on the other hand if someone 's talking slowly maybe you 'd need more .
+looking in the lower right - hand corner ,
+So so what is the lower curve and the upper curve ?
+One curve 's for the close - talking microphone , which is the lower curve .
+And and this curves are the average over the whole database ,
+And I have the feeling that maybe it 's because just Finnish has a mean energy that 's lower than the other databases .
+the a the noise addition should be lower
+
+I if you have some samples of faster or slower speech
+But what do you What about if I w I fed it through some , , speech processing algorithm that changed the speech rate ?
+So f if it 's really in one kiosk , then that you could just chain together and , as much as much speech as possible to
+, which means that we tend to label speech as a silence .
+So the reference alignment would label as speech some silence frame before speech and after speech .
+To the average , speech energy
+because if you smooth then y you distort the speech .
+But m that may be because with this technique we are using really clean speech .
+The speech the representation that go to the HTK is really clean speech
+
+, I wou I would be curious about people 's feedback on this
+But if you were doing a live system that people were actually using nobody would notice .
+So because you 'd have hours and hours of training data .
+So do you have , you mean you have files which are hours of hours long ?
+and the heuristics of exactly how people handle that and how they handle their training I 'm vary from place to place .
+, what do comp what do people do who really face these problems in the field ?
+And and that 's I that 's something that 's p people have figured out how to deal with in cepstral mean subtraction as ?
+when it 's noisy people should just speak up .
+I was just curious about where we are compared to , , the shortest that people have done .
+But in , in the real thing you 're not gonna be able to measure what people are doing over half an hour or an hour , or anything , right ?
+
+just a straight spectral subtraction algorithm when I was using neural networks , big neural networks , which maybe are more able to model strange distributions
+So it 's a n neural network based on PLP parameters ,
+Wh - when you train the neural net y you
+For the Italian data , we trained the neural network on with embedded training .
+So re - estimation of the alignment using the neural network , I .
+
+They the they calculate it from previous utterances and then use it , .
+You said in systems where you use cepstral mean subtraction , they concatenate utterances
+So if someone 's interacting with the system , though , , Morgan , Morgan said that you would tend to , , chain utterances together
+and so if you 're splitting things up into utterances
+Because say you if you have say five thousand utterances in your training set , , and you keep the mean from the last utterance ,
+by the time it gets to the five thousandth utterance
+There is a l a There is a lot of , there are a lot of utterances with music in with music in the background .
+you 're saying it doesn't depend on the utterance
+
+It 's got , , like sixteen channels going into it .
+So there are the other thing what I tried was , which I explained in the last meeting , is using the channel zero for , , for both dropping and estimating the noise .
+So , going from channel zero to channel one , , almost double the error rate .
+But did you use channel did you align channel one also ?
+so the VAD was trained on maybe different set of labels for channel zero and channel one
+We didn't copy the channel zero alignments to channel one .
+But for the new alignments what you generated , you just copied the channel zero to channel one , right ?
+
+And so , , if you have any other information about what a general characteristic would be , then you can do it there .
+That 's an accuracy number , I ,
+because all those numbers were in sixties and seventies
+They have a random number generator , right ?
+and then just generate random number .
+But what he is doing language dependent is measuring what that number i reference is that he comes down twenty - five down from .
+
+, a short - time FFT short - time cepstrum calculation , , mean u mean calculation work that people have in commercial systems , they do this all the time .
+I , the the issue I was the general issue I was bringing up was that if you 're have a moving window , , a wa a set of weights times things that , , move along , shift along in time , that you have a linear time invariant filter .
+that 's why that 's why RASTA filter has actually ended up lasting a long time ,
+And , , the first time out you might have some general average .
+, if you have random data , , in the time domain , then when you look at the s spectrum it 's gonna be pretty flat .
+S so they did filter their time signal
+What where was the , the smallest latency of all the systems last time ?
+So , if if I would put it put on the head of a project mana manager I would say , , there is not so much time left now .
+I didn't get a chance to fill them out ahead of time .
+
+That 's that 's worth looking into .
+ap apart from that , I the main thing I have t ta I have to talk is , , where I 'm planning to go over the next week .
+, so for the past , , week an or two , I 've been just writing my , , formal thesis proposal .
+, so I 'm taking this qualifier exam that 's coming up in two weeks .
+I got two weeks to brush up on d , presentation
+, you were finishing your thesis in two weeks .
+I 'm I 'm showing now an envelope
+Maybe you are leaving in about two weeks Carmen .
+and maybe also to write somehow a document where you describe your approach , and what you have done .
+
+And there 's this question of , , so , , in my tests before with HTK I found it worked it worked the best with about twelve seconds of data used to estimate the mean ,
+And one is the k does it still work if you just use the past history ?
+as you say , there hasn't been that much with this long - time , , spectra work .
+, there 's been some discussion about whether the work we 're doing in that project is gonna be for the kiosk or for the mobile or for both .
+The the w there was a very long discussion about this on the on the , , Amsterdam meeting .
+, , I discovered the same problem when I started working on , on this Aurora task almost two years ago ,
+I also have the feeling that , the reason ye why it doesn't work is , that the models are much are t , not complex enough .
+, so it 's a reference performance that we can , if we want to work on the VAD , we can work on this basis
+
+But but is there is there a problem with the one hundred eighty milliseconds ?
+So , our position is that , , we shouldn't be unduly constraining the latency at this point
+, there is a minority in that group who is a arguing who are arguing for , , having a further constraining of the latency .
+, France Telecom was was very short latency
+, so it 's possible to get very short latency .
+So if they include the delta , it will be an additional forty millisecond .
+which has forty milliseconds latency .
+But unfortunately there is , like , this forty millisecond latency
+
+So the other thing is the I 'm just looking at a little bit on the delay issue where the delay of the system is like a hundred and eighty millisecond .
+Where does the comprish compression in decoding delay comes from ?
+They actually changed the compression scheme altogether .
+So they have their own compression and decoding scheme
+So they changed the whole thing so that there 's no delay for that compression and part also .
+Even you have reported actually zero delay for the compression .
+They want some report from everybody who 's in the program .
+
+but , we 'll often have less in the SmartKom system .
+So we 'll use as much data as we have at a particular time ,
+and we 'll we 'll concatenate utterances together , , to get as much data as we possibly can from the user .
+So , , I 'll try to make the plots and then put some postscript up on my on my web page .
+And I 'll mention it in my status report if people wanna take a look .
+and , , I 'll I 'll jus f for the ones in between I I 'll just zero - pad .
+, if you if there 's a lot of phones in one second maybe you 'll get a really good sampling of all these different things ,
+, but then you 'll have the degradation of , , whatever you do , added onto that .
+I 'll I 'll borrow the head back and agree .
+
+, Guenter , I if you t followed this but this is , , a , long - term long - term window F
+And then there 's , another thing I wanna start looking at , , wi is , , the choice of the analysis window length .
+as I was saying , the simplest thing to do is not to train anything , but just to do some , , hamming or Hanning , , window , thing ,
+And then you can , you can increase your window whi while you get while you are getting more samples .
+and so you might have some general thing that 's your best to start with .
+So what you just said , about what do you start with , raises a question of what do I start with then ?
+in cepstral mean subtraction , for short - term window analysis windows , as is usually done , you 're trying to get rid of some very general characteristic .
+But I actually stuck most of this in our m last meeting with Guenter .
+so we start with that different proto and it becomes eighty - eight ,
+, you start up with the somehow with the noisy envelope .
+
+Which means decrease in word error rate ?
+Maybe it 's just a way to decrease the importance of this particular parameter in the in the world feature vector
+their own error correction mechanism .
+because it would artificially increase the the false alarm rate of speech detection .
+because I 'm missing one figure here .
+, so one surprising thing that we can notice first is that the speech miss rate is , higher than the false alarm rate .
+So as I was saying , the miss rate is quite important
+So this cus this could also explain , , the high miss rate maybe .
+fill in any information that 's missing .
+
+which is like a different initialization for the , , s transition probabilities .
+It 's just that right now , the initialization is to stay more in the current state ,
+, which estimate silence probabilities ,
+which may be in noisy condition maybe label labelled as silence .
+like the fact that the models tend to align their first state on silence and their last state o on silence also .
+There first , a threshold on the probability @ @ That puts all the values to zero or one .
+or some silence probability from the VAD if you have
+
+But you take that many from the front and flip it around to a as the negative value .
+, if you if you get at this in this situation that you get this negative values and you simply set it to zero or to a constant or whatever if we would use there a somehow , a random generator which has a certain distribution , u not a certain , a special distribution we should see we have to think about it .
+That those regions are the for this @ @ those negative values or whatever you get .
+It 's In in the front sheet , I have like the summary .
+
+I ran some tests last night .
+So I wanna do some tests and , , actually make some plots of , for a particular amount of data and test what happens if you vary the amount of data in train .
+, file lengths are , I the same order or in the same size as for test data , or
+I g I the question I had was , , amount of data e u was the amount of data that you 'd give it to , update this estimate .
+The reference drops like a very fast
+because I left one with Dave because I was dropping one off and passing the others on .
+
+and I was I was hoping to have the plots with me today .
+The other thing is that and I remember B N doing this , is that if you have a multi - pass system , , if the first pass ta it takes most of the computation , the second and the third pass could be very , very quick ,
+so briefly , I 'm proposing to do a n a new p approach to speech recognition using , a combination of , , multi - band ideas and ideas , , about the , acoustic phonec phonetic approach to speech recognition .
+, so I will be using these graphical models that , that implement the multi - band approach to recognize a set of intermediate categories that might involve , , things like phonetic features or other f feature things that are more closely related to the acoustic signal itself .
+, and the hope in all of this is that by going multi - band and by going into these , intermediate classifications , that we can get a system that 's more robust to unseen noises , and situations like that .
+some of the research issues involved in this are , , one , what intermediate categories do we need to classify ?
+, another one is , what other types of structures in these multi - band graphical models should we consider in order to , combine evidence from the sub - bands ?
+And , , the third one is how do we how do we merge all the , , information from the individual , multi - band classifiers to come up with word recognition or phone recognition things .
+, but that involves mucking with the back - end ,
+
+So , in the in a telephone task , these are different phone calls .
+So you don't wanna @ @ chain it together from a from a different phone call .
+so you 'd you and so in training you would start over at every new phone call or at every new speaker .
+
+, say this room and also a few of the artificial impulse responses we have for reverberation ,
+And every when we now start introducing some noise reduction technique we introduce also somehow artificial distortions .
+And then what you do is you introduce some artificial distribution in this
+but , i somehow there is u there is no longer a Gaussian distribution .
+It is somehow a strange distribution which we introduce with these artificial distortions .
+the c the models are not complex enough to absorb that additional variability that you 're introducing .
+And that we , so , introduce again some natural behavior in this trajectory .
+, you introduce , , very artificial behavior .
+

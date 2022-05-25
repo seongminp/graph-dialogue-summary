@@ -1,0 +1,24 @@
+The project manager recapped the events of the previous meeting and briefed the team on some new requirements the team must follow when designing the remote.
+The marketing expert presented research on consumer preferences and user requirements for remotes.
+The marketing expert also presented information regarding voice recognition and what demographic finds the feature appealing.
+The user interface designer described the technical functions of a remote and stressed the need for a user focused design.
+The industrial designer discussed the interior workings of a remote.
+The team then discussed the option to include voice recognition, LCD, and a feature to locate a misplaced remote.
+The team briefly discussed who they were aiming their product to along with the idea of marketing their product to television manufacturers.
+The team also decided on some features to include in their product.
+*NA*
+The team will not work with teletext.
+The remote will only control televisions.
+The corporate image must be recognizable on the remote.
+The remote will have a power button.
+The remote will have a small joystick.
+The remote will have LCD.
+The remote will have a menu button.
+Instead of an "okay" button, the user will push down on the joystick.
+The remote will have a beeping noise which goes off when a user is trying to locate it.
+Whether to include voice recognition as a feature on the remote.
+Whether to include LCD.
+What functions the joystick controls.
+What functions the LCD controls.
+Having a remote which controls multiple devices.
+What sort of components are necessary for the feature which allows the user to locate a misplaced remote.

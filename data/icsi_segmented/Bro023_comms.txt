@@ -1,0 +1,561 @@
+the opposite of that would be if you find out you 're going to get a negative number , you don't do the subtraction for that bin .
+If your if your subtraction 's going to result in a negative number , you don't do subtraction in that .
+, I 'm just saying that 's like the opposite .
+, that 's that 's the opposite ,
+
+Do people use the Wiener filtering in combination with the spectral subtraction typically ,
+So it 's like I haven't seen anybody using s Wiener filter with spectral subtraction .
+, the reason was , like , we had this choice of using spectral subtraction , Wiener filtering , and there was one more thing which I 'm trying , is this sub space approach .
+y you can say that d your spectral subtraction is a filter ,
+But instead of double stage Wiener filtering , it 's it 's this smoothed spectral subtraction .
+for Do they use spectral subtraction , or Wiener filtering ,
+if we have no , , spectral subtraction or Wiener filtering , , i the system is , we thought the neural network is much better than before ,
+
+And and , , it will , , if you have an IIR filter , it will , , , not behave in the steady - state way that you would like it to behave until you get a long enough period ,
+So I 've been working on that Wiener filtering .
+found that , , s single like , do a s normal Wiener filtering , like the standard method of Wiener filtering .
+which is a standard Wiener filter .
+So plug in the Wiener filtering .
+and then I plug in the Wiener filter in that ,
+so it improves over not having the Wiener filter .
+, the one is this one is just the baseline plus the , , Wiener filter plugged into it .
+, I have I 've observed there are , like , a lot of bumps in the frequency when I do this Wiener filtering
+So this is more like I 'm doing Wiener filter twice ,
+Can you just say like one or two sentences about Wiener filtering and why are people doing that ?
+the Wiener filter , it 's it 's like you try to minimize
+, this is the transfer function of the Wiener filter ,
+And on Italian it seems my result seems to be a little bit better than the Wiener filtering ,
+It it 's Wiener filtering ,
+, it 's it 's Wiener filtering .
+, it 's some Wiener filtering
+, it 's not exactly Wiener filtering
+but some variant of Wiener filtering .
+But by then you already have the sufficient samples to do the filtering .
+but with just the Wiener filtering from their system .
+
+with The noise estimation was based on first ten frames .
+So the other thing what I tried was I used still the ten frames of noise estimate
+we can just take the performance by another ten percent or better .
+I used ten just ten frames .
+But , so what 's this result you told me about , the fact that if you use more than ten frames you can improve by t
+I don't estimate the f noise on the ten frames but use his estimate .
+
+Actually I started with using the VAD to estimate the noise
+because the VAD endpoints are not good to estimate the noise
+So it works only for Italian by u for using a VAD to estimate noise .
+because that was the p that was the reason why I was not getting a lot of improvement for estimating the noise .
+So used the channel zero VAD to estimate the noise so that it gives me some reliable mar markers for this noise estimation .
+So you estimate the NF from the initial noise portions
+Like , you estimate the edge of square
+using the channel zero VAD to estimate the noise also seems to be improving
+So I used channel zero VAD to estimate noise as a lesser 2 x frame ,
+So , instead o of using the current estimated mean to , , subtract the current frame , it 's better to use an estimate that 's some somewhere in the future .
+If I use a channel zero VAD to estimate the noise .
+and for this I u simply used some code that , , I had from Belgium ,
+So what I did is just to simply replace the VAD - based , , noise estimate by this estimate ,
+but just I replace their noise estimate by this one .
+So I 'm trying to improve on this , and by replacing their noise estimate by , , something that might be better .
+
+just one stage Wiener filter
+, this is the single stage Wiener filter ,
+, I ran this with one more stage of Wiener filtering on it
+And so by adding another stage of Wiener filtering , the results on the SpeechDat - Car was like ,
+This was again using ten frames of noise estimate and two stage of Wiener filtering .
+They 're d what they 're doing is , they have two stage stages of estimating the Wiener filter ,
+so that 's what that was just the first stage of Wiener filtering that I tried .
+which is , after two stages of Wiener filtering .
+, his number is still better than what I got in the two stages of Wiener filtering .
+I don't remember for this experiment what did you use for these two stage
+these results with two stage Wiener filtering is ten frames
+
+It 's it 's there 's a di there 's a whole class of techniques where you try in some sense to minimize the noise .
+So why did you choose , , Wiener filtering over some other one of these other techniques ?
+we just wanted to have a few noise production compensation techniques
+So this is like the noise compensation f is fixed
+th the just noise compensation technique is a variant of Wiener filtering ,
+So I 'm also using that n new noise estimate technique on this Wiener filtering what I 'm trying .
+
+It 's the It - it 's Italian .
+It works for Italian because the VAD was trained on Italian .
+Actually what I observed is that for Italian it doesn't seem Th - there seems to be a problem .
+So , u but actually the VAD was trained on Italian also ,
+
+And it 's not like what he 's doing doesn't , , improve things .
+But the overall improvement was like fifty - six point four six .
+so the new the new Wiener filtering schema is like some fifty - six point four six
+so what happened here is that , , the overall improvement that they have with this method
+So that 's where I got like fifty - six point five percent improvement on SpeechDat - Car with that .
+, that was , like the overall improvement is like fifty - six point five .
+Like for frame dropping you improve , like you can improve from ten percent as Sunil showed , if you use the channel zero speech probabilities .
+
+and this is the of musical noise and all these the fact you we go below zero one frame and then you can have an energy that 's above zero .
+, do you get this musical noise with Wiener filtering
+, it 's not clear that these musical noises hurt us in recognition .
+, actually the smoothing that I did do here reduced the musical noise .
+That 's the musical noise ?
+So in this way , you can also reduce somewhat reduce the musical noise
+and you reduce the variability if you have different noise shapes ,
+actually we observed we listened to some of the utterances and sometimes for Finnish there is music in the recordings and strange things ,
+
+, if you have only a c noisy signal , at a level which you , you w try to estimate the noise from the w assuming that the first few frames are noise
+it 's one , so you just subtract the noise .
+So what do is to put , to add to put the threshold first and then to add a small amount of noise ,
+but sometimes , , it 's as the noise is not perfectly stationary ,
+So , you 've done your best shot at figuring out what the noise should be ,
+And the experiments we saw that visitors did here showed that it there was at least some , , gentleness to the degradation when you switched to different noises .
+at the level of noise I add after . , I know that adding noise helped , , the system just using spectral subtraction without smoothing ,
+but I right now if it 's still important or not , and if the level I choose before is still the right one .
+Maybe it would be better to add just white noise instead of speech shaped noise .
+so if the n the noise varies a lot , , you can track better track the noise ,
+So even if there are no speech pauses , you can track the noise level .
+Cuz this these will help you to track the noise level .
+
+Th - that 's his spectral subtraction group ?
+, the other way of looking at this , going back to , , mean cepstral subtraction versus RASTA things , is that you could look at mean cepstral subtraction ,
+So is this , , s , similar to just regular spectral subtraction ?
+And , , spectral subtraction is , , one approach to it .
+and in spectral subtraction , , there 's a an estimation factor .
+Stephane is working on spectral subtraction .
+So , I 've been , , working still on the spectral subtraction .
+So to r to remind you a little bit of what I did before , is just to apply some spectral subtraction with an overestimation factor
+I 'm trying to understand what it means when you do the spectral subtraction and you get a negative .
+Actually , when you do spectral subtraction you can , , find this equivalent in the s in the spectral domain .
+it could do a nonlinear spectral subtraction
+, , that 's not so much spectral subtraction then ,
+, actually , this was the first try with this spectral subtraction plus smoothing ,
+OK , that 's it for spectral subtraction .
+But the spectral subtraction scheme that you reported on also re requires a noise estimate .
+try also , mmm , the spectral subtraction .
+I , , also implemented a sp spectral whitening idea
+
+, he 's he 's he 's
+He 's he 's done a couple stays here .
+So , , since we 're looking at putting this , mean log m magnitude spectral subtraction , , into the SmartKom system , I did a test seeing if , , it would work using past only and plus the present to calculate the mean .
+cuz then you can figure out the percentages .
+, that 's like a cheating method .
+so actually I received a new document , describing this .
+That 's that 's just a rule
+What 's what 's the deal with that ?
+, , there 's Car - Carmen 's working on another , on the vector Taylor series .
+And that has taken the performance to like sixty - seven percent in SpeechDat - Car ,
+so I 'm like investigating that , why it 's not .
+because I 've been p putting a lot effort on this to make it work , on tuning things and other .
+I 'm just have some skeletons ready ,
+and there 's no reason to think that you 'd know that it wouldn't , , be negative in some places .
+When you add the negative to the positive value
+Which is , , it 's there 's no particular reason that 's the right thing to do either ,
+And if you f if you re - synthesize these spot sounds as , like , sounds ,
+but by trying to do the best classifier you possibly can , for these little phonetic categories ,
+Like , I played a little bit with this overestimation factor ,
+the reason why it 's not better , is that the SpeechDat - Car noises are all stationary .
+
+But , , if you do that , then , , in practice somebody using the SmartKom system , one would think if they 're using it for a while , it means that their first utterance , instead of , , getting , , a forty percent error rate reduction , they 'll get a , over what , , you 'd get without this , , , policy , , you get thirty percent .
+but it 's not like it doesn't meet something like fifty percent .
+cuz that our system was more like forty percent without the Wiener filtering .
+There 's a ma matched , medium mismatched , and a high matched .
+Forty percent is the high mismatch .
+And the high mismatch was improved by twenty percent absolute .
+So , when they just , , add this frame dropping in addition it 's r , forty percent , right ?
+It 's around three percent , , relative .
+, y actually , it 's it 's l it 's three percent .
+
+But actually their alignment actually is not seems to be improving in like on all cases .
+but that 's not the case in , , many of our cases
+So that 's like , , best - case performance ?
+because in this case we know that , , the estimate of the gain is correct
+How did it compare on , for good cases where it , that it was trained on ?
+And If you have other speech sounds then it 's not the case ,
+because , nnn , in this case the noises are all sometimes very variable .
+
+And so when you say you 're adding something that has the overall shape of speech , is that in a in a particular frequency bin ?
+Or you 're adding something across all the frequencies when you get these negatives ?
+For each frequencies I a I 'm adding some , , noise ,
+And then after that , instead of instead of , , leaving it as is and adding things adding up some neighbors , you artificially push it up .
+it 's it 's added .
+, , , in JRASTA we were essentially adding in , , white , white noise dependent on our estimate of the noise .
+You could imagine one that that made use of where the amount that you added in was , , a function of the probability of it being s speech or noise .
+
+because there 's filters have all sorts of be temporal and spectral behaviors .
+So in an ideal word i world if the noise were always the same , then , when you subtracted it the worst that i you would get would be a zero .
+, there 's all there 's all sorts of , , deviations from the ideal here .
+And so there 's all sorts of deviations from ideal in this .
+
+so one of one of the things that I tried , like I said , was to remove those zeros in the fri filter by doing some smoothing of the filter .
+and then you I plugged in the one more the same thing but with the smoothed filter the second time .
+But nonetheless , , , these are it 's another f smoothing , right ?
+So the smoothing is I did a smoothing actually on this gain , , trajectory .
+But it 's the smoothing is nonlinear in the sense that I tried to not smooth if the gain is high ,
+, and to do more smoothing if the gain is low .
+plus they do some smoothing techniques on the final filter .
+And they do some smoothing on that final filter , impulse response .
+It 's similar in the smoothing
+Because when I do the smoothing , , it 's a recursion that estimated the means , so of the g of the gain curve .
+
+And they filter the original signal using that fil filter ,
+And so that 's that 's what the difference is .
+, so the basic principle of Wiener filter is like you try to minimize the , , d , difference between the noisy signal and the clean signal
+Like let 's say you have a clean t signal and you have an additional channel where what is the noisy signal .
+So that 's the basic principle .
+Also , we speak the whole where all this comes from is from an assumption that signal and noise are uncorrelated .
+, and the gain of this filter is the , , signal energy minus what you subtract , divided by the signal energy .
+I was thinking if you had a clean version of the signal and a noisy version , and your targets were the M F - , , whatever , frequency bins
+So , I compute an FFT based on the long , , signal frame
+
+it 's just the mel frequency and that 's it .
+mel and the magnitude , and mel magnitude , and all those things .
+So , one of one of reasons like doing the averaging , after the filtering using the mel filter bank , that seems to be maybe helping rather than trying it on the mel filter ba filtered outputs .
+th that 's that 's the only thing that I could think of why it 's giving improvement on the mel .
+, doing just this , , either on the FFT bins or on the mel bands , , t doesn't yield any improvement
+, are you taking the log before you add them up to the mel ?
+This is in the mel frequency bands .
+
+because after subtraction you can have negative energies ,
+It means that at that particular frequency range you subtracted more energy than there was actually
+But sometimes it can be too large also . If if the noise , , energy in this particular frequency band drops for some reason .
+cuz i if there was no other energy there you 're just subtracting exactly the noise .
+and for each frequency bands of this frame , takes a look at the minima of the energy .
+
+by instead of using the current VAD , if you just take up the VAD output from the channel zero , when instead of using channel zero and channel one ,
+What 's a channel zero VAD ?
+So because the channel zero and channel one are like the same speech , but only w , the same endpoints .
+But the only thing is that the speech is very noisy for channel one ,
+so you can actually use the output of the channel zero for channel one for the VAD .
+but I used this channel zero VAD to drop the frames .
+And that seems to be the best combination , , rather than using a few frames to estimate and then drop a channel .
+Is that channel zero information going to be accessible during this test .
+, that 's that 's using the channel zero .
+
+What 's ten point seven ?
+it 's like ten point one .
+And the high mismatch is like eighteen point five .
+, that 's the ba the ten point , , four and twenty point one .
+So these numbers he was giving before with the four point three , and the ten point one , and , those were Italian , right ?
+And finally , , sixteen point five .
+
+but the second time , what I did was I estimated the new Wiener filter based on the cleaned up speech , and did , , smoothing in the frequency to reduce the variance
+I 'm actually cleaning up the cleaned up spectrum
+which is like final filter is acting on the input noisy speech rather than on the cleaned up .
+but the only thing is that the second time I 'm actually smoothing the filter and then cleaning up the cleaned up spectrum first level .
+And actually I tried it on s the original clean , the original spectrum where , like , I the second time I estimate the filter but actually clean up the noisy speech rather the c s first output of the first stage
+I 'm thinking , , on the TI - digits trained on clean speech and tested on noisy speech .
+The objection everyone always raises , which has some truth to it is that , , it 's good for mapping from a particular noise to clean
+
+And it seems like it it hurts compared to if you actually train the models using th that same length of time
+But it but looking at it the other way , isn't it what you 're saying that it didn't help you to have the longer time for training ,
+Does it matter how much time y you use to calculate the mean when you were , , tra doing the training data ? "
+, , if you take this filtering perspective and if you essentially have it build up over time .
+and then , , once you , , actually had the whole utterance in , if you did , , the , , longer time version then , based on everything that you had , , and then at that point only used it to distinguish between , , top N , , possible utterances , you might it might not take very much time .
+And you can decode that now with speech that you 've actually processed using this longer time , , subtraction .
+So it 's not like that 's being done in one place or one time .
+or assuming , , ergodicity that i , across time , , it 's uncorrelated .
+, the first thing I tried to optimize is the , , time constant of the smoothing .
+, the filter that estimates the mean has a time constant .
+
+And that creates a lot of discontinuities across the spectrum because @ @ the filter .
+and you 'll multiply that noise spectrum times some constant and subtract that
+also to get , , an estimate of the noise , , spectrum ,
+and subtract this estimation of the noise spectrum from the , , signal spectrum , but subtracting more when the SNR is , , low ,
+So you overestimate the noise spectrum .
+You multiply the noise spectrum by a factor , , which depends on the SNR .
+So so , you have an estimation of the noise spectrum ,
+And this is a gain that varies over time , and , , , , depending on the s on the noise spectrum and on the speech spectrum .
+, the idea is just to , flatten the log , , spectrum , , and to flatten it more if the probability of silence is higher .
+because the spectrum becomes more flat in the silence portions .
+because , , you could just put the threshold and say that " below the threshold , I will flatten comp completely flatten the spectrum " .
+which is a perfectly flat spectrum .
+, right now it 's a constant that just depending on the noise spectrum .
+
+It 's it 's different in a sense like
+And it 's typically a mean square sense , uh , i in in some way .
+. Right now I don't think if it makes sense to add something that 's speech - shaped ,
+, on the other hand that just means that in some sense you 've made a mistake
+And that certainly makes sense in s in a statistical interpretation , that , , over , , all possible realizations that they 're uncorrelated
+That 'd be more like the JRASTA thing in a sense .
+
+, , it was pretty it was pretty tiny .
+No , what 's what 's the number ?
+So , what was the , , , corresponding number , say , for , , , the Alcatel system ?
+But it 's a pretty similar number in any event .
+It 's all pretty related ,
+And even if something is stationary in ster terms of statistics , there 's no guarantee that any particular instantiation or piece of it is exactly a particular number or bounded by a particular range .
+because you certainly have stra subtracted a bigger number than is due to the noise .
+
+that , that 's encouraging for the idea of using it in an interactive system like
+And , , another issue I 'm I 'm thinking about is in the SmartKom system .
+I it 's something I need to play with more to decide how to set that up for the SmartKom system .
+that 's If somebody 's using a system to ask for directions ,
+but if you had could have a system where , before they began to use it they had to introduce themselves , verbally .
+so this was , like , compared to , Fifty - seven is what you got by using the French Telecom system ,
+which is like one percent still less than what you got using the French Telecom system .
+, it 's the system it 's exactly the sys the same system as Sunil tried ,
+What is it the , , France Telecom system uses
+So in any event , all of this I was just confirming that all of this was with a simpler system .
+Actually , th the best system that we still have is , , our system but with their noise compensation scheme ,
+What what point does the , , system stop recording ?
+
+And then average these minima and take this as an energy estimate of the noise for this particular frequency band .
+What is done is that , , these minima are computed , , based on , , high resolution spectra .
+when you don't have speech , these minima will give you some noise level estimate ,
+If you have voiced speech , these minima will still give you some noise estimate because the minima are between the harmonics .
+So if you take these minima , it b they will overestimate the noise a lot .
+
+So when y when you talk about there being something less than zero after subtracting the noise , is that at a particular frequency bin ?
+but the a the amount of the amount of noise I add is not the same for all the frequency bins .
+but that means that in a situation where you thought that the bin was almost entirely noise , you left it .
+some people also if it 's a negative value they , , re - compute it using inter interpolation from the edges and bins .
+For frames , frequency bins .
+, if you do this in the FFT bins , then you have spots of energy randomly distributing .
+because it 's it 's the FTT bins .
+Sixty - four milliseconds is to compute the FFT , , bins .
+
+So it was , , twen it was twenty - one frames
+You mean , the data , the super frame ?
+and first frame has a twenty framed latency .
+the transmission over the air interface is like a buffer .
+But the only thing is that the first frame in that twenty - four frame buffer has a twenty - four frame latency .
+but more of , , if there is some part of your system that has to buffer twenty frames , , can't the other parts of the system draw out of that buffer and therefore not add to the latency ?
+for this use as noise estimate the mean , , spectrum of the first twenty frames of each utterance .
+I had twenty frames most of the time .
+used the twenty first frame to estimate the noise .
+
+Or l or you 're looking at six sec seconds in future and six in
+And that 's actually what we 're planning to do in
+, you 're you 're doing a high - pass filter or a band - pass filter of some sort
+by just constraining yourself to have your filter be only a subtraction of the mean , you 're , , tying your hands behind your back
+, if you computed means over two and then over four , and over six , essentially what you 're getting at is a , , ramp up of a filter anyway .
+, , you 're you 're talking about the signal and noise , , at a particular point .
+So , you 're figuring out from some chunk of of the signal what you think the noise is .
+Then you 're subtracting that from another chunk ,
+i , what you 'd be doing is saying , " , we 're d we 're we 're going to definitely diminish the effect of this frequency in this little frequency bin in the in the overall mel summation " .
+but to some extent that 's what we 're doing .
+we 're not trying to generate good examples
+Because if we completely ignore latency , and then we discover that we really have to do something about it , we 're going to be find ourselves in a bind .
+all of that is things that they 're debating in their standards committee .
+
+, it 's the VAD plus the baseline actually .
+, just by changing the VAD itself gives you the a lot of improvement
+And , the other thing also is that fourteen percent is less than what you obtain using a real VAD .
+, , working on the VAD is still important .
+which is which like shows that by using a proper VAD you can just take it to further , better levels .
+This is just to test whether we can really improve by using a better VAD .
+so , which means , like , by using this technique what we improve just the VAD
+like one percent relative compared to the VAD - based estimates .
+It 's the France - Telecom - based spectra , s , Wiener filtering and VAD .
+the c the current VAD that we have was trained on , , t SPINE , right ?
+also to , , try different features , , as input to the VAD network .
+
+so " SF " is a clean speech spectrum , power spectrum
+And " N " is the noisy power spectrum .
+And then you multiply your noisy power spectrum with this .
+You get an estimate of the clean power spectrum .
+but that you have to estimate the SF from the noisy spectrum , what you have .
+and then you subtract that from the current noisy spectrum to get an estimate of the SF .
+so the other the other thing is like I 've been I 'm doing all this on the power spectrum .
+But it seems to be the power spectrum seems to be getting the best result .
+it has the overall power spectrum of speech .
+But if down the road you 're making use of something as if it is a power spectrum , , then it can be bad to have something negative .
+Cuz that brings in powers of classifiers that we don't really have in , , this other estimate .
+
+Improves over the base line MFCC system ?
+So that 's The improvement is somewhere around , like , thirty percent over the baseline .
+It actually improves over the baseline of not having a Wiener filter in the whole system .
+but it doesn't take it like be beyond like thirty percent over the baseline .
+This is like w the baseline is ninety - five point six eight , and eighty - nine , and
+the t the baseline that you are talking about is the MFCC baseline , right ?
+So the baseline One baseline is MFCC baseline
+that When I said thirty percent improvement it 's like MFCC baseline .
+this was like not improving a lot on this baseline of not having the Wiener filter on it .
+and the overall improvement over the MFCC baseline
+So by using the endpointed speech , actually it 's worse than the baseline in some instances ,
+, it helps a lot over the ba the baseline
+
+, another thing that I it 's important to mention is , , that this has a this has some additional latency .
+And I noticed that it 's better if we take into account this latency .
+so it 's it 's the center recursion ,
+and the latency of this recursion is around fifty milliseconds .
+A quick question just about the latency thing .
+So you can't r rely on that latency all the time .
+
+it doesn't work for Finnish and Spanish
+, although I 've just tested on Italian and Finnish .
+, I if you have these improvement the detailed improvements for Italian , Finnish , and Spanish there
+But on Finnish it 's a little bit worse , .
+And it seems to work on Italian but not on the Finnish and Spanish data .
+So , maybe one reason is that s Finnish and Spanish noise are different .
+
+but the final filter , what they do is they take it to their time domain by doing an inverse Fourier transform .
+even though this really should be in the power domain , sometimes people s work in the magnitude domain because it it works better .
+The th they actually do the filtering in the time domain .
+And they convolve the time domain signal with that .
+and one in the frequency domain by just taking the first , , coefficients of the impulse response .
+Does the smoothing in the time domain help
+Does the smoothing in the time domain help with that ?
+it could be seen as a f a smoothing in the frequency domain because I used , in ad mel bands in addition and then the other phase of smoothing in the time domain .
+
+but if the time frame is long enough , , like s five hundred milliseconds seems to be long enough , you still have portions which , , are very close whi which minima are very close to the noise energy .
+
+And compared to , , do using a twelve second centered window , there was a drop in performance
+Just There 's just inter - word silences .
+I 'm talking about the MFCC plus I do a frame dropping on it .
+and then they drop the beginning silence and the end silence
+because then you have silence portion that have some spectra similar to the sp the overall speech spectra .
+But , when you look at the spectrogram , if you don't have an any smoothing , you clearly see , like in silence portions , and at the beginning and end of speech , you see spots of high energy randomly distributed over the spectrogram .
+Actually , this could be seen as a soft version of the frame dropping
+so maybe it can be used together with frame dropping and when we are not about if it 's speech or silence ,
+
+And so , , there 's a higher probability of it making an error , , in the first utterance .
+And you could use that initial speech to do all these adaptations
+You mean , the m the mean is computed o based on some frames in the future also ?
+And this , , whitening is something that 's more soft because , , you whiten you just , , have a function the whitening is a function of the speech probability ,
+but , , the probability of speech is not computed the same way .
+And , i for , for a lot of things , actually a g a good speech probability is important .
+
+Twelve twelve seconds back from the current frame ,
+Twelve seconds , , counting back from the end of the current frame ,
+
+and that worked out to about twelve seconds .
+So I w bef before , Back in May , I did some experiments using , say , two seconds , or four seconds , or six seconds .
+In those I trained the models using mean subtraction with the means calculated over two seconds , or four seconds , or six seconds .
+here , I was curious , what if I trained the models using twelve seconds
+but I f I gave it a situation where the test set I was subtracted using two seconds , or four seconds , or six seconds .
+I think it was , , something like four seconds and , , six seconds , and eight seconds .
+, it seems like for your , in normal situations you would never get twelve seconds of speech ,
+Is this twelve seconds of , regardless of speech or silence ?
+Or twelve seconds of speech ?
+The other thing , , which maybe relates a little bit to something else we 've talked about in terms of windowing and so on is , that , , I wonder if you trained with twelve seconds , and then when you were two seconds in you used two seconds ,
+and you build up to the twelve seconds .
+And you neglect all the silence regions or you just use everything that 's twelve seconds ,
+Like , may maybe if I trained on six seconds it would work better when I only had two seconds or four seconds , and
+
+It 's a medium misma
+, none of these systems , , have , y you both are working with , , our system that does not have the neural net ,
+So one would hope , presumably , that the neural net part of it would improve things further as they did before .
+although if we , , look at the result from the proposals , one of the reason , , the n system with the neural net was , , more than , around five percent better , is that it was much better on highly mismatched condition .
+, for this case , the system with the neural net was much better .
+Could you train a neural net to do spectral subtraction ?
+people d done lots of experimentation over the years with training neural nets .
+
+although I did see one where it was a point eight percent or so rise in word error rate .
+But this is , , w where , , even if I train on the , , model , and mean subtracted it with the same length of time as in the test , it the word error rate is around , , ten percent or nine percent .
+So , if you can do all these in word errors it 's a lot a lot easier actually .
+If you do all these in word error rates it 's a lot easier , right ?
+So that 's like the word error rate is like four point three .
+So , I still don't have the word error rate .
+which could be due to the word pattern .
+But do you have numbers in terms of word error rates on Italian ? So just so you have some sense of reference ?
+
+But if you did first pass with , , the with either without the mean sub subtraction or with a very short time one ,
+, I know in the large vocabulary stu , systems , people were evaluating on in the past , some people really pushed everything in to make it in one pass
+but other people didn't and had multiple passes .
+the argument , , against multiple passes was u has often been " but we want to this to be r have a interactive response " .
+but our second responses are second , , passes and third passes are really , really fast " .
+So , , if your second pass takes a millisecond who cares ?
+the idea of the second pass would be waiting till you have more recorded speech ?
+So , it 's it 's common that people do this thing where they do more things that are more complex or require looking over more time , whatever , in some second pass .
+So , , there 's lots of things you can do in second passes , sorts of levels .
+but but it 's but at any rate , , people ,
+
+I what , , capability we have at the moment for doing second passes on , , some little small lattice , or a graph , or confusion network , .
+And , , either in the form of an N - best list or in the form of a lattice , or confusion network , or whatever .
+And then the decoding of that is much , much faster or can be much , much faster if it isn't a big bushy network .
+But that 's what I 'm confused about ,
+I 'm I 'm confused about that .
+So I 'm I 'm still a little confused .
+
+We might end up with some longer collaboration .
+so if it turned out to be a problem , that you didn't have enough speech because you need a longer window to do this processing , then , , one tactic is , looking at the larger system and not just at the front - end is to take in , , the speech with some simpler mechanism or shorter time mechanism ,
+But if you just look at a quarter second , , and you cross - multiply the two things , , you could very , , end up with something that sums to something that 's not zero .
+And and given all that , you could definitely end up with something that 's negative .
+So , I wonder how if you put your thresholds after that , I wonder how often you would end up with , with negative values .
+But you end up reducing some neighboring frequency bins @ @ in the average , right ?
+you still end up with zeros in the s spectrum .
+because we may end up with this crunch where all of a sudden we have to cut the latency in half .
+
+So , I did a test , , where I used twelve seconds from the past and the present frame to , , calculate the mean .
+So say twe twelve seconds in the earlier test seemed like a good length of time ,
+, why would you do it , if you knew that you were going to have short windows in testing .
+You need twelve seconds in the past to estimate , right ?
+N n For the test it 's just twelve seconds in the past .
+I was trying twelve seconds cuz that was the best in my test before
+and that increasing past twelve seconds didn't seem to help .
+
+, , if the second pass is really , really fast , another one I 've heard of is in connected digit , , going back and l and through backtrace and finding regions that are considered to be a d a digit , but , , which have very low energy .
+It gives like negative , in like some Italian and TI - digits ,
+And there seems to be not improving a lot on the TI - digits ,
+But , I expect s maybe some improvement on TI - digits
+Italian , and TI - digits with noise and
+
+but they keep , , two hundred milliseconds before speech and two hundred after speech .
+So they were just trying to cover a bunch of different things with this task and see , , what are what are the issues for each of them .
+If if there 's another part of the system that causes a latency of a hundred milliseconds , is this an additive thing ?
+Couldn't you just also , i if that the l the largest latency in the system is two hundred milliseconds , don't you couldn't you just buffer up that number of frames
+and this tile is five hundred milliseconds long and two hundred hertz wide .
+actually it 's better to use sixty - four milliseconds because , , if you use thirty milliseconds , then , , because of the this short windowing and at low pitch , , sounds , the harmonics are not , wha , correctly separated .
+So you take sixty - four millisecond F Ts and then you average them over five hundred ?
+So I take to I take a bunch of these sixty - four millisecond frame to cover five hundred milliseconds ,
+So the interest of this is that , as y with this technique you can estimate u some reasonable noise spectra with only five hundred milliseconds of signal ,
+The only requirement is that you must have , in these five hundred milliseconds segment , you must have voiced sound at least .
+
+s so I g So I the que the question I was trying to get at with those experiments is , " does it matter what models you use ?
+so I end up overestimating the noise and getting a worse result .
+and to take the result of the recognition to get the boundaries , of speech .
+And it seems that the one that I chose for the first experiment was the optimal one ,
+And it 's , , slightly worse ,
+So I have , like , some experiments running , I don't have the results .
+It 'll keep going till I when they run out of disk space ,
+
+And the only thing , , consistent that we know about is that you want to get rid of the very low frequency component .
+because some frequency values will be zeroed out because of that .
+and then you do a f smoothing across the frequency so that those zeros get , like , flattened out .
+There can be frequency bins with negative values .
+
+or if you have a w voice activity detector , , you estimate the noise spectrum .
+We can do something in parallel also , in some like some cases like , if you wanted to do voice activity detection .
+So you can make a decision on that voice activity detection
+The second thing I was working on is to , , try to look at noise estimation , mmm , and using some technique that doesn't need voice activity detection .
+, in this tile appears , like , the harmonics if you have a voiced sound ,
+which is not the case if you rely on the voice activity detector .
+because during the silence portions which are below the threshold of voice activity probability , , w you would have some dummy frame
+so it 's not a hard decision .
+the next thing I started to do is to , , try to develop a better voice activity detector .
+, for this we can maybe try to train the neural network for voice activity detection on all the data that we have , including all the SpeechDat - Car data .
+like , , the spectral slope , the , , the degree o degree of voicing with the features that , , we started to develop with Carmen , , e with , , the correlation between bands and different features ,
+
+And Hans - , Hans - Guenter will be here , , by next Tuesday or so .
+So he 's he 's going to be here for about three weeks ,
+We didn't meet last week , Morgan .
+but rather than them coming up and telling me I figured we should just a week and they can tell both , all of us .
+, Hans - Guenter will be here next week
+
+but in combination with our on - line normalization or with the LDA ?
+Like I have an LDA f LDA plus on - line normalization ,
+But where 's the , , on - line normalization and so on ?
+So , with the with the on - line normalization , the performance was , , ten
+That was with on - line normalization and LDA .
+So the h matched has like literally not changed by adding on - line or LDA on it .
+And the rest is like the LDA plu and the on - line normalization all remaining the same .
+On - line normalization and LDA ?
+
+Hi ,
+Bro023Adialogueact238	565837	566657	A	PhD	s:s	-1	0	my name is so - and - so ,
+Bro023Cdialogueact236	565505	565855	C	Professor	s^bk	-1	0	Yeah .
+Bro023Adialogueact239	566657	567277	A	PhD	s:s	-1	0	I 'm from blah - blah .
+So it 's the close - talking microphone .
+Generally , I use , actually , a linear , , function of the SNR ,
+which is bounded to , like , two or three , when the SNR is below zero DB .
+what happen actually is that during low SNR values , the gain is close to zero
+, and the way I mi I do that is that use the HTK system but I train it only on the close - talking microphone .
+
+Wh - Back when I was a grad student he was here for a , a year or n six months .
+And and to begin with if it doesn't get them quite right , ma m maybe they 'll come back and say , " excuse me ? "
+Subspace , I 'm I 'm like that 's still in a little bit in the back burner
+People can also , , reflect it back up and essentially do a full wave rectification instead of a instead of half wave .
+So they would take this HF squared back , taking inverse Fourier transform .
+
+and you loo can look at the start up behavior when you start up with nothing .
+And then the second utterance that you give , they get the full , , full benefit of it if it 's this ongoing thing .
+And what they did finally is to , mmm , , not to align the utterances but to perform recognition ,
+And so I 'm starting to obtain alignments on these databases .
+And then I aligned I obtained the Viterbi alignment of the training utterances .
+, so the idea was to train all the databases and obtain an alignment to train on these databases ,
+

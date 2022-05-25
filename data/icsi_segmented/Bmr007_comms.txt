@@ -1,0 +1,476 @@
+What was what 's the parenthesized that says , like e the first one that says six overlaps and then two point eight ?
+So , six is , two point eight percent of the total number of overlaps in the session .
+So , If you look at the bottom , those are the , numbers of overlaps in which Adam was involved as the person doing the overlapping and if you look
+I should also say I did a simplifying , count in that if A was speaking B overlapped with A and then A came back again and overlapped with B again ,
+I didn't count that as a three - person overlap , I counted that as a two - person overlap , and it was A being overlapped with by D .
+, my point was just if you wanted to say to somebody , " what have we learned about overlaps here ? "
+and it 's not just an overlap bunch of overlaps second - order thing is it 's not just a bunch of overlaps in one particular point , but that there 's overlaps , throughout the thing .
+So technically , it 's an overlap .
+I was just thinking more in terms of alignment , alignment overlap .
+because if there 's if most of the overlaps , this doesn't cover , say , three , but if most of the overlaps , say , are two , if the distribution looks like there 's a couple high ones and the rest of them are low ,
+So I if there 's an overlap , like , if I 'm saying something that 's bleepable and somebody else overlaps during it they also get bleeped , too ?
+
+, , it 's like I 'm not saying on the tape who did better or worse
+it 's also ver it 's huge .
+, that 's the that was my status report ,
+so it 's in a private directory .
+
+It 's not indicated with , , tight precision , it 's just indicated that OK , so , It 's indicated to so the people parts of sp which stretches of speech were in the clear , versus being overlapped by others .
+And I 'm , I 'm I don't see a point of singling people out ,
+and th here 's a case where , human subjects people would say be that you anonymize the results , and , so , might as do this .
+if Right now we 're do we have individual mikes on the people in this meeting .
+I 'm just saying that it may the reason you get overlaps may or may not be due to the number of people in the meeting .
+i it seems like if you have just two people it 's not really , y like a meeting , w is not as similar as the rest of the of the sample .
+and , If you had two people meeting in this circumstance then you 'd still have the visuals .
+I could tell you , if I if I 'm in certain meetings I notice that there are certain people who really do The body language is very is very interesting in terms of the dominance aspect .
+Two to the number of people in the meeting .
+So that , , people 's ideas don't get
+
+, that you have the high - involvement style from the East Coast where people will overlap often as an indication of interest in what the other person is saying .
+so we the other person 's style is likely to be
+Because the idea was the first speaker had the floor and the second person started speaking and then the f the first person reasserted the floor thing .
+Right ? if it 's the null poth hypothesis , and if actually you have as much overlap in a two - person , we the answer to that .
+But but , it 's odd if one person 's speaking and everybody 's listening ,
+And so it 's not against the person who talks first because actually we 're all waiting for that person to finish .
+Posture , and we could like , , block out the person 's face or whatever
+But , like , it could be someone who isn't the person here , but the person over there or it can be the person breathing .
+
+And it would be , , there 's also the question of what type of overlap was this , and w what were they ,
+and , , anticipating the end of a question and simply answering it earlier ,
+And that 's all I wanted to say on that , unless people have questions .
+OK , so that 's good , i , in the sense that Andreas meant the question ,
+So , the question is , , how many more overlaps do you have of , say the two - person type , by adding more people . to a meeting ,
+So the question is , " are there really more overlaps happening than there would be in a two - person party " .
+That 's an important question to ask .
+, the other thing I was thinking was that , these all these interesting questions are , , pretty hard to answer with , u , a small amount of data .
+To answer your question I it I don't think it 's crucial to have controls
+And the another question , that when I review the the work of Javier .
+
+here 's a relatively short meeting ,
+and if you think of meetings being recorded over the telephone , which , , this whole point of studying meetings isn't just to have people in a room but to also have meetings over different phone lines .
+, all I meant is that if you 're asking the question from the point of view of what 's different about a meeting , studying meetings of , say , more than two people versus what kinds of questions you could ask with a two - person meeting .
+I ju that in this meeting I really had the feeling that wasn't happening , that the hostile type .
+we most of our meetings are , meetings currently with say five , six , seven , eight people
+I my first comment was , only that we should n not attribute overlaps only to meetings ,
+, maybe for part of the meeting , we don't have to do it the whole meeting .
+and then the DARPA meeting excised completely ,
+Actually actually that 's what you were giving us was another meeting and I was like , " , OK ! "
+
+Because , I it 's more realistic that , only consider the the silence between the speaker .
+there exists silence between , a speaker .
+Because , , probably you can find the a small gap of silence between speaker with a ga mmm , small duration Less than , two hundred milliseconds
+One once It 's a I used to work , like , on voiced on voice silence detection , , and this is this thing .
+but for software it 's probably better for it to be silence .
+, it 's more obvious that there was something there than if there 's just silence .
+But if you just replaced it with silence , it 's not clear whether that 's really silence or
+
+Cuz that 's Cuz that was all about the ,
+That 's that 's good , , cuz the overall rate is
+Cuz i I find it interesting that there were a large number of overlaps and they were all two - speaker .
+Let let m let me rephrase what I 'm saying cuz I don't think I 'm getting it across .
+The reason we the answer to is cuz it wasn't studied and it wasn't studied because it wasn't set up . Right ?
+Cuz my impression is sometimes it happens when there 's a pause ,
+
+, that some people tend to be overlapped with more often than they 're overlapped ,
+Cuz in two - party conversations , like Switchboard , there 's an awful lot too if you just look at backchannels , if you consider those overlaps ?
+In a way , I what I 'm comparing to is more the common sense notion of how much people overlap .
+And partly it 's related to rhythmic structure in conversation ,
+so , , you t , this is d also , people tend to time their their , when they come into the conversation based on the overall rhythmic , , ambient thing .
+there 's a lot of the kind that Jose was talking about , where , this is called " precision timing " in conversation analysis , where they come in overlapping , but at a point where the information is mostly complete .
+but that in normal conversation with two people there 's an awful lot of the same kinds of overlap ,
+
+It 's just , beeping out parts that you don't want included in the meeting
+so that at the moment tho th the idea we 're running with is h putting the beep over it .
+if someone is listening to it , there 's no mistake that it 's been beeped out ,
+You can , you could make a m as long as you keep using the same beep , people could make a model of that beep ,
+And I use it 's , it 's an A below middle C beep ,
+, I haven't thrown away any of the meetings that I beeped .
+Actually yours is the only one that I beeped and then , the ar DARPA meeting .
+You have some people who only have beeps as their speech in these meetings .
+
+Now , Another question is there are there individual differences in whether you 're likely to be overlapped with or to overlap with others .
+And , then if you look down in the summary table , then you see that , th they 're differences in whether a person got overlapped with or overlapped by .
+she talked about differences of these types , that they 're just different styles ,
+So , , that , overlap 's not necessarily a bad thing and that it would be im i useful to subdivide these further and see if there are individual differences in styles with respect to the types involved .
+I suspect that it will also differ , depending on the type of overlap involved .
+And what we 're doing now is , aside from the many other differences in the task , we are considering overlap
+
+So what happens is if you 're talking and I have a backchannel in the middle of your turn , and then you keep going what it looks like in a dialogue model is your turn and then my backchannel ,
+even though my backchannel occurred completely inside your turn .
+Now if it 's just backchannels , people may be doing that with less intention of being heard , just spontaneously doing backchannels ,
+I have a feeling that backchannels , which are the vast majority of overlaps in Switchboard , , don't play as big a role here , because it 's very unnatural , to backchannel if in a multi - audience , in a multi - person audience .
+So , in the two - person conversations , when there 's backchannel , is there a great deal of overlap in the speech ?
+, like you get a lot of backchannel , when somebody 's pausing
+no , when when there 's backchannel , , just I was just listening , and when there 's two people talking and there 's backchannel it seems like , the backchannel happens when , , the pitch drops and the first person
+and a lot of times , the first person actually stops talking and then there 's a backchannel and then they start up again ,
+
+But if you try to use the same paramenters on another speaker , it doesn't work anymore ,
+But does it work for that one speaker throughout the whole meeting ?
+It does work for the one speaker throughout the whole meeting .
+
+Yes , exactly and that 's that 's where Jose 's pro project comes in .
+It 's important to distinguish that , , this project is getting a lot of overlap but other projects were too , but we just couldn't study them .
+So so here 's a here 's a first interesting labeling task .
+That 's what they did on Map Task , , this Map Task corpus ?
+And and Morgan had that funny hair again .
+Ding , ding , ding .
+, I 'm just I 'm just going to sleep .
+
+but , , i e this is just one meeting , there 's no statistical testing involved , and that would be required for a for a finding of any scientific reliability .
+what 's really interesting though , it is before d saying " yes , meetings have a lot of overlaps " is to actually find out how many more we have than two - party .
+, the where we sit at the table , I find is very interesting , that we do tend to cong to gravitate to the same place each time .
+I was thinking about doing that originally to find out who 's the loudest ,
+But I also wanted to find threshold , excuse me , mol overlap .
+They 're easy to find , then .
+
+O , what 's what 's the average length ?
+So there was a minimum run length ,
+And then I median - filtered that using , a fairly long filter length .
+and that 's to average out , pitch , , the pitch contours , and things like that .
+I don't want to make this twice it 's length but , just im improve it .
+
+And , and , what I was looking for sp specifically was the question of whether they 're distributed evenly throughout or whether they 're bursts of them .
+I 'm , but you 're o alphabetical , that 's why I 'm choosing you
+They 're not double counted .
+, no , you just like to be in charge , that 's why you 're sitting
+I 'm I 'm not what you 're saying ,
+But Actually , Andreas may maybe just something simpler but along the lines of what you 're saying ,
+Do you mind being blindfolded while you 're interviewed ?
+s so you 're you 're not just cutting you 're not doing scissor snips .
+You 're you 're keeping the , the time duration of a de - deleted part .
+
+and , Adam has some short research issues .
+And I have some short research issues .
+so that so the issue is in a situation where th that 's
+I agree that it 's an issue here but it 's also an issue for Switchboard
+Maybe far field mike people wouldn't be interested in that but all the dialogue issues still apply ,
+
+And , What you can see is the number of overlaps and then to the right , whether they involve two speakers , three speakers , or more than three speakers .
+I , , my I had this script figure out , who was the first speaker , who was the second speaker involved in a two - person overlap , I didn't look at the ones involving three or more .
+And then if you look across the right , then that 's where he was the person who was the sp first speaker in the pair and got overlap overlapped with by somebody .
+And actually , , not about an individual , it 's the point about tendencies toward , different styles , different speaker styles .
+but , the , everyone 's saying " yes " or , or ev even more sp specific than that .
+The because you get then the spatial relationship of the speakers .
+and great difference between the sp speaker .
+but , imagine building a model of speaker change detection that takes into account both the far - field and the actually , not just the close - talking mike for that speaker , but actually for all of th for all of the speakers .
+you 'd you would build a an HMM that has as a state space all of the possible speaker combinations
+
+Should we really try to have some two - person meetings , or some three - person meetings and re record them just to to beef up the statistics on that ?
+I 'm just thinking that as an action item of whether we should try to record some two - person meetings .
+but it 's worth recording all the meetings we can .
+D I wouldn't not record a two - person meeting just because it only has two people .
+, we record this meeting so regularly it wouldn't be that a little strange .
+at least of this meeting that we have lots of recordings of
+in no particular order , one , , ten more hours of meeting r meetings recorded , something like that , from , three months ago .
+
+I wrote a script which divides things into individual minutes , of which we ended up with forty five , and a little bit .
+And , , minute zero , , is the first minute up to sixty seconds .
+it 's a forty plus minute meeting ,
+and not only were there two hundred and fifteen overlaps but , there 's one minute there where there where there wasn't any overlap ?
+You split this by minute , so if an overlap straddles the boundary between two minutes , that counts towards both of those minutes .
+, so le let 's think about the case where A starts speaking and then B overlaps with A , and then the minute boundary happens .
+And let 's say that after that minute boundary , B is still speaking , and A overlaps with B ,
+in which case there would be no overlap counted in that second minute .
+No , but suppose they both talk simultaneously both a portion of it is in minute one and another portion of minute two .
+Is this considered as one overlap in each of the minutes , the way you have done this .
+I want to go back and listen to minute forty - one .
+
+OK , it 's it 's very it 's very brief , just let me just hand these out .
+And he does that using a neural net doing broad phone classification and he has the , one of the phone classes is silence .
+And what looks like it 's happening is that the even on the close - talking mike the broad phone class classifier 's doing a really bad job .
+the , nnn , the , nnn , that the idea of using a neural network to get a broad class of phonetic , from , a candidate from the the speech signal .
+is , nnn , it will be a an a more general approach the if we compare with use , a neural net or another , speech recognizer with a broad class or narrow class ,
+Actually , I saw a a woman at the bus stop the other day who , , was talking on her cell phone speaking Japanese , and was bowing .
+It 's very difficult if you try while you 're trying , say , to convince somebody on the phone it 's difficult not to move your hands .
+
+and it 's you can't impose a model of there of the ideal being no overlaps ,
+So , for things like language modeling or dialogue modeling it 's We know that 's wrong in real time .
+That is an earphone , so if you just put it so it 's on your ear .
+Language model prediction of overlap , that would be really interesting .
+And then he has a second pass which is a modeling a Gaussian mixture model .
+If you have , , I 'm considering , only because Javier , only consider , like candidate , the , nnn , the silence , because it is the only model , , he used that , nnn , to detect the possibility of a change between the between the speaker ,
+So , the p the problem is that if you say , " I have these other data over here , that I learn things from , either explicit training of neural nets or of Gaussian mixture models or whatever . "
+
+But otherwise , let 's say B comes to the conclusion of that turn without anyone overlapping with him or her ,
+, to distinguish between , say , backchannels precision timing , benevolent overlaps , and and w and , I , hostile overlaps , where someone is trying to grab the floor from someone else .
+These were these were benevolent types , as people finishing each other 's sentences , and .
+, I could imagine that as there 's a fair number of cases where , and this is , not really hostile , but competitive , where one person is finishing something and you have , like , two or three people jumping trying to trying to , grab the next turn .
+I have a feeling most of these things are that are not a benevolent kind are are , are competitive as opposed to real really hostile .
+and that it would be interesting to look at whether there are these kinds of constraints that Jane mentioned , that what maybe the additional people add to this competition that happens right after a turn ,
+, because now you can have five people trying to grab the turn ,
+
+because since we were dealing with this full duplex thing in Switchboard where it was just all separated out we just everything was just ,
+But what is that , in Switchboard , despite the many other problems that we have , one problem that we 're not considering is overlap .
+And , just the question is , y , in Switchboard you would think that 's the simplest case of a meeting of more than one person ,
+what I 'm All I 'm s really saying is that I don't think we were considering that in Switchboard .
+because some of the data say Switchboard , which isn't exactly the same context ,
+but on the phone , in Switchboard you that wouldn't work .
+, that 's exactly , exactly why we wanted to study the precise timing of overlaps ins in Switchboard ,
+You wouldn't have that difference also that you have in the say , in Switchboard data .
+
+so , as , part of the encoding includes a mark that indicates an overlap .
+but , I will , I will do the study of the with the with the program with the , the different , the , nnn , distribution of the duration of the overlaps .
+The duration is , the variation of the duration is , very big on the dat
+Because , on your surface a bit of zone of overlapping with the duration , overlapped and another very short .
+, I considered that 's an overlap but it 's very short , it 's an " X " with a and the idea is probably , when , we studied th that zone , , we h we have confusion with noise .
+I 'm I 'm confused now .
+including overlap zone .
+
+There 's a lot of head - nodding , in this
+So so actually , That 's in part because the nodding , if you have visual contact , the nodding has the same function ,
+There 's a head nodding here vigorously , .
+, , I had an idea with while I was watching Chuck nodding at a lot of these things , is that we can all wear little bells on our heads , so that then you 'd know that
+
+we I don't remember where the digits fell .
+Beam - forming during the digit .
+But , they the s the linguistic anthropologists would say it would be good to have a digital picture anyway ,
+I d I did before we do the digits , I did also wanna remind people , do send me , , thoughts for an agenda ,
+OK , that 's let 's let 's do digits .
+
+And places also which were interesting , where two or more people gave exactly th the same answer in unison different words
+, i probably it 's very difficult to because the overlap is , on is only the in the final " S " of the of the fin the end the end word of the , previous speaker with the next word of the new speaker .
+What what I what I shouldn't use words like " " because maybe that 's too i too imprecise .
+So all you 're missing is some last syllables or the last word or some highly predictable words .
+Let 's pick a different word .
+If if the goal were to just look at overlap you would you could serve yourself save yourself a lot of time but not even transcri transcribe the words .
+the , mmm , the de detector of , ehm of a word in the in the s in an isolated word in the background That ,
+
+and one of the reasons that we 're considering it , , one of them not all of them , one of them is that w at least , I 'm very interested in the scenario in which , both people talking are equally audible , and from a single microphone .
+And the reason is because there 's a limit there 's an upper bound on how many you can have , simply from the standpoint of audibility .
+And and , just to finish this , that That that there may be an upper bound on how many overlaps you can have , simply from the standpoint of audibility and how loud the other people are who are already in the fray .
+in which case that those might there may be no upper bound on those .
+even if you normalize it based on the absolute loudness .
+you have to do it on all channels because it 's , audible .
+, it 's it 's potentially audible , you could potentially recover it .
+
+And and , , in contrast , so Deborah d and also Deborah Tannen 's thesis
+but It seems like that would be more a case of the control condition , compared to , an experimental condition , with more than two .
+, I 'm just thinking that 'd be more like a c control condition .
+And , , and as a to , as another c comparison condition , we could see what happens in terms of overlap , when you don't have visual contact .
+Or , this is getting a little extravagant , we could put up some blinds to remove , visual contact .
+They ran exactly the same pairs of people with and without visual cues
+, that , he 's he 's removing the old thing
+
+It would be an underestimate of the number of overlaps because , I wou I wouldn't be able to pick it up from the way it was encoded so far .
+what what I would have thought in is that when there were a large number of overlaps , it was because everyone was talking at once , but not .
+So , I wonder if what you 're saying suggests that we should make a conscious attempt to have , a fair number of meetings with , a smaller number of people .
+, Liz was raising the question of whether i it 's the number there 's a relationship between the number of people and the number of overlaps or type of overlaps there ,
+, you could do that by just noting on the enrollment sheet the seat number .
+Seat number , that 's a good idea .
+So I 'm gonna put little labels on all the chairs with the seat number .
+The chairs are Chairs are movable .
+, actually I depends on what you mean by long , , tenth of a second sorts of numbers .
+
+, I was thinking you should be able to do this from the acoustics , on the close - talking mikes ,
+We can't you figure it out from the mike number ?
+, I 've been playing with , , using the close - talking mike to do to try to figure out who 's speaking .
+What I 'm doing is trying to use the close - talking mike and just use Can - and just generate candidate and just try to get a first pass at something that works .
+I was just realizing , I used to know this guy who used to build , , mike mixers automatic mike mixers where , , t in order to able to turn up the gain , , as much as you can , you you lower the gain on the mikes of people who aren't talking ,
+Probably we should until after Adam 's set up the mikes ,
+
+actually to tell you the truth , the reason why it 's hard to measure is because of
+Having having ground tu truth would be , so seat number would be good .
+it 's , just trying to get some ground truth .
+So s my intention for this is as an aide for ground truth .
+
+From last time I wanted to The An iss one topic from last time .
+So that the percentage of time of the times that a person spoke , what percentage , w
+so . Of the times a person spoke and furthermore was involved in a two - person overlap , what percentage of the time were they the overlapper and what percent of the time were they th the overlappee ?
+It 'd be interesting to see what the total amount of time is in the overlaps , versus
+the fact that when when , , Adam was looking for a stretch of speech before , that didn't have any overlaps , and he w he was having such a hard time
+But we should still be able to somehow say what is the added contra contribution to overlap time of each additional person , like that .
+and you go back to this only one person at a time with one person interrupting at a time .
+and I haven't spent a lot of time on it and I 'm not intending to spend a lot of time on it .
+We we spent a a fair amount of time early on just talk dealing with this issue about op w e we realized , " , people are speaking in an impromptu way and they might say something that would embarrass them or others later " , and , how do you get around that
+I have one concept a t I want to say , which is that it 's that you 're preserving the time relations ,
+how much we have anal I hope to have that for next time .
+
+even though it may be , if your if your hypothes The hypothesis you were offering
+and unfortunately that 's not working real , and it looks like it 's
+another research thing , different groups , working , on Broadcast News prefer to , to consider hypothesis between each phoneme .
+If you have somebody who has some experience with this thing , and they work on it for a couple months , they can come up with something that gets most of the cases fairly easily .
+not everything we did but highlights that tell s some outside person , , what were you actually working on .
+
+, y this is just , this would this is not statistically verified , but it did look to me as though there are bursts throughout , rather than being localized to a particular region .
+The part down there , where there 's the maximum number of , overlaps is an area where we were discussing whether or not it would be useful to indi to s to code stress , , sentence stress as possible indication of , information retrieval .
+And , again I want to emphasize this is just one particular one particular meeting , and also there 's been no statistical testing of it all , but I , I took the coding of the
+S so , i it would be statistically incorrect to conclude from this that Adam talked too much .
+In that case , my c the coding that I was using since we haven't , incorporated Adam 's , coding of overlap yets , the coding of
+since we haven't incorporated Adam 's method of handling overl overlaps yet then that would have fallen through the cra cracks .
+We just haven't done th the precise second to sec , second to second coding of when they occur .
+So we go over So we were we were talking over one another , and it 's just in each case , it 's just one interval .
+but you 'd get some rough statistics .
+
+Actually also say I made barr barriers for so that the I was doing with Collin wha which just used , this foam board .
+so we need a barrier that doesn't disturb the sound ,
+It 's true , it would disturb the , the long - range
+, it sounds weird but it 's it 's cheap and , Be interesting to have the camera going .
+
+So my first attempt was just using thresholding and filtering , that we talked about two weeks ago ,
+and so I played with that a little bit , and it works O K , except that it 's very sensitive to your choice of your filter width and your threshold .
+The algorithm was , take o every frame that 's over the threshold , and then median - filter it , and then look for runs .
+Every frame that 's over what threshold ?
+Frame over fres threshold .
+and if it 's over the threshold you set it to one , and if it 's under the threshold you set it to zero , so now you have a bit stream of zeros and ones .
+And that works O K , if you fil if you tune the filter parameters , if you tune how long your median filter is and how high you 're looking for your thresholds .
+Did you ever try running the filter before you pick a threshold ?
+
+So , if you 've looked at this you 've seen it before ,
+and , , w we know that an and they 've loosened up on that too s in the intervening time , that that 's that 's viewed as being a culturally - relative thing ,
+because we 're people who 've talked to each other ,
+we the topic is , what the possibilities are and w and we 've spoken with each other
+, th the biggest , result here , which is one we 've we 've talked about many times and isn't new to us , but which would be interesting to show someone who isn't familiar with this is just the sheer number of overlaps .
+It 's just that people haven't been looking at that because they 've been doing single - channel processing for speech recognition .
+what we 've learned about is overlaps in this situation , is that the first the first - order thing I would say is that there 's a lot of them .
+Actually , I 've done it a fair number of times today .
+and exploratory analysis of long - distance inferences for topic coherence , that was I was wasn't if those were the right way that was the right way to describe that because of that little exercise that you and Lokendra did .
+I , I 'm probably saying this wrong , but what I said was exploratory analysis of long - distance inferences for topic coherence .
+Thilo , can you tell us about all the work you 've done on this project in the last , last three months ?
+Do you want us to put a mark on the bottom of these when they 've actually been read , or
+
+Now you won't be able to walk or ride your bike , ?
+Now on the table I did take one step toward , away from the raw frequencies by putting , percentages .
+, the general cultural idea which w , the conversation analysts originally started with in the seventies was that we have this strict model where politeness involves that you let the person finish th before you start talking ,
+so it 's now , universally a ag with .
+they also , , ack acknowledge the influence of sub of subcultural norms and cross - cultural norms and things .
+And we generally do monitor things like that , about whether we whether our utterance will be in the clear or not .
+So , at any rate , my next attempt , which I 'm in the midst of and haven't quite finished yet was actually using the , thresholding as the way of generating the candidates .
+that 's that 's the one that we videotape .
+
+OK , , Jane , since you were cut off last time why don't we start with yours ,
+So it 's like , , rather , lively discussion there .
+, when this is what This is actually when Jane sent this email first , is what caused me to start thinking about anonymizing the data .
+Let 's say that in second fifty - seven of one minute , you start talking and I start talking and we ignore each other and keep on talking for six seconds .
+I 'm sitting here so that run into the room if the hardware starts , , catching fire .
+what I what this has , , caused me so this discussion caused me to wanna subdivide these further .
+but when you wear it like that or with the , lapel or if you have it very far from your face , that 's when it starts failing .
+
+At the very end , this is when people were , , packing up to go ,
+, if a truck goes rolling past , adults will , depending , but mostly , adults will will hold off to what to finish the end of the sentence till the till the noise is past .
+When y you the detect the the first at the end of the detector of , ehm princ .
+he 's saying the onset detector .
+and apply another algorithm , another approach like , detector of ene , detector of bass - tone energy to consider that , zone . of s a small silence between speaker ,
+
+With that fricative sounds , but I have new information but I have to study .
+so , from the point of view of studying dialogue , , which Dan Jurafsky and Andreas and I had some projects on , you want to know the sequence of turns .
+But , from information flow point of view it 's not an overlap in the predictable information .
+Is possible to get information from the rhythmic f from the ge , , files .
+there 's some information there about their distribution even with very simple measures .
+
+s OK , so one item for an agenda is Jane has some some research to talk about , research issues .
+I was supposed to send off , and , I sent a note about it to to Adam and Jane
+So it sounds like the three main things that we have to talk about are , this list , Jane and Jane and Adam have some research items , and , other than that , anything , as usual , anything goes beyond that .
+and I 'm wondering how much more overlap of the types that Jane described happen with more people present .
+I did have this other agenda item which is , @ @ it 's a list which I sent to a couple folks , but I wanted to get broader input on it ,
+and , I threw in what you did with what Jane did on in under the , preliminary analysis of overlaps .
+
+but I that in the mixed file you can find , zone with , great different , level of energy .
+for , algorithm based on energy , , that h mmm , more or less , , like , mmm , first sound energy detector .
+it 's probably to work , because , you have , in the mixed files a great level of energy .
+And probably is not so easy when you use the PDA , that Because the signal is , the in the e energy level .
+It will be , more difficult to detect bass - tone energy .
+An - and then , without considering the you you , you can consider the energy like a another parameter in the in the feature vector ,
+but , what if you were just looking at very simple measures like energy measures but you don't just compare it to some threshold overall but you compare it to the energy in the other microphones .
+I have found that when I analyzed the speech files from the , mike , from the close microphone , I found zones with a different level of energy .
+because , depend on the position of the of the microph of the each speaker to , , to get more o or less energy i in the mixed sign in the signal .
+and then , if you consider energy to detect overlapping in , , and you process the in the speech file from the the mixed signals .
+it 's it 's difficult , only to en with energy to consider that in that zone We have , overlapping zone , if you process only the energy of the , of each frame .
+
+And so , in that case , it does get mixed in , and it 's pretty hard to jus to just ignore it , to just do processing on one and not on the other .
+but pretty quickly there 're they back off
+So if you fiddle around with it a little bit and you get good numbers you can actually do a pretty good job of segmenting when someone 's talking and when they 're not .
+and , e , as as is in your case , if you 're here for only a modest number of months you try to pick a realistic goal ,
+these are , pretty l large partitions .
+Ke - keep a back door .
+
+When we speak we do make a judgment of " can " , as adults .
+Andreas was wearing that same old sweater again .
+If you model the effect that me speaking has on your microphone and everybody else 's microphone , as as on that , and you build ,
+but what I was s nnn noting just when he when Andreas raised that , was that there 's other information to be gained from looking of the microphones and you may not need to look at very sophisticated things ,
+It 's so , it was just a comment on the software , not a comment on prescriptions on how you wear microphones .
+
+But , because of the acoustic segmentations that were done and the fact that some of the acoustic data in Switchboard were missing , people couldn't study it ,
+, but from the acoustic point of view , it 's all good .
+OK and then the other thing I did , was I took Javier 's speaker - change detector acoustic - change detector , and I implemented that with the close - talking mikes ,
+And then feeding that into the acoustic change detector .
+is , acoustic , event , important to consider .
+But his goal was always to proceed from there to then allow broad category change also .
+like , a general , way of process the acoustic change .
+And if , if you do that , , with a BIC criterion , or with another , of distance in a first step , and then you , you get the , the hypothesis to the this change acoustic , to po process
+You say you have looked for acoustic change .
+, also what I 'm doing right now is not intended to be an acoustic change detector for far - field mikes .
+and , mail me , , the corrections or suggestions for changing
+
+And and , you maybe wanted to look at it before but , for these various technical reasons in terms of how the data was you weren't .
+I 'm saying if I have this complicated thing in front of me , and we sh which , we 're gonna get much more sophisticated about when we get lots more data ,
+But Then , if I was gonna describe to somebody what did you learn right here , about , , the modest amount of data that was analyzed I 'd say , " , the first - order thing was there was a lot of overlaps " .
+So you always have this problem , you 're going to new data
+H how are you going to adapt whatever you can very quickly learn about the new data ? , if it 's gonna be different from old data that you have ?
+XML formats and other transcription aspects sorted out and sent to IBM .
+, pilot data put together and sent to IBM for transcription ,
+next batch of recorded data put together on the CD - ROMs for shipment to IBM ,
+preliminary analysis of overlaps in the pilot data we have transcribed ,
+
+And , this is how it breaks down in the individual cells of who tended to be overlapping most often with who else ,
+and if you look at the marginal totals , which is the ones on the right side and across the bottom , you get the totals for an individual .
+, o one thing I wanted to or you can tell a good joke and then everybody 's laughing and you get a chance to g break in .
+the first pass is to find candidate places to do a break .
+And so the possible breaks are where silence starts and ends .
+Because one of the things that definitely happens is if you put the threshold low you get lots of breaks .
+
+but I , when , y I saw the the speech from PDA and , close talker .
+in that , speech file is , more similar .
+I found that the , silence in many occasions in the in the speech file ,
+because , in my opinion it 's in my opinion , if you if you change the condition of the speech , , if you adjust to your algorithm with a mixed speech file and to , to , adapt the neural net , used by Javier with a mixed file .
+And and then you , you try to apply that , , , speech recognizer to that signal , to the PDA , speech file , you will have problems , because the condition you will need t I suppose that you will need to to retrain it .
+
+Just just to be consistent , from here on in at least , that we 'll do it at the end .
+but I 'll just run through it also and see if someone thinks it 's inaccurate or insufficient .
+, we 'll talk we 'll talk about it next week if something
+, we 'll talk about that after our meeting .
+but that doesn't mean in the real world that people don't talk that way .
+Speaking of taking control , you said you had some research to talk about .
+Not , if you watch people they 'll actually do these things .
+It 'll be too hard to make barriers , I was thinking because they have to go all the way
+I 'll try to phrase it in passive voice .
+Thursday crept up on me this week .
+
+and we 'd take a picture of everybody sitting here with blindfolds .
+weren't we gonna take a picture at the beginning of each of these meetings ?
+, what I had thought we were gonna do is just take pictures of the whiteboards . rather than take pictures of the meeting .
+Linguistic anthropologists would suggest it would be useful to also take a picture of the meeting .
+It 'd be better than nothing , is i Just from a single picture you can tell some aspects .
+
+, there 's a , there is a , telephone call tomorrow , which will be a conference call that some of us are involved in for a possible proposal .
+so if each of us was calling and having a meeting that way you kn like a conference call .
+we have in the past and continue will continue to have a fair number of phone conference calls .
+, you have to be careful about excising it , how you excise it
+
+, so if So if anyone hasn't signed the consent form , do so .
+The new and improved consent form .
+I 'll do that on the next set of forms .
+I finally remembered to put , put native language on the newer forms .
+we 're going to have to work on the , on the human subjects form .
+human subjects approval on campus , and release forms worked out
+so in the consent form it says , you we will look at the transcripts later and if there 's something that you 're unhappy with , .
+
+So you take a each frame , and you compute the energy
+but , when you have , , two speakers together without enough silence between them , is better to use the acoustic change detector and I I IX or , mmm , BIC criterion for consider all the frames in my opinion .
+But , do you think that if you consider all the frames to apply the , the BIC criterion to detect the the different acoustic change , between speaker ,
+or another algorithm to process , the segment between marks founded by the the BIC criterion and applied for each frame .
+
+So , I had asked actually anybody who had any ideas for an agenda to send it to me and no one did .
+I noticed you C ' ed me , but I wasn't actually a recipient .
+So , Then it beco though so just superficially to give a couple ideas of the types of overlaps involved , I have at the bottom several that I noticed .
+And even the jacks , , I 'm sitting here and the jack is over in front of you .
+
+and so and t there are a number of places where someone just answered early .
+Other - otherwise you 'd get double counts , here and there .
+looking for whether it improves or degrades to split at one of those particular places .
+
+But this was just I had the program mostly written already so it was easy to do .
+so the meeting participants have a chance to request audio pixelization of selected parts of the spee their speech .
+audio pixelization software written and tested .
+Wh - what is " audio pixelization " ?
+, audio pix wh he did it ,
+

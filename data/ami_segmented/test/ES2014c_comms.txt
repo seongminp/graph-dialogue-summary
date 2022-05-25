@@ -1,0 +1,278 @@
+just to keep the shape of the buttons simple .
+Right , so shape of buttons simple .
+
+if we use rubber buttons then it requires a rubber case ,
+It seems like you're gonna have rubber cases , as as buttons .
+one of the things were if you had rubber buttons then you had to have a rubber case .
+it's if you use the rubber double curved case then you must use rubber buttons .
+If you have the rubber case then you have to have the rubber buttons to go with it .
+Rubber buttons require rubber case .
+, so if we just went for one colour of a rubber case
+and then have the standard rubber buttons as .
+And the rubber push buttons , rubber case .
+Rubber buttons and case .
+That's ru rubber buttons , .
+
+For the buttons , we have an integrated push button ,
+so for the buttons there's an integrated push button ,
+And note that the push button just requires a simple chip ,
+So maybe just a simple push button ,
+Simple push button .
+
+The firm supplies a simple , a regular and an advanced circuit board .
+So if we go for the simple push button , so effectively we're going for the simple printed circuit board are we ?
+if it's just the push button then it just needs the simple circuit board .
+so we'd have a simple circuit board
+so we'd stick with the simple circuit board
+Simple circuit board .
+Are we gonna go for the simple circuit board just to keep the cost down ?
+
+but it does affect the printed circuit board .
+and I that would require a more advanced circuit board ,
+with the printed circuit boards you were going for the
+but then we for whether it would require a more complicated circuit board .
+I suppose we need to find out what circuit board that requires , maybe before we m make a decision .
+So I don't think it would effect our circuit board .
+did we decide it didn't affect the circuit board , it just affected
+and the voice recognition , we can use that can't we , just to find it . Without affecting the circuit board .
+
+for the circuit board which is the middle , it's just see it down there the chips like the workings of the actual of the remote .
+and for the circuit board , again depends on which features we want in the actual in the remote .
+
+So if we've got the scroll wheel for one of the buttons , that would require a slightly more advanced circuit board than if we just had a standard push button .
+so if we wanted to know that the scroll wheel required the regular and what required advance . Then if we were able to see that down then we could make the decision at that point in time
+As I say it only specified that we need a more advanced circuit board for the scroll wheel ,
+the scroll wheel required the regular ,
+but the scroll wheel requires a mini m minimally a regular chip ,
+
+there's a scroll wheel which is the new mouse has just got like the centre section which you can scroll up and down ,
+for the buttons , we'd probably get away with just having the standard push buttons rather than the scroll wheel .
+So if we wanted the scroll wheel and wanted the voice recognition , then we'd have to get a more costly circuit board .
+, and if we're going for sleek and sexy , a scroll wheel is maybe a bit kinda bulky ?
+I haven't actually got the examples of the scroll button there ,
+the scroll buttons , as you've already mentioned , there's examples of those ,
+
+but the feel of the material should be spongy ,
+Was that in the fashion sense that this Or was the spongy feel was that fashion ?
+And that would fit in with what we want , wouldn't it , for the spongy feel , to have everything rubber .
+So we've got spongy feel buttons as , have we ?
+so it's not really spongy feel buttons , it's just rubber buttons .
+
+where they just had a very limited range of buttons
+Limited number of buttons .
+I suppose we maybe are limited in the fact that we still have to put the logo on the actual
+
+We still have the user interface which is all the buttons we're gonna incorporate .
+This says it's similar to the button on the mouse for a normal for like like modern computer .
+the thing was that if you decide to do this , to have triangular buttons , somebody might look at this one and say this triangular button is pointing up ,
+whereas the actual button's pointing up , so the function is to turn the button up .
+
+one issue for the buttons is , depending on which material we use ,
+
+So maybe we could make the buttons shaped like fruit and veg ,
+And then even wackier than that , we could maybe have a fruit or vegetable shaped remote ,
+if you start making the buttons fruit shaped , it might make it more complicated to use .
+you were just talking about you've got to be careful how you shape your buttons ,
+I maybe fruit and vegetables may be popular at the moment ,
+We c maybe can imply a fruit shape possibly .
+I whether it's one of those things that like having all fruit shaped keys , that probably would go out of fashion very quickly ,
+And then are we going for one button shaped like a fruit . Or veg .
+an apple would be a good recognisable shape .
+so what shape are we making the standby button ?
+
+Conceptual design meeting .
+For the components design , next step is
+there was a mention just as a warning about button design .
+so what was the decision on the design of the volume button ?
+Are we are we gonna go through the design of all the buttons at the moment ,
+are you gonna work on keeping the button design quite simple ?
+
+And I don't think you could really perform any of the remote functions with it .
+because there's already very good voice recognition technology out there , and because ours might not cover the same functions that the leading brands do , it might be a good idea to market it as a finder function .
+the finder function rather than as a speech function to find your remote .
+The most important thing was that the thing look and felt fancy rather than just functional .
+so perhaps fewer buttons and functions as we've discussed .
+And I would've thought the functionality the people get cheesed off by things by having to read instructions et cetera , so .
+say the standby button is quite kinda separate from all the other functions .
+th that incorporates the trend whilst at the same time not confusing people , if you're looking for functionality .
+and the general function of the remote would stay the same ,
+
+but it wouldn't affect the size of the remote too much .
+From looking at the remotes that are out there at the minute , none of them are particularly sleek and sexy .
+some of the remotes that I looked at , one of the models da did actually have voice recognition where you could where it was connected to the remote control functions .
+Th there was a specialist type of remote that we could think about , .
+So maybe the children's remote should be like a next step ,
+and just to be aware that there are specialist functions and specialist remotes
+but we probably don't want to focus on those like such as the children's remote .
+that we'd asked people about remote controls and what was good about them , what was bad , what they used .
+where you keep the remote hidden under the sofa most of the time .
+or otherwise someone's gonna have to buy a complete new remote rather than just a case .
+
+And then have to change all change everything at the last minute .
+That means you're constantly changing your production schedule ,
+The m the main problem is how f how frequently do the fashions change ?
+You're just changing one aspect like the standby button like that ,
+Maybe we could think of the cases like changing with the fashions
+Change case colour .
+
+like the Nokia phones where you could take the casing off the outside .
+but you could have like pink cases for girls and red ones and things like that .
+it seems to make sense that we'd just maybe stick with the standard rubber case ,
+one thing to consider is that in some ways you want by having a fairly standard case it means they can all fit together on top of each other
+
+one final thing we came up with was some information on the speech recognition .
+if we're gonna have the speech recognition , we'd have to probably get an advanced one . I'm guessing .
+The voice recognition came as a separate piece of information . .
+and then think of the speech recognition as an extra possibility .
+I had speech recognition requires advanced
+Speech recognition you reckon then is s simple .
+So you also said for going for the international market that some maybe older people might not like the speech recognition .
+
+and just to market it as a completely different like different viewpoint as a finding your lost control
+we're to go for the international market rather than a local market
+Right , I've been looking at some trends in fashion on top of doing the research into the remote control market
+but as we know how fickle the fashion markets are ,
+it just seems realistic that the remote control market isn't the thing which takes in those kinds of fashion trends .
+And whether we'd have a big enough market to have this like secondary market of selling the cases might be something to consider .
+and the market research has been on that side of things , hasn't it ?
+
+I th the there wasn't too much difference in the cost , that related to the actual buttons ,
+I think we've decided that it's gonna increase the cost
+And the cost of packaging could be quite important vis-a-vis the total cost of the product .
+
+so what you would al all you would really need , whether it , , whether the casing be w any colour , could be any colour , but that badge would then have to stick out on top of it
+so that in a sense , with a logo like that , because it's on a white background , the only colour that it might not stick out so on would be a white casing .
+And the way they've got that there even if you had that on a white , which is the predominant colour of the the Windows badge , you'd still be able to see it clearly from a white casing product .
+
+There's a small unit available through the company which would be an extra cost ,
+so there is an extra price in that sense .
+There is th an extra cost in that sense .
+I assume it would cost extra ,
+Anyway you could add on for an extra package ,
+and that you would have for future reference the possibility of adding in extra features at extra cost to take care of specialist market segments .
+
+but Maybe we maybe we'll find out how much that does cost and have to decide slightly later .
+which could be our find the thing with a hand clap .
+And then maybe find a way to incorporate these trends so that we capture people's imaginations .
+
+I've got some things to say about possible design things from trend watching .
+And we've also been looking at fa fashions and what people are wanting out of consumer goods at the moment .
+So we've had people in Paris and Milan watching the fashion trends .
+And , the fashion trends are that people want clothes and shoes and things with a fruit and vegetables theme .
+do we think the trends are particularly important for this type of gadget ,
+If you're going for fashion trends like that they'll need t you'd have to have interchangeable cases
+
+The display requires an advanced chip
+the display requires an advanced chip which in turn is more expense .
+but we have to take all el elements into consideration .
+And so if there is one element that requires the more expensive one , or say the regular one , or the more advanced , then that would have to be the same for all of them . S
+
+Maybe we could make them out of rubber rather than hard plastic .
+whereas just the fact that it was a rubber case is probably less of something that y you're gonna end up hating in a year , .
+
+but there's some curved cases that you can see , a range of sizes .
+But the double curve wouldn't require us to perform miracles with the Plasticine .
+but you can see some of them have got bulges , like the second one and the end one where there's a curve there .
+I if a double curve is maybe it comes up slightly , or ?
+But it is a kinda sleeker look if you've got curves in there .
+Shall we go for single curve , just to compromise ?
+curved or double curved ? So it's single curved .
+
+Maybe curves give it like the slightly more aesthetic feel ?
+
+that it was gonna be simple to make it enable us to complete the project in time .
+And j , just keeping the the labelling them labelling of them fairly simple as .
+
+Right so we had the fact that we're gonna have the logo the company logo in its colour scheme incorporated onto the device the remote device .
+But we are supposed to use the company colour scheme , aren't we ?
+You could have your company badge and logo .
+with the mobiles , it's the , it's a communication device ,
+and we don't really know much about the colour scheme or logo yet do we ,
+
+So are we able to make that decision now in a sense that this is the point at which we're discussing that issue ,
+and then make decisions going back to the various presentations as they were .
+and then make the decision at that point in time .
+
+So it gave the example of say your volume buttons for up and down , they might both have a V_ on for volume ,
+So that would show that volume was going up , whereas the one underneath would see the volume going down .
+they might see , they might see this pointing down and think right that's gonna turn the volume down ,
+So maybe we could have volume written on the side
+
+So yes including the power s supply as .
+first in the power supply , we have the option of just the standard battery ,
+just to say all these are supplied by Real Reaction .
+going to my personal preferences , possibly for power we could use kinetic
+You were you were wanting to go for the kinetic power supply .
+So did we decide on the kinetic power supply ?
+
+where it can control four devices , T_V_ , cable , satellite , video , D_V_D_ , audio .
+So just to summarise the most important things which came out of the remote control market investigation .
+we need to emphasise the fancy design with on our remote control above all else .
+Whereas if you do fancy things with it , you then gotta put it in a ca a packaging box that does that .
+
+which if any of you've seen those new watches which you you power up by waving around , it just requires a small amount of movement
+you move the remote around to power it up .
+It's it works on the basis they have some ball bearings inside .
+It's it's some on watches which you you shake to power it up .
+Somehow the mechanism inside powers up through movement .
+
+a front page which had the features that the the customers most wanted ,
+and then the the backup features on the second page so that it could meet the technical requirements .
+So you'd have a finder feature rather than a voice recognition feature .
+
+I presume it must have been not spongy last year .
+If y if you change all the buttons then you've got the problem that this year's fruit and veg , next year's I was gonna say animals or elephants or w whatever .
+if you've got fashion changes and that you're incorporating , then it means that your stock is is last year's stock
+Whereas if you kept the product the same but you could have a difference from year to year , it seems to me that you could incorporate a fashion statement if you like , rather than changing the whole kit and caboodle .
+that sounds like it wouldn't do too much harm in a couple of years .
+
+I've seen pictures with it sticking off the side of it ,
+a lot of computers like on the one you've got there , it actually has a stick on badge
+and literally just badge them themselves with their own badge over the top .
+therefore for storage purposes in shops and the like and it makes it easier that you can if you can store them up on top of each other .
+
+that's effectively what they did with the mobile phones , was to have some in blue , some in red , some in rather than all in black
+if it's for young people , like the phone generation , that thing'd probably go down ,
+I'm not convinced on whether having changeable covers would be something that people would buy into .
+
+and give no real kinda extra benefit
+And then also try and add in technological informat innovation
+If you start getting into kinda aubergines and things , it gets a bit weird .
+
+Flip it round in ninety degree a hundred and eighty degrees and have it up and down .
+Shall turn it round for time ?
+
+So you have your basic model which you would sell at whatever ,
+You'd have model one , model two and model three ,
+but on this basic one I'm reckoning that we're going for the basic model to be discussed here
+you two are gonna find that out fairly quickly when you move over to your kit modelling stage as to how much pl how much how pliable is Plasticine .
+
+which is in the higher price range .
+and because it impacts on other on the materials and the price it's not great .
+
+But the way that I interpret that it doesn't seem to send out a signal to the telly ,
+The one thing that you can often do with products is you can make small modifications .
+I'm not what the timescale we're thinking of selling the product over is .
+in essence in the production you want things to stay
+and therefore you're selling it or having to sell it at a discounted rate which you wouldn't want to do .
+
+it was to have sizable amount of information on it .
+
+so maybe in quick summary of the last meeting , quickly give you what we had .
+We're meant to be f we're meant to be finishing this meeting in about a minute or so .
+
+the way the remote's gonna work is still the same idea as before .
+which is the idea of the watches that you move
+the idea that you record in a set message ,
+and then it picks up that message and replies to you .
+it's like a parrot just rep reply replying to your message .
+the example that they've given there is good morning coffee machine , good morning Jo .
+
+And then there's solar cells . as a final option .
+So I for the ease of for quickness and ease we should take them from at least like one of these options .
+And this would avoid batteries running out , having to replace batteries and such like .
+so just for just for ease of not having to replace the batteries .
+that seems pretty straight forward .
+
+Wishing I hadn't closed the damn
+

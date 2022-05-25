@@ -1,0 +1,29 @@
+For the conceptual design, the marketing expert talked about the public's preference for looks over technological innovation; however, they both seem to be more important than ease of use.
+The current fashion among younger people favours bright colours and fruit and vegetable themes and spongy materials: pertinent exchangeable fronts can express such trends on the remote, and could also provide themes for other target groups.
+They could also add some rubber to provide easy grip of the device.
+Cases can be flat, single- or double-curved.
+They can be made of plastic, rubber, wood or titanium.
+Hand or kinetic dynamos, batteries, and solar cells can be used as energy sources.
+Possible interfaces are push buttons, scroll wheels, and LCDs. A way to make this device different would be to use a scroll-wheel on the side with integrated button for volume control and mute.
+Speech recognition can be implemented by adding a sample sensor and speaker on the remote.
+The final decisions also included combined battery with solar cells.
+The team will design a single-curved device with a scroll wheel and speech recognition, in black and yellow, the company colours.
+The industrial designer and the user interface designer will work on a drawing of a prototype.
+They will think about ways to make their product different from the others in the market.
+They will also try to find a way to promote the corporate identity in the design of the look and feel and interface.
+The ID and UI will also have to figure out whether to use rubber just for the buttons and side finish, or for the whole front of the remote.
+The marketing expert will carry out a product evaluation.
+Changeable covers for the remote control can link the product to current fashion trends, but also trends followed by other age groups.
+A scroll wheel will be included in the design.
+A regular chip will be needed for this.
+A single-curved rubber casing can also be used.
+LCD is not going to be implemented.
+The preferred energy source was a combination of batteries and solar cells.
+It is not clear whether a kinetic dynamo can be used, because it is unlikely that a user shakes the remote enough, as one would do with similarly powered watches.
+The use of a scroll wheel with integrated button was debated, as not everyone was convinced of its use for this project.
+Using the speech recognition on the device may not be convenient, since the remote will have to pointing towards the TV at the same time for the infrared to work.
+LCD screens may add an extra hi-tech touch, but given all the other features, it might be too much.
+The company colours (grey and yellow and black) did not seem sufficiently bright and trendy to everyone.
+Printing an image on the remote to make it more colourful is doable, but cannot be done by the manufacturing department.
+The front could have a rubber finish, or the buttons will be made of rubber.
+It was debated that customers may prefer a total spongy texture, not just in the buttons and the sides of the remote.

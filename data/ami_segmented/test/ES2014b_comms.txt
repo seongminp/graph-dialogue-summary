@@ -1,0 +1,240 @@
+first is the research I made on the remote control itself .
+so having researched the existing models within the market , I found my research off the internet . I've established what the components required for the remote control to function , actually are .
+we've done some research into the functional requirements that people want out of their remote control .
+and as you go up through the age groups , people got less and less interested in a remote control that you could talk to , so .
+
+it's got a very limited number of buttons .
+Limit the number of buttons ,
+So maybe next to each of the buttons , each of them could have a number and then also a function written next to it ,
+are we gonna have the channel up and down as as the number buttons ?
+
+And first off we should state that th the remote control's for controlling the T_V_
+how d how does a remote control look and feel for them ,
+and what improvements would they like to remote control .
+And three quarters of them found that remote controls are ugly
+and that a even higher proportion would spend more for a s a fancier remote control
+they s they said that they'd be interested in a remote control which offered that possibility
+But we have to make the decisions on the remote control functions
+they've got their own controls in this like hidden panel .
+
+we also asked what frustrated people about remote controls
+and the number one frustration was that the remote was lost somewhere else in the room and that they couldn't find it .
+And the second biggest frustration what that if they got a new remote control , it was difficult to learn all the buttons and all the functions , and to find your way around it .
+and that was the number one frustration that people said , so .
+
+for general television purposes you have channels one to five at this point in time ,
+but how many channels do we have to actual television channels do we have to prepare for ?
+and then have a second button to get you to the actual channel you want
+
+but the other thing is that with the current expansion of channels in the process of taking place , certainly the button up and down ,
+People concentrated on the channel buttons and the volume buttons and the power buttons .
+Power button , stand-by , channel , up and down .
+
+the various functions used for changing channel , channel up and down , volume , things like that .
+to change the channel , either by pressing the number that you want or by channel up or down .
+so it could end up talking to itself and changing its channel .
+
+there's also a chip inside the remote which does all the computer type things .
+You don't want a cable attached to the remote otherwise it's not really a remote .
+but as you can see , the left remote is quite quite busy looking , quite complicated .
+that's still a video remote part ,
+some remotes have favourite options
+or like the same technology could be put inside the remote .
+if people are buying remotes , then they're probably buying it to replace another remote
+, if we're trying to keep it slee sleek and sexy as , have you seen those remotes where the bottom bit slides down , so there's everything else revealed ?
+
+W I got or three things , relating to the remote being only for T_V_ .
+So that would solve the problems with the T_V_ speaking to the remote and changing its own channels .
+So and if finally the T_V_ breaks , you get a new one , you're gonna have to be able to tune it .
+no , like there's individual buttons for them , like on the T_V_ remote .
+
+an example of the function could be to change the volume up or down ,
+and we should concentrate on the channels and power , and also volume and that thing , as Louisa said .
+Volume button . How many volumes ?
+
+going on to personal preferences , I've said that battery seems the best option for the actual remote ,
+so my personal preference would be the right remote .
+My personal preferences from the marketing is that we need to come up with some sleek good looking high-tech
+
+that's there's lots and lots of different buttons .
+Would you be able to get rid of the extra buttons here , the circular section ,
+we've already decided that we don't need a teletext button , haven't we ?
+Would you maybe have like one menu button , then you'd use the other buttons , maybe the number buttons to actually do the separate functions .
+but he can read a button if it's displayed properly .
+That's sixteen buttons , you reckon .
+
+and in actual fact that was pr pretty what we came up with anyway .
+And then the sender , which is usually , I've found , an infra-red device which sends a signal to the actual television .
+if we could have it in the actual remote like everything in one device .
+Do they have their own do they have their own controls on their actual products , then ,
+
+we also asked them about speech recognition for remote control .
+And we could maybe think about using speech recogniti recognition as a way to find the remote control if it's lost in a room , rather than having it to speech recognition to change the channels .
+and they might end up costing more than our twelve fifty budget for the speech recognition . .
+But you've then got the point if you're not going with voice recognition then
+would it take quite a while to develop the speech recognition software in the remote control ?
+
+We then have the user interface , which is the like the buttons on the actual remote .
+That'll be quite easy to make a user guide for a fourteen button remote .
+and maybe a slightly more advanced instruction booklet to come with it , to guide
+
+Alt function F_ eight .
+so they incorporate a video function which we won't have to worry about .
+I like the use of the symbols like the triangles and the squares and the arrows as as the words on the play functions and all that .
+So we have to come effectively to the decision on the remote functions so that you can decide what you're gonna be doing .
+and there was the one on the left hand side which had all like the double functions and
+We don't really need any other audio funct functions
+
+And young people were quite receptive to this ,
+because young people are perhaps the ones that are gonna buy our new product if we aim it at sort of a high-tech design .
+But that was only for young people that preferred it , older people didn't .
+Youn young people pref
+one the second most annoying thing that people found was having to learn the new one .
+Like we should maybe try to discourage people from standby .
+people might just be too fickle and not want to change .
+
+It interprets which button you've pressed
+And then maybe an enter button for s , saying that you want that particular thing tuned in .
+So you go up and down and then it pick it finds something and then you wanna press enter to select it , .
+and th and a enter button just to select .
+
+and that we should come up with fewer buttons than most of the controls on the market ,
+But the but that's relying on the television market changing to an automatic
+and the idea is to have an international market
+the market research said there is quite a lot of people do just zap around and flick , so .
+
+so the m basic method of this is to send a signal from the remote to the television set , so that a desired function is performed .
+And that of all the buttons on the remote control , the setting buttons for the picture and brightness and the audio settings , they weren't used very often .
+if you're trying to avoid having a second product you could have a second product that gave you the right pitch which would set the remote off to say here I am thing , without sound recognition .
+a set command whatever that happened to be .
+As in setting the audio and tuning it and like that ?
+
+we've got that it's remote for T_V_ only otherwise project would become too complex with which would endanger the time to market was one of the considerations .
+so time to market seems to be important ,
+because time to market is critical . S
+
+and we'd have to have some room for future such channels .
+and there's I exactly how many channels there are on when you take into account Sky and various other various others .
+where if you always flick from channel one to channel six , if that's a favourite you just like by-pass two to five .
+But a lot of like Cable and Sky and , that would be tuned to one channel ,
+
+we could maybe come up with a menu , a a an L_C_D_ menu for other functions on the remote control .
+we could possibly put an L_ a a L_C_D_ menu in ,
+So how would this menu function work ?
+My dad was watching a film the other week
+it'd be quite hard just for people to grasp just off like the menu use different buttons
+, my dad doesn't like anything that you've got to kinda flick through a menu ,
+
+And then that involves the components required in it and the systems design of the actual remote .
+And then also the methods in which these components interact together for the remote to actually do what you want it to do
+the basic components are an energy source
+
+And then on the separate thing we have on the television we have a receiver .
+You don't have to be point directly at the television itself .
+to switch the television on or off , maybe a standby button .
+there's a problem with that in that the television makes noise ,
+So we're being focused effectively directly at a television
+we're maybe talking about replacing remotes for slightly older televisions ,
+
+by the look of it they both have play and fast forward , rewind functions ,
+Maybe you could have a fast forward on the channels
+
+So anything that is to be added , such as voice recognition et cetera has to be very simple and has to be very quick
+I suppose if we could get something in which was quite quick and simple that would give us an advantage over the other remotes . .
+But probably quick and simple is primary rather than added extras .
+I suppose if we've got their if they've got their own controls then we can avoid it for ours just to keep it simple .
+
+I'll just I'll grab the wire out the back of this one .
+and at the moment we've got although you've onl you've got the five standard , you've got the B_B_C_ have come up with a further six
+it'd be really easy and it'd be a big advantage if we did have some whistle back function .
+Maybe we should concentrate just on the whistle back function at the moment ,
+So so keep keep detailed functions hidden at the back .
+data functions hidden at back .
+So on the back it'll have brightness , contrast ,
+
+There's key rings that you whistle at or clap at ,
+I was gonna say a sharp noise , a clapping of hand or whatever .
+If you think that more people can whistle than clap then that's fine , then go for that option ,
+I would have thought that more people could clap rather than whistle ,
+
+. so I'm gonna talk a bit about the technical functions design .
+I'm Louisa , the User Interface Designer , as .
+whereby we had The design logo was one , which we've already mentioned .
+that also goes back to the original design when we saw those two ,
+
+Like to get to fifty five and the higher numbers
+I suppose with nine you've got the like the last one which makes the tenth means you it's like multiples you can put them together so you can make any number .
+nowadays you can just get ones where it gives you a a second or two to press another number ,
+I'll put delay to allow multiple numbers .
+
+And then we can report back at the next meeting
+And if dur between the time of this meeting finishing and the next meeting starting , if you get any additional information that only you have at that point in time you'd think would be relevant to other people in terms of their des decision making process , then we should communicate that as quickly as possible and not until the next meeting .
+Maybe if we're gonna run out of time , one of us should come up with a list of these and then get back at the next meeting just at the start and say what they're gonna be .
+
+and we've got forty minutes in which to for this meeting to to discuss the various options .
+forty minutes , I believe is the time .
+
+, I s I suppose in a sense you could have if you've got a hundred channels then if you had an easy way of getting rather than having to go one to a hundred , you could go one to ten , ten to twenty
+We've just got ten , eleven twelve th
+Did we decide on having the ten the ten numbers
+So we've got ten eleven twelve thirteen fourteen fifteen sixteen there ?
+
+And the third thing was that teletext as far as the management is concerned , is becoming dated due to the popularity of the internet .
+and it seems to me that the management is wanting us to go down a narrow path and not opening out .
+that if people are now using the internet then you don't need teletext ,
+
+but as soon as we got over about into a thirty five to forty age forty five age group and older , people weren't quite so keen on speech recognition .
+On the basis that if we've got if we're catering to the whole age range , you want something that's easy to do ,
+
+and that's the end of the slide show .
+so these are the three extra parameters that have been put on this project .
+d first and foremost we've gotta get to the end
+and then get to the end with added extras if possible .
+the product we've got is something that's at the I would have said the lower end of the s of the cost scale ,
+
+because we've got th three primary requisites from from and email that was sent to me
+but the primary consideration is to get the project finished within this short time window ,
+if our primary consideration is to get it there in time , time's short ,
+
+you want something to meet the major concerns of the consumer so that we can have that as a selling point for the product ,
+
+and how we were planning to proceed so that at the next meeting each person that's got a task to do is clear from this meeting what that task is .
+that might have an impact on their on what they come up with effectively at the next meeting .
+Right we've got five minutes before we wind up this meeting , so I've been told .
+
+after you press that sends the message to the chip ,
+and then sends the appropriate message to the sender .
+And the sender sends a message to the receiver .
+
+otherwise it would make it your device would become inoperable , or only operable in certain circumstances
+If you leave your telly on standby it powers Blackpool for a certain amount of time .
+We can send out a flier with the device saying that you shouldn't leave it on stand-by .
+
+because it was a little tricky on PowerPoint to get this working ,
+So the top bit's the power source , yes ? .
+If the battery's on reasonable power , they always seem to work fairly .
+
+which I in most existing models would be a battery supply .
+Whether that'll be two batteries , four batteries , it may vary .
+, so we start off with a battery suppl
+
+and the last part is receiver which is important in the system
+Maybe we can have some sensor which is kept somewhere where you can some buzzer system between the two .
+
+with your mobile phone , you lose that and you can ring it .
+that'll solve the frustration of losing it .
+Uh-oh danger sign .
+
+Right and the corporate image was the final thing .
+we have to remember that we have our own logo and colour scheme .
+But I got an email that said to make that whatever device we come up with at the end of the day had to incorporate the corporate colour and slogan .
+that might be the corporate colour scheme ,
+
+And we did that by giving them a questionnaire that we'd prepared and asking them to fill in the answers .
+
+and say right yes , we've achieved this or we haven't achieved this , this is how far we've progressed .
+So there's quite a lot of like Dolby surround studio , surround things .
+
+I know it's probably like not an issue to raise here , but the whole thing about not using your standby because of the like waste of electricity .
+Like if you boil the kettle that's full that's a waste .
+

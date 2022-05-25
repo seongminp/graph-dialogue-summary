@@ -1,0 +1,23 @@
+The project manager opens the meeting by recapping the discussions of the previous meeting, telling the group this meeting's agenda, and stating what each person will do for the next meeting.
+Then the industrial designer talks about the components design and explains exactly what remotes do and how they operate.
+He also talks about batteries and chips.
+The interface specialist present research from the internet about user interface.
+He talks about minimizing the clutter on the remote, and suggests using a slide button like on a mouse.
+The marketing expert presents, talking about trend-watching and how fruits and vegetables are currently an important theme.
+They talk about making changable colors available and possibly including batteries with them.
+They discuss what the remote should look like in terms of shape color, and then talk about components, materials, and energy sources.
+Then they close the meeting.
+The marketing expert will be doing the product evaulation.
+The interface designer will be looking at the look, feel, and design.
+The industrial specialist will be looking at how the user uses the product.
+The interface designer and industrial specialist will be producing a model of the product
+The remote will have a long-term battery source.
+The remote will contain a custom chip.
+Will be curved, shape similar to a computer mouse, but narrower.
+Will have voice with fewer buttons.
+Will have menu, channel, power, volume buttons.
+No display screen.
+If used, face plates will be cheap.
+To add voice option, likely need to design own chip.
+However, a custom design chip is more expensive and would take longer than using an existing chip.
+Whether to use changable face plates.

@@ -1,0 +1,491 @@
+D	24.71	i'm little late .	opening
+D	27.65	got stuck in the traffic .	opening
+A	31.89	that's possible on this time of day .	opening
+A	35.51	starts at three o'clock .	opening
+A	36.66	let me see .	opening
+A	42.11	our fourth and last meeting .	opening
+A	47.74	there he is .	opening
+A	55.7	this our last meeting .	opening
+A	58.01	in this meeting we will discuss our final design .	opening
+A	62.36	and we will do some evaluation about the , not only the product , but also the project .	opening
+A	70.74	and then we're going to close the project today as .	opening
+A	74.73	so after this you will be free to go and spend all your money .	opening
+A	80.95	and this design , detailed design meeting we will discuss the look-and-feel of the design , the usability interface design , and we will do the product evaluation .	opening
+A	96.16	in order to do that we have this agenda .	opening
+A	101.36	we'll have the prototype presentation first .	opening
+A	104.31	then we will set up some evaluation cri criteria .	opening
+A	108.47	then we will look at the finance .	opening
+A	111.28	we will have to see if everything we wanna do is also possible within our budget .	opening
+A	118.51	because everything costs money , and the more functions you wanna have the more money it will cost .	opening
+A	122.64	so we have to see if it fits within the twelve and half euro per remote .	opening
+A	129.42	but we will see that later .	opening
+A	131.06	then we will do the project evaluation , and the closing after that .	opening
+A	136.08	we've got forty minutes .	opening
+A	137.98	so we will be finished at half past three .	opening
+A	143.14	but first we will do the this is prototype presentation .	presentation of prototype(s)
+A	150.59	so , if some if somebody wants step forward .	presentation of prototype(s)
+C	157.91	this is what me and richard came up with .	presentation of prototype(s)
+C	163.18	the default spot for the on-off button .	presentation of prototype(s)
+C	166.3	the mute button just below that .	presentation of prototype(s)
+C	169.14	then there's the volume and channel selectors .	presentation of prototype(s)
+C	172.79	simple plus-minus button .	presentation of prototype(s)
+C	176.51	we thought of help button .	presentation of prototype(s)
+C	178.32	if you hold it and you press another button , the help goes to the l_c_d_ screen .	presentation of prototype(s)
+C	185.33	then there's the zero to one to zero buttons .	presentation of prototype(s)
+C	190.06	button for teletext .	presentation of prototype(s)
+C	192.1	button for the subtitles .	presentation of prototype(s)
+C	194.12	and the company logo .	presentation of prototype(s)
+C	196.65	so it's rather simple prototype .	presentation of prototype(s)
+C	201.08	and we'll have to see from testing how the users take it .	presentation of prototype(s)
+D	207.34	is this the moment where we ask or can ask questions about the functionality ?	look and usability
+C	213.75	just pop in at any time .	look and usability
+D	216.29	when you're in teletext there usually are buttons where you just you just press it and you go to the next teletext page .	look and usability
+B	226.94	that's just the normal as th as the normal remote controls so you put it you came in page one hundred .	look and usability
+B	240.92	now you can use the normal one to zero buttons .	look and usability
+B	244.92	and you but you can also use the button th for changing the the channel .	look and usability
+B	252.6	so the shifting button .	look and usability
+B	255.97	for shif shifting up in on on teletext , and shifting down .	look and usability
+A	270.4	but in few meetings earlier we tried to keep it simple .	look and usability
+A	280.33	just few buttons and large buttons .	look and usability
+A	283.65	but these are altogether quite quite few buttons .	look and usability
+A	291.07	so i'm wondering if we if we neely really need all of those buttons .	look and usability
+C	297.38	if you look at most controls , they've got more buttons than this .	look and usability
+C	303.12	and the on-off button , it's it's necessity .	look and usability
+C	306.51	you can't drop that one .	look and usability
+C	308.28	the volume and channel buttons , you need you need those those .	look and usability
+C	314.35	the mute button could be replaced by pressing the volume-down button twice .	look and usability
+C	320.14	so we could cancel that one .	look and usability
+C	322.96	the help button really is necessary because there's no other way to know when someone wants to button does .	look and usability
+B	334.76	or you can build in when you press one button .	look and usability
+A	340.73	if you put .	look and usability
+B	342.58	we disc discuss that already .	look and usability
+B	344.3	but we think old people that option .	look and usability
+B	348.41	so they just put in put press the button and and .	look and usability
+C	356.6	you can't leave out the number buttons .	look and usability
+A	362.78	teletext and subtitles are necessary .	look and usability
+C	365.81	so it's rather basic already .	look and usability
+D	370.09	that's what pointed out earlier .	look and usability
+D	371.27	if you just make control for just the t_v_ there's just not much to gain here .	look and usability
+A	378.77	so we had somebody about th interfa something about the design of the buttons there ?	presentation of prototype(s)
+C	383.38	they're it's rather hard to draw on the white-board .	presentation of prototype(s)
+A	384.53	just normal plain buttons .	presentation of prototype(s)
+C	387.07	but they're supposed to be equal sized , round , with with little logo on it for the for the volume , the the triangle and .	presentation of prototype(s)
+B	397.12	just to recognise it , so and now we don't need leds or some remote controls do it also , but because we use the little display we don't have to use it .	presentation of prototype(s)
+C	398.17	just for recognition .	presentation of prototype(s)
+C	414.53	so and for the materials we've just chosen for rubber buttons .	presentation of prototype(s)
+C	418.6	with different colour than the case .	presentation of prototype(s)
+C	421.6	so they jump out .	presentation of prototype(s)
+C	425.3	and that's about it .	costing
+A	428.59	then because we only have thirty minutes left , will move on to the finance part , which is pretty exciting , to see if it's all possible what we wanna do .	costing
+A	441.03	and tell you that we're going to have pretty hard time producing this for twelve and half euros .	costing
+A	454.2	if we see if i've filled in correctly , so just correct me if you see something wrong .	costing
+A	460.93	counted two batteries .	components, materials and energy sources
+A	462.75	but maybe we can also use one .	components, materials and energy sources
+A	464.49	if it's possible .	components, materials and energy sources
+D	465.13	since it rechargeable .	components, materials and energy sources
+B	467.88	we can just 'kay .	components, materials and energy sources
+A	472.8	that's two euros off .	components, materials and energy sources
+A	475.69	we need the advanced chip .	components, materials and energy sources
+A	477.71	so there's not much to to save there .	components, materials and energy sources
+A	484.45	here we have the single curves .	components, materials and energy sources
+A	486.74	we can see that the difference between uncurved and the single curved is one euro .	components, materials and energy sources
+A	493.3	, but the single curved is good for design , and also for the display to have prominent place on the remote control .	components, materials and energy sources
+A	506.3	we have to keep that .	components, materials and energy sources
+A	508.94	then we have the case material supplements .	components, materials and energy sources
+A	512.88	it's the cheapest one we need .	components, materials and energy sources
+A	515.51	so that's not much to save either .	components, materials and energy sources
+A	518.93	but then the biggest costs are the buttons .	components, materials and energy sources
+A	523.09	so maybe we really should try to discard some buttons to keep our costs low .	components, materials and energy sources
+A	531.24	because you have to we will have to get the twelve and half euros at the end .	components, materials and energy sources
+A	538.46	so if we let's fir first count the buttons we have now .	components, materials and energy sources
+B	543.35	sixteen , believe so .	components, materials and energy sources
+A	547.41	nah , that will be even more then .	components, materials and energy sources
+A	556.26	so , seventeen .	components, materials and energy sources
+B	559.58	with the help button .	components, materials and energy sources
+A	562.21	including the help ?	components, materials and energy sources
+A	565.77	we can discard the help and the mute button by pressing down volume long , or pressing down number long .	components, materials and energy sources
+A	578.37	that saves us one euro already .	components, materials and energy sources
+A	581.57	'cause then we have got fifteen ?	components, materials and energy sources
+D	586.64	that wouldn't be an option .	components, materials and energy sources
+A	589.11	and this is no those are one , .	components, materials and energy sources
+D	589.28	assume you'd count the volume and channel thingies for two buttons each , right ?	components, materials and energy sources
+D	597.67	think actually there're two buttons , aren't they ?	components, materials and energy sources
+B	597.97	where did , it's just one button .	components, materials and energy sources
+B	605.12	there were two for one big button .	components, materials and energy sources
+B	608.09	but they are more expensive than the small ones .	components, materials and energy sources
+A	614.4	but th it's not stated in this files .	components, materials and energy sources
+B	614.47	so it's just .	components, materials and energy sources
+A	617.61	so maybe we can we can even make one button with the volume and the channel in one , by pressing that's possibility as .	components, materials and energy sources
+D	625.1	was thinking , maybe you could just integrate three of those numbers to one button .	components, materials and energy sources
+D	632.08	that would cut the cost .	components, materials and energy sources
+A	634.97	so and it's good for the design as .	components, materials and energy sources
+A	637.47	so you can make let's see .	components, materials and energy sources
+A	642.53	if you make this looks bit like cross .	components, materials and energy sources
+B	674.62	but don't if if it's cheaper .	components, materials and energy sources
+B	678.14	so , we've still got four buttons , but just so you got not not butt button itself , but on the .	components, materials and energy sources
+A	679.38	th they count the materials .	components, materials and energy sources
+A	692.79	on the chip there .	components, materials and energy sources
+B	694.29	on the chip you've got still four four buttons .	components, materials and energy sources
+B	698.25	so , but .	components, materials and energy sources
+A	698.93	but because we have the advanced chip we can just count this as one button .	components, materials and energy sources
+A	704.76	but no but .	components, materials and energy sources
+D	705.64	but , this really is four buttons anyhow .	components, materials and energy sources
+A	713.6	maybe it is , but then it seems to me that it's impossible to get the twelve and half euros .	components, materials and energy sources
+A	721.1	also the l_c_ display , it's , it's too expensive for the display we use .	components, materials and energy sources
+C	723.86	that's that's big cost .	components, materials and energy sources
+A	728.07	they try , but what's the big advantage of our remote then ?	components, materials and energy sources
+C	731.67	if we leave out the display we can also save money on the chip .	components, materials and energy sources
+D	745.39	only the docking station , .	components, materials and energy sources
+C	749.86	which isn't the the docking station isn't even in this schematic .	costing
+C	755.42	so it's not even taken into the price .	costing
+D	760.79	maybe we should to different supplier .	costing
+A	764.15	that's an option .	costing
+A	771.08	don't you think we can , if we can count this as as one button , and integrate th these buttons in three , then we save lot of money as .	costing
+C	782.97	we we could save money on it .	costing
+C	784.39	but would it make the remote more usable for elderly people ?	costing
+D	789.98	that's what i'm wondering .	costing
+C	791.61	my mother can't even send send an s_m_s_ message .	costing
+D	798.12	since the market research indicated that older people spend their money easier , more easy , maybe it's feasible to just put the price of the remote up little .	costing
+B	798.53	are we gonna buy remote control when you can use it ?	costing
+B	807.95	we we must stay below the below twelve fifty or can't go nay .	costing
+D	834.39	especially since we have those features .	costing
+A	838.22	but we have to stick to the twelve and half euros .	costing
+A	842.16	we don't have any more budget to develop it .	costing
+C	845.37	the margin will get too small .	costing
+B	845.65	is it impossible to but it is possible to make one for twelve fifty .	costing components, materials and energy sources
+A	849.93	so it is .	costing components, materials and energy sources
+A	855.21	if you leave out the l_c_ display .	components, materials and energy sources
+D	855.27	it would be be pretty rigid one .	components, materials and energy sources
+A	859.13	and if you use less buttons .	components, materials and energy sources
+A	863.08	say or you can take the single chip .	components, materials and energy sources
+B	864.75	but , you can't use .	components, materials and energy sources
+A	871.26	there it is .	components, materials and energy sources
+B	875.47	but we want to make so fancy and good .	components, materials and energy sources
+A	877.71	but then good looking .	components, materials and energy sources
+B	884.38	wi with , with attractive options .	components, materials and energy sources
+B	890.83	so , you can stay below twelve fifty .	components, materials and energy sources
+B	895.71	so scroll-wheel's one .	components, materials and energy sources
+A	896.24	it's difficult as , but or we can leave out the ten buttons and take one scroll wheel for the programme numbers .	components, materials and energy sources
+D	896.59	or becoming choice between like either good remote and higher production cost , or just any other remote control .	components, materials and energy sources
+A	917.74	then because then we save ten buttons .	components, materials and energy sources
+C	919.25	that's we're getting closer .	components, materials and energy sources
+B	919.64	no , it .	components, materials and energy sources
+A	921.55	then we have five and one .	components, materials and energy sources
+A	926.04	and and see .	components, materials and energy sources
+A	927.97	if we have this one and we've got the advanced , we're getting close .	components, materials and energy sources
+D	938.2	but how does scroll-wheel work here ?	components, materials and energy sources
+A	943.14	then you will or maybe you can scroll .	components, materials and energy sources
+A	954.16	if you scroll you will see the numbers on the l_c_d_ display .	components, materials and energy sources
+A	958.56	until you've got the right number , then you push it .	components, materials and energy sources
+D	961.46	that would bring up the price of the scroll-wheel also .	components, materials and energy sources
+D	965.74	integrated scroll-wheel push-button .	components, materials and energy sources
+A	965.99	it's gotta scroll and push .	components, materials and energy sources
+A	968.0	but then you you can push some other button as .	components, materials and energy sources
+C	973.81	you could just not scroll for half second .	components, materials and energy sources
+C	977.48	so you won't need button .	components, materials and energy sources
+A	978.11	so if you scroll to number and then you half second , then it turns to that channel .	components, materials and energy sources
+D	982.58	that would be like the end of our usability .	components, materials and energy sources
+A	987.62	but it would definitely crop cost , lot .	components, materials and energy sources
+D	991.89	but , t's the teletext subtitles are right now you just push the teletext button , go to page eight eight eight , and teletext disappears .	components, materials and energy sources
+A	994.12	and we need the battery .	components, materials and energy sources
+A	1001.14	and the regular chip is not possible ?	components, materials and energy sources
+A	1004.4	it has to be advanced ?	components, materials and energy sources
+C	1006.79	if you want to use an l_c_d_ screen you you need an advanced chip , yes .	components, materials and energy sources
+A	1008.79	it has to be advanced .	components, materials and energy sources
+A	1012.91	and we can save euro by flat design .	components, materials and energy sources
+A	1019.94	that's an option we can then we're almost there .	components, materials and energy sources
+C	1026.12	if you could just leave out one more button .	components, materials and energy sources
+A	1032.21	so if we but that's that is big advantage , if we're but can we use can't we integrate the teletext and the subtitles in one button ?	components, materials and energy sources
+B	1033.24	or we have to skip the subtitle button .	components, materials and energy sources
+B	1037.51	so it's big advantage .	components, materials and energy sources
+B	1042.03	but , it's , .	components, materials and energy sources
+A	1049.87	if you push it three times ?	components, materials and energy sources
+D	1058.92	but the subtitles stay there .	components, materials and energy sources
+B	1061.63	but if you push the teletext button twice it's one one , few buttons .	components, materials and energy sources
+D	1062.39	that's the case on most , that could be just like the scroll to eight , click , scroll to eight , click , scroll to eight , click .	components, materials and energy sources
+C	1064.9	what if you have to scroll to page eighty eight ?	components, materials and energy sources
+C	1067.06	eight hundred eighty eight .	components, materials and energy sources
+A	1068.99	that's not really that no .	components, materials and energy sources
+D	1076.92	but then again that would be just not an option for older people , who don't even scroll-wheel is .	components, materials and energy sources
+D	1085.36	holding remote with which they expect to have like ten buttons for the numbers one to zero .	components, materials and energy sources
+D	1096.36	with only five buttons on it .	components, materials and energy sources
+A	1101.86	if you make good advertisement on television and in the in the guide , you can explain to the people how to use the scroll wheel .	costing
+A	1115.85	if you just make it real simple .	costing
+A	1120.92	because it saves it saves lot of money .	costing
+A	1122.75	and we can keep our l_c_d_ screen , which can provide extra information .	costing
+A	1126.22	how to use the scroll wheel .	costing
+A	1127.98	how to use the other bu buttons as subtitles .	costing
+A	1133.17	and it's good for the innovative design as .	costing
+A	1138.7	if you would erase these .	presentation of prototype(s)
+A	1157.62	and we put looks bit odd maybe .	presentation of prototype(s)
+D	1170.02	that's pretty big scroll wheel .	presentation of prototype(s)
+A	1182.02	that is something like that .	presentation of prototype(s)
+A	1196.27	we've got the scroll-wheel .	presentation of prototype(s)
+A	1197.25	one , two , three , four , five buttons , if we erase this one .	presentation of prototype(s)
+A	1215.15	and these are two buttons then .	presentation of prototype(s)
+C	1227.25	we could make two buttons out of that .	presentation of prototype(s)
+C	1231.25	and just if you press the volume button you can control the volume with the scroll-wheel .	presentation of prototype(s)
+C	1239.89	so that would save two buttons .	presentation of prototype(s)
+C	1241.61	if you do the same for the channel .	presentation of prototype(s)
+A	1243.85	that's really good good idea , .	presentation of prototype(s)
+A	1252.0	and it will make the use of the scroll wheel more obvious .	presentation of prototype(s)
+A	1259.8	so we make one for the volume , one for the channel .	presentation of prototype(s)
+C	1274.99	so if we .	presentation of prototype(s)
+A	1276.16	so we've got one , two , three .	presentation of prototype(s)
+A	1278.73	we can leave the teletext in if we want .	presentation of prototype(s)
+A	1283.6	that's that's better .	presentation of prototype(s)
+C	1283.85	so if we leave out all those buttons , perhaps you can go with the flat flat case .	presentation of prototype(s)
+D	1284.98	so this is five buttons .	presentation of prototype(s)
+C	1291.9	and make it smaller overall .	presentation of prototype(s)
+C	1295.2	so if you put the the volume and channel buttons on the same height as the on-off button , the screen right behi under that , than the scroll button you get much smaller remote .	presentation of prototype(s)
+A	1305.25	and then you can .	presentation of prototype(s)
+C	1310.28	and it sh ?	presentation of prototype(s)
+A	1311.41	so we can decrease this one to four buttons .	presentation of prototype(s)
+D	1317.65	right now we have five .	presentation of prototype(s)
+B	1318.4	but , you can make quite big remote remote control for just the same price as small one .	presentation of prototype(s)
+B	1327.37	just you only have to pay for the double curved or single curved .	presentation of prototype(s)
+A	1327.77	that's no problem .	presentation of prototype(s)
+B	1331.54	it it's bit .	presentation of prototype(s)
+A	1334.3	it's it's more the moulds in which they are being made , .	presentation of prototype(s)
+A	1338.91	single curved is really easy to just fill in .	presentation of prototype(s)
+A	1341.49	and cases come right out of the machine .	presentation of prototype(s)
+A	1344.4	and single curved you have to have different different machine , than flat one .	presentation of prototype(s)
+A	1350.87	this is really easy one .	presentation of prototype(s)
+A	1353.49	what does everybody think about flat or single curved design ?	presentation of prototype(s)
+A	1362.04	freek , what do you think ?	presentation of prototype(s)
+D	1364.74	still think we should go for the single curve design .	presentation of prototype(s)
+D	1368.03	but then again , all these changes are not really with me .	presentation of prototype(s)
+C	1370.0	richard's argument was very good .	presentation of prototype(s)
+D	1374.51	but since we just have to .	presentation of prototype(s)
+A	1377.07	we have to cut costs .	presentation of prototype(s)
+A	1380.75	i'm ag ask for more money .	presentation of prototype(s)
+D	1380.97	i'd rather just go to the board and get us to spend eighteen dollars remote .	presentation of prototype(s)
+A	1388.86	am agreeing with the usability .	presentation of prototype(s)
+D	1389.28	or do some market research and see what the options are .	presentation of prototype(s)
+A	1395.63	but th we can then keep the single curved one .	presentation of prototype(s)
+A	1398.67	just to express our l_c_d_ screen bit more .	presentation of prototype(s)
+A	1404.23	so people will use it more , and especially for the help functions , it will be good if we have scroll bar , scroll button .	presentation of prototype(s)
+A	1412.34	it will be necessary to have good help function , as .	presentation of prototype(s)
+A	1423.86	so this is scroll .	presentation of prototype(s)
+A	1436.29	it was better to have this price list bit earlier .	presentation of prototype(s)
+A	1440.3	before we went on to the to the whole design .	presentation of prototype(s)
+B	1441.66	the th no .	presentation of prototype(s) look and usability
+A	1445.56	but i'm glad we could make bit .	presentation of prototype(s)
+A	1451.38	it's pretty different , if you saw the last one than this one .	presentation of prototype(s)
+D	1452.8	it's pretty different .	presentation of prototype(s)
+D	1453.62	but this is not really like for the group we were making our remote .	look and usability
+D	1459.59	this will really require lot of marketing to get this to sell .	look and usability
+D	1467.99	'cause if older people like familiar forms and familiar .	look and usability
+B	1468.06	but but they know the scroll-buttons from old radios .	look and usability
+D	1472.97	this is not familiar for them .	look and usability
+A	1475.66	no , but the most .	look and usability
+D	1476.16	so we're gonna have to do lotta convincing them .	look and usability
+B	1482.45	they cal also buttons like that for changing channels .	look and usability
+B	1486.9	so maybe it's .	look and usability
+A	1487.13	we can let we can stick it out , bit .	look and usability
+A	1490.57	like old old buttons .	look and usability
+A	1494.8	maybe that's recognisable for them as .	look and usability
+A	1497.61	that's good one .	look and usability
+A	1499.52	so , i'm afraid we have to move on .	look and usability
+A	1503.8	and it's it's less frightening , .	look and usability
+A	1507.89	if they see this design they think , there are only five buttons , and but we will see .	look and usability
+D	1514.36	might might be confusing too .	look and usability
+A	1517.1	that's definitely right .	look and usability
+D	1517.2	they'd be like , what ?	look and usability
+D	1518.05	only five buttons ?	look and usability
+B	1521.56	but very special , so no .	look and usability
+A	1524.95	would buy it .	look and usability
+D	1527.3	but you're not sixty .	look and usability
+A	1529.52	would buy it if was six .	look and usability
+A	1533.85	what it costs under twelve and half euros ?	look and usability
+A	1537.54	yes they are .	look and usability
+A	1541.28	but we can go on with the project evaluation .	agenda/equipment issues
+A	1551.85	we still have fifteen minutes left , so we're on schedule .	agenda/equipment issues
+A	1557.34	the project process .	agenda/equipment issues
+D	1560.26	so , like set up all these criteria .	agenda/equipment issues
+D	1564.62	and evaluation of the thingy .	agenda/equipment issues
+A	1567.03	that was the the point forgot .	agenda/equipment issues
+A	1570.73	should there we are .	evaluation of prototype(s) agenda/equipment issues
+A	1579.38	we've got five minutes for those criteria .	evaluation of prototype(s)
+D	1582.26	five more minutes ?	evaluation of prototype(s)
+A	1584.06	no we've got fifteen minutes but yes .	evaluation of prototype(s)
+D	1603.1	'kay so did some literature study study , and analysis of the requirements we set up earlier .	evaluation of prototype(s)
+D	1609.7	translated it into criteria , which would be these .	evaluation of prototype(s)
+D	1613.47	is the remote fancy ?	evaluation of prototype(s)
+D	1615.84	the shape , look and feel .	evaluation of prototype(s)
+D	1619.05	what new functions are there ?	evaluation of prototype(s)
+D	1621.37	easy to use ?	evaluation of prototype(s)
+D	1623.6	learnability is very important factor here .	evaluation of prototype(s)
+D	1627.41	is it functional ?	evaluation of prototype(s)
+D	1629.52	are there not too many functions among the functions ?	evaluation of prototype(s)
+D	1633.17	and are the those functions that are there , are they useful ?	evaluation of prototype(s)
+D	1637.4	and the cost .	evaluation of prototype(s)
+D	1640.8	the target group .	evaluation of prototype(s)
+D	1641.62	is the remote really for the group we're making it for ?	evaluation of prototype(s)
+D	1649.98	if our company is if it is easily recognisable that our company made it ?	evaluation of prototype(s)
+D	1657.05	and so we're supposed to evaluate it right now .	evaluation of prototype(s)
+D	1667.41	have to say this was little hard , because the minutes of our last meeting were not here .	evaluation of prototype(s)
+A	1674.19	that's because my pen failed to upload his data .	evaluation of prototype(s)
+A	1679.47	tried to but it's it's giving errors by downloading the software .	evaluation of prototype(s)
+D	1683.31	so is the design fancy , on scale of one to seven ?	evaluation of prototype(s)
+D	1694.52	we all go for six ?	evaluation of prototype(s)
+D	1701.05	is the design innovative ?	evaluation of prototype(s)
+D	1705.1	so , with our l_c_d_ screen , docking station , scroll-buttons .	evaluation of prototype(s)
+A	1706.85	subtitles , buttons .	evaluation of prototype(s)
+A	1712.95	so we've got twenty cents for our docking station , ?	evaluation of prototype(s)
+D	1718.71	should be do-able .	evaluation of prototype(s)
+D	1720.3	is the design easy to use ?	evaluation of prototype(s)
+A	1723.08	that's bit dodgy .	evaluation of prototype(s)
+D	1725.62	would be for us .	evaluation of prototype(s)
+D	1728.79	but i'd go for four , too .	evaluation of prototype(s)
+B	1729.71	for old people .	evaluation of prototype(s)
+A	1730.37	would say four .	evaluation of prototype(s)
+C	1732.11	four or five .	evaluation of prototype(s)
+A	1732.79	four or five between .	evaluation of prototype(s)
+A	1734.31	between four or five .	evaluation of prototype(s)
+A	1741.39	is it functional ?	evaluation of prototype(s)
+D	1742.71	is the design functional ?	evaluation of prototype(s)
+D	1744.38	do we have all functions that we want to include ?	evaluation of prototype(s)
+D	1749.43	do we have too many functions ?	evaluation of prototype(s)
+D	1752.35	it's pretty slim .	evaluation of prototype(s)
+D	1758.44	and do we take care of the biggest frustrations of the remote control ?	evaluation of prototype(s)
+D	1766.76	like it getting lost and r_s_i_ influences ?	evaluation of prototype(s)
+C	1769.88	we haven't thought of that one .	evaluation of prototype(s)
+D	1773.01	think we do .	evaluation of prototype(s)
+A	1773.73	had them worked out .	evaluation of prototype(s)
+A	1779.05	they are ugly , not very functional , and getting lost .	evaluation of prototype(s)
+D	1785.13	are the production costs within the preset limits ?	evaluation of prototype(s)
+D	1787.7	they are now .	evaluation of prototype(s)
+D	1794.99	does the design fit the group of focus ?	evaluation of prototype(s)
+A	1800.97	no with our new radio button , it's it's better .	evaluation of prototype(s)
+B	1805.61	we have to test it but , , true .	evaluation of prototype(s)
+C	1809.72	still it's too too fancy .	evaluation of prototype(s)
+D	1810.91	radio button is not exactly what older people expect to have remote control .	evaluation of prototype(s)
+C	1814.12	too too flashy .	evaluation of prototype(s)
+A	1823.91	would give it four .	evaluation of prototype(s)
+D	1830.36	i'd go for two .	evaluation of prototype(s)
+B	1832.16	go for three .	evaluation of prototype(s)
+A	1833.65	then we have to do the three .	evaluation of prototype(s)
+A	1835.43	it's the yes it is .	evaluation of prototype(s)
+D	1843.52	is the company company recognisable ?	evaluation of prototype(s)
+D	1846.32	we have the logo there .	evaluation of prototype(s)
+A	1852.46	and they wanna put fashion in their products .	evaluation of prototype(s)
+A	1856.57	in the slogan of the company .	evaluation of prototype(s)
+A	1858.2	and we have the removable front cases .	evaluation of prototype(s)
+A	1862.5	so , it's very recognisable .	evaluation of prototype(s)
+D	1870.38	so that will be this .	evaluation of prototype(s)
+D	1875.47	was also supposed to calculate the score , but thought we would have another private thingy after this .	evaluation of prototype(s)
+A	1881.92	we've got calculate it .	evaluation of prototype(s)
+C	1885.3	twendag sieven an twendag .	evaluation of prototype(s)
+D	1886.1	is this like after this , are we done ?	evaluation of prototype(s)
+D	1887.85	or we're gonna go to our other room again .	evaluation of prototype(s)
+A	1889.13	we've gonna we're going to evaluate it .	evaluation of prototype(s)
+D	1893.35	these are seven factors times seven is forty something .	evaluation of prototype(s)
+D	1906.99	minus three , minus four .	evaluation of prototype(s)
+D	1913.32	so that would be minus eight .	evaluation of prototype(s)
+D	1916.35	forty one out of forty nine .	evaluation of prototype(s)
+A	1919.69	that's around eighty percent .	evaluation of prototype(s)
+A	1927.23	what is it ?	evaluation of prototype(s)
+D	1928.57	i'll just type that in on the bottom here .	evaluation of prototype(s)
+A	1934.62	that's eighty four percent .	evaluation of prototype(s)
+A	1942.99	that's pretty score .	evaluation of prototype(s)
+D	1960.2	so that will be the evaluation .	evaluation of prototype(s)
+A	1966.32	so , that brings us to the project evaluation .	evaluation of project process
+A	1979.69	did we move through the right phases , you think ?	evaluation of project process
+A	1982.84	along the process ?	evaluation of project process
+D	1986.76	think we should have should have had the finance thingy lot earlier .	evaluation of project process
+D	1993.41	in the design phase .	evaluation of project process
+A	1995.22	so lack of information about prices .	evaluation of project process
+A	2013.27	was there room for creativity ?	evaluation of project process
+D	2017.63	not too much .	evaluation of project process
+A	2019.97	it's because of the finance sheet .	evaluation of project process
+C	2021.82	there there was enough room , but the finance yes .	evaluation of project process
+D	2023.35	but and would've liked to go for the younger users also .	evaluation of project process
+A	2023.94	the room was .	evaluation of project process
+D	2036.38	and just to be able to access internet and get something of your own .	evaluation of project process
+A	2056.64	was it clear what everybody had to do according to their roles and functions ?	evaluation of project process
+A	2067.02	did it work out ?	evaluation of project process
+A	2069.16	also , you two of you with the last phase ?	evaluation of project process
+C	2071.49	yes , was .	evaluation of project process
+C	2081.14	the tasks are very structured , so you can just do step by step and it's very easy .	evaluation of project process
+A	2093.63	were the means sufficient for the tasks we had to do ?	evaluation of project process
+A	2096.65	or were they too much ?	evaluation of project process
+C	2099.5	the smart-board , the drawing is just pain in the ass , but the digital the digital pen is very .	evaluation of project process
+A	2108.72	if it wants to download its data .	evaluation of project process
+A	2123.84	smart-board was irritating .	evaluation of project process
+A	2132.86	so you rather wanted to have flip-over ?	evaluation of project process
+C	2138.11	flip-over or more precise digit yes .	evaluation of project process
+B	2138.65	flipper's easier , so .	evaluation of project process
+A	2142.35	faster as , .	evaluation of project process
+B	2150.07	but if you want to share of when you make picture like this on the presentation , it's easier to share it with other people .	evaluation of project process
+B	2163.02	so you can sh save it and put it on the internet , or in shared folder or sh shared directory .	evaluation of project process
+D	2172.64	tried to open the file on my laptop , but not possible .	evaluation of project process
+A	2177.29	you need smart board application .	evaluation of project process
+B	2182.2	can can you export it like .	evaluation of project process
+A	2182.59	but you can .	evaluation of project process
+A	2184.63	should be possible .	evaluation of project process
+A	2186.06	you can export it as image .	evaluation of project process
+A	2188.65	must must be so the sharing of the information was was ?	evaluation of project process
+D	2190.0	should've done that then .	evaluation of project process
+D	2198.12	pen is here .	evaluation of project process
+A	2199.74	pen is here on the table .	evaluation of project process
+B	2211.44	so you can it's possible .	evaluation of project process
+A	2221.6	have we found new ideas for having this meetings ?	evaluation of project process
+B	2228.3	maybe when we just give the numbers of of one of out of sev it's easier to to do the th things that are like that on computer .	evaluation of project process
+B	2250.99	so just like at university so .	evaluation of project process
+A	2256.82	so everybody puts his own score .	evaluation of project process
+A	2258.53	and then it mediates the score , and you can get one .	evaluation of project process
+A	2266.29	so that's how do we call ?	evaluation of project process
+A	2296.67	any more ideas ?	costing
+A	2298.75	or questions about the project ?	costing
+A	2300.35	or about the product ?	costing
+A	2308.37	because then that we get to our last sheet .	costing
+A	2320.98	are the costs within the budget ?	costing
+C	2326.34	considering we are not going to make docking station .	costing
+A	2326.48	do we docking station .	costing
+A	2331.84	that's good point .	costing
+A	2333.23	but maybe because of the docking station the price of the remote can also be little bit higher ?	costing
+A	2341.47	and you can compensate that as .	costing
+A	2345.86	so that shouldn't be the biggest problem , because it's very cheap to make as .	costing
+A	2352.06	do we think we gonna get the twelve and half million ?	costing
+A	2355.36	or what was it ?	costing
+A	2357.28	fifteen fifteen million .	costing
+A	2362.26	if we gonna export this product .	costing
+A	2366.31	especially in america .	costing
+A	2367.96	people are pretty decadent .	costing
+D	2372.64	still if we're gonna make scroll-button anyway it'd be more for the younger people than for the older people .	user target group
+A	2378.12	you can do more .	user target group
+D	2382.45	so maybe we should just re-focus .	user target group
+A	2385.17	just put it on the market for everybody .	user target group
+A	2387.89	you can you can change markets where by changing the front covers .	user target group
+D	2387.97	or specifically for younger people .	user target group
+A	2394.22	that's one thing you can change it with .	user target group
+A	2396.49	so you can also try to reach the younger people by putting fancy covers on on the market .	user target group
+A	2404.92	just as test .	user target group
+A	2405.97	see how it works .	user target group
+A	2407.8	that's good advantage .	user target group
+D	2409.19	then it would be way more popular with younger people than it is , than would be with older people .	user target group
+D	2421.63	even if it were their covers .	user target group
+A	2423.84	then we can have our little celebration , right now .	agenda/equipment issues
+D	2425.58	but party party .	agenda/equipment issues
+A	2432.0	we still have to fit in one more questionnaire .	agenda/equipment issues
+B	2434.1	where's the champagne ?	agenda/equipment issues
+A	2437.78	didn't get message from the from ending of the have one now .	agenda/equipment issues
+A	2446.45	five more minutes ?	agenda/equipment issues
+A	2451.41	then we still have some questions .	agenda/equipment issues
+A	2454.41	if somebody has some questions they can ask them now .	agenda/equipment issues
+A	2457.77	or we can put these in the project folder as .	agenda/equipment issues
+A	2461.88	maybe that's export as picture , .	agenda/equipment issues
+A	2497.84	this is another network , .	agenda/equipment issues
+A	2509.42	does somebody see the project folder ?	agenda/equipment issues
+B	2527.21	maybe they will save it .	agenda/equipment issues
+A	2529.39	i'll just put it in my documents and that's .	agenda/equipment issues
+D	2530.18	it probably will .	agenda/equipment issues
+A	2546.81	i'm going to make our final presentation now .	agenda/equipment issues
+D	2551.48	you're supposed to make final are we supposed to go into our own rooms again ?	agenda/equipment issues
+A	2553.9	and then will be back in about ten minutes to show you the final presentation .	agenda/equipment issues
+A	2561.45	summary of the project .	agenda/equipment issues
+B	2567.01	maybe we have to fill another questionnaire .	agenda/equipment issues
+A	2570.26	you all get questionnaire in in your room .	agenda/equipment issues
+A	2574.55	and then i'll meet you in about ten minutes , .	agenda/equipment issues
+A	2583.63	hopefully my pen will download its software .	agenda/equipment issues

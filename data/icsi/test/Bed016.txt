@@ -1,0 +1,635 @@
+A	know that he 's going to like , taiwan and other places to eat .
+D	good . good .
+F	had one of the most frustrating meetings of my career .
+A	it 's definitely not the most frustrating meeting 've ever had .
+D	you 're you remember you 're being recorded at this point .
+A	, so , we didn't yet specify with whom .
+A	so that 's why keith and are going to be little dazed for the first half the meeting .
+F	'm just gonna sit here
+E	right . , avoided that as long as could for you guys ,
+F	for which we , .
+A	are very appreciative ,
+F	know you were you were doing that ,
+F	but , anyway .
+D	how di how exactly did , , that paper lead to anti - lock brakes ?
+F	could tell you had rough day , man !
+D	love that story .
+F	it 's great story .
+C	, liz suggested we could start off by , doing the digits all at the same time .
+D	all at the same time .
+D	if would get distracted and confused , probably .
+A	do we have to like , synchronize ?
+E	you 're supposed to
+E	we can do this .
+F	are you being silly ?
+E	everybody 's got different digits ,
+D	do we have to time them at the same time or just overlapping
+A	you 're kidding .
+C	no , no , just start whenever you want .
+A	and any rate ?
+E	they have they have the close talking microphones for each of us ,
+A	that 's true .
+E	there 's separate channels .
+F	just plug one ear .
+F	that was great meeting !
+F	so - now , , why ?
+C	just to save time .
+C	does matter for them .
+A	are we gonna start all our meetings out that way from now on ?
+A	kinda like it .
+D	it 's strangely satisfying .
+A	it 's ritual .
+D	are we to just to make 's going on , we 're talking about robert 's thesis proposal today ?
+E	you had you said there were two things that you might wanna do .
+E	one was rehearse your talk
+D	yes , and that too .
+C	not not rehearse ,
+C	have just not spent any time on it ,
+C	so show you what 've got , get your input on it , and maybe some suggestions ,
+C	that would be great .
+C	and the same is true for the proposal .
+C	will have time to do some revision and some additional on various airplanes and trains .
+C	how much of chance you had to actually read it
+A	haven't looked at it
+C	but you could always send me comments per electronic mail
+C	and they will be incorporated .
+C	it says , " this is construal " ,
+C	and then it continues to say that one could potentially build probabilistic relational model that has some general , domain - general rules
+C	how things are construed ,
+C	and then the idea is to use ontology , situation , user , and discourse model to instantiate elements in the classes of the probabilistic relational model to do some inferences in terms of what is being construed as what
+C	in our beloved tourism domain .
+C	but , with focus on
+F	need copy of this , yes .
+D	we can we can pass my , we can pass my extra copy around .
+F	is there an extra copy around ?
+A	he sent it .
+A	you can keep it .
+D	er , actually , my only copy , now that about it ,
+C	don't , don't need it .
+D	but . already read half of it ,
+D	so it 's .
+C	actually this is the newest version after your comments ,
+E	no see this has got the castle in it , and like that .
+D	maybe the version didn't have
+D	did the one you sent on the email have the
+D	that was the most recent one ?
+D	cuz read halfway but didn't see castle thing .
+A	'm changing this .
+A	but , anyway .
+C	if you would have checked your email you may have received note from yees asking you to send me the , , up - to -
+C	current formalism thing that you presented .
+C	but for this it doesn't matter .
+A	we can talk about it later .
+A	that 's not even ready ,
+A	! go on to , , whatever .
+A	'm making changes .
+A	" don't worry about that . "
+A	mmm - mmm .
+C	and any type of comment whether it 's spelling or syntax or
+F	there 's only one " " in " interesting " .
+F	there 's only one " " in " interesting " . on page five .
+A	and , email any time ,
+A	but most usefully before
+D	the twenty - first 'm assuming .
+A	the twenty - first ?
+C	twenty - ninth .
+E	no , this is the twenty - first .
+D	today 's the twenty - first ?
+F	better hurry up then !
+A	before the twenty - ninth ,
+C	the twenty - ninth .
+C	that 's when 'm meeting with wolfgang wahlster to sell him this idea .
+C	then 'm also going to present little talk at eml , about what we have done here
+C	'm 'm gonna start out with this slide ,
+C	so the most relevant aspects of our stay here ,
+C	then 'm asking them to imagine that they 're standing somewhere in heidelberg
+C	and someone asks them in the morning the cave forty - five is is - known discotheque
+C	which is certainly not open at that time .
+C	they 're supposed to imagine that , , do they think the person wants to go there , or just know where it is ?
+C	which is probably not , , the case in that discotheque example ,
+C	or in the bavaria example ,
+C	you just want to know where it is .
+C	so we can make point that here is ontological knowledge
+C	but if it 's nine pm in the evening then the discotheque question would be , , one that might ask for directions instead of just location .
+C	that 's motivating it .
+C	then what have we done so far ?
+C	we had our little bit of , , smartkom , that we did ,
+F	you 've got the parser done .
+C	that 's the not the construction parser .
+C	that 's the , , tablet - based parser ,
+C	the generation outputter .
+C	that 's done .
+C	you have to change those strategies ,
+C	that 's , ten words ?
+C	and , , and fey is doing the synthesis as we speak .
+C	that 's all about that .
+C	then 'm going to talk about the data ,
+C	actually have an example ,
+C	can you hear that ?
+C	or should turn the volume on .
+A	could hear it .
+D	they might not hear it in the
+D	maybe they will .
+A	this was an actual , , subject ?
+F	sounds like fey .
+C	but they 're they 're mimicking the synthesis when they speak to the computer ,
+C	the you can observe th the time ,
+C	they 're trying to match their prosody onto the machine .
+F	it 's pretty slow .
+F	the system breaking .
+A	what is the ?
+C	will talk about our problems with the rephrasing ,
+C	and how we solved it ,
+C	and some preliminary observations ,
+C	'm not gonna put in the figures from liz ,
+C	but it would interesting to , , , point out that it 's the same .
+C	as in every human - human telephone conversation , and the human - computer telephone conversation is quite quite different from , , some first , , observations .
+C	feed you back to our original problem
+C	how to get there ,
+C	what actually is happening there today ,
+C	and then maybe talk about the big picture here ,
+C	tell little bit as much as about the ntl story .
+C	wa do wanna ,
+C	'm not quite about this , whether should put this in ,
+C	that , , you have these two different ideas that are or two different camps of people envisioning how language understanding works ,
+C	and then , talk bit about the embodied and simulation approach favored here
+C	and as prelude , 'll talk about monkeys in italy .
+C	and , , srini was gonna send me some slides
+C	but he didn't do it ,
+C	so from but have the paper ,
+C	make resume of that ,
+C	and then stole an - schema from one of your talks .
+A	was like , " where 'd you get that ? "
+F	that looks familiar .
+A	" looks familiar . "
+C	that 's bergen , chang , something , or the other .
+C	now 'm not going to bring that .
+C	so that 's what have , so far ,
+C	and the rest is for airplanes .
+C	so - schemas , then , would like to do
+C	talk about the construction aspect
+C	and then at the end about our bayes - net .
+C	end of story .
+C	anything forgot that we should mention ?
+C	maybe the fmri .
+C	should mention the fact that , , we 're also actually started going to start to look at people 's brains in more direct way ?
+E	you certainly can .
+A	you might just wanna like , tack that on , as comment , to something .
+C	" future activities " something .
+E	the time to mention it , if you mention it , is when you talk about mirror neurons ,
+E	then you should talk about the more recent , about the kicking
+E	and , , the
+E	and that the plan is to see to what extent the you 'll get the same phenomena with stories about this ,
+E	and that we 're planning to do this ,
+E	which , we are .
+E	so that 's one thing .
+E	depends . , there is , , whole language learning story ,
+E	even on your five - layer slide , you 've got an old one that leaves that off .
+C	do have it here .
+C	and , , , the big picture is this bit .
+C	but , , it would
+C	but don't am capable of do pulling this off and doing justice to the matter .
+C	there is interesting in her terms of how language works ,
+C	so the emergentism story would be to be , it would be to tell people
+C	how what 's happening there ,
+C	plus how the , , language learning works ,
+E	so anyway , agree that 's not central .
+E	what you might wanna do is ,
+E	and may not ,
+E	but you might wanna this is rip off bunch of the slides on the
+E	there the there we 've got various generations of slides that show language analysis , and matching to the underlying image schemas ,
+E	how the construction and simulation
+E	that ho that whole th
+C	th that 's that comes up to the - schema slide ,
+C	so 'm gonna steal that from nancy ,
+A	give you more recent if you want
+C	one of nancy 's st
+A	that might have enough .
+C	but also have you trash you left over ,
+C	your quals and your triple - ai .
+E	the quals the the quals slides would be fine .
+E	you could get it out of there , or some
+A	which even email you then ,
+A	like there probably was little few changes ,
+A	not big deal .
+A	you could steal anything you want ,
+A	which you 've already done , .
+C	don't feel bad about it
+A	no , you shouldn't .
+C	because you are on the , , title .
+A	that 's great .
+C	on the , you 're that 's see , that 's you .
+A	'm glad to see propagation .
+C	might even mention that this work you 're doing is also with the mpi in leipzig ,
+A	it 's it 's certainly related ,
+C	because , , eml is building up huge thing in leipzig .
+A	might wanna say .
+C	it 's on biocomputation . would
+E	it 's different ,
+E	this is the , , dna building , or someth the double helix building .
+A	different level of analysis .
+E	the it was it turns out that if you have multiple billions of dollars , you can do all sorts of weird things ,
+D	they 're building building in the shape of dna ,
+D	is that what you said ?
+E	including cr cross - bridges ,
+F	that 's brilliant !
+E	you you really now spent the last time was there spent maybe two hours hearing this story
+D	you definitely wanna don't wanna waste that money on research ,
+D	that 's horrible .
+E	no , there 's infinite money .
+E	you th you then fill it with researchers .
+A	and give them more money .
+A	they just want fun place for them to work .
+F	and everybody gets trampoline in their office .
+C	the offices are actually little
+C	think of , ramps , coming out of the double helix
+C	and then you have these half - domes , glass half - domes ,
+C	and the offices are in the glass half - dome .
+F	alright , let 's stop talking about this .
+A	does it exist yet ?
+A	they are now building it ?
+E	so , , that 's that 's good point ,
+E	th that the date , the , ,
+E	lot of the this is interacting with , , people in italy
+E	but also definitely the people in leipzig
+E	the the combination of the biology and the leipzig connection might be interesting to these guys ,
+E	anyway ! enough of that ,
+E	let 's talk about your thesis proposal .
+C	if somebody has something to say .
+F	you might want to , , double - check the spellings of the authors ' names on your references ,
+F	you had few , , misspells in your slides , there .
+F	like believe you had " jackendorf " .
+F	unless there 's person called " jackendorf " ,
+A	on that one ?
+E	no , no .
+F	but that 's the only thing noticed in there .
+A	in the presentation ?
+F	in the presentation .
+A	'll probably might have 'll probably have comments for you separately ,
+C	in the presentation here .
+A	that 's what he was talking about .
+C	was ac actually worried about bibtex .
+C	no , that 's quite possible .
+C	that 's copy and paste from something .
+E	it looks like the , , metaphor didn't get in yet .
+C	there is reference to srini
+E	reference is one thing ,
+E	the question is there any place
+E	did you put in something about ,
+A	metonymy and metaphor here ,
+E	we 'd talked about putting in something about people had ,
+E	good . see where you have it .
+E	so the top of the second of pa page two you have sentence .
+E	but , what is , even before you give this , to wahlster , , you should ,
+E	unless you put it in the text ,
+E	and don't 's there yet ,
+E	about we talked about is the , , scalability that you get by , , combining the constructions with the general construal mechanism .
+E	is that in there ?
+E	, so where is it ,
+E	cuz 'll have to take look .
+C	but did not focus on that aspect
+C	but , ehhh ,
+C	it 's just underneath , , , that reference to metaphor .
+C	so it 's the last paragraph
+C	so on page two ,
+C	but that 's really
+A	that 's not about that ,
+E	no , it it says it
+E	but it doesn't say it doesn't it it
+E	it doesn't give the punch line .
+E	cuz let me tell the gang what the punch line is ,
+E	because it 's actually important ,
+E	which is , that , the constructions , that , , nancy and keith and friends are doing , , are , in way , quite general
+E	but cover only base cases .
+E	and to make them apply to metaphorical cases and metonymic cases and all those things , requires this additional mechanism , of construal .
+E	and the punch line is , he claimed , that if you do this right , you can get essentially orthogonality ,
+E	that if you introduce new construction at the base level , it should com , interact with all the metonymies and metaphors
+E	so th of the projections of it also should work .
+E	and , similarly , if you introduce new metaphor , it should then , compose with all of the constructions .
+E	and it to the extent that 's true then it 's big win over anything that exists .
+D	so does that mean instead of having tons and tons of rules in your context - free grammar you just have these base constructs and then general mechanism for coercing them .
+E	so that , , , , in the metaphor case , that you have direct idea of source , path , and goal
+E	and any metaphorical one and abstract goals and all that you can do the same grammar .
+E	and it is the same grammar .
+E	the trick is that the
+E	the way the construction 's written it requires that the object of the preposition be container .
+E	" trouble " isn't container ,
+E	but it gets constr construed as container .
+E	so that 's that 's where this , ,
+D	so with construal you don't have to have construction for every possible thing that can fill the rule .
+E	so 's it 's it 's very big deal , in this framework ,
+E	and the thesis proposal as it stands doesn't ,
+E	don't think , say that as clearly as it could .
+C	no , it doesn't say it . no .
+C	even though one could argue what if there are basic cases , even .
+C	it seems like nothing is context - free .
+E	nothing is context - free ,
+E	but there are basic cases .
+E	that is , , there are physical containers ,
+E	there are physical paths ,
+C	but " walked into the cafe and ordered drink , " and " walked into the cafe and broke his nose , "
+E	it doesn't mean that they 're unambiguous .
+E	cafe can be construed as container , or it can be construed as obstacle ,
+E	or as some physical object .
+E	so there are multiple construals .
+E	and that 's part of what has to be done .
+E	this is why there 's this interaction between the analysis and the construal .
+E	the the double arrow .
+E	so , , , , it doesn't magically make ambiguity go away .
+E	but it does say that , , if you walked into the cafe and broke your nose , then you are construing the cafe as an obstacle .
+E	and if that 's not consistent with other things , then you 've gotta reject that reading .
+D	you con you conditioned me with your first sentence ,
+D	and so , " why would he walk into the cafe and then somehow break his nose ? "
+F	he slipped on the wet floor .
+C	you don't find that usage ,
+C	checked for it in the brown national corpus .
+C	the " walk into it " never really means , as in walked smack
+E	but " run into " does .
+C	but , if you find " walked smacked into the cafe " or " slammed into the wall "
+E	no , but " run into " does .
+E	because you will find " run into , "
+D	cars run into telephone poles all the time .
+E	or " into the cafe " for that
+E	" his car ran into the cafe . "
+C	or you can run into an old friend , or run .
+E	you can " run into " in that sense too .
+A	" run into " might even be more impact sense than , , container sense .
+E	but like , " run into an old friend " , it probably needs its own construction .
+E	, , george would have 'm some exa complicated ex reason why it really was an instance of something else
+A	- . - .
+E	and maybe it is ,
+E	and my is that 's one of them ,
+A	there 's contact that doesn't social contact ,
+F	sudden surprising contact ,
+E	but it 's it 's right . , it 's more
+F	but , no ,
+F	it has life of its own .
+F	it 's partially inspired by the spatial
+E	this is this motivated
+E	but then you can't parse on motivated .
+D	you should get - shirt that says that .
+A	there 's there 's lots of things you could make - shirts out of ,
+A	we don't need the words to that .
+C	pro - probably not your marks in the kitchen , today .
+A	no no no , we 're not going there .
+C	not not your marks .
+F	in other news .
+E	anything else you want to ask us about
+E	the thesis proposal , you got
+E	we could look at particular thing and give you feedback on it .
+C	the what would have been really is to find an example for all of this , , from our domain .
+C	so maybe if we if we can make one up now , that would be incredibly helpful .
+A	so , where it should illustrate
+A	wh when you say all this , do you mean , like , , the related work ,
+A	as as , mappings ?
+C	we have , , canonical use of something
+C	and it 's , , we have some constructions
+C	and then it 's construed as something ,
+C	and then we may get the same constructions with metaphorical use that 's also relevant to the to the domain .
+E	let 's let 's suppose you use " in " and " on " .
+E	that 's what you started with .
+E	so " in the bus " and " on the bus , "
+E	that 's actually little tricky in english
+E	because to some extent they 're synonyms .
+C	had two hours with george on this ,
+E	what did he say .
+A	join the club .
+E	right . , that 's
+C	" on the bus " is is metaphorical metonymy
+C	that relates some meta path metaphorically
+C	and you 're on that path
+C	and th it 's he there 's platform notion ,
+E	believe all that ,
+C	" he 's on the standing on the bus waving to me . "
+C	but th the regular as we speak " johno was on the bus to new york , "
+C	that 's , ,
+C	what did call it here ,
+C	the transportation schema , something ,
+C	where you can be on the first flight , on the second flight ,
+C	and you can be , , on the wagon .
+E	right . so so that may or may not be what you what you want to do .
+E	you could do something much simpler
+E	like " under the bus , " ,
+C	but it 's unfortunately , this is not really something tourist would ever say .
+E	unless he was repairing it ,
+C	so in terms of the this
+C	we had we had initially we 'd started discussing the " out of film . "
+C	and there 's lot of " out of " analysis ,
+C	could we capture that
+C	with different construal of
+A	it 's little it 's ,
+A	we 've thought about it before , to use the examples in other papers ,
+A	and it 's it 's little complicated .
+A	cuz you 're like , it 's state of there 's resource ,
+F	out of out of film , in particular .
+A	and like , what is film ,
+A	the state . you 're out of the state of having film , right ? and somehow film is standing for the re the resour the state of having some resource is just labeled as that resource .
+A	it 's little bit
+F	and plus the fact that there 's also
+F	can you say , like , " the film ran out "
+F	or , maybe you could say something like " the film is out "
+A	is film the trajector ?
+F	so like the film went away from where it should be ,
+F	namely with you , ,
+F	the the film is gone ,
+F	never really knew what was going on ,
+F	find it little bit farfetched to say that " 'm out of film " means that have left the state of having film like that ,
+A	it 's weird .
+A	or , " having " is also , , associated with location ,
+A	so if the film left ,
+A	state is being near film .
+C	so running out of something is different from being out of somewhere .
+E	or being out of something as , as .
+E	so " running out of it " definitely has process aspect to it .
+A	but that 's from run , .
+C	is the the final state of running out of something is being out of it .
+F	you got there .
+A	that part is fine .
+F	you got to out of it .
+E	so nob so no one has in of the ,
+E	there was this whole thesis on " out of " .
+E	there or there was paper on it .
+F	there was one on " out " or " out of " ?
+E	it may be just " out " .
+E	there was " over "
+E	but there was also paper on " out " .
+F	lind - susan lindner ,
+A	, you 're right . .
+F	the the " the syrup spread out " ?
+E	and all that .
+A	and undoubtably there 's been reams of work about it in cognitive linguistics ,
+E	but anyway . we 're not gonna do that between now and next week .
+A	it 's not one of the it 's more straightforward ones forward ones to defend ,
+A	so you probably don't want to use it for the purposes
+A	th these are you 're addressing like , computational linguists ,
+A	or are you ?
+C	there 's gonna be four computational linguists ,
+A	but more emphasis on the computational ? or emphasis on the linguist ?
+C	more there 's going to be the just four computational linguists , by coincidence ,
+C	but the rest is , whatever , biocomputing people and physicists .
+E	no no , but not for your talk .
+E	'm - we 're worrying about the th the thes
+E	it 's just for one guy .
+C	that 's that 's computa should be very computational ,
+A	so would try to would stay away from one that involves weird construal .
+C	and , , someth
+A	it 's an obvious one
+C	the old bakery example might be ,
+C	" is there bakery around here " .
+C	so if you we really just construe it as
+C	no , it 's the bakery itself
+C	is it building ? , that you want to go to ? or is it something to eat that you want to buy ?
+A	we 've thought about that .
+A	right . right .
+A	" bakery " can't be something you 're gonna eat .
+E	no , no . the question is do you wanna do you wanna construe do you wanna constr - strue
+D	it 's speech - act .
+E	exactly . it 's because do you wanna do you want to view the bakery as place that , if
+A	where you can get baked goods .
+E	th , that 's one .
+E	you want to buy something .
+E	but the other is ,
+E	yo you might have smelled smell and are just curious about whether there 'd be bakery in the neighborhood ,
+E	you wonder how people here make their living ,
+E	and there 're all sorts of reasons why you might be asking about the existence of bakery
+E	that doesn't mean , " want to buy some baked goods . "
+E	those are interesting examples
+E	but it 's not clear that they 're mainly construal examples .
+A	so it 's lot of pragmatics , there , that
+E	there 's all sorts of going on .
+A	might be beyond what you want to do .
+E	let 's so let 's think about this from the point of view of construal .
+E	so let 's first do
+E	so the metonymy thing is probably the easiest
+E	and and actually the
+E	though , the one you have isn't quite
+A	you mean " the steak wants to pay " ?
+E	no not that one ,
+E	that 's that 's the background .
+E	this is the , page five .
+D	about plato and the book ?
+A	how much does it cost ?
+E	just beyond that .
+C	where is the castle ?
+C	how old is it ?
+C	how much does it cost ?
+A	to go in ,
+F	two hundred million dollars .
+E	it 's not for sale .
+F	that 's good example , actually .
+A	that 's good .
+C	but as nancy just su suggested it 's probably ellipticus .
+A	like , " it " doesn't refer to " thing , "
+A	it refers to acti ,
+A	thing standing for activ most relevant activity for tourist
+A	you could think of it that way ,
+F	isn't that , that 's what
+C	, my argument here is it 's it 's the same thing as " plato 's on the top shelf , "
+F	figuring that out is what this is about .
+A	, no , agree .
+C	th that you can refer to book of plato by using " plato , "
+A	no no , 'm agreeing that this is good ,
+C	and you can refer back to it ,
+C	and so you can castles have as tourist sites , have admission fees ,
+C	so you can say " where is the castle ,
+C	how much does it cost ? "
+C	" how far is it from here ? "
+C	you 're also not referring to the width of the object , or so ,
+E	can we think of metaphorical use of " where " in the tourist 's domain ?
+E	you can sometimes use " where " for " when "
+E	in the sense of , ,
+E	where wh where was , ,
+E	" where was heidelberg , , in the thirty years ' war ? "
+E	or some such thing .
+F	like what side were they on ,
+A	was like , " ?
+A	it was here . "
+E	but anyway th so there are there are cases like that .
+A	or like its developmental state like that ,
+A	you could you could get that .
+F	there 's also things like ,
+F	could ask something like " where can find out about blah - blah "
+F	doesn't nece don't necessarily have to care about the spatial location ,
+F	just give me phone number
+E	there certainly is that , .
+F	and 'll call them like that ?
+E	" where could learn its opening hours , " .
+E	but that 's not metaphorical .
+E	so we 're thinking about , ,
+E	or we could also think about ,
+E	how about " 'm in hurry " ?
+E	it but it 's state and the issue is , is that it may be just usage ,
+E	that it 's not particularly metaphorical ,
+A	so you want more exotic one version of that .
+E	" 'm in 'm in state of exhaustion " ?
+A	do you really say that ?
+A	would you really say that ?
+E	st , , you can certainly say , , , " 'm in overload . "
+E	tu - stur tourists will often say that .
+D	'm really into art .
+A	was gonna say , like
+E	you can do that ?
+E	that 's that 's definitely ,
+A	fixed expression , .
+E	right . but .
+A	there 're too there 're all sorts of fixed expressions
+A	" 'm out of sorts now ! "
+A	like " 'm in trouble ! "
+C	the data that 've looked at so far that rec
+C	there 's tons of cases for polysemy .
+C	so , , mak re making reference to buildings as institutions , as containers , as build
+C	so ib in mus , in museums , , as building or as something where pictures hang versus , , ev something that puts on exhibits ,
+E	right . as an institution ,
+A	why don't you want to use any of those ?
+A	so you don't wanna use one that 's
+C	no , but this
+C	that 's what have , , started doing .
+E	the castle the that old castle one is
+C	metonymy , polysemy .
+D	love van gogh .
+A	" wanna go see the van gogh . "
+A	anyway , 'm .
+C	but the argument should be , can be made that , , despite the fact that this is not the most met metaphorical domain ,
+C	because people interacting with hti systems try to be straightforward and less lyrical ,
+C	construal still is , , , completely , , key in terms of finding out any of these things ,
+E	so that 's that 's that 's reasonable point ,
+E	that it in this domain you 're gonna get less metaphor and more metonymy .
+C	we , with looked with student looked at the entire database that we have on heidelberg for cases of metonymy .
+E	and polysemy , and like that .
+C	so not even in descriptions did we find anything , , relevant .
+F	have to go .
+C	but this is just something we 'll we 'll see ,
+C	and deal with .
+E	. if anybody has additional suggestions ,
+C	maybe the " where is something " question as whole , , can be construed as , locational versus instructional request .
+C	so , if we 're not talk about the lexic
+A	location versus what ?
+A	instruction . , directions ? .
+A	that was definitely treated as an example of construal .
+C	but then you 're not on the lexical level ,
+C	that 's one level higher .
+A	you want lexical example .
+C	but don't need it .
+E	you might want both .
+C	also it would be to get ultimately to get mental space example ,
+C	so , even temporal references are
+C	just in the spatial domain are rare .
+E	but it 's it 's easy to make up plausible ones .
+C	when when you 're getting information on objects .
+E	what color was this in the nain nineteenth century .
+E	instead of wh what how was this painted ,
+E	what color was this painted ,
+E	was this alleyway open .
+C	maybe we can include that also in our second , , data run .
+C	we we can show people pictures of objects
+C	and then have then ask the system about the objects
+C	and engage in conversation on the history and the art and the architecture and .
+E	so why don't we plan to give you feedback electronically .
+E	wish you good trip .
+D	for some reason when you said " feedback electronically " of that
+D	you ever see the simpsons where they 're like the family 's got the buzzers
+D	and they buzz each other when they don't like what the other one is saying ?
+A	that 's the first one , .
+A	the very first one .
+D	it was very early one .
+D	if it 's the first one .

@@ -36,14 +36,13 @@ if __name__ == "__main__":
         help="Apply POV conversion module",
     )
     parser.add_argument(
-        "-l", "--min-length", help="Minimum utt length", type=int, default=45
+        "-l", "--min-length", help="Minimum utt length", type=int, default=25
     )
     parser.add_argument(
-        "-t", "--topic-groups", help="Topic groups", type=int, default=5
+        "-t", "--topic-groups", help="Topic groups", type=int, default=15
     )
     parser.add_argument(
-        "-k", "--top-k", help="Number of summary sentences", type=int, default=1
-    )
+        "-k", "--top-k", help="Number of summary sentences", type=int, default=2    )
     parser.add_argument(
         "-v",
         "--verbose",

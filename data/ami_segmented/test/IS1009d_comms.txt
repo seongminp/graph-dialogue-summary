@@ -1,0 +1,211 @@
+It should have nine channel buttons , a next button , volume buttons , subtitle buttons , switch to control features , colour contrast , sharpness etcetera .
+Now our model also contains a button which is called as the menu button .
+We have also included a button which is called as the swapping button .
+We can make the buttons few buttons smaller .
+
+it will be printed on the case and symbols as as the buttons . .
+so we can just have small buttons and more buttons in that case . If we want to have more features than that .
+
+It should have a memory switch , a mute button in case the telephone rings .
+Now we have included another feature that is the mute button
+No , these the front buttons which are here , are the mute buttons .
+maybe we can eliminate one of the mute buttons , instead of having two mute buttons .
+, definitely , , two mu mute buttons .
+
+Now we have included the switch on and off button .
+we have included a button which is fluorescent green colour
+
+And then we have to interface push buttons .
+
+I like the idea that the on-off button is in a really prominent place .
+will there be anything written on the buttons , like that people know , or they have to learn that from a piece of paper which button does what ?
+Yes , it will have these buttons will have the numbers and all the rest of the buttons will have symbols .
+
+Should be battery operated and she would have the special cases .
+, button supplement special colour ?
+
+And the decision that we took last time was that the special feature we would like to see is a speech recogniser ,
+Now what , what are our special features for the marketing ?
+
+the material is plastic and for the buttons it is s soft rubber
+because you'll be touching the buttons more so it is soft when you touch it .
+Rubber , because we're gonna have the soft buttons .
+And special material , rubber , wood , yes .
+
+bright and it has yellow buttons and all the different colour buttons
+and this is the menu button which will control the colour , sharpness , brightness
+Can you just fill it in the yellow boxes ? Or
+
+Now this is a special , special feature which we have included .
+but recog remembered that there was no that was not included that there was no room for any special features , ?
+
+colourful maybe with s star shaped or other shaped buttons .
+this is us in a snail shape so it is attractive
+Now this button is an elongated shaped button and this is slightly flexible
+and one more feature is we have a holder for this remote which is an oyster shape .
+And then , and then the other thing would be sh shape or practicality of use .
+I wanted the shape to be biomorphic , I didn't want anything with angles and all square , I wanted it to be comfy and roundy
+
+speech recognition is one of her very f favourite personal features she would like see d to be integrated in this in this new remote .
+But her very f personal favourite really she , she would very much like to see a speech recogniser integrated in this remote .
+then again if we're gonna do the speech recognition thing we're gon there gonna be some buttons that are gonna have to be added for that for the recording of the speech .
+
+we decided upon including certain features on our remote .
+Now these features includes the s signal emitting signal it's the led or L_E_D_ the infrared .
+
+the button part I'll explain .
+and the button's part will be explained by F Francina .
+
+We have also included two buttons for increasing or decreasing the volume .
+these two are th to increase or decrease the volumes ,
+
+She feels that's really what people want today .
+So paradoxically the other features , in other words , the look , the feel and the shape , that's what people are gonna get in the store .
+
+scrolling method is more expensive and not that practical anymore .
+And we have also included two buttons for scrolling up and scrolling down the programme channels .
+and these two are to scroll the programme channels .
+Scroll up or scroll down the channels .
+
+designer that looks would be very important on this new remote
+Should be child friendly design with few buttons ,
+The industrial designer presented her thoughts on the issue .
+it should have a fruit and vegetable design and should have a soft feel .
+should be trendy design , compact and strong ,
+
+voice recognition is our big selling point
+so they'll be our main selling points .
+
+She would like a special case made out of plastic that is very strong , not using any harmful materials , should be recyclable and should be colourful .
+the material which we are going to use for the case is plastic
+case , uncurved flat , single curved , double curved .
+Case materi s supplements .
+that is f for rubbers that is case material .
+
+The marketing expert who has to finally come up with to market this product has been watching the competition , has done some research on the internet and also has used h her personal observations to come up with the fact that such a remote sh should be small , easy to use and it should be eye catching .
+and we could have some little comic effect on our marketing about how this is a rapid snail like that
+Now we would like to have a presentation by the marketing expert on production evaluation .
+You wanna go to this next slide , marketing expert ?
+
+From her point of view one of the most important facts is that we should get to market before our competition does .
+and th these points are in the importance for the , for the marketing , these aren't i in how I feel .
+maximum we have another four point three euros four thirty .
+the other things you have more is are more tangible so from that point of view
+Feasible from the production point of view and feasible from a marketing point of view .
+
+and the circuit board is very inexpensive to build
+This is a model of the remote control which we are going to build .
+that everybody's gonna say their remote control is practical .
+cutest remote control on the block .
+
+To do that maybe one or two features should be developed on which we could dwell on or in other words on which our campaign could be built on .
+Too many new features or too many points would only confuse matter .
+So we prefer to have one or two features that can be really driven home .
+
+And how it would works , you press the button , the chip is morse code related relays the to the generat to the generator amplification
+She would like this whole thing should be push buttons with a simple chip
+electronics , simple chip on print ?
+regular chip on print . No .
+financing was pretty simple .
+
+for controlling the programmes the different channels .
+so if it is turned towards the right it will take to the previous channel , if it is turned towards the right it will take to the next channel .
+It will take the user to the previous and the next channel
+The next channel in the numeric pattern , or
+No , swapping is if example you're you're watching the second channel and then you go to the tenth channel and if you want to go back to the second channel you can swap , this button .
+
+the colour's bright and warm which is what we wanted .
+The colours are bright and warm and we really do great job there .
+I really like all those bright , warm colours .
+
+And at the end , it this remote has inbuilt voice recogniser which c which will recognise the user's voice and then it'll act accordingly .
+That's really the voice recognition that's really unusual
+In the financing there was no room for our voice recogniser .
+But we have no way of presenting that to management as as a f finished , as a finished product and saying with the voice recogniser that costs so much .
+we need we need to leave space money-wise for the voice recogniser .
+
+and also i it will be easily fit into the hands and you can access all the buttons easily .
+and it's easily reachable even for somebody with a small hand , ?
+So if you're left-handed or right-handed it doesn't matter .
+and the way this is shaped , even though it's gonna be hard plastic , it feels good in your hand
+Taking into consideration texture and comfort in the hand .
+
+she presented also an oversized remote which she guarantees nobody will ever be able to lose .
+And I'm supposed to present this scale on the whiteboard .
+and fortunately we all had slides presentation which made it a little easier .
+
+I gave it a four , , I feel it's just average .
+Anybody else have any other comments or any other things that we feel we should evaluate ?
+So th the question really is how do we feel with the project process ?
+
+, my method for s m the marketing of this thing is first to ask the big question , will it sell ?
+we don't s want somebody to suddenly come to us and tell us that this button is toxic and some child will swallow it and then we won't sell any .
+that it's plenty small enough to sell
+as we know in today's technic technological world you can do just about anything at any price , the problem is quality .
+And it may not be the greatest quality but it may sell anyway .
+Today we have apple juice and after we sell m million of 'em we have champagne .
+
+Will have symbols so that that the user really knows and doesn't have to first learn it
+because we need the symbols we're going into an international market we can't have anything that's language dependent .
+But anyway it would ha i it has to have some symbols , text so that people kn
+
+or we're not happy with the new product we created or that was created ?
+personally I'm pretty happy .
+and then the next question is are we happy with the leadership of this project ?
+
+Now we are ready for the presentation of the prototype .
+And we should show this prototype to people from various age and socio-economic groups
+And show the prototype to consumer research groups ,
+, now the things that I was thinking and th my wish list has really been realised in this prototype .
+
+Should have an integrated circuit board that's highly sophisticated and temperature resistant .
+She would like to see a timer and or alarm facility integrated .
+Integrated scroll wheel ,
+
+Here is what we looking at satisfaction on room for creativity .
+Is there more room for creativity or are we happy ?
+, are we happy with the creativity that has passed here
+
+the energy should be battery should be on a chip ,
+energy source we say that's battery , right ?
+kinetic source so that's in the energy source that's all we need .
+
+like before we I have to redo the meetings from n th the minutes from the last meeting
+it was discussed in the last meeting which was opened by the presentation from the interface
+And that concludes the presentation from the last minutes from the last meeting .
+the functionality's the only place where maybe we have to think about m maybe , heaven forbid , having another meeting .
+But we were told we could end the final meeting at any time , whenever we felt we were finished .
+
+Symbols on it . Mm-hmm , mm-hmm .
+where I admit I was a little hard on our team here , but
+I d I do too we worked together as a team , . Mm-hmm .
+
+And functionality I put last on my list because people aren't going to use it before they buy it .
+And then functionality you did a really good job on functionality ,
+we could have ad added different functions but then we'd disturb something else
+So we're just gonna have to settle for whatever quality that will buy us .
+you've done a good job , Miss leader .
+
+And this brings the menu up on the screen ?
+This brings the menu up on the screen
+
+give her suggestion whether it'll be sellable or it'll be cost effective .
+, we had what , eight euros twenty as our cost ?
+
+play with the snail image
+They don't have a television in the store , they can't play with it .
+
+and if you hold it in the centre of your hand you can even reach it over here so you don't have to turn it around , turn it upside down , move it up , up and down ,
+
+technically this thing would also have a resistor and a capacitor , diode transistor , resonator ,
+And then for the for the led , for the light emitting diode it is a fluorescent green
+and it's a it is a bulb like an ordinary infrared .
+
+T cell or chart you are trying to change is protected .
+She told me I could just ch change it here and then it would
+It'll take me the rest of the time to get my microphone out from my necklace .
+
+and a couple of other th maybe comp consolidate some of the usage an and see what we can do with that .
+
+Y al always bearing in mind that right now we are within the budget
+

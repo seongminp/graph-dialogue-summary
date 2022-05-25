@@ -1,0 +1,472 @@
+There 's gonna be some zeros from this morning 's meeting because I noticed that
+the Meeting Recorder meetings ,
+, as you might expect the Meeting Recorder meetings had the most overlap
+So , in terms of number of words , it 's like seventeen or eigh eighteen percent for the Meeting Recorder meetings and about half that for , , the Robustness .
+You have a lot of a lot of two - party , subsets within the meeting .
+y I I CC ' ed a message to Meeting Recorder with the URL
+I 'd hafta add him to Meeting Recorder , I ,
+and I understand that you guys were going to have a meeting today , before this meeting .
+So , what I 'm thinking , and it may be that not all meetings will be good for this , but what I 'm thinking is that in the EDU meetings , they tend to be driven by a couple of dominant speakers .
+For some meetings , I 'm I 'm it i
+That 's And some on some meetings it 's good .
+and it 's better for meetings where nobody is breathing .
+there 's there are some meetings where it would It 's possible like this .
+he 's saying , , that the EDU meeting was a good meeting ,
+And then , in a bad meeting , or p some meetings where he said he 's had some problems , what does that mean ?
+I did this on four meetings and only five minutes of every meet of these meetings
+, cuz the other thing that was concerning me about it was that it seemed specialized to the EDU meeting ,
+And there 's there 's one point which I , which I r we covered when I when I r listened to one of the EDU meetings ,
+
+So it 's not it 's not that bad if it 's at the end ,
+, I u I actually what the default is anymore as to how we 're using the front - end but for when we use the ICSI front - end ,
+the n the backchannel will occur at the end of those three .
+So if it 's only inserting " - "s here and there , then , wouldn't that be something that would be just as efficient to do at this end , instead of having it go through I B M , then be patched together , then be double checked here .
+Cuz that 's that 's directly related to the e end task .
+as long as th on the other end they can say there 's there 's something conventions so that they say " ? "
+
+It 's i it 's not against his conclusion ,
+Total concentration . Are you guys ready ?
+
+but it 's in the beginning , it 's bad .
+and we inferred the beginnings and ends of sentences .
+w what I would I was interested in is having a se having time marks for the beginnings and ends of speech
+But what we do care about is that the beginnings and ends are actually close to the speech inside of that
+and this includes things like going from one sentence into the u one utterance into the next , one sentence into the next ,
+And that 's what 's slow .
+
+But but you were gonna to use the originally transcribed file
+I think , , the original plan was that the transcriber would adjust the t the boundaries , and all that for all the channels
+But , , the transcribable events that , I 'm considering in this , , continue to be laugh , as as speech , and cough and things like that ,
+And then , the transcriber , instead of going painstakingly through all the channels and moving the boundaries around , and deciding if it 's speech or not , but not transcribing anything .
+it wouldn't be that much fun for a transcriber to sit there , hear it , beep , yes or no .
+So that 's that 's not really What will be effective for the transcribers , is
+when thi when this is sent to the I M - , I B M transcribers , I if they can tell that 's really
+I don't think Jane 's saying they 're gonna transcribe it ,
+Cuz , I wouldn't don't think we would mind having that transcribed , if they did it .
+
+we only used , , periods , , question marks and exclamation .
+but then there 's this question of the time @ @ , marking , and whether the beeps would be y
+w , so , so that bin would be marked as it as double dots
+And we should just double - check with Brian on a few simple conventions on how they should mark things .
+that 's that 's a second question ,
+Because otherwise it 's gonna be too much work for them to mark it .
+And they 'll just mark it however they mark it ,
+
+But the but there 's , but there is this one issue with them in that there 're there are time boundaries in there that occur in the middle of speech .
+and hopefully the new meetings which will start from the channelized version will have better time boundaries and alignments .
+So , now Jane , my question is when they 're all done adjusting the w time boundaries for the dominant speaker , have they then also erased the time boundaries for the other ones ?
+and then we have somebody go and adjust all the time boundaries
+There 's no adjusting of time boundaries .
+
+And did the did the la did the problems with the lapel go away also ?
+What 's the problem the l I forget .
+There 's a another possibility if we find that there are some problems ,
+Doing the gain ? It 's no problem .
+if it sounds like it 's almost always right and there 's not any big problem you send it to them .
+and other sorts of , , acoustic problems .
+The other problem is , that when it when it d i on the breathy ones , where you get breathing , , inti indicated as speech .
+, it 's the same problem as the lapel mike .
+
+Over over the entire c over the entire channel .
+That 's because of channel overlap .
+so the e EDU meetings , that Thilo ha has now presegmented all of them for us , on a channel by channel basis .
+, about whether the tran the IBM transcribers should hear a single channel audio , or a mixed channel audio .
+And then meanwhile , she 's listening to both of these guys ' channels ,
+So if you don't have to adjust the bins , why not just do what it for all the channels ?
+Why not just throw all the channels to IBM ?
+So that can be a lot when it 's really a breathy channel .
+I also thought of there are really some channels where it is almost , only bre breathing in it .
+So , I could run this on those breathy channels ,
+Cuz I don't think the staggered mixed channel is awfully good as a way of handling overlaps .
+
+So , m my thought is i I 'm having this transcriber go through the EDU - one meeting , and indicate a start time {nonvocalsound} f for each dominant speaker , endpoi end time for each dominant speaker ,
+Instead of doing that , which was our original plan , the tra They focus on the dominant speaker
+So what they do is they identify who 's the di dominant speaker , and when the speaker starts .
+and you just use the s the segments of the dominant speaker then ? For for sending to IBM
+That 's that 's why she 's notating the start and end points of the dominant speakers .
+, my my impression is that it 's better for meetings with fewer speakers ,
+
+So I 'm actually about to send Brian Kingbury an email saying where he can find the s the m the material he wanted for the s for the speech recognition experiment ,
+You always want to have a little bit of pause or nonspeech around the speech , say for recognition purposes .
+. , I also used something around zero point five seconds for the speech - nonspeech detector
+just , being very lenient in what 's considered speech .
+So we should perhaps just select meetings on which the speech - nonspeech detection works ,
+So the speech the amount of speech that is missed by the detector , for a good meeting , I th is around or under one percent , I would say .
+There 's There 's more amount speech
+which s the frames speech frames which are which are missed ,
+So so what you 're saying is that nearly always what happens when there 's a problem is that is that , there 's some , nonspeech that that is b interpreted as speech .
+And i the speech - nonspeech detector just assigns randomly the speech to one of the channels ,
+
+and the end of a discourse marker .
+so at the end after a discourse marker or after backchannel or after filled pause , you 're much more likely to be interrupted than before .
+and , the other thing Chuck pointed out is that , , since this one is hand - marked , there are discourse boundaries .
+, because from a discourse m purpose it 's it 's more useful to be able to see
+and also , from a speech recognition purpose my impression is that if you have too long a unit , it 's it doesn't help you very much either ,
+
+, so either we should regenerate the original versions , or , we should just make a note of it .
+OK , because in one directory there 's two versions .
+, that 's the first meeting I cut both versions .
+so but for the other meetings it 's the downsampled version that you have .
+, definitely they should have the full bandwidth version ,
+And and in the in the previous version where in the n which is used now , there , the backchannel would be in - between there somewhere ,
+
+OK , we 're losing , Don and Andreas at three - thirty ,
+and then we 're gonna do the beep - ify on both , and listen to them and see if we notice any real differences .
+In other words , rather than , , , saying we 're gonna listen to everything
+because if you 're if there 's If if a word is split , then they might have to listen to it a few times to really understand that they can't quite get it .
+Whereas if they listen {nonvocalsound} to it and there 's don't hear any speech they 'd probably just listen to it once .
+
+that 's that 's a great idea .
+but just u w get an id wanted to have an idea of the of how much extra you allowed
+But I like this idea of , for our purposes for the for the IBM preparation , , n having these joined together ,
+so the idea initially was , we would get , for the new meetings ,
+and the idea that these units would be generated for the dominant speakers , and maybe not for the other channels .
+
+that Morgan , accounted for fifty - six percent of the Robustness meetings in terms of number of words .
+and so they 're so good that generally , u the overlapped speech does not is less than five percent .
+Five percent of time or five percent of what ?
+, it goes down from maybe For Switchboard it goes down from I f I f fourteen percent of the words to maybe I , eleven percent
+So does one of the does it mean one percent and ten percent ?
+Or does it mean five percent and fifty percent ?
+, it 's perhaps then it 's perhaps five percent of something ,
+
+so if you have the foreground speaker speaking here , and then there 's some background speech , may be overlapping it somehow ,
+where you just ignore everything outside of the , , region that was deemed to be foreground speech .
+But what we found is after we take out these regions so we only score the regions that were certified as foreground speech , the recognition error went down to almost , the level of the non - overlapped speech .
+So the recognizer didn't have the benefit of knowing where the foreground speech a start
+So we only looked at cases where there was a foreground speaker
+and then at the to at the so the foreground speaker started into their sentence and then someone else started later .
+Somewhere in between the start and the end of the foreground ?
+that 's not gonna be true of the foreground speaker .
+cuz there will be no channel on which it is foreground .
+
+And it 's not due until like May fifteenth .
+So so the conjecture from the HLT results was that most of the added recognition error is from insertions due to background speech .
+then you 're gonna get insertion errors here and here .
+That 's somewhat that 's somewhat subject to error ,
+I would presume that you still would have somewhat higher error with the lapel for insertions than
+the problem is that , nnn , the numbers Ian gave in the paper is just , some frame error rate .
+It 's interesting if there 're any more errors in these , than we had the first set .
+
+so the only agenda items were Jane was Jane wanted to talk about some of the IBM transcription process .
+That 's just cuz he talks really fast .
+y We didn't talk about , , prosodic , , properties ,
+to handle those people that call you on the phone and just like to talk and talk .
+So , we should probably talk about the IBM transcription process that
+that 's that 's a fast way to do it .
+
+, wonder if you have to normalize by the numbers of speakers .
+, we do , VTL vocal tract length normalization ,
+for the minimum silence length .
+That 's that 's really not normal .
+
+So that means that even if you do have background speech , if you can somehow separate out or find where it is , , the recognizer does a good job ,
+That 'll only be if it 's the background speaker .
+, cuz @ @ what I had originally said to Brian was they 'll have to mark , when they can't distinguish between the foreground and background ,
+Right , but , , in general I don't think we want them transcribing the background ,
+but they 'll just mark it as being there 's some background there ,
+How w how will they tell the difference between that background and the dormal normal background of two people talking at once ?
+, I think it 'd be easy to say " background laptop " .
+background laptop or , background LT wouldn't take any time .
+
+because I tightened the time bins
+but my main goal was , in these areas where you have a three - way overlap and one of the overlaps involves " " , and it 's swimming in this huge bin , I wanted to get it so that it was clo more closely localized .
+Now sometimes , it 's these are involved in places where there was no time .
+But the goal there was to not have the text be so crudely parsed in a time bin .
+not having to fuss with adding these units at this time .
+and some meetings will cost more time to fix up than others .
+It 's just wasted time .
+So there 'd you 'd think there 'd be a factor of three or four in , , cost function ,
+
+Alright , then I 'll hold off on that and I 'll for you
+So what we 're probably gonna do is just write a script , that if two , chunks are very close to each other on the same channel we 'll just merge them .
+So you 'll you 'll have a chunk of , , channel A which starts at zero and ends at ten ,
+some cases , there 're some people , who have very long segments of discourse where , , they 'll they 'll breath and then I put a break .
+also , at the same time she when she goes through this , she 'll be If there 's anything that was encoded as a pause , but really has something transcribable in it , then she 's going to , make a mark
+and I 'll go through and it and , , with a with a substitution command , get it so that it 's clear that those are the other category .
+and we 'll we 'll fix things up
+and what that 'll do is just cut the time a little further .
+That 'll oughta be a good way to get the pipeline going .
+As I say , we 'll just have to listen to it and see how horrible it is .
+
+It 's as if the person could 've stopped there .
+so , I 've assigned I 've assigned them to our transcribers
+But after we 've done Thilo 's thing .
+Now what about in a meeting that you said we 've you 've had some more trouble with ?
+, . . I 've got a P - a method with loops into the cross - correlation with the PZM mike ,
+
+, in when I first put it in , , back in the days when I actually wrote things , , I did actually put in a random bit or so that was in it ,
+I went back and hand - marked the ba the bins ,
+so that if you if you play back that bin and have it in the mode where it stops at the boundary , it sounds like a normal word .
+The advantage is that it 's probably faster to do that than it is to use the automated method and correct it .
+She i It 's a question of how much time we want our transcriber to invest here when she 's gonna have to invest that when it comes back from IBM anyway .
+And , , then they 'll send us back what we w what they send back to us ,
+but w we 're gonna adjust everything when we come back
+So I So i Sometime , we might wanna go back and look at it more in terms of how many times is there a spurt that 's that 's , interrupted ?
+and we 'll correct it when it comes back .
+, as it comes back , we have a when we can use the channelized interface for encoding it , then it 'll be easy for us to handle .
+
+, I didn't know about Liz 's finding on that ,
+Liz suggested that value based on the distribution of pause times that you see in Switchboard and other corpora .
+So this might suggest an alternative a c a hybrid between these two things .
+So the one suggestion is we run Thilo 's thing
+you were suggesting You suggested maybe just not sending that part of the meeting .
+
+but this obvious thing to see if there 's a dependence on the number of participants .
+I can't really hhh , Tsk . I don't have really representative numbers , .
+it 's an infinite number of channels .
+OK , so we read the transcript number first ,
+
+Where like you just don't like if you if it starts catching zeros , like in the driver
+I have I had better start changing all my slides !
+it 's it 's not a dramatic change ,
+so , where you hesitate , or where you start the repair there .
+and then the same channel starting at eleven ,
+We start with your presegmented version
+We start with the presegmented version
+So Jerry starts at minute so - and - so ,
+or should we start after the that part of the meeting is over
+
+both actu as a submission and , as a paper .
+but , other than that delightful result , what was the rest of the paper about ?
+, and we computed how many overlapped i spurts there were and how many overlapped words there were . , for four different corpora ,
+and then the second one was just the we had in the in the HLT paper on how overlaps effect the recognition performance .
+There 's no statement about and effect .
+So the paper 's on - line
+because if you go much larger , you have a y , your statement about how much overlap there is becomes less , , precise ,
+it 's probably in your paper that I haven't looked at lately ,
+
+but still it 's , the difference between between that number and what we have in meetings ,
+I bet there 's a weak dependence .
+Just to check which w if there is a significant difference .
+because Liz decided to go ahead with the downsampled versions cuz we can There was no s like , r significant difference .
+Wel - we just wanna if there 're any major differences between doing it on the hand
+Now , you were saying that they differ in how they work depending on channel s sys systems and .
+but how are they gonna tell bet the difference between that and two people just talking at the same time ?
+
+Barry , maybe you turned your mike off before the digits were
+which is more like , , close to in meetings like these , , close to twenty percent .
+because , with the close - talking mikes , the signal will be so much stronger .
+Cuz again , looking forward to the non - close miked case , that we s still
+I 'm @ @ now I 'm confused .
+So my standard approach has been if it 's not someone close - miked , then , they don't end up on one of the close - miked channels .
+isn't there a category something like , " sounds for someone for whom there is no i close mike " ?
+But but if out of context , they can't tell if it 's a channeled speak , , a close - miked speaker or not , then that would be confusing to them .
+and they 're very it 's very audible ? on the close - talking channels ?
+
+Di - did you use upper - lower case also , or not ?
+U upper lower case or no ?
+But , in which case , the gap between these two complete syntactic units , , which n spoken things are not always complete syntactically ,
+And in the other in the other case , if it 's marked as speech , and really there 's nothing transcribable in it , then she 's going to put a s dash ,
+determining if there 're any cases of misclassification of speech as nothing , and nothing as speech ,
+
+so you might think that backchannels have a special status because they 're essentially just
+, Don 's been working hard .
+maybe Liz presented this at some conference a while ago about , backchannels
+and he did this backchanneling , automatic backchanneling system .
+And it 's for Japa - in Japanese it 's really important that you backchannel .
+Hey mon hafta booga .
+Whi - which could have one drawback . If there is a backchannel in between those three things ,
+And I 'm not exactly how that how that would work with the with the backchannels .
+it 's gonna be too much work if we hafta worry about that .
+
+Also , I in the Levinson , the pragmatics book , in , , textbook , there 's I found this great quote where he says , how people it talks about how how people are so good at turn taking ,
+if you have overlapping speech and someone else starts a sentence , , where do these where do other people start their turns not turns really , but , sentences ,
+Actually for a lot of these people you could just backchannel continuously
+The discourse the people who look at turn taking often do use
+the the maximal gain , it 's from the IBM people , may be in long stretches of connected speech .
+
+is it partly , , c correctly identified words ?
+and we considered it interrupt if it occurred in the middle of a word ,
+we , considered that to be a interrupt as if it were at the beginning of the word .
+So that , if any part of the word was overlapped , it was considered an interrupted word .
+because we had tagged these word strings , , that occurred right before these , interrupt locations .
+, repeated , repeated words is another of that disfluencies and .
+In other words if you weren't going to pause you will because you 're g being interrupted .
+So , in other words , to access anything under there , you have to be told what the name is .
+So that 's a g quick and dirty way of doing access control .
+So , , and that will get around the problem of , the , " one word beep , one word beep , one word beep " .
+But if we send them without editing , then we 're also gonna hafta have m , notations for words that are cut off ,
+notion of how on a good meeting , how often , do you get segments that come in the middle of words and ,
+so but that 's n that really doesn't happen very often that that a word is cut in the middle .
+, if they hear , a dog bark and they say what was the word ,
+
+Where the barber who was afraid of scissors was playing a tape of clipping sounds , and saying " - " ,
+Whereas this sounds like a more general solution
+and that 's that somebody is playing sound from his laptop .
+what will different transcribers do with the laptop sound ?
+So , the part where they 're using sounds from their from their laptops .
+w If we have speech from the laptop should we just , excise that from what we send to IBM ,
+
+Jane tightened these up by hand .
+In any case , this , meeting that I hand
+the only , , disadvantage of that is , then it 's hard to use an automatic method to do that .
+and transcriber marks it by hand .
+So . hand hard - coded it .
+a hand - transcriber would have trouble with that .
+
+And then just I only have like , this afternoon and maybe tomorrow morning to get anything done before I go to Japan for ten days .
+So tomorrow , when we go to make the , chunked file for IBM , we 're going to actually compare the two .
+so that 's three chunks where actually we w can just make one chunk out of that
+And it occurred to me that that what we have in this a format is you could consider it as a staggered mixed file ,
+And , in a way , by having this chunk and then the backchannel after it , it 's like a stagal staggered mixed channel .
+And , if the chunked files focused on the dominant speakers , then , when it got s patched together when it comes back from IBM , we can add the backchannels .
+and since we have a bottleneck here , we want to get IBM things that are usable s as soon as possible ,
+
+I s forwarded it to Jane as being the most relevant person .
+we as identify him as the person dominating the conversation .
+and also , , the other person that wants it There is one person at SRI who wants to look at the , , the the data we have so far ,
+So so when one person is speaking , there 's breaks .
+but it would be a shorter p shorter break than maybe you might like .
+So it 's a whole bunch of words which they can really do , because of the continuity within that person 's turn .
+
+and that 's also the one that they had already in trying to debug the first stage of this .
+now one thing that prevented us from apply you from applying
+So this training meeting , w un is that some data where we have very , , accurate time marks ? for
+And that 's where your data would be very important to have .
+which is the second stage is , w what to do in terms of the transcribers adjustment of these data .
+then this seemed to me it 'd be a way of gett to get them a flood of data ,
+but only applied to , a certain strategically chosen s aspect of the data .
+We pick the easy parts of the data ,
+
+cuz he said " generally speaking " . In order to go against that a claim you 'd have to big canvassing .
+, it 's it 's not No big surprises ,
+the gap between the two columns is like ten millimeters ,
+wanted to get it so tha So that if you have like " " in a swimming in a big bin , then it 's
+in writing you have this two spaces and a big gap
+but my general goal when there was sufficient space , room , pause after it to have it be a natural feeling gap .
+
+We can do that in post - processing if the application needs it .
+Manual post - processing .
+, after our meeting , this morning Thilo came in and said that , there could be other differences between the already transcribed meeting with the beeps in it and one that has just r been run through his process .
+So he 's gonna run his process on that same meeting ,
+So this is not gonna be a major part of the process ,
+but I I have another suggestion on that , which is , since , really what this is , is is trying to in the large , send the right thing to them and there is gonna be this post - processing step ,
+Do you think we should send the that whole meeting to them and not worry about pre - processing it ?
+
+And then in there I have a file that lists all the other files ,
+so that someone can get that file and then know the file names and therefore download them .
+, just tar them all up f w for each meeting I tar them all into one tar file and G - zip them and stick them there .
+We need to give Brian the beeps file ,
+So , that Adam created , a b a script to generate the beep file ?
+So , Chuck and Thilo should , now more or less know how to generate the file
+When I was listening to the original file that Adam had , it 's like you hear a word then you hear a beep and then you hear the continuation of what is the same sentence .
+But then we could just use the output of the detector , and do the beeping on it , and send it to I B
+and that is if we go ahead and we just run his , and we generate the beeps file , then we have somebody listen beeps file .
+And it just , there 's a little interface which will for all the " yes " - es it then that will be the final beep file .
+, we won't know until we generate a bunch of beep files automatically , listen to them and see how bad they are .
+because there 's a part of the process of the beep file which requires knowing the normalization coefficients .
+, what is we should leave the part with the audio in the , beep file that we send to IBM for that one ,
+
+and also we computed something called a " spurt " ,
+And then , the third thing was , we looked at , , what we call " interrupts " ,
+So , the question was how can we what can we say about the places where the second or actually , several second speakers , start their " interrupts " , as we call them .
+So disfluen the D 's are for , , the interruption points of a disfluency ,
+
+Did you identify him as a senior member ?
+but I 'm not se really senior yet ,
+It seems to me that , , the backchannels per - se wouldn't be so hard ,
+It 's based on your se presegmentation ,
+
+There 's actually there 's this a former student of here from Berkeley ,
+he prefe he said he would prefer FTP
+and so I figured that FTP is the best approach .
+, so it 's " FTP pub
+, and the directory for this I call it I " ASR zero point one "
+I , put digits in my own home directory home FTP directory ,
+So we could point Mari to this also for her March O - one request ?
+I 'm I 'm open to that ,
+
+and that they tend to happen when the pitch drops .
+And so that 's when people tend to backchannel .
+And you just have this little detector that listens for these drops in pitch and gives them the backchannel .
+, Wally Chafe says that , in producing narratives , the spurts that people use tend to be , , that the what would be a pause might be something like two seconds .
+I 'm I 'm really tending towards
+
+, Dave Gelbart sent me email , he sent it to you too , that , there 's a special topic , section in si in Eurospeech on new , corp corpors corpora .
+so that was number that was the second set of , the second section .
+So , on a , so i in EDU - one , i as far as I listened to it , you start off with a s section by Jerry .
+And they listen to each section and say " yes , no " whether that section is
+because in the overlap sections , then they 'll
+
+w and we , we , make all the features have zero mean and unit variance .
+to for the purposes of this analysis , we tagged the word sequences , and we time - aligned them .
+But so , we just based on the lexical , identity of the words , we tagged them as one of these things .
+cuz that 's a unit that would be more consistent with sociolinguistics .
+And certainly things that are intrusions of multiple words , taken out of context and displaced in time from where they occurred , that would be hard .
+
+Cur - curly brackets .
+I 'm it 's it 's not a real strong one .
+and threw out half of the material again ,
+I ment I mentioned that last week .
+One and a half times real time .
+They have to , in they have to insure that 's a real s spurt .
+You hate to have your ears plugged ?
+
+, we have pretty limited sample here .
+it just says that it 's a bi bell curve , and that , you have something that has a range , in your sampling .
+We also fixed the transcripts in numerous ways .
+So , we scored all the recognition results , , in such a way that the
+and I must say the NIST scoring tools are pretty for this ,
+, so we used the punctuation from the original transcripts
+And the d the interruption points we got from the original transcripts .
+So all I all I was gonna do there was stick the transcripts after we the way that we munged them for scoring ,
+But other than that , it 's really pretty continuous
+so that they should only write down the transcript if they 're .
+
+Mmm ! Gar - darn !
+in gen order of magnitude - wise as , as face - to - face meetings with multiple
+Did he mean face like face - to - face ?
+And give them freedom to indicate if it 's just not workable .
+
+In terms of the this new procedure you 're suggesting , , u what is the
+So what it what it involves is really a s , , the original pr procedure ,
+, they have a convention , in their own procedures , which is for a background sound .
+that 'd be to have a uniform procedure .
+
+One unexpected result there is that two - party telephone conversations have about the same amount of overlap ,
+It 's what these conversation analysts have been studying for years and years there .
+But I if that 's really a fair way of comparing between , multi - party , conversations and two - party conversations .
+I should bring the should bring the table with results .
+So , that means that the amount of time after something is variable depending partly on context ,
+
+There was there was a Monty Python sketch with that .
+So if you were to use these , you have to be careful not to pull out these individual
+it I don't care that , there 's actually abutting segments that we have to join together .
+But , I wanted to say , his segmentation is so good , that , the part that I listened to with her yesterday didn't need any adjustments of the bins .
+
+And where that was we had to use the t forced alignment , , results from s for
+, because we could use that to fine tune our alignment process
+so that interpret the numbers if I compared that with a forced alignment segmentation .
+So so at some point we will try to fine - tune our forced alignment
+And to get an object You need an objective measure of how closely you can align the models to the actual speech .
+
+And then we looked at the locatio the , , , the features that the tags
+And the tags we looked at are the spurt tag ,
+We just looked at the distribution of words ,
+so we looked at the distribution of these different kinds of tags , overall
+So we have this little histogram which shows these distributions
+
+We actually exceeded the delayed deadline by o another day ,
+which is essentially a stretch of speech with , no pauses exceeding five hundred milliseconds .
+so you treat backchannels l as nonspeech , as pauses ,
+because spurts are a defined as being , five hundred milliseconds or longer pauses ,
+so , the end of a filled pause
+but You were intending to stop for fifty - seven milliseconds ,
+Made the font smaller and the narrows longer .
+because you include more of actual pause time into what you consider overlap speech .
+
+but what our discussion yesterday , I really I wanna submit one .
+but , thi this brings me to the other f stage of this which I discussed with you earlier today ,
+And I had a about an hour discussion with her about this yesterday ,
+we had some discussion over the weekend a about at this other meeting that we were all a at
+And , it occurred to me in my discussion with her yesterday that ,
+
+Where if you start seeing zeros on w across one channel , you just add some random , @ @ noise floor
+like a small noise floor .
+but then I realized that putting in a random bit was equivalent to adding adding flat spectrum ,
+and it was a lot faster to just add a constant to the to the spectrum . So then started doing that
+i it 's the high signal - to - noise ratio
+They were , , reasonably tight , but not excruciatingly tight .
+We can just catch it at the catch everything at this side .
+

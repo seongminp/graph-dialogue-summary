@@ -1,0 +1,29 @@
+For the conceptual design, the marketing expert talked about the public's preference for looks and texture over technological innovation; however, they both seem to be more important than ease of use.
+The current fashion among younger people favours bright colours and fruit and vegetable themes: pertinent exchangeable fronts can express such trends on the remote.
+Materials also need to be strong: the marketing expert suggested an iron-plate or titanium front.
+The industrial designer suggested they use rubber push buttons (and no scroll wheel), simple battery (instead of solar cells or kinetic dynamo), and advanced chip.
+Speech recognition can be implemented, but it does not link speech commands to remote control actions.
+He also advised that the users within the target group prefer primary colours, soft textures and curved shapes.
+The team drew a provisional prototype.
+They placed the LCD below the buttons.
+If it is implemented, a recording button, microphone and speaker need to be included in the design.
+Finally, they decided to have a titanium case with plastic front and the company logo and slogan engraved.
+Packages with a variety of changeable fronts will be launched.
+The industrial designer and the user interface designer will work on a drawing of a prototype, where they will also sort out the details about the buttons.
+The marketing expert will carry out an evaluation of the product.
+The push buttons are going to be made of rubber.
+The chip needs to be an advanced one to be compatible with the LCD screen that is going to be incorporated in the design.
+Making changeable fascias can allow for the integration of this or future fashion trends in the device.
+The team agreed to place the LCD at the bottom of the device, below the buttons.
+TV settings will be included in menus there instead of having separate buttons for them.
+They will implement speech recognition as well, because their target group like such gimmicks.
+The case will be titanium with a plastic front with rounded buttons.
+Parts of the front (like the bottom where the LCD is and the top corner where the logo is) will also be titanium.
+The chip is going to be a standard one.
+They will launch the product with various fronts to choose from including a couple of basic colours or fruit and vegetable themes to go with the current fashion.
+The logo will be both at the front and the back of the remote; the company slogan will be engraved at the back.
+The team found a possible conflict between the need for strong materials and the customers' preference for soft textures.
+Plastic may be strong, but it does not necessarily look it.
+The version of speech recognition discussed does not link voice commands to actual device actions.
+Changing the front colours may make the front clash with the titanium, but it was also thought neutral enough for it not to matter.
+They wondered whether to use both the logo and the slogan on the device and where it would be best for them to be placed.

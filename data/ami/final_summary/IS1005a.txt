@@ -1,0 +1,10 @@
+The project manager opened the meeting and had the team members introduce themselves by name and their role in the project.
+The project manager introduced the upcoming project to the team and then had the team members participate in a tool training exercise in which each member drew his favorite animal on the white board and discussed what he liked about the animal.
+The project manager also discussed selling prices and the project budget.
+The team then discussed their experiences with remotes, focusing on various features they would like to see in the remote they will produce, as well as features they find unappealing in current remotes.
+The interface designer will work on the technical functions of the remote.
+The marketing expert will find the user requirements for the remote
+The remote will sell for 25 Euro.
+The remote will be sold internationally.
+The production costs cannot exceed 12.50 Euro.
+*NA*.

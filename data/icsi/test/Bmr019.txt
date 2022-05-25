@@ -1,0 +1,1089 @@
+E	we 're on .
+E	so , , everyone who 's on the wireless check that they 're on .
+E	our agenda was quite short .
+B	could you close the door , maybe ?
+E	two items , which was , , digits and possibly on , , forced alignment ,
+E	which jane said that liz and andreas had in information on ,
+E	but they didn't ,
+B	the only other thing , , for which
+F	we should do that second ,
+F	because liz might join us in time for that .
+B	so there 's digits , alignments ,
+B	the other thing , which came unprepared for , , is , , to dis see if there 's anything anybody wants to discuss about the saturday meeting .
+B	any , maybe not .
+E	digits and alignments .
+F	talk about aligning people 's schedules .
+E	it 's forced alignment of people 's schedules .
+F	if we 're very
+B	with with whatever it was , month and half ahead of time , the only time we could find in common roughly in common , was on saturday .
+F	it 's pretty sad .
+C	have we thought about having conference call to include him in more of in more of the meeting ?
+C	if we had the if we had the telephone on the table
+B	but , , he probably has to go do something .
+F	no , actually have to have to shuttle kids from various places to various other places .
+F	and don't have and don't , , have cell phone
+F	so 't be having conference call while driving .
+C	no . it 's not good .
+B	so we have to we
+C	that 's not good .
+F	plus , it would make for interesting noise background noise .
+B	so we have to equip him with with with head - mounted , , cell phone
+E	ye - we and we 'd have to force you to read lots and lots of digits ,
+E	so it could get real car noise .
+D	and with the kids in the background .
+F	'll let 'd let
+F	let , , my five - year - old have try at the digits ,
+E	so , anyway , talk about digits .
+E	did everyone get the results or shall go over them again ?
+E	that it was the only thing that was even slightly surprising was that the lapel did so .
+E	and in retrospect that 's not as surprising as maybe
+E	it shouldn't have been as surprising as as felt it was .
+E	the lapel mike is very high - quality microphone .
+E	and as morgan pointed out , that there are actually some advantages to it in terms of breath noises and clothes rustling if no one else is talking .
+B	it 's , the bre the breath noises and the mouth clicks and like that , the lapel 's gonna be better on .
+D	or the cross - talk .
+B	the lapel is typically worse on the on clothes rustling ,
+B	but if no one 's rustling their clothes ,
+E	right . , lot of people are just leaning over and reading the digits ,
+B	it 's it 's
+E	so it 's it 's very different task than the natural .
+D	you don't move much during reading digits , .
+G	probably the fact that it picks up other people 's speakers other people 's talking is an indication of that it the fact it is good microphone .
+B	right . so in the digits , in most cases , there weren't other people talking .
+F	do the lapel mikes have any directionality to them ?
+B	there typically don't , no .
+F	because suppose you could make some that have that you have to orient towards your mouth ,
+E	they have little bit ,
+F	and then it would
+E	but they 're not noise - cancelling .
+B	they 're they 're intended to be omni - directional .
+B	and th it 's and because you how people are gonna put them on , .
+E	so , also , andreas , on that one the back part of it should be right against your head .
+E	and that will he keep it from flopping aro up and down as much .
+F	it is against my head .
+B	, we actually talked about this in the , , front - end meeting this morning , too .
+B	much the same thing ,
+B	, there the point of interest to the group was primarily that , , the , the system that we had that was based on , that 's used by , , all the participants in aurora , was so much worse than the
+B	and the interesting thing is that even though , yes , it 's digits task and that 's relatively small number of words and there 's bunch of digits that you train on , it 's just not as good as having very large amount of data and training up good big .
+B	also you had the adaptation in the sri system , which we didn't have in this .
+F	di - did send you some results without adaptation ?
+B	stephane , , had seen them .
+E	or if you did , didn't include them ,
+F	did , actually .
+F	so there was significant loss from not doing the adaptation .
+F	couple percent or some
+F	but there was {nonvocalsound} there was significant , , loss or win from adaptation with adaptation .
+F	that was the phone - loop adaptation .
+F	and then there was very small like point one percent on the natives , win from doing , , , adaptation to the recognition hypotheses .
+F	and tried both means adaptation and means and variances ,
+F	and the variances added another or subtracted another point one percent .
+F	so , it 's , that 's the number there .
+F	point six , believe , is what you get with both , , means and variance adaptation .
+B	but one thing is that , , would presume
+B	hav - have you ever have you ever tried this exact same recognizer out on the actual ti - digits test set ?
+F	this exact same recognizer ?
+B	it might be interesting to do that .
+B	cuz my cuz my sense ,
+F	but but , have , people at sri are actually working on digits .
+E	bet it would do even slightly better .
+F	could and they are using system that 's , , is actually trained on digits ,
+F	but otherwise uses the same , , decoder , the same , , training methods , and ,
+F	and could ask them what they get on ti - digits .
+B	bu although 'd be it 'd be interesting to just take this exact actual system
+B	so that these numbers were comparable
+B	and try it out on ti - digits .
+F	adam knows how to run it ,
+F	so you just make
+B	cuz our sense from the other from the aurora , , task is that
+E	and try it with ti - digits ?
+B	cuz we were getting sub one percent numbers on ti - digits also with the tandem thing .
+B	so , one so there were number of things we noted from this .
+B	one is , , the sri system is lot better than the htk
+B	this , , very limited training htk system .
+B	but the other is that , , the digits recorded here in this room with these close mikes , , are actually lot harder than the studio - recording ti - digits .
+B	, one reason for that , , might be that there 's still even though it 's close - talking , there still is some noise and some room acoustics .
+B	and another might be that , , 'd would presume that in the studio , , situation recording read speech that if somebody
+B	did something little funny or pronounced something little funny or made little that they didn't include it ,
+E	they didn't include it .
+B	they made them do it again .
+E	whereas , took out the ones that noticed that were blatant that were correctable .
+E	so that , if someone just read the wrong digit , corrected it .
+E	and then there was another one where jose couldn't tell whether couldn't tell whether he was saying zero or six .
+E	and asked him and he couldn't tell either .
+E	so cut it out .
+E	so edited out the first , , word of the utterance .
+E	so there 's little bit of correction but it 's definitely not as clean as ti - digits .
+E	so my expectations is ti - digits would , especially
+E	ti - digits is all american english .
+E	so it would probably do even little better still
+E	on the sri system ,
+E	but we could give it try .
+F	but remember , we 're using telephone bandwidth front - end here , , on this , on this sri system ,
+F	so , , was that maybe that 's actually good thing
+F	because it gets rid of some of the , the noises ,
+F	, in the below and above the , the , , speech bandwidth
+F	suspect that to get the last bit out of these higher - quality recordings you would have to , , use models that , , were trained on wider - band data .
+F	and we can't do that or
+E	wha - what 's ti - digits ?
+B	it 's wide - band , .
+B	it 's , we looked it up
+E	it is wide - band .
+B	and it was actually twenty kilohertz sampling .
+E	that 's right .
+E	did look that up .
+E	couldn't remember whether that was ti - digits or one of the other digit tasks .
+F	but but , would
+F	it 's it 's easy enough to try ,
+F	just run it on
+E	so , morgan , you 're getting little breath noise .
+F	now , , does
+E	you might wanna move the mike down little bit .
+F	one issue with that is that , the system has this , , notion of speaker to which is used in adaptation , variance norm , , both in , , mean and variance normalization
+F	and also in the vtl estimation .
+E	noticed the script that extracted it .
+F	so does so th so does , , the ti - digits database have speakers that are known ?
+F	and is there is there enough data or comparable amount of data to what we have in our recordings here ?
+E	how many speakers there are ,
+E	and how many speakers per utterance .
+B	the other thing would be to do it without the adaptation and compare to these numbers without the adaptation .
+F	right . , but 'm not so much worried about the adaptation , actually , than the , , the , , vtl estimation .
+F	if you have only one utterance per speaker you might actually screw up on estimating the warping , , factor .
+E	strongly suspect that they have more speakers than we do .
+F	right . but it 's not the amount of speakers ,
+F	it 's the num it 's the amount of data per speaker .
+E	right . so we could probably do an extraction that was roughly equivalent .
+E	so , although know how to run it , there are little few details here and there that 'll have to dig out .
+F	so th the system actually extracts the speaker id from the waveform names .
+E	right . saw that .
+F	and there 's there 's script and that is actually all in one script .
+F	so there 's this one script that parses waveform names
+F	and extracts things like the , , speaker , , id
+F	that can stand in as speaker id .
+F	so , we might have to modify that script to recognize the , , speakers , , in the in the , , , ti - digits database .
+F	or you can fake names for these waveforms that resemble the names that we use here for the for the meetings .
+F	that would be the , probably the safest way to do
+E	might have to do that anyway to do
+E	because we may have to do an extract to get the amount of data per speaker about right .
+E	the other thing is , isn't ti - digits isolated digits ?
+E	or is that another one ?
+E	'm looked through bunch of the digits corp corpora ,
+E	and now they 're all blurring .
+E	cuz one of them was literally people reading single digit .
+E	and then others were connected digits .
+B	most of ti - digits is connected digits , .
+B	the , we had bellcore corpus that we were using .
+B	it was that 's that was isolated digits .
+E	maybe it 's the bell gram .
+F	we can improve these numbers if we care to compr improve them by , , not starting with the switchboard models but by taking the switchboard models and doing supervised adaptation on small amount of digit data collected in this setting .
+F	because that would adapt your models to the room acoustics
+F	and for the far - field microphones , , to the noise .
+F	and that should really improve things , , further .
+F	and then you use those adapted models , which are not speaker adapted but acous , channel adapted
+F	use that as the starting models for your speaker adaptation .
+B	but , , when you it depends whether you 're ju were just using this as starter task for , to get things going for conversational or if we 're really interested in connected digits .
+B	and the answer is both .
+B	and for connected digits over the telephone you don't actually want to put whole lot of effort into adaptation
+B	because somebody gets on the phone and says number
+B	and then you just want it .
+B	you don't don't ,
+C	this is this that one 's better .
+F	but , , , my impression was that you were actually interested in the far - field microphone , , problem ,
+F	you want to that 's the obvious thing to try .
+F	then , because you don't have any
+F	that 's where the most acoustic mismatch is between the currently used models and the the set up here .
+B	so that 'd be anoth another interesting data point .
+B	'm saying if we 'd want to do that as the as
+A	now you 're all watching me .
+E	it it clips over your ears .
+E	there you go .
+C	if you have strong fe if you have strong preference , you could use this .
+A	you 're all watching .
+A	this is terrible .
+C	it 's just we has some spikes .
+C	so , , we didn't use that one .
+A	'll get it .
+C	but you could if you want .
+B	at any rate , if
+C	and andre - andreas , your microphone 's little bit low .
+B	if we wanna use that as the
+C	so if you see the picture
+E	it it like this .
+C	and then you have to scr
+F	already adjusted this number of times .
+E	these mikes are not working as as would like .
+F	can't quite seem to
+F	this contraption around your head is not working so .
+B	too many adju too many adjustments . .
+B	anyway , what was saying is that probably wouldn't want to see that as like the norm , that we compared all things to .
+C	that looks good .
+B	to , , the to have all this ad all this , , adaptation .
+B	but it 's an important data point , if you 're if
+B	the other thing that , , what barry was looking at was just that ,
+B	the near versus far .
+B	and , , the adaptation would get th some of that .
+B	but , even if there was , , only factor of two , like was saying in the email , that 's that 's big factor .
+E	liz , you could also just use the other mike if you 're having problems with that one .
+C	this would be .
+C	we we think that this has spikes on it ,
+A	it 's this thing 's this is too big for my head .
+C	so it 's not as good acoustically ,
+F	your ears are too big .
+F	mine are too .
+F	th everybody 's ears are too big for these things .
+A	no , my but this is too big for my head .
+A	so , , it doesn't , it 's sit
+C	if you 'd rather have this one then it 's
+B	it 's great .
+E	so the to get that , , pivoted this way , it pivots like this .
+A	no this way .
+E	there you go .
+C	and there 's screw that you can tighten .
+A	already tried to get it close .
+E	so if it doesn't bounce around too much , that 's actually good placement .
+C	that looks good .
+E	but it looks like it 's gonna bounce lot .
+B	so , where were we ?
+B	adaptation , non - adaptation ,
+B	factor of two ,
+F	what , wh what factor of two did you ?
+B	it 's tha that we were saying , , is how much worse is far than near , .
+B	and it depends on which one you 're looking at ,
+F	that factor of two .
+B	but for the everybody , it 's little under factor or two .
+B	was thinking was that maybe , , we could actually try at least looking at , , some of the large vocabulary speech from far microphone ,
+B	at least from the good one .
+B	before we 'd get , , hundred and fifty percent error ,
+B	but if , if we 're getting thirty - five , forty percent ,
+A	actually if you run , though , on close - talking mike over the whole meeting , during all those silences , you get , like , four hundred percent word error .
+B	right . understand .
+B	but doing the same limited thing
+A	or or some high number .
+B	get all these insertions .
+B	but 'm saying if you do the same limited thing as people have done in switchboard evaluations or as
+A	where who the speaker is and there 's no overlap ?
+A	and you do just the far - field for those regions ?
+B	the same numbers that we got those graphs from .
+E	could we do exactly the same thing that we 're doing now , but do it with far - field mike ?
+B	do it with one of on
+E	cuz we extract the times from the near - field mike ,
+E	but you use the acoustics from the far - field mike .
+A	right . understand that .
+A	meant that so you have three choices .
+A	there 's , you can use times where that person is talking only from the transcripts but the segmentations were synchronized .
+A	or you can do forced alignment on the close - talking to determine that , the , within this segment , these really were the times that this person was talking
+A	and elsewhere in the segment other people are overlapping
+A	and just front - end those pieces .
+A	or you can run it on the whole data ,
+A	which is which is , ,
+B	but but how did we get the how did we determine the links , , that we 're testing on in the we reported ?
+A	in the paper we took segments that are channel time - aligned ,
+A	which is now being changed in the transcription process ,
+A	which is good ,
+A	and we took cases where the transcribers said there was only one person talking here ,
+A	because no one else had time any words in that segment
+A	and called that " non - overlap " .
+B	and that 's what we were getting those numbers from .
+A	tho - good the good numbers .
+A	the bad numbers were from the segments where there was overlap .
+B	we could start with the good ones .
+B	but anyway so that we should try it once with the same conditions that were used to create those ,
+B	and in those same segments just use one of the
+A	right . so we can do that .
+B	and then , , , if we were getting , what , thirty - five , forty percent , something like that on that particular set ,
+B	does it go to seventy or eighty ?
+B	or , does it use up so much memory we can't decode it ?
+A	it might also depend on which speaker th it is and how close they are to the pzm ?
+A	how different they are from each other .
+F	you want to probably choose the pzm channel that is closest to the speaker .
+E	for this particular digit ones , picked that one .
+A	so we would then use that one , too ,
+B	this is central .
+B	it 's so but would 'd pick that one .
+B	it 'll be less good for some people than for other ,
+B	but 'd like to see it on the same exact same data set that we did the other thing on .
+E	sh actually should 've picked different one ,
+E	because that could be why the pda is worse .
+E	because it 's further away from most of the people reading digits .
+D	it 's further away . .
+B	that 's probably one of the reasons .
+A	. you could look at , , that pzm .
+B	but the other is , it 's very , , even though there 's 'm the the sri , , front - end has some pre - emphasis , it 's it 's , still , th it 's picking up lots of low - frequency energy .
+B	so , even discriminating against it , 'm some of it 's getting through .
+B	but , , you 're right .
+B	prob - part of it is just the distance .
+A	and aren't these pretty bad microphones ?
+B	they 're bad .
+B	but , , if you listen to it , it sounds . ?
+E	when you listen to it , , the pzm and the pda , th the pda has higher sound floor
+E	but not by lot .
+E	it 's really pretty , the same .
+A	remember you saying you got them to be cheap on purpose .
+A	cheap in terms of their quality .
+B	they 're twenty - five cents or so .
+E	th - we wanted them to be to be typical of what would be in pda .
+E	so they are they 're not the pzm three hundred dollar type .
+E	they 're the twenty - five cent ,
+E	buy them in packs of thousand type .
+B	but , , people use those little mikes for everything
+B	because they 're really not bad .
+B	if you 're not doing something ridiculous like feeding it to speech recognizer , they they , you can hear the sou hear the sounds just fine .
+B	they , it 's more or less the same principles as these other mikes are built under ,
+B	it 's just that there 's less quality control .
+B	they just , , churn them out and don't check them .
+B	so that was . so that was interesting result .
+B	so like said , the front - end guys are very much interested in this is as
+F	so so , but where is this now ?
+F	what 's where do we go from here ?
+E	that was gonna be my question .
+F	we so we have we have system that works pretty
+F	but it 's not , , the system that people here are used to using to working with .
+B	what we wanna do is we want to ,
+F	so what do we do now ?
+B	and we 've talked about this in other contexts
+B	we want to have the ability to feed it different features .
+B	and then , , from the point of view of the front - end research , it would be , substituting for htk .
+B	that 's the key thing .
+B	and then if we can feed it different features , then we can try all the different things that we 're trying there .
+B	and then , , , also dave is thinking about using the data in different ways , , to , , explicitly work on reverberation
+B	starting with some techniques that some other people have found somewhat useful , and .
+F	so so the key thing that 's missing here is the ability to feed , , other features into the recognizer
+F	and also then to train the system .
+F	and , , es when chuck will be back
+F	but that 's exactly what he 's gonna
+B	he 's he 's back ,
+B	but he drove for fourteen hours an and wasn't gonna make it in today .
+F	so , that 's one of the things that he said he would be working on .
+F	just to make that we can do that
+F	it 's , , the front - end is tha that 's in the sri recognizer is very in that it does lot of things on the fly
+F	but it unfortunately is not designed and , like the , , icsi system is , where you can feed it from pipeline of the command .
+F	so , the what that means probably for the foreseeable future is that you have to , , dump out ,
+F	if you want to use some new features , you have to dump them into individual files
+F	and give those files to the recognizer .
+E	we do we tend to do that anyway .
+E	so , although you can pipe it as , we tend to do it that way
+E	because that way you can concentrate on one block and not keep re - doing it over and over .
+E	so tha that 's exactly what the - file is for .
+F	the the cumbersome thing is , is that you actually have to dump out little files .
+F	so for each segment that you want to recognize you have to dump out separate file .
+F	just like th like th as if there were these waveform segments ,
+F	but instead you have feature file segments .
+B	so the the next thing we had on the agenda was something about alignments ?
+A	yes , we have
+A	did you wanna talk about it ,
+A	give was just telling this to jane
+A	and we were able to get some definite improvement on the forced alignments by looking at them first and then realizing the kinds of errors that were occurring
+A	some of the errors occurring very frequently are just things like the first word being moved to as early as possible in the recognition ,
+A	which is , was both pruning problem
+A	and possibly problem with needing constraints on word locations .
+A	and so we tried both of these st things .
+A	got this whacky idea that just from looking at the data , that when people talk their words are usually chunked together .
+A	it 's not that they say one word and then there 's bunch of words together .
+A	they 're might say one word and then another word far away if they were doing just backchannels ?
+A	but in general , if there 's , like , five or six words and one word 's far away from it , that 's probably wrong on average .
+A	and then also , ca the pruning , , was too severe .
+F	so that 's actually interesting .
+F	the pruning was the same value that we used for recognition .
+F	and we had lowered that we had used tighter pruning after liz ran some experiments showing that , , it runs slower
+F	and there 's no real difference in
+A	actually it was better with slightly better or about th
+A	it was the same with tighter pruning .
+F	so for free recognition , this the lower pruning value is better .
+A	it 's probably cuz the recognition 's just bad en at point where it 's bad enough that you don't lose anything .
+F	but it turned out for to get accurate alignments it was really important to open up the pruning significantly .
+F	because otherwise it would do greedy alignment , , in regions where there was no real speech yet from the foreground speaker .
+F	so that was one big factor that helped improve things
+F	and then the other thing was that ,
+F	as liz said the we enforce the fact that , , the foreground speech has to be continuous .
+F	it cannot be you cannot have background speech hypothesis in the middle of the foreground speech .
+F	you can only have background speech at the beginning and the end .
+A	, , it isn't always true ,
+A	and what we really want is some clever way to do this ,
+A	where , , , from the data or from maybe some hand - corrected alignments from transcribers that
+A	things like words that do occur just by themselves alone , like backchannels that we did allow to have background speech around it
+A	those would be able to do that ,
+A	but the rest would be constrained .
+A	so , we have version that 's pretty good for the native speakers .
+A	yet about the non - native speakers .
+A	we also made noise models for the different grouped some of the mouth noises together .
+A	so , and then there 's background speech model .
+A	there was some neat or , interesting cases ,
+A	like there 's one meeting where , , jose 's giving presentation
+A	and he 's talking about , , the word " mixed signal "
+A	and someone didn't understand , , that you were saying " mixed "
+A	and so your speech - ch was saying something about mixed signal .
+A	and the next turn was lot of people saying " mixed " ,
+A	like " he means mixed signal " or " it 's mixed " .
+A	and the word " mixed " in this segment occurs , like , bunch of times .
+A	and chuck 's on the lapel here ,
+A	and he also says " mixed "
+A	but it 's at the last one ,
+A	and the aligner th aligns it everywhere else to everybody else 's " mixed " ,
+A	cuz there 's no adaptation yet .
+A	so there 's there 's some issues about
+A	we probably want to adapt at least the foreground speaker .
+A	but , andreas tried adapting both the foreground and background generic speaker ,
+A	and that 's actually little bit of funky model .
+A	like , it gives you some weird alignments ,
+A	just because often the background speakers match better to the foreground than the foreground speaker .
+A	so there 's some things there ,
+A	especially when you get lots of the same words , , occurring in the
+F	you can do better by , cloning
+F	so we have reject phone .
+F	and you and what we wanted to try with , once we have this paper written and have little more time , , cloning that reject model
+F	and then one copy of it would be adapted to the foreground speaker to capture the rejects in the foreground ,
+F	like fragments and ,
+F	and the other copy would be adapted to the background speaker .
+A	right . , in general we actually
+A	right now the words like partial words are reject models
+A	and you normally allow those to match to any word .
+A	but then the background speech was also reject model ,
+A	and so this constraint of not allowing rejects in between
+A	it needs to differentiate between the two .
+A	so just working through bunch of debugging kinds of issues .
+A	and another one is turns , like people starting with " "
+A	and someone else is " how about " .
+A	so the word " " is in this segment multiple times ,
+A	and as soon as it occurs usually the aligner will try to align it to the first person who says it .
+A	but then that constraint of , proximity constraint will push it over to the person who really said it in general .
+E	is the proximity constraint hard constraint ,
+E	or did you do some probabilistic weighting distance , or ?
+A	right now it 's kluge .
+F	we it 's straightforward to actually just have penalty that doesn't completely disallows it but discourages it .
+F	but , , we just didn't have time to play with , , tuning yet another yet another parameter .
+E	the ve level .
+F	and really the reason we can't do it is just that we don't have we don't have ground truth for these .
+F	so , we would need hand - marked , , word - level alignments
+F	or at least the boundaries of the speech betw , between the speakers .
+F	and then use that as reference
+F	and tune the parameters of the of the model , , to op to get the best performance .
+B	given , wa was gonna ask you anyway , , how you assessed that things were better .
+A	looked at them .
+A	spent two days , in waves
+A	because , the alignments share lot in common ,
+A	and you 're yo you 're looking at these segments where there 's lot of speech .
+A	lot of them have lot of words .
+A	not by every speaker
+A	but by some speaker there 's lot of words .
+A	that if you look at the individual segments from just one person you don't see lot of words ,
+A	but altogether you 'll see lot of words up there .
+A	and so the reject is also mapping and pauses
+A	so looked at them all in waves
+A	and just lined up all the alignments ,
+A	and , at first it looked like mess
+A	and then the more looked at it , " , it 's moving these words leftward
+A	and " , it wasn't that bad .
+A	it was just doing certain things wrong .
+A	but , don't , , have time to to look of them
+A	and it would be really useful to have , like , transcriber who could use waves ,
+A	just mark , like , the beginning and end of the foreground speaker 's real words
+A	like , the beginning of the first word , the end of the last word
+A	and then we could , , do some adjustments .
+C	have to ask you something ,
+C	is does it have to be waves ? because if we could benefit from what you did , incorporate that into the present transcripts , that would help .
+C	and then , , the other thing is , believe that did hand
+C	so . one of these transcripts was gone over by transcriber
+C	and then hand - marked it myself so that we do have , , the beginning and ending of individual utterances .
+C	didn't do it word level ,
+C	so so for one of the groups .
+C	and also went back to the original one that first transcribed and did it , utterance by utterance for that particular one .
+C	so you do have
+C	if that 's sufficient unit , that you do have hand - marking for that .
+C	but it 'd be wonderful to be able to benefit from your waves .
+F	we don't care what tool you use .
+A	, if you can , if you wanna
+C	used it in transcriber
+C	and it 's it 's in the
+A	jane and were just in terms of the tool , talking about this .
+A	sue had some reactions .
+A	interface - wise if you 're looking at speech , you wanna be able to know really where the words are .
+A	and so , we can give you some examples of what this output looks like ,
+C	that 's right .
+C	middle of the word , or
+A	and see if you can in maybe incorporate it into the transcriber tool some way ,
+C	th 'm thinking just ch incorporating it into the representation .
+C	if it 's if it 's
+A	you mean like , word start insights .
+C	if you have start points , if you have , like , time tags ,
+C	which is what assume .
+C	isn't that what you ?
+C	see , adam would be
+F	whatever you use .
+F	we convert it to this format that the , , nist scoring tool unders , ctm . conversation time - marked file .
+F	and and then that 's the that 's what the
+E	transcriber , , outputs ctm .
+C	so you would know this more than would .
+C	it seems like she if she 's if she 's moving time marks around ,
+C	since our representation in transcriber uses time marks , it seems like there should be some way of using that benefitting from that .
+A	it wou the advantage would just be that when you brought up bin you would be able if you were zoomed in enough in transcriber to see all the words ,
+A	you would be able to , like , have the words located in time ,
+A	if you wanted to do that .
+B	so so if we even just had it sounds like we almost do .
+B	if we we have two .
+C	we have two .
+B	just ha , trying out the alignment procedure that you have on that
+B	you could actually get something , , get an objective measure .
+A	you mean on the hand - marked ,
+A	so we only hav only looked at actually alignments from one meeting that we chose ,
+F	actually , not randomly .
+F	we knew we knew that it had these insertion errors from
+A	it had average recognition performance in bunch of speakers
+A	and it was meeting recorder meeting .
+A	but , , we should try to use what you have .
+A	did re - run recognition on your new version of mr one .
+A	the one with dan ellis in it and eric .
+C	- . , exactly . .
+G	don't think that was the new version .
+A	actually it wasn't the new ,
+A	it was the medium new .
+A	but but we would we should do the latest version .
+A	it was the one from last week .
+G	you did you adjust the utterance times , , for each channel ?
+C	yes , did .
+C	and furthermore , found that there were certain number where not lot , but several times actually moved an utterance from adam 's channel to dan 's or from dan 's to adam 's .
+C	so there was some speaker identif
+C	and the reason was because transcribed that at point before , before we had the multiple audio available
+C	so couldn't switch between the audio .
+C	transcribed it off of the mixed channel entirely ,
+C	which meant in overlaps , was at at terrific disadvantage .
+C	in addition it was before the channelized , , possibility was there .
+C	and finally did it using the speakers of my , of , off the cpu on my on my machine
+C	cuz didn't have headphone .
+C	so it @ @ , like ,
+C	, in retrospect it would 've been good to ha have got should 've gotten headphone .
+C	but in any case , , thi this is this was transcribed in in , , less optimal way than the ones that came after it ,
+C	and was able to , an and this meant that there were some speaker identif identifications
+C	which were changes .
+G	know there were some speaker labelling problems , , after interruptions .
+G	is that what you 're referring to ?
+G	cuz there 's this one instance when , , you 're running down the stairs .
+G	remember this meeting really .
+A	don has had he knows he can just read it like play .
+G	've 'm very acquainted with this meeting .
+A	" and then she said , and then he said . "
+G	so , , there 's one point when you 're running down the stairs .
+G	and , like , there 's an interruption .
+G	you interrupt somebody ,
+G	but then there 's no line after that .
+G	there 's no speaker identification after that line .
+G	is that what you 're talking about ?
+G	or were there mislabellings as far as , like , the adam was ?
+C	that was fixed , , before
+G	cuz let about that .
+C	no , tha that that went away couple of versions ago ,
+C	but it 's good to know .
+G	but you 're actually saying that certain , , speakers were mis - identified .
+C	so , with under , , listening to the mixed channel , there were times when , as surprising as that is , got adam 's voice confused with dan 's and vice versa
+C	not for long utterances ,
+C	but jus just couple of places ,
+C	and embedde embedded in overlaps .
+C	the other thing that was interesting to me was that picked up lot of , , backchannels which were hidden in the mixed signal ,
+C	which , , , you not too surprising .
+C	but the other thing that
+C	hadn't thought about this ,
+C	but thou wanted to raise this when you were , with respect to also strategy which might help with the alignments potentially ,
+C	when was looking at these backchannels , they were turning up usually very often in , won't say " usually " but anyway , very often , picked them up in channel which was the person who had asked question .
+C	so , like , someone says " an and have you done the so - and - so ? "
+C	and then there would be backchannels ,
+C	but it would be the person who asked the question .
+C	other people weren't really doing much backchannelling .
+C	and , , sometimes you have the , - .
+A	that 's interesting .
+C	it wouldn't be perfect ,
+C	but it does seem more natural to give backchannel when you 're somehow involved in the topic ,
+A	no , that 's really interesting .
+C	and the most natural way is for you to have initiated the topic by asking question .
+A	that 's interesting .
+F	no . it 's actually what 's going on is backchannelling is something that happens in two - party conversations .
+F	and if you ask someone question , you essentially initiating little two - party conversation .
+A	actu , when we looked at this
+F	so then you 're so and then you 're expected to backchannel
+F	because the person is addressing you directly and not everybody .
+C	exactly my point .
+C	an - and so this is the expectation thing that , ,
+C	but in addition , , if someone has done this analysis himself and isn't involved in the dyad , but they might also give backchannels to verify what the answer is that this that the answerer 's given
+B	tell you , say say " - " lot ,
+C	there you go .
+A	but it 's interesting
+B	while people are talking to each other .
+A	but there are fewer there are fewer " - huhs " .
+C	there you go .
+A	just from we were looking at word frequency lists to try to find the cases that we would allow to have the reject words in between in doing the alignment .
+A	the ones we wouldn't constrain to be next to the other words .
+A	and " - " is not as frequent
+A	as it would be in switchboard ,
+A	if you looked at just word frequency list of one - word short utterances .
+A	and " " is way up there ,
+A	but not " - " .
+A	and so was thinking
+A	thi it 's not like you 're being encouraged by everybody else to keep talking in the meeting .
+A	and , that 's all , 'll stop there ,
+A	cuz what you say makes lot of sense .
+C	that 's right .
+C	and what you say is the is the re , other side of this ,
+C	which is that , , so th there are lots of channels where you don't have these backchannels , when question has been asked
+A	there 's just probably less backchannelling in general ,
+C	so that 's good news , really .
+A	even if you consider every other person altogether one person in the meeting ,
+A	but we 'll find out anyway .
+A	we were the other thing we 're should say is that we 're gonna , try compare this type of overlap analysis to switchboard ,
+A	where we have both sides , so that we can try to answer this question of , , is there really more overlap in meetings or is it just because we don't have the other channel in switchboard
+A	and we what people are doing .
+A	try to create paper out of that .
+B	, you folks have probably already told me ,
+B	but were you intending to do eurospeech submission ,
+A	you mean the one due tomorrow ?
+A	, we 're still , like , writing the scripts for doing the research ,
+A	and we will yes , we 're gonna try .
+A	and was telling don , do not take this as an example of how people should work .
+B	do as say ,
+A	so , we will try .
+B	don't do as do .
+A	it 'll probably be little late ,
+A	but 'm gonna try it .
+E	it is different .
+E	in previous years , eurospeech only had the abstract due by now ,
+E	not the full paper .
+E	and so all our timing was off .
+E	've given up on trying to do digits .
+E	don't think that what have so far makes eurospeech paper .
+A	'm no we may be in the same position ,
+A	and figured we 'll try ,
+A	because that 'll at least get us to the point where we have we have this really database format that andreas and were working out that
+A	it it 's not very fancy .
+A	it 's just ascii line by line format ,
+A	but it does give you information
+F	it 's the it 's the spurt format .
+A	it , we 're calling these " spurts " after chafe .
+A	was trying to find what 's word for continuous region with pauses around it ?
+B	know that th the telecom people use " spurt " for that .
+B	and that 's , was using that for while when was doing the rate of speech ,
+B	because because looked up in some books and found , wanna find spurt in which
+A	it 's just , like , defined by the acoustics .
+B	and an because cuz it 's another question about how many pauses they put in between them .
+B	but how fast do they do the words within the spurt ?
+A	that 's what we were calling spurt ,
+G	" burst " also ?
+G	isn't " burst " is used also ?
+E	spurt has the horrible name overloading with other with hardware at icsi .
+B	just very locally , .
+A	, chafe had this wor it was chafe , or somebody had the word " spurt " originally ,
+B	but but that just
+A	but tha that 's good to know .
+A	was thi it 's chafe ?
+C	see , know sue wrote about spurts of development .
+F	so maybe we should talk
+A	maybe it was sue ?
+C	but , in any case , it 's good term ,
+A	so we have spurts and we have spurt - ify dot shell and spurt - ify
+C	and ma maybe chafe did .
+A	and then it 's got all it 's verb now .
+C	know ch - chafe dealt with
+C	chafe speaks about intonation units .
+A	yes . right .
+C	but maybe he speaks about spurts as
+E	've heard " burst " also .
+F	so what we 're doing
+F	this is just maybe someone has some ideas about how to do it better ,
+F	but we so we 're taking these , , alignments from the individual channels .
+F	from each alignment we 're producing , , one of these ctm files ,
+F	which essentially has it 's just linear sequence of words with the begin times for every word and the duration .
+A	it looks like waves label file almost . right ?
+F	right . but it has one the first column has the meeting name ,
+F	so it could actually contain several meetings .
+F	and the second column is the channel .
+F	third column is the , , start times of the words and the fourth column is the duration of the words .
+F	and then we 're ,
+F	then we have messy alignment process where we actually insert into the sequence of words the , , tags
+F	for , like , where sentence ends of sentence ,
+F	various other things .
+A	these are things that we had don
+A	so , don , , propagated the punctuation from the original transcriber
+A	so whether it was , like , question mark or period or , , , comma and things like that ,
+A	and we kept the and disfluency dashes , kept those in because we wanna know where those are relative to the spurt overlaps
+F	so so those are actually retro - fitted into the time alignment .
+F	and then we merge all the alignments from the various channels
+F	and we sort them by time .
+F	and then there 's then there 's process where you now determine the spurts .
+F	that is actually , no , you do that before you merge the various channels .
+F	so you id identify by some criterion ,
+F	which is pause length
+F	you identify the beginnings and ends of these spurts ,
+F	and you put another set of tags in there to keep those straight .
+F	and then you merge everything in terms of , , linearizing the sequence based on the time marks .
+F	and then you extract the individual channels again ,
+F	but this time where the other people start and end talking
+F	where their spurts start and end .
+F	and so you extract the individual channels , , one sp spurt by spurt as it were .
+F	and inside the words or between the words you now have begin and end tags for overlaps .
+F	so , you have everything lined up and in form where you can look at the individual speakers and how their speech relates to the other speakers ' speech .
+A	, that 's actually really useful also
+A	because even if you weren't studying overlaps , if you wanna get transcription for the far - field mikes , how are you gonna know which words from which speakers occurred at which times relative to each other ?
+A	you have to be able to get transcript like this anyway , just for doing far - field recognition .
+A	it 's it 's
+A	thi it 's just an issue we haven't dealt with before ,
+A	how you time - align things that are overlapping anyway .
+C	that 's wonderful .
+A	never thought about it before ,
+E	when came up with the original data suggested data format based on the transcription graph , there 's capability of doing that thing in there .
+A	but you can't get it directly from the transcription .
+C	that 's right .
+F	this is this is just
+A	this is like poor man 's ver formatting version .
+A	but it 's , it 's clean ,
+A	it 's just not fancy .
+F	there 's lots of little things .
+F	it 's like there 're twelve different scripts which you run
+F	and then at the end you have what you want .
+F	at the very last stage we throw away the actual time information .
+F	all we care about is whether that there 's certain word was overlapped by someone else 's word .
+F	so you at that point , you discretize things into just having overlap or no overlap .
+F	because we figure that 's about the level of analysis that we want to do for this paper .
+F	but if you wanted to do more fine - grained analysis and say , , how far into the word is the overlap , you could do that .
+F	it 's just it 'll just require more
+C	what 's interesting is it 's exactly what , , in discussing with , , sue about this ,
+C	she , , indicated that , that 's very important for overlap analysis .
+A	it 's it 's to know ,
+A	and also as human , like , don't always hear these in the actual order that they occur .
+A	so have two foreground speakers ,
+A	morgan an and , adam and jane could all be talking ,
+A	and could align each of them to be starting their utterance at the correct time ,
+A	and then look where they are relative to each other ,
+A	and that 's not really what heard .
+C	and that 's another thing she said .
+A	cuz it 's just hard to do .
+C	this is this is bever 's bever 's effect ,
+C	when where in psy ps psycho - linguistics you have these experiments where people have perceptual biases as to what they hear ,
+A	you move things around until you get to low information point
+C	that not the best
+A	and yo then you can bring in the other person .
+A	so it 's actually not even possible , , for any person to listen to mixed signal ,
+A	even equalize , and make that they have all the words in the right order .
+A	so , , we 'll try to write this eurospeech paper .
+A	we will write it .
+A	whether they accept it late or not , .
+A	and the good thing is that we have it 's beginning of what don can use to link the prosodic features from each file to each other .
+B	that 's the good thing about these pape
+A	we - ju otherwise we won't get the work done on our deadline .
+F	jane likes to look at data .
+F	maybe , , you could you could look at this format and see if you find anything interesting .
+B	no , it 's that 's the good thing about these pape paper deadlines and , , , class projects , and things like that ,
+C	what 'm thinking is
+F	th the other thing that that yo that you usually don't tell your graduate students is that these deadlines are actually not that , , , strictly enforced ,
+B	because you really get
+A	forces you to do the work .
+B	now it 's out in the public ,
+B	this this secret information .
+F	because these the conference organizers actually have an interest in getting lots of submissions .
+B	th - that 's that 's true .
+C	and good ones ,
+C	which sometimes means little extra time .
+B	that 's true .
+F	that 's another issue ,
+B	by th , this is unfair , you may you may feel ,
+B	but the , the morning meeting folks actually have an extra month or so .
+E	the aurora there 's special aurora
+B	there 's special aurora session
+B	and the aurora pe people involved in aurora have till ma - , early may to turn in their paper .
+A	maybe we 'll submit to actually
+F	then you can just
+F	maybe you can submit the digits paper on for the aurora session .
+E	could submit that to aurora .
+E	that would be pretty
+E	that wouldn't work .
+B	no , it wouldn't work .
+E	it 's not aurora .
+B	it 's it 's not the aurora
+B	it 's it 's actually the aurora task .
+A	maybe they 'll get
+E	aurora 's very specific .
+A	maybe it won't be after this deadline extension .
+F	but but the people ,
+F	paper that is not on aurora would probably be more interesting at that point
+F	because everybody 's so sick and tired of the aurora task .
+E	you meant this was just the digits section .
+E	didn't know you meant it was aurora digits .
+F	no . if you if you have it 's to if you discuss some relation to the aurora task ,
+F	like if you use the same
+B	this is not the aurora task .
+B	so they just do little grep for
+A	do not do not we are not setting good example .
+F	relation other than negation , maybe ,
+A	but the good thing is this does
+E	you could you could do paper on what 's wrong with the aurora task by comparing it to other ways of doing it .
+F	how does an aurora system do on , on digits collected in in this environment ?
+B	it 's littl little far - fetched .
+B	nah , , aurora 's pretty closed community .
+B	, the people who were involved in the only people who are allowed to test on that are people who made it above certain threshold in the first round ,
+E	it 's very specific .
+B	in ninety - nine
+B	and it 's it 's it 's
+F	that 's maybe why they don't know that they have crummy system .
+F	crummy back - end .
+F	no , , ,
+F	if you if you have very
+F	no , 'm .
+A	" beep " " bee "
+F	no . didn't mean anybody any particular system .
+F	this back - end .
+B	you don't like htk ?
+F	don't don't have any stock in htk or entropic or anything .
+B	no . , this it 's the htk that is trained on very limited amount of data .
+E	it 's it 's very specific .
+F	but so , if you but maybe you should , , consider more using more data ,
+B	. really think that 's true .
+F	if yo if you hermetically stay within one task and don't look left and right , then you 're gonna
+E	they had something very specific in mind when they designed it . right ?
+E	and so you can you can argue about maybe that wasn't the right thing to do ,
+E	but , , they they had something specific .
+B	but , one of the reasons have chuck 's messing around with the back - end that you 're not supposed to touch
+B	for the evaluations , yes , we 'll run version that hasn't been touched .
+B	but , , one of the reasons have him messing around with that , because it 's an open question that we the answer to .
+B	people always say very glibly that if you show improvement on bad system , that doesn't mean anything ,
+B	cuz it may not be show , because , , it doesn't tell you anything about the good system .
+B	and 've always felt that depends .
+B	that if some peopl if you 're actually are getting at something that has some conceptual substance to it , it will port .
+B	and , most methods that people now use were originally tried with something that was not their absolute best system at some level .
+B	but , sometimes it doesn't , , port .
+B	so that 's that 's an interesting question .
+B	if we 're getting three percent error on , , , english , , nati native speakers , , using the aurora system , and we do some improvements and bring it from three to two , do those same improvements bring , , th , the sri system from one point three to , to point eight ?
+B	so that 's that 's something we can test .
+B	we 've we 've covered that one up extremely .
+B	so tha so we 'll , maybe you guys 'll have one .
+B	you and , and dan have paper that 's going in .
+B	that 's that 's pretty solid , on the segmentation .
+D	will send you the final version ,
+B	and the aurora folks here will definitely get something in on aurora ,
+F	actually this , so , there 's another paper .
+F	it 's eurospeech paper but not related to meetings .
+F	but it 's on digits .
+F	colleague at sri developed improved version of mmie training .
+F	and he tested it mostly on digits
+F	because it 's , it doesn't take weeks to train it .
+F	and got some very impressive results , , with , , discriminative , , gaussian training . , , like , , error rates go from , in very noisy environment , like from ,
+F	for now , now have the order of magnit
+F	'm not about the order of magnitude .
+F	was it like from ten percent to eight percent or from , point , from one percent to point eight percent ?
+B	it got it got better .
+F	it got better .
+F	that 's the important thing .
+E	hey , that 's the same percent relative ,
+F	it 's , , something in
+E	twenty percent relative gain .
+B	let 's see .
+B	the only thing we had left was unless somebody else
+B	there 's couple things .
+B	one is anything that , , anybody has to say about saturday ?
+B	anything we should do in prep for saturday ?
+B	, mari was asking was trying to come up with something like an agenda
+B	and we 're fitting around people 's times bit .
+B	but , , clearly when we actually get here we 'll move things around this , as we need to ,
+B	so you can't count on it .
+A	are we meeting in here probably
+B	that was my thought .
+F	are we recording it ?
+A	we won't have enough microphones ,
+B	no . hadn't in intended to .
+A	there 's no way .
+B	we won we wanna , they 're there 's gonna be , , jeff , katrin , mari and two students .
+B	so there 's five from there .
+B	and brian 's coming ,
+B	so that 's six .
+E	and plus all of us .
+F	can use the oprah mike .
+A	depends how fast you can throw it .
+E	it seems like too many too much coming and going .
+A	we don't even have enough channel
+F	because it would be different meeting ,
+F	that 's what 'm
+B	hadn't really thought of it ,
+F	maybe just maybe not the whole day
+F	but just , , maybe some ,
+B	maybe part of it .
+F	part of it ?
+B	maybe part of it .
+E	make everyone read digits .
+B	at the same time .
+A	at the same time .
+E	at the same time .
+A	that 's their initiation into our
+E	into our our cult .
+F	maybe the sections that are not right afte , after lunch when everybody 's still munching
+A	so can you send out schedule once it , jus ?
+A	is is there ?
+B	. sent it around little bit .
+A	is it changed now , or ?
+B	hadn't heard back from mari after , brought up the point abou about andreas 's schedule .
+B	so , , maybe when get back there 'll be some mail from her .
+B	so , 'll make
+C	'm looking forward to seeing your representation .
+C	that 'd be ,
+A	and we should get the two meetings from
+C	'd like to see that .
+A	know about the first meeting ,
+A	but the other one that you did ,
+A	the nsa one ,
+A	which we hadn't done cuz we weren't running recognition on it ,
+A	because the non - native speaker
+A	there were five non - native speakers .
+A	but , it would be useful for the to see what we get with that one .
+C	it 's , , two thousand eleven twenty - one thousand .
+C	sent email when finished the that one .
+C	that 's right . that 's right .
+C	that 's much simpler .
+A	but know the number .
+B	th - that part 's definitely gonna confuse somebody who looks at these later .
+B	this is we 're recording secret nsa meetings ?
+C	not that nsa .
+A	they are hard to understand .
+B	it 's network services and applications .
+A	they 're very , , out there .
+A	have no idea what they 're talking about .
+F	th the other good thing about the alignments is that , , it 's not always the machine 's fault if it doesn't work .
+F	so , you can actually find , ,
+A	it 's the person 's fault .
+A	it 's morgan 's fault .
+B	it 's always morgan 's fault .
+F	you can find , , problems with the transcripts ,
+F	and go back and fix them .
+A	tha - there are some cases like where the wrong speaker , these ca not lot , but where the wrong person the speech is addre attached to the wrong speaker
+A	and you can tell that when you run it .
+A	or at least you can get clues to it .
+A	so these are from the early transcriptions that people did on the mixed signals , like what you have .
+C	it also raises the possibility of , , using that representation , , this 'd be something we 'd wanna check , but maybe using that representation for data entry
+C	and then displaying it on the channelized , , representation ,
+C	cuz it that the , my preference in terms of , like , looking at the data is to see it in this musical score format .
+C	and also , , sue 's preference as .
+A	if you can get it to
+C	but , , this if this is better interface for making these kinds of , , , lo clos local changes , then that 'd be fine , too .
+C	don't have no idea .
+C	this is something that would need to be checked .
+B	th - the other thing had actually was ,
+B	didn't realize this till today ,
+B	but , , this is , , jose 's last day .
+H	is my last my last day .
+E	you 're not gonna be here tomorrow ?
+H	my my last meeting about meetings .
+E	that 's right .
+D	the last meeting ?
+H	because , , leave , , the next sunday .
+E	it 's off .
+H	will come back to home to spain .
+H	and would like to to say very much , , to all people in the group and at icsi ,
+E	it was good having you .
+H	because enjoyed @ @ very much ,
+H	and 'm by the result of overlapping ,
+H	because , , haven't good results , , yet
+H	but , , pretend to continuing out to spain , , during the following months ,
+H	because have , , another ideas
+H	but , , haven't enough time to with six months it 's not enough to to research ,
+H	and , if , , the topic is , , so difficult ,
+H	in my opinion , there isn't
+B	maybe somebody else will come along and will be , , interested in working on it
+B	and could start off from where you are also , .
+B	they 'd make use of what you 've done .
+H	but , , will try to recommend , , at , , the spanish government
+H	but , , the following @ @ scholarship , , , will be here more time ,
+H	because , in my opinion is better , , for us to spend more time here
+H	and to work more time in topic .
+B	it 's very short time .
+E	six months is hard .
+E	year is lot better .
+H	it 's difficult .
+H	you you have , you are lucky ,
+H	and you find solution in some few tim , months , ?
+H	but , , it 's not , , common .
+H	but , , anyway , .
+H	bring the chocolate , , to tear , , with you ,
+H	hope if you need , , something , , from us in the future , will be at spain , to you help ,
+H	and , very much .
+F	have good trip .
+F	keep in touch .
+B	, unless somebody has something else , we 'll read our digits
+B	and we 'll get our
+B	get our last bit of , , jose 's jose 's digit
+E	are we gonna do them simultaneously
+H	ye - ye you prefer , , to eat , , chocolate , , at the coffee break , , at the ? or you prefer now , before after ?
+F	no , we prefer to keep it for ourselves .
+C	we have time constraint .
+B	so keep it away from that end of the table .
+A	why is it that read your mind ?
+E	we 've gotta until after di after we take the mikes off .
+D	no , no .
+E	so are we gonna do digits simultaneously
+A	you this is our reward if we do our digi
+D	simultaneous digit chocolate task .
+H	, it 's enough , , for more peopl for more people after .
+B	we 're gonna we 're gonna do digits at the same
+H	to andreas , the idea is good . to eat here .
+B	tha - that 's that looks great .
+F	th - it doesn't it won't leave this room .
+B	alright , so in the interest of getting to the
+A	we could do digits while other people eat .
+A	so it 's background crunching .
+A	we don't have background chewing .
+H	is , , another acoustic event .
+D	background crunch . .
+A	no , we don't have any data with background eating .
+B	she 's she 's serious .
+E	it 's just the rest of the digits the rest of the digits are very clean ,
+B	she is serious .
+H	they 're clean .
+E	without lot of background noise ,
+A	you have to write down , like , while what you 're what ch chocolate you 're eating
+E	so 'm just not
+A	cuz they might make different sounds ,
+A	like nuts chocolate with nuts , chocolate without nuts .
+B	cuz have strong allergy to nuts ,
+B	so have to figure out one without th
+A	that , , they might .
+B	it 's hard to hard to say .
+A	this is , this is different speech ,
+H	take take several .
+A	looking at chocolates , deciding
+A	it 's another style .
+B	may may hold off .
+B	but if was , but maybe 'll get some later .
+B	why don't we ?
+B	he he 's worried about ticket .
+B	why don't we do simultaneous one ?
+A	and you laughed at me , too , the first time said that .
+E	remember to read the transcript number , .
+B	have to what ?
+A	you laughed at me , too , the first time sa said
+A	you really shouldn't , , te
+B	and now love it so much .
+A	you have to , jose , if you haven't done this , you have to plug your ears while you 're talking
+B	we want we want
+A	so that you don't get confused , .
+B	we want it synchronized .
+A	you 've done this one before ?
+C	hey , you 've done this before . haven't you ?
+C	you 've read digits together with us , haven't you
+C	at the same time ?
+A	'm not we , and you haven't done this either .
+A	the first time is traumatic ,
+C	and the groupings are important ,
+C	so yo you 're supposed to pause between the groupings .
+F	you mean that the grouping is supposed to be synchronized ?
+B	no , no .
+A	that 'd be good .
+A	we - we 'll give everybody the same sheet
+F	it 's like like greek choir ?
+A	but they say different
+E	hey , what good idea .
+E	we could do the same sheet for everyone .
+E	have them all read them at once .
+A	but same groupings .
+E	or or just same digits .
+A	so they would all be
+C	that 'd be good .
+E	see if anyone notices .
+B	there 's so many possibilities .
+C	and then we can sing them next time .
+B	, why don't we go ?
+B	one two three go !
+B	and andreas has the last word .
+E	did you read it twice or what ?
+A	he 's try no , he 's trying to get good recognition performance .
+C	he had the long form .
+E	and we 're off .

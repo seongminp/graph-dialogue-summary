@@ -1,0 +1,205 @@
+Or we can leave out the ten buttons
+Because then we save ten buttons .
+So that would save two buttons . If you do the same for the channel .
+
+you can't leave out the number buttons I .
+I was thinking , maybe you could just integrate three of those numbers to one button .
+Holding a remote with which they expect to have like ten buttons for the numbers one to zero .
+
+Then there's the zero to one to zero buttons . A button for teletext . A button for the subtitles . And the company logo .
+Let's fir first count the buttons we have now .
+Don't you think we can , if we can count this as v as one button , and integrate th these buttons in three ,
+or we have to skip the subtitle button .
+can't we integrate the teletext and the subtitles in one button ?
+
+So if you put the volume and channel buttons on the same height as the on-off button , the screen right behi under that , than the scroll button
+
+, when you're in teletext there usually are buttons where you just press it and you g go to the next teletext page .
+right now you just push the teletext button ,
+But if you push the teletext button twice
+
+And just If you press the volume button you can control the volume with the scroll-wheel .
+
+The mute button could be replaced by pressing the volume-down button twice .
+, or you can build in when you press one button
+we can discard the help and the mute button by pressing down volume long , or pressing down a number long .
+
+But you can also use the button th for changing the channel . S so the shifting button . for shif shifting up in on t teletext , and shifting down . So
+they cal also buttons like that for changing channels .
+
+Then there's the volume and channel selectors .
+The volume and channel buttons , you need you need those .
+But they're supposed to be equal sized , round , with a little logo on it for the volume , the triangle and .
+, d I assume you'd count the volume and channel thingies for two buttons each ,
+So maybe we can even make one button with the volume and the channel in one , by pressing
+So we make one for the volume , one for the channel . Plus scroll .
+
+The default spot for the on-off button .
+the on-off button , it's a necessity .
+
+But would it make the remote more usable for elderly people ?
+a radio button is not exactly what older people expect to have a remote control .
+
+If you scroll you will see the numbers on the L_C_D_ display .
+
+. . So if you scroll to a number and then you a half second , then it g turns to that channel .
+
+But then the biggest costs are the buttons .
+So maybe we really should try to discard some buttons to keep our costs low .
+Are the production costs within the preset limits ?
+
+but the single curved is good for design , and also for the display to have a prominent place on the remote control .
+
+and take one scroll wheel for the programme numbers .
+It's gotta scroll and push .
+that could be just like the scroll to eight , click , scroll to eight , click .
+it will be good if we have scroll bar , scroll button .
+
+, that's just the normal as th as the normal remote controls
+you came in page one hundred . Now you can use the normal one to zero buttons .
+Just n normal plain buttons .
+What if you have to scroll to page eighty eight ? Eight hundred eighty eight .
+
+And we can save a Euro by a flat design .
+
+but what's the big advantage of our remote then ?
+maybe it's feasible to just put the price of the remote up a little .
+But , you can make a f quite a big remote control for just the same price as a small one .
+
+Simple plus-minus button .
+in a few meetings earlier we tried to keep it simple . just a few buttons and large buttons .
+, minus one . Minus three , minus four . Minus four .
+
+If you hold it and you press another button , the help goes to the L_C_D_ screen .
+If you want to use an L_C_D_ screen you need an advanced chip , yes .
+
+In this meeting we will discuss our final design .
+And this design , detailed design meeting we will discuss the look-and-feel of the design , the usability interface design ,
+we had somebody about th interfa Something about the design of the buttons there ?
+And it's good for the innovative design as . If you would erase these .
+Is the design fancy , on a scale of one to seven ?
+Does the design fit the group of focus ?
+
+Also the L_C_ display , it's too expensive for the display we use .
+If we leave out the display we can also save money on the chip .
+It is . If you leave out the L_C_ display . And if you use less buttons . Say Or you can take the single chip .
+
+So we have to see if it fits within the twelve and a half Euro per remote .
+So we will be finished at half past three .
+And tell you that we're going to have a pretty hard time producing this for twelve and a half Euros .
+Because you have to we will have to get the twelve and a half Euros at the end . ,
+but then it seems to me that it's impossible to get the twelve and a half Euros .
+but we have to stick to the twelve and a half Euros .
+What it costs under twelve and a half Euros ?
+Do we think we gonna get the twelve and a half million ?
+
+If you just make a control for just the T_V_ there's just not much to gain here .
+Are we gonna buy a a remote control when you can use it ?
+becoming a choice between like either a good remote and a higher production cost , or just any other remote control .
+and get us to spend eighteen dollars a remote .
+, is the remote fancy ? The shape , look and feel .
+The target group . Is the remote really for the group we're making it for ?
+and do we take care of the biggest frustrations of the remote control ? Like it getting lost and R_S_I_ influences ?
+
+and for the materials we've just chosen for rubber buttons . With a different colour than the case .
+Then we have the case material supplements .
+If we leave out all those buttons , perhaps you can go with the flat case .
+And we have the removable front cases .
+
+That would bring up the price of the scroll-wheel also . Integrated scroll-wheel push-button .
+if you make a good advertisement on television and in the guide , you can explain to the people how to use the scroll wheel .
+which can provide extra information . How to use the scroll wheel . How to use the other bu buttons as subtitles .
+That's a pretty big scroll wheel .
+And it will make the use of the scroll wheel more obvious .
+
+since the market research indicated that older people spend their money easier , more easy ,
+But then again that would be d j just not an option for older people ,
+
+we can see that the difference between uncurved and the single curved is one Euro . ,
+Just you only have to pay for the double curved or single curved .
+Single curved is really easy to just fill in .
+And single curved you have to have a different different machine , than a flat one .
+what does everybody think about a flat or a single curved design ?
+I still think we should go for the single curve design .
+
+it was better to have this price list a bit earlier . Before we went on to the whole design .
+So lack of information about prices .
+
+But th we can then keep the single curved one . Just to express our L_C_D_ screen a bit more .
+
+if older people like familiar forms and familiar .
+Especially in America . People are pretty decadent . Sometimes .
+if we're n gonna make a scroll-button anyway it'd be more for the younger people than for the older people .
+Or specifically for younger people .
+So you can also try to reach the younger people by putting fancy covers on the market . Just as a test . See how it works .
+then it would be way more popular with younger people than it is , than would be with older people . Even if it were their covers .
+
+We m we must stay below the below twelve fifty
+you can stay below twelve fifty .
+
+Which isn't the docking station isn't even in this c s schematic .
+with our L_C_D_ screen , docking station , scroll-buttons .
+So we've got twenty cents for our docking station ,
+But maybe because of the docking station the price of the remote can also be a little bit higher ?
+
+Or do some market research and see what the options are .
+This will really require a lot of marketing to get this to sell .
+You can you can change markets where by changing the front covers .
+
+And then I will be back in about ten minutes to show you the final presentation . Summary of the project .
+And then I'll meet you in about ten minutes , .
+
+And we will do some evaluation about the , not only the product , but also the project .
+And then we're going to close the project today as .
+that brings us to the project evaluation .
+Or questions about the project ? Or about the product ?
+
+and the more functions you wanna have the more money it will cost .
+, is this the moment where we ask or can ask questions about the functionality ?
+. They are ugly , not very functional , and getting lost .
+Was it clear what everybody had to do according to their roles and functions ? ?
+
+Then we will set up some evaluation cri criteria .
+I like set up all these criteria . And evaluation of the thingy .
+I did some literature study , and analysis of the requirements we set up earlier .
+How do we call ? Evaluation criteria .
+
+I will move on to the finance part ,
+Did we move through the right phases , you think ? Along the process ?
+Think we should have a should have had the finance thingy a lot earlier . In the design phase .
+Teamwork ? Did it work out ? Working together ? Also , you two of you with the last phase ?
+
+Then because we only have thirty minutes left ,
+We still have fifteen minutes left ,
+Fifteen fifteen million .
+
+And recognability . If our company is If it is easily recognisable that our company made it ?
+And they wanna put fashion in their products . in the slogan of the company .
+
+Restrictions . Internet access .
+But if you want to share of when you make a picture like this on the presentation , it's easier to share it with other people .
+and put it on the internet , or in shared f folder or sh shared directory .
+it's easier to to do the th things that are like that on a computer . , so just l like at u university
+
+My mother can't even send an S_M_S_ message .
+, wi with n , with attractive o options .
+
+that's because my pen failed to upload his data .
+but it's it's giving errors by downloading the software .
+but The digital the digital pen is very .
+A flip-over or a more precise digit
+Hopefully my pen will download its software . . Or data .
+
+It's rather hard to draw on the white-board .
+the smart-board , the d drawing is just a pain in the ass ,
+Failed download . Smart-board was irritating .
+you need a smart board application .
+
+Poland . Something . Polish supplier .
+
+Twendag sieven an twendag .
+
+, learnability is a very important factor here .
+
+I tried to open the file on my laptop ,
+

@@ -1,0 +1,294 @@
+A	44.8	before start with the with the meeting have few things to tell you about the the setting we're in , because we're being watched by big brother .	agenda/equipment issues
+D	55.46	by big brother ?	agenda/equipment issues
+A	58.36	this these are cameras , so are these .	agenda/equipment issues
+A	62.6	this thing that looks like pie , are actually all microphones .	agenda/equipment issues
+A	67.84	so you must be careful with with all this .	agenda/equipment issues
+A	71.49	and as see you you have placed your laptops exactly on the place where it must be .	agenda/equipment issues
+A	77.08	and that has to do with the camera settings , so we don't have our laptops in front of the cameras .	agenda/equipment issues
+D	82.68	of our faces .	agenda/equipment issues
+A	85.83	so they can see our faces .	agenda/equipment issues
+A	105.81	welcome at the kick-off meeting .	opening
+A	108.12	my name is danny wolfs .	opening
+A	110.99	this is the agenda for today .	opening
+A	113.75	first little opening .	opening
+A	115.23	will introduce myself , and it's very good to introduce yourself .	opening
+A	121.97	then little bit of acquaintance , acquaintance to to to ourselves .	opening
+A	126.82	so we get to know each other .	opening
+A	128.9	that will be done with tool training from the he these two smart boards .	opening
+A	134.78	then the project plan .	opening
+A	135.61	what we're going to do , and how we're going to do it .	opening
+A	138.21	and discussion about that and little closing at the end .	opening
+A	143.13	my name is danny wolfs .	participant names
+A	145.34	i'm the project manager .	participant names
+A	147.22	what's your name ?	participant names
+B	148.07	i'm juergen toffs .	participant names
+B	149.1	i'm the user interface designer .	participant names
+A	150.76	user interface , .	participant names
+C	152.45	hi , my name's .	participant names
+C	153.58	i'm the industrial designer .	participant names
+A	156.48	industrial , yes .	participant names
+D	158.94	my function is the marketing expert .	participant names
+A	164.82	first little about the project aim .	project specs and roles of participants
+A	166.22	the the the aim is to make new remote control .	project specs and roles of participants
+A	170.7	maybe you have read read the website .	project specs and roles of participants
+A	173.61	it's very , , very ambitious company .	project specs and roles of participants
+A	178.95	they they wanna do something else .	project specs and roles of participants
+A	181.52	there must be new remote control .	project specs and roles of participants
+A	184.52	first of all it must be original , and trendy .	project specs and roles of participants
+A	188.72	that's two things really close to each other .	project specs and roles of participants
+A	192.32	but at the same time user-friendly .	project specs and roles of participants
+A	194.37	and they have , that's very important for them .	project specs and roles of participants
+A	199.68	there are three stages .	project specs and roles of participants
+A	201.74	there is functional design .	project specs and roles of participants
+A	203.45	so what are we going to to do ?	project specs and roles of participants
+A	206.88	what are we going to make functions in the remote ?	project specs and roles of participants
+A	212.25	and why are we going to do it ?	project specs and roles of participants
+A	214.26	then the conceptual design .	project specs and roles of participants
+A	215.86	how are going to do it ?	project specs and roles of participants
+A	218.3	and that's really global .	project specs and roles of participants
+A	220.69	because at the detailed design , how , part two , we go to dig in really about how the the te the technical of if it's it's possible technical-wise .	project specs and roles of participants
+A	234.58	each stage is is broken up in two two stages , individual work and meeting .	project specs and roles of participants
+A	244.68	so it's it's very straightforward .	project specs and roles of participants
+A	248.65	the tool training .	introduction to tools and equipment
+A	249.8	we have two smart boards .	introduction to tools and equipment
+A	252.09	this one is for the presentations , the powerpoint presentations or the word presentation of whatever you you had .	introduction to tools and equipment
+A	259.67	and this is only for drawing .	introduction to tools and equipment
+A	264.3	so we must let it stand on this this programme .	introduction to tools and equipment
+A	269.85	this is called smart board thing , it speaks for itself .	introduction to tools and equipment
+D	273.55	speaks for itself .	introduction to tools and equipment
+A	277.01	and as you may have heard , the documents in the shared folder can be showed on this screen .	introduction to tools and equipment
+A	284.01	not in the the my documents .	introduction to tools and equipment
+A	285.58	so if you wanna show something , put it in the shared folder .	introduction to tools and equipment
+A	290.42	this is very straightforward , with the save , the print , the undo , the blank , the select , the pen .	introduction to tools and equipment
+A	297.92	don't gonna explain it all , because how it works .	introduction to tools and equipment
+A	303.87	we must not forget everything we draw on here , all must be saved .	introduction to tools and equipment
+A	311.39	we we may not delete anything .	introduction to tools and equipment
+A	313.42	so if you have drawn something , save it .	introduction to tools and equipment
+A	316.7	never delete it .	introduction to tools and equipment
+A	317.64	that's very important thing .	introduction to tools and equipment
+A	322.67	little little kinda exercise to know each other .	drawing exercise
+A	329.76	at the white board on the left .	drawing exercise
+A	333.18	every every one of us must draw our favourite animal , and tell tell us why we had chosen that animal .	drawing exercise
+A	344.53	important is that we use different colours , and different pen widths .	drawing exercise
+D	353.18	this exercise , did the company board tell you to do it , or did you just make it up yourself ?	drawing exercise
+A	361.5	no no no .	drawing exercise
+A	362.07	it's it's must do it .	drawing exercise
+D	364.9	it's part of the introduction , .	drawing exercise
+A	366.69	'cause we really each other , and it's kinda new .	drawing exercise
+A	369.66	so getting used to each other , we can have little fun then , before we dig in really to the hard .	drawing exercise
+A	377.34	would you start with drawing your favourite animal ?	drawing exercise
+D	381.38	really how it works .	drawing exercise
+D	382.97	but maybe you can show us first ?	drawing exercise
+A	386.9	drawing goes with this thing .	drawing exercise
+A	389.52	do not touch your hand on this little thingy here .	drawing exercise
+A	393.78	so hold it like this .	drawing exercise
+D	395.66	you you get electrocuted or it's like pictionary ?	drawing exercise
+A	400.57	so , you must push little good .	drawing exercise
+A	406.89	because and few seconds .	drawing exercise
+A	409.46	it's not fully real-time , so watch it .	drawing exercise
+A	421.49	'm gonna paint in the red .	drawing exercise
+A	427.38	that's the background colour .	drawing exercise
+A	460.69	that's the one .	drawing exercise
+A	476.12	my favourite animal ?	drawing exercise
+A	480.43	you can what it is .	drawing exercise
+D	481.39	the the one who says it first gets raise .	drawing exercise
+A	486.45	may paint next .	drawing exercise
+A	497.02	no , it's not an orc .	drawing exercise
+A	500.26	you don't see it at the ears ?	drawing exercise
+D	502.69	have it at home .	drawing exercise
+A	506.45	you have an orc at home ?	drawing exercise
+A	512.2	so it's cat .	drawing exercise
+D	514.79	what's it called ?	drawing exercise
+A	517.48	'cause we have cat at home and he's called simba .	drawing exercise
+A	520.24	'cause he looks like the the the lion from the lion king .	drawing exercise
+A	525.38	so we found it kinda to name it after lion .	drawing exercise
+A	539.81	he's happy with us , so he's smiling .	drawing exercise
+B	545.39	he does have body .	drawing exercise
+A	547.76	no , only the face .	drawing exercise
+A	548.73	because we have we have twen twenty five minutes .	drawing exercise
+D	552.48	we have to speed up .	drawing exercise
+D	555.88	remember you use different colours , and different pen widths .	drawing exercise
+A	561.57	who wants to go next ?	drawing exercise
+A	567.88	so choose colour , choose pen width and draw .	drawing exercise
+B	571.07	you don't have to change the colour and the pen width during the drawing .	drawing exercise
+B	575.16	or you have to draw push hard on the pen or .	drawing exercise
+D	575.67	you have to save it .	drawing exercise
+A	576.74	save it , .	drawing exercise
+D	578.11	i've done it .	drawing exercise
+D	620.01	which one is it ?	drawing exercise
+D	643.99	'kay , i've speed up .	drawing exercise
+D	646.67	'kay , that's fine .	drawing exercise
+C	650.56	by the way , why was your cat red ?	drawing exercise
+A	653.03	because my cat is red at home .	drawing exercise
+A	655.79	and have red hair , so must be red .	drawing exercise
+B	656.86	it's very bloody cat .	drawing exercise
+C	661.37	no , it's turtle .	drawing exercise
+B	664.5	it's an apple .	drawing exercise
+D	667.62	it's not an apple .	drawing exercise
+C	669.5	must be dog .	drawing exercise
+D	681.46	something like this .	drawing exercise
+B	690.63	it is turtle .	drawing exercise
+A	692.03	it is turtle .	drawing exercise
+D	695.61	'cause liked teenage mutant hero turtles .	drawing exercise
+A	700.98	you watched it lot ?	drawing exercise
+A	703.01	you watched it lot ?	drawing exercise
+B	704.36	it's inside its shell .	drawing exercise
+B	705.71	you'll be finished sooner .	drawing exercise
+D	706.8	no , it's no no .	drawing exercise
+A	708.52	it's scared turtle .	drawing exercise
+D	712.05	it's coming up .	drawing exercise
+D	732.48	something like this .	drawing exercise
+A	737.16	jurgen , you want to go next ?	drawing exercise
+D	745.65	here you go .	drawing exercise
+B	748.96	how did it work ?	drawing exercise
+A	757.15	and then you have the the current colour , you can change .	drawing exercise
+A	761.84	so no red or green .	drawing exercise
+A	764.72	and line width .	drawing exercise
+A	768.59	tim had tim , what kinda line width did you have ?	drawing exercise
+D	771.87	the big lines were like nine .	drawing exercise
+B	779.03	thought i'd pick the easiest one .	drawing exercise
+A	783.76	you have dog at home ?	drawing exercise
+B	784.53	we had dog , few years ago .	drawing exercise
+D	785.76	it's it's pretty good an artist .	drawing exercise
+B	787.4	and and it , , when it died we didn't get new one .	drawing exercise
+B	791.98	but graphical user designer , so hey .	drawing exercise
+A	795.1	you have an artistic inner middle .	drawing exercise
+D	806.31	think you picked the wrong function .	drawing exercise
+B	815.12	can work together .	drawing exercise
+A	821.67	so you can see it's real really easy programme to use .	drawing exercise
+D	827.25	wha that's enough , .	drawing exercise
+A	838.27	the last one ?	drawing exercise
+A	846.64	after cat , turtle and dog .	drawing exercise
+A	851.44	he's gonna draw an elephant .	drawing exercise
+C	854.32	figure should do something like that , but i'm gonna do something much more difficult .	drawing exercise
+B	860.73	he is the artistic design .	drawing exercise
+D	864.72	i'm gonna design remote remote control animal .	drawing exercise
+B	867.13	remote control animal .	drawing exercise
+B	878.17	with the interface , it might be easier to ha to draw here and display there .	drawing exercise
+D	887.45	that that might be easier .	drawing exercise
+D	888.57	but at the other hand , pen like that is easy to hold in your hand , and it's easier to draw .	drawing exercise
+A	897.53	better to draw with with but what is he ?	drawing exercise
+D	899.21	with pen than with mouse mouse .	drawing exercise
+B	899.64	than on the , with , like like on here , drawing drawing .	drawing exercise
+B	905.72	and then displaying on screen , but too expensive , .	drawing exercise
+D	906.41	with this paper it's too mu too expensive .	drawing exercise
+A	909.79	is it rabbit ?	drawing exercise
+A	912.39	do you have rabbit at home ?	drawing exercise
+D	914.79	it's rabbit with broken legs ?	drawing exercise
+A	917.74	is it white rabbit it's the white rabbit from the matrix .	drawing exercise
+B	922.7	there , the white green rabbit .	drawing exercise
+B	928.45	he's little bit stoned there .	drawing exercise
+C	931.84	figured this is pretty good impression of rabbit .	drawing exercise
+D	936.57	it will do .	drawing exercise
+A	939.54	finishing touch and then we're going further .	drawing exercise
+D	945.97	have you been counting the time ?	drawing exercise
+C	947.38	where does the pen go ?	drawing exercise
+C	948.13	just figured the rabbit was actually the most impressive .	drawing exercise
+D	956.87	let's go on then .	drawing exercise
+A	961.34	the dog is the the most artistic .	drawing exercise
+A	967.91	don't choose for youself .	drawing exercise
+A	970.11	now we're gonna dig into the to the serious .	project budget
+D	970.6	it's pretty abstract .	project budget
+A	974.72	the selling price for the remote will be twenty five euro , and the production cost may not be more than twenty and half euro .	project budget
+A	985.8	so from my point of view , don't t's gonna be very very high tech , high definition , ultra modern kinda remote , for twelve fift twelve and half euro .	project budget
+A	1000.97	the profit we must make with the new remote is fifty million euro .	project budget
+A	1009.18	so that's lot .	project budget
+A	1009.89	we have to sell lot of when the selling price is twenty five , you got two million , two million remotes .	project budget
+B	1011.51	how much is it ?	project budget
+D	1012.37	like how much ?	project budget
+B	1012.97	hundred million remotes ?	project budget
+C	1020.71	two million , , two million .	project budget
+A	1022.23	but our marketing range is , market range is international .	project budget
+A	1026.02	so we have virtually the whole world we can sell we can sell our remotes to .	project budget
+A	1033.28	at least that countries which have television .	project budget
+A	1040.46	so now it's time for us to going to discuss little things .	discussion
+A	1047.06	you can think about experience with remote control yourself , at home .	discussion
+A	1052.24	what you think might be useful new feature .	discussion
+A	1056.57	what what can distinguish our new trendy remote control from all the others .	discussion
+A	1062.72	so let's let's discuss little .	discussion
+A	1067.6	i'm gonna join you at the table .	discussion
+A	1072.43	what what's the most important thing at remote control ?	look and usability
+B	1077.74	the most important thing of remote control is that you can switch channels .	look and usability
+B	1083.14	and my opinion is you should keep it as basic as possible .	look and usability
+B	1087.4	is it possible to open pen drawings in this on this screen ?	look and usability
+A	1087.69	so not not remote control who which can can be used for television and d_v_d_ and radio and or just only if you have them on .	look and usability
+D	1098.73	but have some points .	look and usability
+D	1100.01	can show them on the on the big screen ?	look and usability
+A	1118.79	in case you want it this is dead fly .	look and usability
+A	1122.76	between the the the , , the the , be the screens .	look and usability
+A	1132.11	no no no .	look and usability
+A	1132.72	only all the drawings go there , at the left , that pen drawings .	look and usability
+B	1136.92	but which the ones we made on the , only in word , .	look and usability
+A	1142.05	no , when it is in word and you have saved it in the shared documents folder , you can show it there .	look and usability
+D	1150.02	have some points from marketing point of view .	look and usability
+D	1153.44	just the standard thing li things like intuitive , small , fairly cheap .	look and usability
+D	1160.3	it's pretty cheap , twenty five euros .	look and usability
+D	1165.07	it doesn't have to matter which brand your t_v_ or other thing is .	look and usability
+D	1175.91	i'll wrap it up quickly .	look and usability
+D	1177.67	personally has to be multi-purpose .	look and usability
+D	1181.91	most of the remote remote controls are just for one purpose .	look and usability
+D	1187.35	and by making it multi-purpose , it has new feature , adds new feature to the market , and distinguish from from current products .	look and usability
+D	1197.82	maybe some other technology than infrared .	look and usability
+D	1201.38	rather find it very annoying , like when someone is standing in front of the t_v_ then you can't switch it .	look and usability
+D	1209.5	think about sending it over radio waves or bluetooth .	look and usability
+D	1216.01	that might be little bit expensive .	look and usability
+D	1219.2	and something like an l_c_d_ screen .	look and usability
+B	1224.84	for what purpose ?	look and usability
+D	1226.26	like said here maybe it's easy .	look and usability
+D	1231.42	it's as an added feature feature , that , when you're on certain channel , you can see on the l_c_d_ screen what programmes are coming up or from my point of view , .	look and usability
+A	1242.37	so it be multi-purpose very technically high remote ?	look and usability
+A	1251.29	it must be really innovative , technical-wise ?	look and usability
+D	1255.25	it has to be , our company is very good in making new innovative things .	look and usability
+A	1268.07	so , agree with you .	look and usability
+D	1268.83	so to the current market .	discussion
+B	1268.96	we and and the price .	discussion
+A	1269.79	so we must focus on things who are really really add something to to .	discussion
+D	1277.38	look , you got some cheap remote controls there .	discussion
+D	1282.09	they just , you got dozen of 'em .	discussion
+D	1287.36	but when you enter new market with remote control and wanna gain market share you have to do something special , .	discussion
+A	1299.38	but we have to keep an eye that it's at the beginning of such project , it's it's it's very to talk about , , this would be , that would be .	discussion
+A	1310.05	but we must not lose sight of the the user friendly .	discussion
+D	1317.91	but it's but but this is just from marketing aspect .	discussion
+D	1322.55	anything about user interface or design .	discussion
+A	1326.79	and that's because we have him .	discussion
+C	1328.84	and and him .	discussion
+A	1332.84	next meeting will start in thirty minutes .	closing
+A	1335.94	so you will have individual actions where presume will be some feedback , via the the mail .	closing
+A	1345.95	the the the industrial designer has to look at the working design .	closing
+A	1354.76	the user interface designer has to look at the technical functions .	closing
+A	1359.87	so that's the thing we discussed .	closing
+B	1361.09	one thing , we must first agree on what we're going to going to make .	agenda/equipment issues
+B	1366.88	do we are we going to use it it for multiple systems ?	agenda/equipment issues
+B	1371.05	or we should have some agreement on that before we .	agenda/equipment issues
+D	1375.89	don't think we have to be , we have to agree on that .	agenda/equipment issues
+D	1380.19	th that's pha .	agenda/equipment issues
+C	1382.88	figure we could get back to it on the next meeting actually .	agenda/equipment issues
+D	1386.01	that's phase further .	agenda/equipment issues
+D	1387.91	ju just make some mock-ups , some some general ideas .	agenda/equipment issues
+D	1395.12	and and then we can plan .	agenda/equipment issues
+D	1400.84	we can plan further , .	agenda/equipment issues
+A	1404.34	but maybe , because you are working on the user requirements , you are working on the technical functions , we must have little or kinda how do you call it ?	agenda/equipment issues
+B	1418.07	consensus on the , what we're gonna do .	agenda/equipment issues
+A	1418.17	little plan on on what we're going to do .	agenda/equipment issues
+A	1422.23	so you don't come up with the user requirements who don't fit the the the the technical functions .	agenda/equipment issues
+A	1431.04	some basic things we co we want to going to do .	agenda/equipment issues
+A	1437.64	will come in handy .	agenda/equipment issues
+D	1444.85	you're the project manager .	agenda/equipment issues
+B	1447.33	if the technical functions have to be designed , i've gotta know for what machines they will be .	agenda/equipment issues
+B	1453.01	or do we use it text screen ?	agenda/equipment issues
+B	1454.9	or will it be with with bluetooth or .	agenda/equipment issues
+A	1457.89	th that's that's really step further .	agenda/equipment issues
+A	1460.27	but if you say is it one way or multi-purpose , that's why ?	agenda/equipment issues
+D	1466.3	tha that's same step further .	agenda/equipment issues
+C	1468.6	actually it is .	agenda/equipment issues
+C	1471.31	then looking at individual components , so that's actually step further .	agenda/equipment issues
+D	1475.44	like we all have list of things that has to that have to be in it , or how it has to be like .	agenda/equipment issues
+D	1482.67	and then in the next meeting we decide what it's gonna be .	agenda/equipment issues
+C	1486.31	we can take it from there .	agenda/equipment issues
+C	1487.8	agree , we can take it from there .	agenda/equipment issues
+D	1488.5	and then you then you can delete the the obsolete details .	agenda/equipment issues
+A	1496.18	so each individually individually must think on what's at his point of view is the most important .	agenda/equipment issues
+A	1505.41	and then we're going to fit all the pieces together the next meeting .	agenda/equipment issues
+A	1511.67	must finish off now , so it's over .	closing
+A	1513.29	you will receive specific specific instructions by your personal coach .	closing
+A	1518.25	and see you in thirty minutes .	closing

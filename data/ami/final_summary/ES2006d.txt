@@ -1,0 +1,26 @@
+The project manager opens this detailed design meeting by going over the agenda.
+The designers present the prototype, which they decided to make the color and shape of a banana.
+They demonstrate the remote components, showing how it flips open on the side and features a LCD and scroll inside.
+The marketing expert gives the product evaluation, which is based on the criteria of attractiveness, whether it matches operation behavior of the user, locatability, intuitiveness, ergonomic design, and how technologically innovative it is.
+They rate the product using a 7 point scale and come up with an average score of 6.5.
+The group goes on to calculate the production cost and finds they are over the budget.
+They have discussion and decide to eliminate the sample speaker locator and the scroll wheel inside.
+The team discusses the project process- saying that they had to cut out some creativity in order to meet the budget because they had not known the cost of features beforehand.
+They were satisfied with the leadership but felt rushed for time.
+They finish the meeting 5 minutes early and the project manager tells them what is left to complete.
+The team needs to complete the final questionaire and meeting summary.
+The remote will be black/yellow color and the shape of a banana.
+Remote flips open on side.
+LCD and push buttons inside flip-open door.
+The LCD will display the main menu, which offers various options.
+Has an on/off button, channel flipping, volume scroller on side.
+Corporate logo will be in grey.
+Remote uses one simple battery and an advanced chip.
+Single-curved surface.
+Rubber case material.
+Locator will have a beep instead of a speaker.
+When rating the product on how well it matches the user's behavior, they found that the product is more convenient for right-handed people and less so for those who are left-handed.
+When rating whether the product is intuitive, the layout is different,a good technology but less standard.
+It could be more difficult to get used to.
+The team had to cut out some features in order to make the budget.
+This happened because they had not known beforehand the cost of such features.

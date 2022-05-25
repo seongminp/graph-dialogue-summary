@@ -1,0 +1,289 @@
+we decided on the most important aspect i required in a remote control device
+They also want a remote control to be technologically innovative ,
+So should we be thinking of using something like that in our remote control design too ?
+which is what's used in every remote control it sends out standard signals , based on your input
+So you wind up your remote control before you use it .
+because i this is the most consistent thing in all remote controls .
+because that we are not for how to look it remote control if it's lost .
+
+The the main idea of the whole thing is just so you sh you just press buttons and it should activate things on the T_V_
+which has these contacts that are really close together and then when you press down on the rubber button , it'll connect the circuit
+but there'd be touch buttons ,
+rest other buttons , they are in a very disorganized
+so f on the s simpler board , on the top we have this button , rubber buttons , to keep frequently changing the channels .
+So the findings are too many cluttered buttons .
+Repetition of certain but buttons which I already explained ,
+that it sits in , then pressing the button then having
+
+Does does light charge as sunlight does ?
+, I don't think it counts electric lights
+Now what I was thinking about that was sometimes when y when you have these things , they've got little lights on behind the buttons , so you can see what all the buttons are ,
+if we decided to go for buttons that could light up .
+
+quite there's quite a few design restrictions that they've got on the shape of the case .
+So you generally see rectangular shape , very monotonous designs here .
+For the body design plastic ,
+
+Right this is our conceptual design meeting ,
+we've decided on there being a flip design
+this is all about the design of the actual components
+So that affects the exterior design .
+but it should be left for aircraft design rather than for
+it applies to both our designers here , so I'm not how it would fit in .
+that if in a year's time we get feedback from the design fairs that show something else is coming it's so easy for us to just produce that and it can be slipped on ,
+it should be moulded it with the design in such a way you can change it every time .
+
+and it's used for all T_V_ remotes at the moment .
+like on a mobile phone , they do it more often than on a T_V_ remote ,
+So it could be like , where is the remote , and the remote answers I am here .
+So do you reckon that's a good idea that , where's the remote , I'm here thing ?
+
+so we decided on a rubber casing for the plastic shell , a variety of designs ,
+not the actual plastic outside case , just the rubber thing that goes round the outside .
+
+if we just use the shell as an example again , you open that , you've got your L_C_D_ display there and you've got the buttons there so you're holding it in the palm of your hand , .
+, on we've got the flip-screen , the top one is gonna be the L_C_D_ and the bottom one is gonna be the rubberised buttons .
+L_C_D_ display on th the top side of the flip top , rubberised buttons on the bottom side ,
+
+like we are keeping the standard buttons on the top and the more complex buttons under this thing , so we can divide the circuit like .
+the picture here shows one of the standard models offered by competitors here .
+and second thing is cer certain standard buttons we should have ,
+
+most people have the light on in the room anyway so they could get when you got T_V_ .
+people who live in basement flats there's not that many people , but there are people .
+Is it possible , just as an option , when we open it up , people can use their fingers to press the button , or we have inside like a small pointer thing when people want to .
+
+I was just wondering if we make the basic mould out of plastic but have like a rubber cover that goes over ,
+So instead of the fascia that comes off being plastic , the fascia that comes off would be the rubber ,
+like those pens that you get with the grip , that you can pull that off .
+the second option th they offer rubber buttons ,
+w or we could have rubber buttons which are made of this material which is anti-R_S_I_ .
+it would be good to have a contrast between , if the whole thing is gonna be this rubber thing it would be good to open it up and see something quite fancy looking inside .
+On the bottom we were gonna have the rubber , the rubber ones ,
+and rubber as a padding or for the grip , something like to add to the design .
+j with these rubber these rubberised ca
+
+we had a couple of changes in our plans in that we couldn't use teletext , it wasn't gonna be a control for everything
+the eternal battle for control of the controls .
+I found th that only common feature is the ch channel control and volume control ,
+example the volume and channel control buttons .
+
+I'm pretty that solar is from the sun .
+referring back to solar charging , is that compatible with standard batteries ?
+, could people put standard batteries in but with a s they could leave it in the sunlight for solar charging
+I'd presume then it would actually be the solar charging ones ,
+if you had something du using the standard batteries and the solar charging ,
+
+The the kinetic charging which is like you get it in r you get it in wrist watches
+it's a smaller cell which it charges into and the si the size a watch battery ,
+the kinetic ones come with a w watch a battery that goes in a watch .
+for the decisions that we've made , kinetic charging , the watch-type batteries ,
+
+as already marketing department , they want something to do with fruit
+
+I kno we were planning to do some touch screen .
+but that an L_C_D_ type of screen
+two they you can have them in a array and you can arrange the buttons on the screen in a set thing and you could have them like a touch
+on the L_C_D_ screen you could becau you could fit it
+You could have a flat screen inside , ,
+but I'm just wondering whether we want an L_C_D_ screen inside .
+if you have like buttons that appear on the screen in this L_C_D_ screen .
+
+that it charges through the day and then you've got it charged for the evening .
+if you just put the full charge through an L_C_D_ display it'll completely blank it out ,
+
+and most people also watch T_V_ in the night anyway .
+you were sitting watching T_V_ are you gonna want to open it and say shit I should go and have a shower and do my hair before I put the T_
+
+There also seems to be a trend towards a spongy feel to materials ,
+you're saying that people like this spongy feel this year ,
+Is that really going to fit fancy look and feel
+
+on a calculator they're qui they're quite big and they all look i identical .
+the size you'd need to charge a remote wouldn't be that big
+does it come in varying sizes or is it just one size and we would have to fit the design of
+that it's simply spaced like that so you can have fit the n the size of the nine buttons in .
+one they're incredibly thin and don't take up much space ,
+
+So in this case if you're looking at like a customer can change the colour like from green , parrot green to chilli red like that .
+but we can take inspiration from fruit colours , like the vibrant colours , red chilli
+although it's rubberised and spongy , apart from that we're just going to go for vegetable and fruit colours ,
+we're not gonna try and make it actually a vegetable or fruit design or anything else , like a shell that we discussed ,
+we're gonna use fruit and vegetable colours for the rubber cover , the case itself is plastic .
+
+but the thing with the solar cells is you would need to put them on the case
+, the case material , I've a been sent what the factory can actually give us ,
+which we were gonna go for anyway as the main case housing
+and , I'm trying to imagine clean looking houses ,
+may maybe ch you can change the body or the case casing the case outside ,
+
+and our market was going to be young , business , range .
+and so this feedback from the marketing department is really about trend watching .
+the methods we used to decide on current trends and so on , market trends , were that we did our traditional our usual market research study with a hundred subjects
+both from our market research departments and from our people in Paris and Milan .
+different parts of the world too , if we're marketing internationally .
+Shouldn't we do some market research on that first before we add it in
+It's not something that's come up in any of our focus groups and market research ,
+which was the major thing that people wanted , market research ,
+
+when we threw it open to the field .
+in the actual flip bit you'd have some linking .
+Is it possible that when we open our flip-top shell it's a little compact mirror and when you press a button it then goes onto the phone display th the remote control display thing .
+No you'd hold it you don't if you flip it open then you'd be
+
+most current remotes use this silicone P_C_B_ board which pr printed circuit board ,
+because you can print circuit board like that
+you could have just a bare P_C_B_ circuit board
+with the L_C_D_ , you'd only have that with the printed circuit board .
+regarding the circuit , since we are hav having a flip-top , we can customise the two circuits for different type of buttons
+you'd actually have two separate you'd have two separate circuit boards but they'd be joined by wires or like some cabling between them ,
+
+and then we're loo looking into battery options .
+what are the life of the kinetic battery ,
+Ye I th g y you could have a dual power thing
+I presume the normal batteries are the cheapest ?
+the normal batteries would be the cheapest
+they've got dual things , but they're the batteries are smaller .
+so to conserve battery life the remote should be in a standby mode no while not being used .
+
+This is the chip called the T_A_ double one eight three five
+I saw the the standard double A_ and triple A_
+so maybe a standard triple A_ might take lesser space or
+it would d how long the standard double A_s would last in or triple A_s would last .
+did we decide on double A_ or triple A_ batteries ?
+one of the decisions we had to make was whether we had double A_ or triple A_ batteries
+
+so the general findings from that was in the market trends the most important aspect for remote controls were people want a fancy look and feel , rather than the current functional look and feel of remote controls .
+Now I should point out that the first of those findings , fancy look and feel , is the most important ,
+is twice as important as the second , technologically innovative ,
+I'll just raise another point while it occurs to me ,
+like you get clocks now that are more of a talking point than an actual clock because they're so interesting and
+
+we have decided on a leaving out the voice recognition ,
+we had a latest finding of voice recognition ,
+so we could incorporate voice recognition for the finding it .
+So we can if financially voice recognition is not feasible we could go for a whistle .
+have we just rejected that in favour of voice recognition then ?
+
+If you if you see how thin the tracks are , you could s you could put them virtually right next to each other and have a much smaller switch on each one ,
+a person who switches channels very often or does use a particular function very often will find it very irritating to use a
+And on the top m repetitive buttons which are like volume or channel changing and all could be on the pointing device ,
+So he need not use a pointer to keep changing the channel if a person is frequent surfer .
+
+because we don't want customers to be like charging like a mobile phone every day .
+and second question is like , a mobile you can change the cover ,
+It does mark quite easily too if you let it fall .
+I've got a mobile phone myself which is titanium and it does mark very easily if you drop it .
+that's been really popular with mobile phones so I don't see why not .
+it's with us using the ideas for a mobile ph
+it's with us using the ideas for mobile phones I kinda got sidetracked onto that , .
+if you're thinking about holding it you would be using your thumbs to press , just like a mobile phone .
+
+that they've put across are what is used in some stress ball manufacture
+Very cheap way of changing the look of it and people can just buy a new one if they want to .
+They're easy to replace as , cheap .
+and also if they've got it if they've got these parts already in stock , then it won't be cheap to re-manufacture them ,
+but we've used cheap relatively cheap and simple things .
+the rubberised covers are going to be s relatively cheap to produce ,
+
+the amount of probably moving around you'd be doing all the time would charge it up ,
+But then if you think about a watch , it's on your wrist so it's on your whole bod it's on your body the whole time
+because if you think about it , the watch , although it's only a tiny amount it's it's always moving for the whole day
+And th for the same reason , you're only using it for a v incredibly short amount of time just to send the signal and then you're finished with it
+I'm no I'm not how that would work because surely your fingers would still be moving over the short distances
+Can we swap that round so th that the ones that we use all the time are on the bottom part ?
+
+and it is small and it is portable and it is a different shape
+If you go for titanium they can only do a standard box shape ,
+whereas if you come to plastic they can be a little more they can do curved shapes .
+the problem with it is that it's flat and so you can't do lots of curve curved things with it ,
+this image I've got in my head of something shaped like that , maybe about that size , made of plastic , fits into the palm of the hand , rubberised cover that's spongy .
+
+and that we had to incorporate the image of the company into it somehow .
+we just took the input from the previous meeting , especially from the marketing and industrial design , to check on the customer needs and feasibility .
+We have to check into the for financial f feasibility whether we can incorporate it this at a low cost ,
+So we can check into the financial feasibility of incorporating this .
+And incorporating the company logo ?
+
+I'm slightly tongue-tied after lunch ,
+Solar would be slightly expensives .
+Titanium very expensive just to process ,
+it was just it would be so expensive to buy a new case for it , because of the expense of how much titanium is
+but if it turns out that it's hugely expensive we'd have to cut down somewhere else , then it's worth thinking about .
+
+Welcome back everybody , hope you've had fun .
+just going back to the interface designs with the buttons ,
+we are going to have m maybe a G_ G_U_I_ interface in the f in the middle of the flip-top
+and g graphic user interface
+icons y you have is a good example of G_U_I_ graphic user interface .
+most of the users would now be acquainted with this cer central pattern , here ,
+
+It wouldn't be like full colour , it would just be black and white ,
+and like marketing team said , people need trendy , they are bored of black and white .
+to s th it's not as expensive as it would be if it was full colour if we've just got a black and white one ,
+Maybe we could start with the black and white .
+, we could make it black and white zebra stripes ,
+you could have a plain black one , you could have sparkly pink glittery ones for your little
+
+It would just detract from the attractiveness of the whole feature ,
+, can we add in an attachment to closing feature ?
+trying to think of other features we can build in that wouldn't cost too much
+there was a mail which mentions that our division has developed a new speech recognition s feature .
+like we had g s response from the customers that they would like to have the feature of finding it .
+So keep that m that standardised because that's the most common feature across all models ,
+the only pitfall that we would have would be how much it's going to cost if that means we have to cut down somewhere else ,
+
+which is in turn twice as important as being easy to use .
+and after like five or ten seconds of not being used I'd have that turned off ,
+now how you've got some mirrors in nightclubs that are mirrors when you turn to them and you turn away and it gives like an advertising display ,
+And they respond to the turn of your body .
+And finally the body should be retouchable ,
+
+can you pick it up and then wind it for two minutes and then that's it for the night ? Or
+you actually need a physical handle to wind up .
+you switch the T_V_ on , then you put it on the side , then you pick it up to change it and then you put it on the side .
+and they don't run out over night when you leave them on the side .
+it says , closing we have forty minutes
+It's either that or we only had forty minutes to discuss what we just discussed
+
+and each switch is connected to two different legs on the chip and so sends a different message
+and that then gets translated by the chip into a code
+and so just by touching it with your finger it'd make the connection
+Now how would you distinguish , if you had it bare , how would you distinguish where you had to press ,
+and he might spoil the touch-pad very fast compared to a button like , if you keep punching with an pointer or whatever .
+which is what we d do in computer , have icons or touch pad or whatever ,
+
+let's start from the inside and work our way out .
+I don't think you'd ever need to actually physically start shaking it up to make it work .
+
+Also with our company being forerunners in putting fashion into technology , we also looked at a fashion update using our consultants on fashion and design in Paris and Milan .
+we found from our consultants in Paris and Milan who des attended all the design and fashion fairs there , that fruit and vegetables are going to be the theme for clothes , shoes and furniture .
+especially if you do them on too tight and you can't get the leverage on them to undo them .
+
+and we discussed last meeting that it should be easy to find .
+I took it from the feedback you gave in the last meeting from y your report , it's not just a case of having a little R_R_ hidden somewhere , they do want it to be obvious that it's our product
+, you associate the name with the individual product that it is
+I know at the last meeting we spoke about a beeper ,
+I got a end meeting now message on my mo
+
+and the availability of the components we have in stock at the moment .
+The inside components is pretty standardised across the board isn't it ?
+we are pretty going in a clear direction now .
+
+but if you wore it if it's something you could just clip on your pocket then you would have that less , you wouldn't lose it so much .
+So not point or click Press any particular device , he just has to click on that particular icon to simplify .
+
+is still important , but it's third in order of preference for the subject group we looked at .
+now the fashion update which relates to very personal preferences among our subject group ,
+Or maybe like William was suggesting in the last thing some devices you put on key chains .
+
+This is where we talk about properties , materials , user-interface and trend-watching .
+also in this study I've looked into the availability of some of the materials ,
+And ones tha ones that have rubbery spikes
+Acupressure , you could talk of acupressures .
+
+and we were gonna think about the port and an alarm for getting it lost ,
+and then it's fired out of this L_E_D_ in the sequence of l on and off bursts .
+Some thing or it gives a b bleep sound or some sound
+, that means that there's no function for li the port ,
+

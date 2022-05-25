@@ -1,0 +1,623 @@
+and then , I another topic would be where are we in the whole disk resources question
+, that 's right . That 's my question .
+I think it 's it 's a it 's an additional interesting question .
+, that 's that 's the constraint of one question that both Adam and I were were interested in .
+the question becomes what symbol are you gonna put in there for everybody 's name ,
+And and I cer and I So , , the question then becomes one level back .
+
+but But just having two mikes If you looked at that thing on Dan 's page , it was When when there were two people speaking , and it looked really different .
+Did - , b I 'm not what Dan 's page is that you mean . He was looking at the two
+That 's on my web pages .
+
+And if I 'm up here and I start it and we 're all sitting here waiting to have a meeting , it gives me that error message
+, we 're we 're hoping that they 'll let us start recording regularly .
+You 're not talking about foreign language .
+They 're they 're , they 're d they 're assessing whether they should do that or y do something else , hopefully over the next few weeks .
+but that 's not the corpus that we 're collecting .
+There 's lots of cues you 're not gonna have .
+If you 're talking about something simple , where you throw away a lot of these dimensions , then you can do that right away .
+If you 're having some planning meeting of some sort and you 'd like
+Otherwise they 're not allowed to play it for anyone .
+Now , what will Is the plan to g to So will be saved , it 's just that you 're relocating it ?
+Cuz you 're calling what you 're calling " event " is somebody coughing or clicking , or rustling paper , or hitting something , which are impulsive noises .
+But it 's actually not that hard to analyse it and figure out the effects of different inputs , especially if they 're all normalized .
+OK , but , in any event we 're that the first step is
+OK ? If you 're talking about , say , twelfth - order MFCC 's like that it 's just way too much .
+because it 's not necessarily true that every device that you 're trying to do this with will have two .
+And then , And if they 're on the access on the axis of it , that was the other thing I was thinking .
+Versus you versus , and we 're catty - corner across the table , and I 'm farther away from this one and you 're farther away from that one .
+But it 's almost but it 's almost a what you 're talking about i there 's two things .
+, if they 're if they 're close , it 's just a question of the sensitivity .
+But if you h put a third in , you could put in the other axis . And then then you 're , then you could cover
+We 're we 're just We 're getting enough data now that I 'd like to do it now , before I get overwhelmed with once we decide how to do it
+They 're just gonna write " Bob " on it or do @ @
+, @ @ they 're just gonna write " Bob " .
+And so . If you 're if you 're doing discourse analysis ,
+, I 'm betting we 're gonna have huge chunks that are just un untranscribable by them .
+Because you don't have a map of who 's talking versus their name that they 're being referred to .
+We have the actual numbers they 're reading , so we 're not necessarily depending on that .
+
+so he 's just getting his feet wet in that .
+, each person who 's interested in , we have a cou we have a bunch of different , , slants and perspectives on what it 's useful for , , they need to be taking charge of making they 're getting enough of the data that they want .
+No , but there 's but , she 's saying " Where do you In these three categories , where do you put the instances in which there is one person speaking and other sounds which are not speech ? "
+There there is a complication though , and that is if a person turns their back to the to the PDA , then some of the positional information goes away ?
+But I 'm just I 'm just saying that the way we 're seated around a table , is not the same with respect to each to each person with respect to the PDA ,
+In terms of the research th research , it 's really it 's whatever the person who is doing the research wants to do .
+So that 's gonna stay that person 's name .
+, how important is it for a person to be identified by first name versus full name ?
+because in NaturallySpeaking , or , excuse me , in ViaVoice , it 's only one person .
+
+You may say , " , you just do that from transcripts of a radio show . "
+We could burn it after it 's been cleared with the transcript stage .
+So , after the transcript screening phase .
+so that 's so let 's start with Haas , and .
+Then , , it seems to me that , maybe I it seems to me that if you change the name , the transcript 's gonna disagree with the audio , and you won't be able to use that .
+Because if we made the transcript be the tag that we 're using for Roger , someone who had the transcript and the audio would then have a mapping between the anonymized name and the real name , and we wanna avoid that .
+but it certainly doesn't bother me to have someone 's first name in the in the transcript .
+, , if we 're going to step in after the fact and change people 's names in the transcript , we 've done something one step worse .
+, I would sug I don't wanna change the names in the transcript ,
+How will we how would the person who 's doing the transcript even know who they 're talking about ?
+The person who 's doing the transcript The IBM people ?
+
+It 's like when it 's been sitting for a long time .
+But all I know is that it seems like every time I am up here after a meeting , and I start it , it works fine .
+but , that way we 'll cut into people 's time , , if someone 's on strict time , less .
+And he 's already funded part - time ,
+I will be here full - time next week .
+, the archiving m program does take a long time .
+So if you 're just looking at a frame and a time , you anything about , , the structure of it over time , and so you may wanna build @ @ build a Markov model of some sort , or else have features that really are based on on some bigger chunk of time .
+He You mentioned this last time , that if you 're straight down the midline , then the r the left - right 's gonna be different ,
+, it 's timing difference .
+, should I have some results to present , but I we won't have time to do that this time .
+Now , in terms of like so I did some results , which I 'll report on n next time , which do mention individual speakers by name .
+And ac and actually you remember furthermore , you remember last time we had this discussion of how , I was avoiding mentioning people 's names ,
+Yes , I was thinking , the temp the time values of when it changes .
+But it 's g but it was good to introduce the thing and we can do it next time .
+I I wanna introduce my Reservoir Dogs solution again , which is everyone has like " Mister White " , " Mister Pink " , " Mister Blue " .
+
+And that way , if we 're recording somebody else 's meeting , and a number of the participants have to run off to some other meeting and don't have the time , , then they can run off .
+, at the previous at last week 's meeting , this meeting I was griping about wanting to get more data
+things like summarization , or what 's this meeting about .
+But , for anything where you 're trying to get a summarization of some meeting meaning out of the meeting , , it would be too hard to have fifty different kinds of meetings where we didn't really have a good grasp on what does it mean to summarize ,
+, we have a lot of overlap between this meeting and the morning meeting .
+It has to be a pre - existing meeting , like a meeting that would otherwise happen anyway .
+it 's a remote possibility , then , , one of us could , go up there and record the meeting rather than bring all of them down here .
+the idea is , if they have a meeting room and they can guarantee that the equipment will be safe and , and if one of us is up there once a week to record the meeting
+So , a as per the example that we wanna have a fair amount that 's done with a small n recorded with a small , , typ number of types of meetings
+We are slowly getting to the point where we have enough sp room to record meetings .
+And so , at that point we 'll be able to record five more meetings .
+, it 's wherever the Meeting Recorder currently is .
+That 's probably the best thing to do . And that way we consolidate Meeting Recorder onto one disk rather than spreading them out .
+, and in the form that they sign , it does say " your first name may arise in the course of the meetings " .
+, so if I 'm saying in a meeting , " and Bob , , wanted to do so - and - so " ,
+But , , like , at the beginning of this meeting Or , you said , , or s Liz , said something about , , " is Mari gonna use the equipment ? "
+
+u The accent 's not the problem .
+but , it 's like when you get into the graduate level , , no problem .
+The problem with engineers is " beep . "
+But for me , is interesting because , , here 's i is the demonstration of the overlap , , problem .
+It 's a real problem , a frequently problem , because you have overlapping zones , , all the time .
+because , , my idea is , , in the first session , I need , , I need , , to be that the information , that , , I will cluster , is right . Because , , if not , , I will I will , , return to the speech file to analyze , what is the problems ,
+What 's the problem I I see in in if you use the neural network ?
+Because people , different groups has experience with this problem . Is is not easy to solve , because if you
+But it 's from my opinion , it 's an interesting idea to try to study the binaural problem , with information , because I found difference between the speech from each micro , in the PDA .
+, it 's not a problem . Not a problem . .
+Ugh , that 's a problem .
+and then you come directly into this confronting this problem .
+
+This is like a ground level , with It 's not it 's not total silence .
+So so I start at the bottom , so " silence " is clear .
+Is your silence category pure silence , or ?
+No , no , it 's pure silence .
+It 's pure si pure silence with the machine on the on the roof .
+Right , it 's , it 's " Background " might be might be a better word than " silence " .
+So , w if you go from a transition of silence to overlap versus a transition from silence to speech , there 's gonna be a b a big informative area there , it seems to me .
+
+But , , Jane and Adam brought up a lot of good points that just posting a note to Berkeley people to have them come down here has some problems in that you m you need to make that the speakers are who you want and that the meeting type is what you want , and .
+there should be a meeting that has some goal and point cuz that 's what we 're investigating ,
+That 's that 's my point . Which which includes both top - down and bottom - up .
+And my point in m in my note to Liz was that undergrads are an iff iffy population .
+Actually , that 's a int that raises an interesting point that came up in our discussion that 's maybe worth repeating .
+I I will include too the the differential de derivates too .
+So when one person is speaking , then wherever they happen to be at the point when they 're speaking , then there 's a pretty big maximum right around that point in the l in the lag .
+And so my point was just that it 's it 's gonna be differentially varia valuable .
+I 'm not I 'm not trying to argue against using it , by any means . wanted to point out that weakness , that it 's topo topologically impossible to get it perfect for everybody .
+S i , " You raised the point , So - and - so " , it 's be to be able to know who " you " was .
+Unless we adopt a different set of norms which is to not id to make a point of not identifying people by name , which then leads you to be more contextually ex explicit .
+
+Can I say about that the issues that Adam and I raised were more a matter of advertising so that you get more native speakers .
+which is that , there 's there 's this issue , you have a corpus out there , it should be used for multiple things
+So , , it 's true that we wanna be selective in some ways , , the way that you were speaking about with , , not having an interlingua and , these other issues .
+it won't happen quickly , it won't be easy , and there 's all sorts of issues about th keeping the equipment safe , or else hauling it around , and all sorts of o
+I hav I have to raise a little eensy - weensy concern about doing th giving them the CD immediately , because of these issues of , , this , where maybe ?
+, it The other direction is fast , but this direction is really slow .
+That 's So so i @ @ the issue is , " Is there a clean signal coming from only one direction ? "
+There 's a sensitivity issue , and then there 's a pathological error issue .
+So th the one where someone is just right directly in line is a pathological error .
+but I do think it 's an issue that we can't resolve in five minutes .
+That 's that 's the issue .
+And that violates our privacy issue .
+
+so we 're gonna have a lot of differences with ref respect to the speaker .
+OK , so first decision is , we 're gonna anonymize the same name for the speaker identifier and also in the text whenever the speaker 's name is mentioned .
+Because that would give you a mapping between the speaker 's real name and the tag we 're using , and we don't want
+, they 're gonna say speaker - one , or speaker - two or speaker I
+, the current one they don't do speaker identity .
+and so in their current conventions there are no multiple speaker conventions .
+So they 'll do something like speaker - one , speaker - two , is what
+I bet , but I 'm betting there 'll be huge variations in the accuracy of their labeling the speakers .
+And it and it may very be , since they 're not going to sit there and and worry ab about , , it being the same speaker , they may very go the the first se the first time it changes to another speaker , that 'll be speaker - two .
+And the next time it 'll be speaker - three even if it 's actually speaker - one .
+Because y you to know , you don't need to i what is the iden identification of the of the speakers . You only want to know
+we were gonna get it labelled speaker - one , speaker - two
+And so , if we pass out the data to someone else , and it says " speaker - five " there , we also have to pass them this little guide that says that speaker - five is Jose ,
+
+It 'll mean we 'll get somewhat fewer , sets of digits ,
+So I 'm not whether they 'll still be so willing to volunteer ,
+I 'll tell them about the free lunch .
+It 's a novelty item .
+but you 'll ge appreciate , , where it 's useful and where it 's useless ,
+and then , we 're gonna move this technology , so it 'll become useful . "
+What if you could tell them that you 'll give them the transcripts when they come back ?
+And it 'll take another eleven to do the clone .
+Whereas if you have things if you pick one or two dimensional things , or three of you have some very fancy display , , and look at how the different classes separate themselves out , you 'll have much more insight about what 's going on .
+, you 'll you 'll get a feeling for what 's happening , ,
+And so I i again , if you take a few of these things that are prob promising features and look at them in pairs , , you 'll have much more of a sense of " OK , I now have , doing a bunch of these analyses ,
+, that that 's another reason why very simple features , things like energy , and things like harmonicity , and residual energy are , are better to use than very complex ones because they 'll be more reliable .
+And if there are multiple people talking , you 'll see two peaks .
+@ @ But - but that 's , we can we 'll be all of this is there for us to study .
+. OK . I 'll give you the short version ,
+we 're taking all these precautions , and they 'll be taking precautions , which are probably even the more important ones , to they 'll be reviewing the transcripts , to see if there 's something they don't like OK .
+So what would be helpful would be , i and I 'll I 'll mention this to Liz and Andreas too , that , before the meeting if anybody could send me , any , , agenda items that they were interested in and I 'll I 'll take the role of organizing them , into the agenda ,
+so it 's , they 'll they 'll adopt some convention
+We 'll have to review the transcripts in any case .
+OK , we 'll quickly do digits .
+
+an And in particular , my suggestion was to advertise to linguistics grad students because there you 'd have so people who 'd have proficiency enough in English that , it would be useful for purposes .
+and if you just post randomly to undergrads you 'd get such a mixed bag that it would be hard to know how much conversation you 'd have . And and the English you 'd have The language models would be really hard to build
+No , it 's more a matter of , proficiency ,
+I 'm say I 'm saying fluency .
+, that , that the only thing we should say in the advertisement is that the meeting should be held in English .
+And and if it 's a pre - existing meeting and it 's held in English , it 's probably OK if a few of the people don't have , g particularly good English skills .
+if you have a choice between people who are pr more proficient in {nonvocalsound} , i more fluent , more close to being academic English , then it would seem to me to be a good thing .
+If you have people who are using English as a as an interlanguage because they don't , they can't speak in their native languages and but their interlanguage isn't really a match to any existing , , language model ,
+But I but I don that 's that 's a long way from now and it 's a matter of between now and then of d of deciding how
+, we should just market it to non - English speaking countries .
+
+And for that , if you don't use , , , a speech recognizer , broad class , or not broad class to try to to label the different frames , the Ike criterion or BIC criterion will be enough to detect the change .
+because in the future you will try to process that zone with a non - regular speech recognizer model , I suppose .
+because it 's very difficult to to obtain the transcription from using a regular , normal speech recognizer .
+, the classifiers of the n to detect the different class to the different zones before try to recognize , with to transcribe , with a speech recognizer .
+So what we need is something that 's the reverse , that a speech recognizer works exactly the same on it but people can't understand it .
+right . The speech recognizer 's symmetric , isn't it .
+What , what does the speech recognizer care ?
+
+OK , , but then there 's this issue of if we 're gonna use this for a discourse type of thing , then and , , Liz was mentioning in a previous meeting about gaze direction and who 's who 's the addressee and all , then to have " Roger " be the thing in the utterance and then actually have the speaker identifier who was " Roger " be " Frank " , that 's going to be really confusing and make it useless for discourse analysis .
+So again , th the issue is if you 're tracking discourse things , , if someone says , , " Frank said this " and then you wanna connect it to something later , you 've gotta have this part where that 's " Frank colon " .
+but that 's because I 'm focused so much on the acoustics instead of on the discourse , and so that 's a really good point .
+The p It 's a good point , " which what do you do for discourse tracking ? "
+but then , again that kills your discourse analysis .
+, but that but that as I said , that that works great for the acoustics , but it hurts you a lot for trying to do discourse .
+If we all of a sudden do this and then release it to the public and it 's not longer useful for discourse ,
+it Discourse , Also I wanted to make the point that discourse is gonna be more than just looking at a transcript .
+
+it 's very different if you have a group that 's just giving a report on what they did that week , versus coming to a decision and .
+like the front - end meeting and maybe a networking group meeting .
+but rather we should have different meetings by the same group but hopefully that have different summaries .
+The idea of computational linguistics and probabilistic grammars and all may not be the focus of this group ,
+, that 's what you 're going to have in the networking group .
+because they most the network group is almost entirely Germans and Spaniards .
+, it that if we 're aiming at , groups of graduate students and professors and who are talking about things together , and it 's from the Berkeley campus , probably most of it will be OK ,
+But the issue is you definitely wanna make that the group you 're getting is the right group
+
+So so the , the new procedural change that just got suggested , which is a good idea is that , we do the digit recordings at the end .
+It 's The the habits are already burnt in .
+So it 's just a thought if they end up not using the hardware .
+And they 'd have to do their digits or they don't get dessert .
+, I i I would actually like us to wind it down , see if we can still get to the end of the , , birthdays thing there .
+
+and then also anonymity , how we want to anonymize the data .
+But it seems like the anonymization is , is also something that we might wanna discuss in greater length .
+And the anonymization , if y if you want to proceed with that now , think that 's that 's a discussion which also n really deserves a lo a , more that just a minute .
+and whether you 're gonna put it in the text where he says " Hey Roger " or are we gonna put that person 's anonymized name in instead ?
+the I , my own two cents worth is that you don't do anything about what 's in the recordings , you only anonymize to the extent you can , the speakers have signed the forms and all .
+And within that , it may be that it 's sufficient to not change the to not incorporate anonymization yet , but always , always in the publications we have to .
+
+, so if you have a bunch of idiolects that 's the worst possible case .
+this is the worst case scenario .
+And So in my case , , there w there is enough data for some kinds of projects and not enough for others .
+in which case a any reasonable classifier is gonna be a mess , and it 's gonna be hard to figure out what
+and look at these different examples and look at scatter plots .
+That 's , the It it 's true that it also , it could be useful to do this exploratory analysis where you 're looking at scatter plots and so on in both cases . .
+and and in his case , , he 's closer to it anyway .
+Now , if you want to , , , in some cases , I I know that Susan Ervin - Tripp in some of hers , , actually did do , , a filter of the s signal where the person 's name was mentioned , except
+
+like in numbers of overlaps and amount of speech ,
+, zones of speech of , one speaker without any , noise , any acoustic event that , w , is not , speech , real speech .
+what is the , , the property of the different feat feature , , to classify speech and overlapping speech .
+, event , which , , has , , a hard effect of distorti spectral distortion in the in the speech .
+By " speech " do you mean speech by one sp by one person only ?
+So it 's basi it 's speech wi som with something overlapping , which could be speech but doesn't need to be .
+No , no , es especially , overlapping speech from , , different , speaker .
+, he here I put speech from , from , , one speaker without , , any any events more .
+Right , so where do you put speech from one speaker that does have a nonspeech event at the same time ?
+So you 're ignoring overlapping events unless they 're speech with speech .
+all this study in the f in the first moment , I w I will pretend to do with equalizes speech . The the equalizes speech , the speech , the mixes of speech .
+the mix , mixed speech .
+I i that the result of the of the study with with this this speech , the mix speech will work exactly with the PDA files .
+I that the parameter we found , worked with both , speech file ,
+but what is the the relation of of the performance when you use the , speech file the PDA speech files .
+
+cuz I ca because I don't disagree with that ,
+cuz it 's so expensive to put together .
+Cuz , one remote possibility is that if we st if we inherited that equipment , if she weren't using it , could we set up a room in the linguistics department ?
+But that I 'm raising that cuz it 's relevant exactly for this idea up there that if you think about , " , gee , we have this really complicated setup to do , " maybe you don't .
+I 'd love to get people that are not linguists or engineers , cuz these are both weird
+Cuz that 'll give us plenty of disk .
+cuz you 've talked about other overlapping events in the past .
+Cuz it 's slightly different .
+, this morning we didn't sign anything cuz we said that if anybody had signed it already , we didn't have to .
+, and , even more i , immediate than that just being able to , , it just seems like to track from one utterance to the next utterance who 's speaking and who 's speaking to whom , cuz that can be important .
+
+. I 've been looking at the , , Aurora data and , , first look at it , there were three directories on there that could be moved .
+One was called Aurora , one was Spanish , which was Carmen 's Spanish , and the other one was , , SPINE .
+And so , , I wrote to Dan and he was very concerned that the SPINE was moving to a non - backed - up disk .
+So I moved that , and then , I asked him to check out and see if it was OK .
+I but the I 'm moving from Aurora is on the DC disk that we
+Th - it 's DC - It 's whatever that one is .
+So should , One question I had for you was , , we need we sh probably should move the Aurora an and all that other off of the Meeting Recorder disk .
+
+But on the other hand , it 's not necessarily true that we need all of the corpus to satisfy all of it .
+, I agree with {nonvocalsound} Jane , though , on the other hand that
+So I do think that long term you should always try to satisfy the greatest number of interests and have this parallel information , which is really what makes this corpus powerful .
+Heh ? That 's , yet b , by b by hand by hand because , , " Why . "
+So so you intend to hand - mark those and exclude them ?
+because with the program , I cross the information of , of Jane with , my segmentation by hand .
+If w when this , mmm , cluster , clustering algorithm to can test , to can observe what happened you can't you can't , put up with your hand in the different parameter ,
+It strikes me that there 's another piece of information , that might be useful and that 's simply the transition .
+, if , on the other hand , we show that there 's a huge advantage with two , then that could be a real point .
+But it 's another source of information .
+, on the one hand , , it 's not a full identity ,
+On the other hand , this is a small this is a small pool , and people who say things about topic X e who are researchers and - known in the field , they 'll be identifiable and simply from the from the first name .
+
+, so , , let 's see , we were having a discussion the other day , maybe we should bring that up , about , the nature of the data that we are collecting .
+@ @ that , we should have a fair amount of data that is , collected for the same meeting , so that we can ,
+Anyway , OK , maybe we should have enough data so that if he starts he 'd be starting in January , next semester that we 'd have , , enough data to work with .
+, just because it would be very hard to process the data in all senses ,
+And in that , regard , we definitely w will need it 'd b it 'd be for us to have a bunch of data from a few different domains , or a few different kinds of meetings .
+but also data where we hold some parameters constant or fairly similar ,
+and it took eleven hours to do to copy it .
+It 's Abbott , so it just But it 's it 's a lot of data .
+Sk - It 's copying from one place on Abbott to another place on Abbott ?
+So , , I realized that , probably not all of that should be moved , just the CD - ROM type data , the static data .
+And then Carmen 's , I realized that when I had copied all of her to XA , I had copied there that was dynamic data .
+And so , I had to redo that one and just copy over the static data .
+Now , that we have these two phases in the in the data , which is the one which is o our use , University of Washington 's use , IBM , SRI .
+
+I 'm in the midst of doing the P - files from , Broadcast News .
+No , the these are the P - files from Broadcast News , which are regeneratable
+So , but , y you 're figuring you can record another five meetings with the space that you 're clearing up from the Broadcast News ,
+And then with Broadcast News , that 's five or six more meetings ,
+
+The o the other The other thing is , , that we talked about is give to them , burn an extra CD - ROM .
+, that was he meant , " Give them a music CD , " like they g Then he said a CD of the of their speech
+If It should be the same CD - ROM that we distribute publically ,
+, that 's right , say " , , I got this CD , and , Your Honor , I "
+that 's risky . that the public should be the same .
+
+use , but that any data that we spend a lot of effort {nonvocalsound} to collect ,
+And so {nonvocalsound} I 'm looking and thinking , " I 'd be glad to walk over and record people and so {nonvocalsound} forth if it 's to help th in my interest . "
+So then maybe we should {nonvocalsound} try to bring people here .
+so that you don't waste a lot of your time {nonvocalsound} and the overhead in bringing people down .
+and give them So if they want a {nonvocalsound} and audio record of their
+but , I personally {nonvocalsound} would not want a {nonvocalsound} CD of my meeting ,
+I I put , , for each frame {nonvocalsound} a label indicating what is th the type , what is the class , , which it belong .
+, , the class you will {nonvocalsound} overlapping speech " overlapping " is a class , , " speech " {nonvocalsound} @ @ the class that 's
+And so the , nnn the {nonvocalsound} the system will have two models .
+
+So I 'm archiving it , and then I 'm gonna delete the files .
+One thing The good news about that is that once it 's archived , it 's pretty quick to get back .
+before I actually deleted the old , , but I haven't heard back yet .
+I told him he could delete it if he wanted to , I haven't checked today to see if he 's deleted it or not .
+However , taking one step further back , they 'd be identifiable anyway , even if we changed all the names .
+L let me just back up this to make a brief comment about the , , what we 're covering in the meeting .
+
+, but I 'd rather try to get more regular meetings of types that we know about , and hear , then a mish - mosh of a bunch of one - time
+, maybe John would let us put it into the phonology lab .
+, OK , @ @ So , , then I th the last thing I 'd had on my agenda was just to hear an update on what Jose has been doing ,
+I 'm glad to hear it . Glad to hear it .
+Which means that we 'd still You 'd hear the
+, I think it 's not a it 's not unreasonable .
+. OK , it just it just seemed to me that , that this isn't the ideal type of separation .
+but I 'd be very pleased to have everyone else completely make up the agenda .
+It 's gonna be looking at a t , and prosod prosodic is involved ,
+
+, by a moment I have , , nnn , the , , n I did a mark of all the overlapped zones in the meeting recording ,
+Now , , I need ehm , to detect all the overlapping zones exactly .
+, , This information , with , exactly time marks , for the overlapping zones overlapping zone , and , a speaker a pure speech , speaker zone .
+the overlapping zones in cooperation with the speech zones .
+but , I have marked enough speech on over and all the overlapping zones .
+I have , , two hundred and thirty , more or less , overlapping zones , and is similar to this information ,
+I need , the exact , mark of the different , , zones
+So this is un OK , and then the top includes people speaking at the same time , or a speaker and a breath overlapping , someone else 's breath , or clicking , overlapping with speech So , that 's all those possibilities in the top one .
+, in the first moment , because , , I have information , , of the overlapping zones , , information about if the , , overlapping zone is , , from a speech , clear speech , from a one to a two speaker , or three speaker , or is the zone where the breath of a speaker , overlaps , onto , a speech , another , especially speech .
+, probably . When you have , s the transition of speech or silence to overlap zone , this criterion is enough with probably with , , this , the the more use used normal , regular parameter MF - MFCC .
+But I understand that you your objective is to classify , to know that that zone not is only a new zone in the in the file , that you have , but you have to to know that this is overlap zone .
+you will pretend to process the overlapping z zone with another algorithm
+
+, age - ist . The " eighteen " is because of the consent form .
+But what you what I was thinking is long term what would be neat is to be able to pick up on
+because can't you , couldn't you like use beam - forming to detect speaker overlaps ?
+If it 's not coming from just one direction , if it if th if there 's a broader pattern , it means that it 's more likely there 's multiple people speaking ,
+So it 's like how confused is it about where the beam is .
+, is there a narrow Is there a narrow beam pattern or is it a distributed beam pattern ?
+So if there 's a distributed beam pattern , then it looks more like it 's it 's , multiple people .
+It was all in software and they and you could pick out an individual beam and listen to it .
+And also , when we take it that next step and distribute it to the world , we have to .
+
+the free lunch idea was a great idea .
+I plan I plan , but , the idea is the following .
+The idea is to to use , I 'm not to yet , but my idea is to use a cluster algorithm or , nnn , a person strong in neural net algorithm to to study
+And the idea is , , I will use , , I want My idea is , , to {nonvocalsound} to classify .
+In the in the future , the idea is to extend the class ,
+and the second is try to , to use some ideas , similar to the linear discriminant analysis .
+A another possibility it to use a netw a neural network .
+but If you use a neural net is a good idea , but you what happened in the interior of the neural net .
+It 's hard to w what you It 's hard to tell on a neural net is what 's going on internally .
+And my idea is to use , , a neural net
+I still like my rug on the wall idea , so if anybody patents that , then
+, it 's slightly different . So I would say it would be a good idea .
+
+, I would feel very strange being part of a meeting that you were then analysing later for things like summarization .
+, for other kinds of research , particularly the acoustic oriented research , I actually feel the opposite need .
+we 'd need a real motivated partner to do that .
+but , in my opinion , we need , a reference session to t to evaluate the the tool .
+Why ?
+Bmr006Cdialogueact826	203052	203084	C	PhD	qw	-1	0	Why ?
+Bmr006Cdialogueact827	203084	203153	C	PhD	qw	-1	0	What 's the reason ?
+because I have several I have , , , library tools , from , Festival and of from Edinburgh , from Cambridge , , and from our department .
+, to it 's to have a better feeling for what it 's
+, at that session I did feel like they did it more as sentences .
+
+So I was I was thinking more in terms of talking to professors , and and , senior , d and , doctoral students who are leading projects and offering to them that they have their hold their meeting down here .
+And I 'm not objecting to accents .
+But we can also have another part that 's , , just one or two meetings of each of a of a range of them
+But steady - state noises are part of the background .
+It 's just that the background acoustic
+I the Meeting Recorder project , for me , has , two , w has several parts , several p objective
+But , at the first , in the acoustic , , parts of the project , you we have two main objective .
+, that would be a very practical solution on their part .
+
+but if no one 's told me things , then I 'm just proceeding from my guesses , and , and i ye , I 'm it ended up with your out your time to , I 'm just always asking Jose what he 's doing , , and so it 's There 's , there 's other things going on .
+If if someone says , , " what is Jose doing ? " and then Jose says something , you need to know that was Jose responding .
+And part of your learning about the dialogue is Jose responding to it .
+, I see , you wanna associated the word " Jose " in the dialogue with the fact that then he responded .
+No , but she 's saying , from the argument before , she wants to be able to say if someone said " Jose " in their in their thing , and then connect to so to what he said later , then you need it .
+But in the transcript , you could say , everywhere they said " Jose " that you could replace it with " speaker - seven " .
+
+And and , there may be a lot more or in psych , or in comp wherever , in another building where we could , record people there .
+But I you need , , another portable thing a another portable equipment to do , , more e easier the recording process , , out from ICSI .
+, if you want to record , , a seminar or a class , , in the university , you need It - it would be very difficult to put , , a lot of , , head phones in different people when you have to record only with , , this , , d device .
+if we if we wanna just record with the tabletop microphones , that 's easy .
+, we really wanna have a substantial amount recorded this way ,
+Maybe if If really all you want is to have a a recording that 's good enough to get a , a transcription from later , you just need to grab a tape recorder and go up and make a recording .
+OK , so the short thing is , we have , tape recording , , digitized recor recordings .
+
+But it als It it also builds up towards the goal .
+, the the classifier is nnn by the moment is is , similar , nnn , that the classifier used , in a quantifier vectorial quantifier is , used to , some distance to put , a vector , in a class different .
+I would take just a few features . Instead of taking all the MFCC 's , or all the PLP 's or whatever , I would just take a couple .
+OK , so before you do build up any fancy classifiers , just take a look in two dimensions , at how these things are split apart .
+That will give you a lot of insight of what is likely to be a useful feature when you put it into a more complicated classifier .
+And the second thing is , once you actually get to the point of building these classifiers , @ @ what this lacks so far is the temporal properties .
+But don't anyway , this is my suggestion , is don't just , , throw in twenty features at it , the deltas , and the delta del and all that into some classifier , even if it 's K - nearest - neighbors , you still won't know
+And so , if you can get @ @ again , my prescription would be that you would , with a mixed signal , you would take a collection of possible , features look at them , look at how these different classes that you 've marked , separate themselves , and then collect , in pairs , and then collect ten of them , and then proceed with a bigger classifier .
+It seems to me that it 's not a p , , it 's this the topograph the topology of it is a little bit complicated .
+
+It 's actually p It 's probably gonna be pretty useless to you ,
+Otherwise we 'd need two lawyer stages .
+look at som some picture that shows you , " Here 's These things , are offer some separation . " And , , in LPC , , the thing to particularly look at is , is something like , , the residual
+And with LPC , LPC per se isn't gonna tell you much more than than the other , maybe .
+, and on the other hand , the LPC residual , the energy in the LPC residual , will say how , the low - order LPC model 's fitting it , which should be pretty poorly for two or more people speaking at the same time , and it should be pretty , for w for one .
+So , this is all pretty early stages .
+we can probably regenerate it pretty easily from the close - talking mikes .
+
+I 'd like to have lots of different people .
+As many people here a and talking about the thing that you were just talking about it would have too few people from my point of view .
+, I deal with people on campus who sometimes people , undergraduates in computer science , have language skills that make , that their fluency and writing skills are not so strong .
+I 'm I what is that why not have the corpus , since it 's so expensive to put together , , useful for the widest range of central corp things that people generally use corpora for and which are , , used in computational linguistics .
+but that the i We can't really underestimate the difficulty shouldn't really u underestimate the difficulty of getting a setup like this up .
+the first priority should be to pry to get try to get people to come here .
+, I had a I spoke with some people up at Haas Business School who volunteered .
+, let me ask you , if both people were over there , it would be less effective than if one was there and one was across , catty - corner ?
+Or or even if , like , if people were sitting right across from each other , you couldn't tell the difference either .
+but if you can instrument a room , this is really minor league compared with what some people are doing , right ?
+Some people at , , at Brown and at and at Cape ,
+, people are very flexible . ? , so when we did this las last week , I felt that , now , Andreas may , , @ @ , he i sometimes people think of something else at the same time and they miss a sentence , and because he missed something , then he missed the r the initial introduction of who we were talking about , and was unable to do the tracking .
+, maybe we should only have meetings between people who one another and who are also amnesiacs who their own name .
+People had no difficulty in interpreting it .
+, I was thinking that it must get boring for the people who are gonna have to transcribe this
+
+So , I would also very much like us to have a fair amount of really random scattered meetings , of somebody coming down from campus , and ,
+, OK , , first place , I I don't think we 'd just want to have random people come down and talk to one another ,
+I will I will , talk about , in the in the blackboard about the my ideas .
+But , the reason why I haven't focused on that as the fir my first concern is because , I 'm interested in what happens for people , random people out in some random place where they 're p having an impromptu discussion .
+and they communicate with each other ? And then , they 're in random positions , the likelihood that , there wouldn't be any l likely to be any nulls , if you even had two . If you had three or four it 's .
+, I had some things I wanted to talk about with the thresholding I 'm doing .
+, so @ @ OK . @ @ It sounds like u , there were there were a couple technical things people would like to talk about .
+I realize when you 're doing this that , I didn't realize that you had a bunch of things that you wanted to talk about .
+, and so , and so I was proceeding some somewhat at random , frankly .
+
+he 's comes from a signal - processing background ,
+, , noise , claps , tape clips , , the difference ,
+w what you m what you mean is that it 's nonspeech segments that don't have impulsive noises .
+So it 's like a signal - noise situation .
+fff ! Because the n the noise to sp the signal - to - noise relation is is low .
+What , , what is the effect of the low ' signal to to noise relation , , with
+It makes sense to start with the simpler signal
+because if you have features which don't aren't even helpful in the high signal - to - noise ratio , then there 's no point in putting them into the low signal ratio , one would think , anyway .
+And you could In a noisy room , they could have all kinds of noises and you can zoom right in on somebody .
+
+One one of these is to to detect the change , the acoustic change .
+A model to detect more acc the mor most accurately possible that is p , will be possible the , the mark , the change
+Because what we had before for , speaker change detection did not include these overlaps .
+So the first thing is for you to build up something that will detect the overlaps .
+Is very difficult to apply , a parameter to detect change when you don't see .
+But , we don't n even know yet what the effect of detecting having the ability to detect overlaps is .
+Now , it would be very possible for me to take those data put them in a in a study , and just change everybody 's name for the purpose of the publication .
+
+so we 'll only be paying him for for half of the normal part - time ,
+was that , they will that they will adopt the part of the conventions that we discussed , where they put speaker identifier down .
+i it , it may be s that we 'll need to do something like actually X out that part of the the audio , and just put in brackets " speaker - one " .
+
+, if we really need to , but we had a lot of them . And for the full , , hundred forty hour sets .
+And my idea is , it would be interesting to have , a control set .
+And my control set , will be the , silence without , any noise .
+It 's the control set .
+h here yet , yet I I think , , there are that some noises that , , don't don't wanted to be in that , , in that control set .
+And you can't just always go , " , let 's go to this heavily instrumented room that we spent tens of thousands of dollars to se to set up " .
+
+raw cues from the interaction that can be measured from the signals and from the diff different microphones that point to hot spots in the meeting , or things where is going on that might be important for someone who didn't attend to listen to .
+, actually , you can do sensitivity analyses which show you what the importance of the different parce pieces of the input are .
+, I know I n I know that 's a very important cue .
+, it 's not to say , I certainly think it 's extremely val And we humans n depend on , these binaural cues .
+One that 's public and one that requires licensing .
+And so the licensed one would w we could it would be a sticky limitation .
+that we have a need to have a consistent licensing policy of some sort , and
+But I also think a consistent licensing policy is important .
+
+, and was thinking of this mostly just so that we could do research on this data , since we 'll have a new this new student di does wanna work with us ,
+So . Then I was , talking to Morgan about some new proposed work in this area , a separate issue from what the student would be working on where I was thinking of doing some summarization of meetings or trying to find cues in both the utterances and in the utterance patterns ,
+like a meeting about of people doing a certain work where at least half the participants each time are the same .
+that for some time now , going back through BeRP that we have had speakers that we 've worked with who had non - native accents and I th that
+, especially because I 'm generating a clone , also .
+for your information because I read . , and the last , , days , , I work , , in my house , , in a lot of ways and thinking , reading , different things about the Meeting Recording project .
+I I do I don't @ @ I , , if , , it will be possible because I I haven't a lot , enough time to to work . , only just , six months , as ,
+but , , my idea is , , is very interesting to work in the line of , , automatic segmenter .
+Is a modified version of of a pitch tracker , , from , , Standar - Stanford University
+And I have to because , in general the pitch tracker , doesn't work very and
+Because it it would be interesting to see if some features work with close mixed , and And don't
+, one thing to take into consideration is w are there any , the people who are funding this work , they want this work to get out and be useful for discourse .
+
+cuz he 's very interested in higher level things , like language , and disfluencies and all kinds of eb maybe prosody ,
+both to get the , to figure out what type of meeting it is and to do any higher level work on it , like , I was talking to Morgan about
+But , that these people are of high enough level in their in their language proficiency that
+I 'm I 'm just thinking that we have to think at a at a higher level view , could we have a language model , a grammar a grammar , , that , wo would be a possibility .
+But what about For th for these issues of summarization , a lot of these higher level things you don't really need the distant microphone .
+So that might be true , you may say , summarization , that sounds very language oriented .
+
+but the idea of language models , which are fund generally speaking , , t terms of like the amount of benefit per dollar spent or an hour invested in preparing the data ,
+So y so if you wanted to bring in a model like Dan Jurafsky 's model , an and do some top - down , it to help th the bottom - up and merge the things or whatever , , it seems like , I don't see that there 's an argument
+because I want to put , , for , each frame a label indicating . It 's a sup supervised and , , hierarchical clustering process .
+And I am going to prepare a test bed , , , , a set of feature structure , models .
+Is ? W with a model , is only to cluster using a , @ @ or a similarity .
+and another model will @ @ or several models , to try s but several model robust models , sample models to try to classify the difference class .
+you , have obtained in the first , step with the , BIC , criterion compare model
+
+See , I 've never listened to the data for the front - end meeting .
+But , I 've been I 've gathered data from undergrads at on campus
+They they originally They 've decided not to do go into speech .
+But , so we could ' jus just do that at the end of today , once the archive is complete , and I 've verified it .
+I should 've got the digital camera .
+I 've gotta ask you . So , , the difference between the top two , i
+, I again , the things you 've written up there are way too way too big .
+, I should 've checked with Jane first , but the ch the form has changed .
+But , , sometimes people do it as phone numbers . , I 've I am interested in And sometimes , , I s And I never know . When I do it , I ask myself what I 'm doing each time .
+
+and I have not yet sat down with been able to get that error message in a point where sit down and find out where it 's occurring in the code .
+We 'd hafta get find their parent to sign for them .
+We 'd need to find someone on campus who was interested in this .
+, to actually find a room that we could use regularly might actually be very difficult .
+And other people need to do that for themselves , , h or at least discuss it so that we can find some optimal
+you have to to find you can find the mark .
+You can find the nnn , the acoustic change .
+, , in the in the one I transcribed , I did find a couple instances I found one instance of contrastive stress , where it was like the string had a li So it was like " nine eight two four , nine two four " .
+
+it would be really hard if we made a policy where we didn't say names , plus we 'd have to tell everybody else .
+, what I was gonna say is that the other option is that we could bleep out the names .
+So you could bleep out the names in the audio .
+Excuse me . We we do need audio for discourse .
+But , n excuse me , but you could bleep out just the names .
+And then it wouldn't meet match the audio anymore .
+And th and the other thing is if if Liz were here , what she might say is that she wants to look if things that cut across between the audio and the dialogue ,
+and that means you 're going to be listening to the audio ,
+
+Otherwise , , lots of other sites can propose individual studies , so
+for that , because my idea is to study the nnn the set of parameters , what , , are more m more discriminant to , classify .
+only , nnn , mmm , I have , ehm I don't remind what is the the quantity ,
+For for the by the @ @ no , @ @ because I I want to limit the nnn , the study .
+but , the first idea Because , I what hap what will happen with the study .
+And , , with this information The idea is , nnn , I have a label for each , , frame and , with a cluster algorithm I and
+This this is And th the idea is to , , to obtain , , , , diff , different , no , a great number of FEC , , , twenty - five , , thirty parameters , , for each one .
+And in a first , nnn , step in the investi in the research in , my idea is try to , , to prove , what is the performance of the difference parameter , to classify the different , , what is the the front - end approach to classify , the different , , frames of each class and what is the , nnn , nnn , , what is the , the error , of the data
+, similar , because the idea is to study what is the contribution of , each parameter to the process of classify correctly the different the different parameters .
+with the information we obtain from this this study of the parameter with the selected parameter to try to to put the class of each frame . for the difference zone
+It will be more interesting to study the PZM because the the separation
+
+but if we only get one or two from each group , that still could be useful acoustically just because we 'd have close and distant microphones with different people .
+, i We realized in discussion that the other thing is , what about this business of distant and close microphones ?
+Yea - , you actually don't really even need any fancy microphone .
+Suppose you just had a distant microphone there and you really wanted to be able to determine this .
+, we were at a hundred percent and then we dropped down to eighty - six for reasons I don't understand .
+that , if we made use of the fact that there are two microphones , you do have some location information . which we don't have with the one
+I because the distance between the two microph , microphone , , in the PDA is very near .
+, ideal would be to have the wall filled with them ,
+, the other thing you can do , if , i We 're assuming that it would be a big deal just to get somebody convince somebody to put two microphones in the PDA .
+Big micro @ @ arrays .
+they both have these , , big arrays on the wall .
+, I saw one that was like a hundred microphones , a ten by ten array .
+No , what you need to do is you 'd have a little fabric thing that you unroll and hang on a wall .
+, not only can you do microphone arrays , but you can do all sorts of multi - band as .
+I didn't think when I wrote you that email I wasn't thinking it was a big can of worms , but I it is .
+, that 's there 's an easy way to do that .
+
+. And I 'd prefer I would prefer , the to have , , this labeled automatically ,
+But I prefer , I prefer at the first , , the silence with , this this the of of noise .
+, you could have strips that you stick to your clothing .
+If if we 're about to wind down , what I would prefer is that we , delay the anonymization thing till next week ,
+and I would like to present the results that I have on the overlaps .
+I 'd , I 'd prefer to have more time for my results .
+Yu - Ching , Yu - Ching . .
+
+, the other thing , the other thing that I was hoping to do in the first place was to turn it into some portable thing so you could wheel it around .
+Because the spectral distortion is more a lot clearer , very much clearer if we compare with the PDA .
+PDA speech file is it will be difficult .
+I I have seen the the speech file from PDA , and s some parts is very difficult
+But but , , one of the at least one of the things I was hoping to get at with this is what can we do with what we think would be the normal situation if some people get together and one of them has a PDA .
+It has all these mikes and it has a plug - in jack to the PDA .
+
+, I know that space is really scarce on at least in CS .
+So that will give us ten gigabytes of free space .
+, so we 're gonna get more disk space ?
+We are getting , , another disk rack and four thirty - six gigabyte disks .
+The SUN , ha , takes more disks than the Andatico one did .
+The SUN rack takes Th - One took four and one took six , or maybe it was eight and twelve . Whatever it was , it was , , fifty percent more .
+, what happened is that we bought all our racks and disks from Andatico for years , according to Dave ,
+and Andatico got bought by another company and doubled their prices .
+but , we have some other disks , some of which you 're using for Aurora ,
+So , so , , we have space on the current disk right now , where Meeting Recorder is ,
+
+but here he 's he 's not like he has one , a bunch of very distinct variables , like pitch and this he 's talking about , like , a all these cepstral coefficients , and ,
+so if you look at Suppose you look at first and second - order cepstral coefficients for some one of these kinds of things and you find that the first - order is much more effective than the second , and then you look at the third and there 's not and not too much there , you may just take first and second - order cepstral coefficients ,
+Did you read the paper on Eurospeech ?
+Did you read the paper a few years ago where they were reversing the syllables ?
+and they would extract out the syllables and they would play them backwards .
+But so , the syllables were in the same order , with respect to each other , but the acous
+Everything was in the same order , but they were the individual syll syllables were played backwards .
+Jus - jus just play it all backwards .
+it would be fun sometime to read them with different intonations .
+
+, and then there are some others that menti that Morgan mentioned ,
+, not to mention the fact that I would be hesitant certainly to take anyone under eighteen , probably even an anyone under twenty - one .
+, Morgan , you were mentioning that Mari may not use the k equipment from IBM if they found something else , cuz there 's a
+And then you can do decision trees or whatever to see how they combine .
+So , so in within the context of an utterance , someone says " So , Roger , what do you think ? "
+Now , there , the Human Subjects Committee is very precise .
+You don't wanna mention subjects by name in published reports .
+But I felt like most of us were doing the tracking and knew who we were talking about and we just weren't mentioning the name .
+
+Cross - co cross - correlation .
+Just cross - correlation between two sides .
+So cross - correlation is pretty sensitive .
+You take the signal from the two microphones and you cros and you cross - correlate them with different lags .
+So if at whatever angle you are , at some lag corresponding to the time difference between the two there , you get this boost in the in the cross - correlation value function .
+

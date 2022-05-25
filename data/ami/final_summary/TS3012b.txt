@@ -1,0 +1,39 @@
+Customers are willing to pay more for fancier looking remotes.
+They like innovative technology like speech recognition and LCD screens.
+It also transpires that remotes are easy to lose.
+Everyone agreed that they need to incorporate a locating mechanism in their design, and that changeable covers could make appealing-looking remotes.
+The need for clarity of button functions was mentioned.
+On the other hand, materials should be more durable.
+The function of the remote is relatively simple: by pressing a button a current is passed to the chip, and defines what signal is to be sent to the receiver (the TV) via infrared.
+There are some new requirements: the target group will be people below 40, the device will have to be for TV only, they should ignore the teletext function, and, also, the remote should be recognisable as a Real Reaction product.
+They drew some of their ideas, and discussed the positioning of the buttons and the LCD.
+The most used buttons are going to be placed on top.
+It might be possible to use a charger for the remote.
+The concept of the design will be finalised in the next meeting.
+The ID will present the components concept.
+He will also check into the importance and possibility of using rechargeable batteries and a charger.
+The UI will present the user interface concept.
+He will also draw some ideas for the shape of the remote.
+The marketing expert will need to find information on current trends and see into the financial issues concerning the integration of a charger.
+The team will also examine whether they can use an LCD and/or speech recognition.
+Finally, they will try to think of a name for their product.
+The target group will be people below 40.
+The remote will only be used for TV.
+The company colours and slogan will have to be shown on the device.
+Buttons should be made bigger, with clearly defined functions and of durable materials to avoid fading of the symbols.
+It would be a good idea to integrate a mechanism for finding the remote control, when the user loses it.
+A button that sticks on the TV could be pressed to make the lost remote beep, and perhaps also light up.
+The remote is going to be a universal one.
+Because symbols may fade, the additional covers could include those.
+The remote will need to be different from those available in the market in terms of shape and colour.
+The important buttons will be on top.
+Speech recognition and LCD screens could be added to the remote control, but they might be too expensive for this project.
+The industrial designer wondered whether the remote should be universal or programmable.
+Symbols on remotes fade with time.
+It may not be technically possible for a universal remote control to create menus for various advanced settings on the TV itself.
+Different TVs have different functions incorporated in their built-in menus, making it hard to know in advance which buttons you can do without on the remote.
+It is difficult to organise or limit the number of buttons in a way that makes the remote easier to use.
+The team also discussed extensively the positioning of various buttons.
+Using a charger for the remote may be too expensive.
+Consumers claim they would pay more for a remote with LCD screen, but adding the component might be too expensive.
+In the case where it is added, the issue would be whether to place it at the top or the bottom of the remote.

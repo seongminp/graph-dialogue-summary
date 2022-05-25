@@ -1,0 +1,344 @@
+A	57.51	everybody found his place again ?	opening
+A	63.7	so this is our second meeting .	opening
+A	67.77	and still failing ?	opening
+A	72.76	now we're going into the functional design .	opening
+A	77.26	important thing of this phase is that we're going to try to get an agreement about the user requirements , technical function design , and the working design .	opening
+A	93.12	so that we can move onto the second phase .	opening
+A	97.19	but first this phase .	opening
+A	99.59	first an announcement .	opening
+A	102.73	there's little adaptation in the air conditioning system .	opening
+A	107.05	so there's our ghost mouse again .	opening
+A	112.88	that that means that you can have little trouble with , little trouble with the air conditioning , that's because of this it's in wing c_ and e_ .	opening
+A	123.39	so it should be over in in while , couple of days .	opening
+A	128.53	but it's going to be cold anyway , so don't think you're gonna need it .	opening
+A	134.39	then our agenda .	opening
+A	135.84	now first the opening .	opening
+A	137.47	this time will take the minutes .	opening
+A	140.36	you're going to have presentation .	opening
+A	143.75	all of you .	opening
+A	145.02	and we've got forty minutes for the whole prese for the whole presentations .	opening
+A	153.65	so suggest we take about seven minutes per presentation , and then we can have little discussion about the new project requirements which have been sent to me .	opening
+A	164.39	and then the decision on the control functions which we wanna include and those which we don't wanna include .	opening
+A	172.91	so we've got forty minutes for all of it .	opening
+A	175.11	so suggest let's start with the first presentation .	opening
+A	179.47	who wants to be first ?	opening
+D	182.76	'll go first .	opening
+A	185.62	so just maybe it's easier if you you will tell your presentation as .	opening
+A	193.37	just which function you have and what you're gonna talk about .	opening
+D	206.85	my name is freek van ponnen .	marketing expert presentation
+D	208.13	i'm the market expert .	marketing expert presentation
+D	209.65	but you already knew that .	marketing expert presentation
+D	212.1	i've done some research .	marketing expert presentation
+D	214.26	we have we have been doing research in usability lab where we observed users operating remote controls .	marketing expert presentation
+D	223.02	we let them fill out questionnaire .	marketing expert presentation
+D	225.56	we had one hundred of these test subjects .	marketing expert presentation
+D	229.36	in addition we did some market research .	marketing expert presentation
+D	232.2	see what the market consists of .	marketing expert presentation
+D	235.26	what ages are involved .	marketing expert presentation
+D	238.9	these are three quite astonishing results , .	marketing expert presentation
+D	244.6	remotes are being considered ugly .	marketing expert presentation
+D	247.53	seventy five percent of the people questioned indicated that they thought their remote were was ugly .	marketing expert presentation
+D	256.33	and an additional eighty percent indicated that they would spend more money on fancy-looking remote control .	marketing expert presentation
+D	262.85	so in addition remotes were not very functional .	marketing expert presentation
+D	267.33	fifty percent of the people indicated they only loo used about ten percent of the buttons on remote control .	marketing expert presentation
+D	275.08	and fifty percent of the people indicated that their remote tended to get lost in their room .	marketing expert presentation
+D	280.47	so some things .	marketing expert presentation
+D	285.34	then we did some research to the most relevant functions .	user requirements
+D	288.94	channel selection and volume selection both got ten on scale of one to ten for relevancy .	user requirements
+D	296.65	the power button got nine .	user requirements
+D	298.67	and teletext got six and half .	user requirements
+D	301.17	so these are the most most important functions on remote control .	user requirements
+D	307.0	then there are some one-time use function .	user requirements
+D	309.28	that's what like to call them .	user requirements
+D	310.87	that audio settings , video settings , and channel settings buttons .	user requirements
+D	315.5	which are not really used very frequently , but are still considered to be of some importance .	user requirements
+D	322.1	channel selection was also indicated to be used very frequently .	user requirements
+D	327.03	one hundred and sixty eight times per hour .	user requirements
+D	332.14	then these are the this is the market .	user target group
+D	335.02	sixty percent of the market consists of users between the ages sixteen and forty six .	user target group
+D	342.13	main characteristic of this group is that they're very critical on the remote control .	user target group
+D	348.74	they like to use new new functions .	user target group
+D	352.85	but they also are very critical .	user target group
+D	354.38	they won't spend their money very easily .	user target group
+D	356.37	so the users of forty six to sixty five years cons the make up forty percent of the market .	user target group
+D	365.24	they are not really very interested in features .	user target group
+D	367.31	but they do tend to spend their money lot easier .	user target group
+D	373.83	what this indicates for our design .	look and usability
+D	380.68	we should make remote for the future .	look and usability
+D	383.36	and this means we would have to focus on the age ages sixteen to forty five .	look and usability
+D	390.82	this also makes up most the biggest part of the market , so that will also be where our main profit would be gettable .	look and usability
+D	400.47	this would mean we would have to make fancy design .	look and usability
+D	404.85	the results also indicated that about one quarter of the people questioned thought that the remote control caused r_s_ r_s_i_ .	look and usability
+D	417.57	this is certainly something to take into account .	look and usability
+D	422.17	and thirty four percent thought that it was hard to learn how to operate new control , remote control .	look and usability
+D	429.21	so these are two factors that should be included in the design .	look and usability
+D	433.79	besides that the remote must look very .	look and usability
+D	438.07	and the functionality as lot of people indicated , they only use about ten percent of the buttons , we should make very few buttons .	look and usability
+D	447.27	this will also be beneficial to the design of the remote .	look and usability
+D	453.27	the most frequently used buttons should be emphasised .	look and usability
+D	456.7	especially the channel selection and audio selection buttons .	look and usability
+D	461.62	'cause they're used most and so they should be robust .	look and usability
+D	465.39	they shouldn't break down easily .	look and usability
+D	469.16	then as mo as lot of people indicated that their remote got lost in the room , it might be and say might be because it would certainly boost the production costs lot .	how to find when misplaced
+D	486.78	but it might be good idea to make docking station .	how to find when misplaced
+D	489.85	and this would , could get button in it which would send signal to the remote which would then beep .	how to find when misplaced
+D	496.55	so you'd know where it is in the room .	how to find when misplaced
+D	498.9	and in addition to this it could recharge the batteries in the remote if you put it in .	how to find when misplaced
+D	505.71	then surprisingly great deal of people indicated that an l_c_d_ screen in the remote control would be preferred .	components, materials and energy sources
+D	517.11	this was mostly people in the age of sixteen to twenty five .	components, materials and energy sources
+D	524.36	but up till forty five it remains feasible .	components, materials and energy sources
+D	528.06	this would also greatly increase the production costs but these are just some small factors we could consider .	components, materials and energy sources
+D	538.59	that would be all .	marketing expert presentation
+A	541.03	so anybody have any questions until now ?	marketing expert presentation
+A	546.23	about functional requirements ?	marketing expert presentation
+A	550.67	now to the second .	agenda/equipment issues
+B	561.39	i've been looking at the user interface of it .	interface specialist presentation
+B	567.75	for the techno functions of of it .	interface specialist presentation
+A	574.62	you can take your time .	agenda/equipment issues
+A	575.71	we've got plenty of time , so .	agenda/equipment issues
+D	577.42	you should go to the top thingy .	agenda/equipment issues
+A	582.3	there it is .	agenda/equipment issues
+B	586.58	we must use the general functions of the remote control .	interface specialist presentation
+B	592.15	i've do i've done little research on the internet and not much information about it , about interface but i've been thinking about simple manner to put lot of functions in one in one remote control .	interface specialist presentation look and usability
+B	621.13	so you've got lot of devi devices like d_v_d_ television , stereo .	look and usability
+B	628.44	so but it must be user-friendly .	look and usability
+B	633.18	so you you can't put lot of functions in one .	look and usability
+B	643.53	in one remote control .	look and usability
+B	654.8	got many functions in one remote control , but you can see , this is quite simple remote control .	look and usability
+B	663.54	few buttons but this re remote control got lot of buttons .	look and usability
+B	670.14	people don't like it , so what was thinking about was keep the general functions like they are .	look and usability
+B	683.47	so like the on-off button .	look and usability
+B	686.65	keep it like red button .	look and usability
+B	689.74	everybody everybody knows it so you don't have to change that .	look and usability
+B	695.96	my personal preferences .	look and usability
+B	701.83	use display for specific functions of the different device .	look and usability
+B	707.06	so wh what was th thinking about was you've got this the remote control and you got here the general functions , like the on-off button sound and here you've got display .	look and usability
+B	744.38	so you got general the functions of the device for d_v_d_ player or so the pl for playing reverse .	look and usability
+B	759.19	and you got here real buttons for selecting device .	look and usability
+B	765.86	so this button is for d_v_d_ or so for every device you've got part display of part buttons .	look and usability
+B	780.34	so you you never got all the buttons on one device .	look and usability
+B	786.21	so that's my idea about it .	look and usability
+B	790.45	and let's see .	look and usability
+B	799.45	and th the buttons the real buttons we have to use .	look and usability
+B	803.95	we better use quite large buttons for .	look and usability
+B	809.94	everybody have to use it so ol even even old people young people .	look and usability
+B	816.64	so we must keep buttons quite simple and quite large .	look and usability
+B	830.42	that was my part of it .	interface specialist presentation
+A	833.06	anybody has questions about the technical functions ?	interface specialist presentation
+C	836.31	if we are gonna use touchscreen we're gonna go way above the twelve and half euros .	project budget
+B	844.27	you got quite cheap touchscreen .	project budget
+B	847.51	it's not in colour .	project budget
+B	850.69	it's just one colo .	project budget
+B	857.68	seen something on the internet not today but few weeks ago .	project budget
+B	866.83	you got quite an touchscreen and it's for twenty euros or less .	project budget
+B	882.87	so it's possible .	project budget
+D	886.27	would certainly make fancy design .	look and usability
+C	889.68	but the it wouldn't be very robust .	look and usability
+D	889.9	so that is true .	look and usability
+C	892.66	it's very fragile and you can get scratches on it .	look and usability
+D	897.09	we would have to look into that .	agenda/equipment issues
+A	897.27	maybe we can first listen to your presentation ?	agenda/equipment issues
+A	901.3	and then we have little discussion about the requirements and design .	agenda/equipment issues
+A	920.01	it's going to it's not too much .	interface specialist presentation
+C	923.73	i've got presentation about the working design .	industrial designer presentation
+C	927.77	first about how it works .	industrial designer presentation
+C	930.03	it's really simple .	industrial designer presentation
+C	930.99	everybody knows how remote works .	components, materials and energy sources
+C	932.85	the user presses button .	components, materials and energy sources
+C	934.68	the remote determines what button it is , uses the infrared to send signal to the t_v_ .	components, materials and energy sources
+C	939.99	the t_v_ switches to the frequency , or what function it is .	components, materials and energy sources
+C	944.22	so we've got the the plate .	components, materials and energy sources
+C	948.11	it gots conductive disks for every button .	components, materials and energy sources
+C	952.06	when the user presses button , signal got sent , goes to the led and transmits tranmi transmits its to the t_v_ .	components, materials and energy sources
+C	960.05	it's very simple device , technically speaking .	components, materials and energy sources
+C	963.4	so this is schematic overview .	components, materials and energy sources
+C	966.14	you've got the buttons .	components, materials and energy sources
+C	968.02	the power source .	components, materials and energy sources
+C	970.17	and when button gets pressed , its goes to the chip .	components, materials and energy sources
+C	974.68	the chip controls the infrared bulb and perf perhaps normal bulb .	components, materials and energy sources
+C	980.59	when you press button you can actually see your pressed button .	components, materials and energy sources
+C	985.58	we should use default materials , simple plastics .	components, materials and energy sources
+C	990.94	keep the inner workings simple , so it's robust .	components, materials and energy sources
+C	994.41	we should focus on aesthetics , the design and the user interface , because if you're going to use high-tech materials the price is going to go sky-high .	components, materials and energy sources
+C	1004.88	and you only have to design remote once , and if you use high-tech materials it come back in every product .	components, materials and energy sources
+C	1012.08	so it's , in my idea , it's it's gonna be smart to invest in di in design and not in in the product itself .	components, materials and energy sources
+A	1038.37	now hope everybody has little bit more insight in the functions we all have and what we are doing right now .	new requirements
+A	1049.26	i'm the project manager so i'm here to mess things up and tell you some new requirements .	new requirements
+A	1058.24	that's , we've got to design remote which is only suitable for t_v_ .	look and usability
+A	1067.39	that's because it will be too complex and the time to market will be too big , if we wanna have it for more functions .	look and usability
+A	1078.78	so it has to be simple .	look and usability
+A	1080.96	another point is we have to skip the teletext , because in the world of upcoming internet we think teletext is going to be thing of the past .	look and usability
+A	1096.01	and it's function we don't need in our remote control .	look and usability
+A	1101.83	internet is also mentioned in function we can use .	look and usability
+A	1107.39	maybe also on televisions it will be available as .	look and usability
+A	1111.83	another one is the customer is forty plus .	user target group
+A	1116.72	that's the the market we have to to to target , because we are going to develop new product which is specially designed for the younger customers .	user target group
+A	1126.66	this is bit pity for the marketing expert .	user target group
+A	1132.57	because he was aiming on the the younger persons .	user target group
+A	1136.82	so we have to find market which is above forty plus but which will suit our remote control , and the other way round .	user target group
+A	1146.48	and we have to be very attent in putting the corporate image in our product .	look and usability
+A	1154.49	so it has to be visible in our design , in the way our device works .	look and usability
+A	1160.26	and we have to be very clear on this point as .	look and usability
+A	1165.72	so suggest let's have discussion on the control functions .	discussion
+D	1174.94	so is there any discussion possible about the new product requirement ?	new requirements
+A	1178.98	we can see if we can find way between the functions we wanna use and the market we wanna reach with our product .	new requirements
+A	1189.25	against the no teletext ?	look and usability new requirements
+D	1189.34	'cause you're you're saying that teletext is gonna be an old feature and it's not gonna be used anymore anyway pretty soon .	look and usability
+D	1198.96	and new t_v_s will have internet access on them .	look and usability
+D	1201.97	but if you're targeting people of forty plus , the chance that they will have t_v_ with internet access within the next like twenty years is very slim .	look and usability
+D	1214.14	in addition people indicated that teletext simply was an important feature for the remote control .	look and usability
+D	1221.33	so it's pretty dumb to put no teletext feature on it .	look and usability
+D	1227.37	i'm against it .	look and usability
+A	1232.98	it's it is standard remote .	look and usability user target group
+D	1235.33	besides that , the market for forty plus is like pretty small .	user target group
+D	1243.2	but if if see this , it's we're just gonna go for another pretty and not innovative remote control .	user target group
+A	1252.41	no we can we can do lot with the design and the simple buttons which were also mentioned .	user target group
+A	1262.38	if we put lot of effort in those , we can make remote control with just two or three buttons .	user target group
+A	1269.7	or just remote which is suitable for the market we wanna reach because it is forty percent of the market .	user target group
+A	1276.61	and if you look in holland at the whole generation of forty plus , fifty plus , it it's the the biggest share of the of the whole population now .	user target group
+D	1291.04	yes but it's not the biggest part of the market .	user target group
+D	1295.58	and besides that , they're not very critical so they don't really care what the remote control is like .	user target group
+D	1303.15	they'll just take the first thing they see and which looks acceptable .	user target group
+A	1308.73	but don't you think that if we make remote which is typically made for this market , that people think the people think that's the the device i've looked for although didn't realise it .	user target group
+A	1324.56	so let's try it .	user target group
+D	1328.22	that would be the case in the sixteen to forty five age category .	user target group
+D	1336.26	because they are critical and they they want to have fancy remote control .	user target group
+D	1341.96	people of forty plus , they want it to work , but as soo as soon as it works it's with them .	user target group
+C	1352.77	that if we're if we put our marketing right we can sell this just like if you've heard about it in the news , the the elderly mobile phone ?	look and usability
+D	1353.21	so haven't heard of it .	look and usability
+A	1363.53	it's big success .	look and usability
+C	1364.66	if we if we make remote control just with that idea in mind , we could make tons of money , .	look and usability
+A	1365.52	very big success .	look and usability
+C	1372.49	we don't have to focus on on on the on the design then but on functionality .	look and usability
+C	1378.72	we just change our focus on the project , and we can we can sell this .	look and usability
+A	1387.22	simply think that the new products we are gonna make , spef specifically design , are designed for younger people , so maybe we can focus ourself on the elderly people .	look and usability
+A	1408.6	and we have to see what requirements we need for those remote controls .	look and usability
+A	1419.18	'cause what you told is the channel selection is important .	look and usability
+A	1424.19	volume selection , power and teletext .	look and usability
+A	1429.49	no we we haven't voted yet , so teletext can be can be function as .	look and usability
+D	1430.35	but the board tends to disagree .	look and usability
+A	1445.87	but only if if it won't higher the the cost , because if it will be lot more money to implement teletext as , but don't will be problem .	look and usability
+A	1458.56	or is teletext .	look and usability
+B	1459.03	but deaf people need teletext for for subtitles .	look and usability
+D	1466.64	it'd definitely be bad idea not to include teletext .	look and usability
+A	1470.57	is anybody really against teletext ?	look and usability
+A	1475.59	just that , that we just keep the teletext .	look and usability
+A	1481.67	that's good idea as , especially for the subtitles .	look and usability
+A	1486.8	maybe we can make that another point of advantage in our remote control , if we make button ex for big subtitles , which is instantly on the remote control .	look and usability
+A	1505.87	for elderly people they can think , wanna have subtitles , and they push the button and they get the big subtitles .	look and usability
+C	1512.2	that's good idea .	look and usability
+A	1514.02	so teletext can can be very useful in our advantage .	look and usability
+A	1520.64	functionality should be few buttons , you said .	look and usability
+A	1528.29	that's very important we have few buttons .	look and usability
+A	1535.32	so to keep it simple .	look and usability
+D	1535.95	but don't think that's really an issue any more 'cause might be .	look and usability
+B	1543.91	if it's only for televi .	look and usability
+D	1544.17	but it , if it's only for t_v_ you're not gonna need lot of buttons anyway .	look and usability
+D	1548.58	you need one to zero button , next channel , previous channel , volume up , volume down , and some teletext buttons but if you if you only nah .	look and usability
+A	1562.0	but do you need but do you need the buttons for one to zero .	look and usability
+B	1562.51	so we can we can skip the display , so we don't need it .	look and usability
+A	1572.19	maybe we can maybe we can use no , maybe we can implement the scroll button ?	components, materials and energy sources look and usability
+D	1572.58	you're gonna include teletext you do .	look and usability
+D	1575.08	many people like to use that .	look and usability
+D	1577.4	'cause if you should , if you want to switch from channel one to like thirty five , you don't wanna push the next channel button thirty five times .	look and usability
+A	1589.84	or joystick like ?	components, materials and energy sources
+A	1593.04	there are other ways too .	components, materials and energy sources
+A	1594.5	just look if you look at telephones .	components, materials and energy sources
+A	1596.49	the sony telephone has scroll button which is very useful in searching names or .	components, materials and energy sources
+D	1603.26	that's true but don't think there are many t_v_s that can switch channels that fast .	components, materials and energy sources
+D	1610.89	and so you would need like the t_v_ would need an function where you can actually view all channels and scroll through it .	components, materials and energy sources
+D	1620.25	and if many channels would do have that .	components, materials and energy sources
+D	1625.08	if many t_v_s have that .	components, materials and energy sources
+C	1626.93	and besides that it's if we're gonna focus on elderly people they'll have to adapt .	components, materials and energy sources
+C	1632.75	they're not used to using scroll buttons .	components, materials and energy sources
+C	1635.48	so perhaps we should stick to the basic layout .	components, materials and energy sources
+A	1642.36	they can see how much buttons there are going to be on on the display , and if it's too much we can reconsider it .	look and usability
+A	1650.76	but there won't be very much buttons .	look and usability
+A	1653.28	or there don't have to be lot .	look and usability
+D	1654.01	but don't think if you're gonna make remote control only to operate t_v_ , you there's not much you can gain on having as few buttons as possible .	look and usability
+D	1664.97	'cause there are pretty many remote controls that can only operate t_v_ , which already only have the minimum number of buttons .	look and usability
+D	1673.13	don't think there's much to be gained in that area .	look and usability
+A	1676.18	the number of buttons ?	look and usability
+A	1678.13	it's very important in the in the design .	look and usability
+A	1681.93	you can make very fancy design with putting the buttons on the right places .	look and usability
+A	1687.63	and if you have less buttons you can do lot more with to operate only the t_v_ .	look and usability
+D	1691.61	that is true but there's simply not much to gain on the competition when you when you're making remote control only for to operate only the t_v_ .	look and usability
+D	1702.17	'cause if you have remote control only to operate t_v_ there's simply not lot of buttons required .	look and usability
+D	1710.06	there's not lot of functions required so most existing remote controls simply don't have lot of buttons either .	look and usability
+D	1717.66	so it would be very hard to actually gain on the competition here .	look and usability
+A	1722.85	so we can .	look and usability
+D	1723.04	that would that would cost big marketing expedition which was one of the arguments to make it only for the t_v_ because we didn't have the time to market lot .	look and usability
+A	1738.0	so you suggest we could better focus on the docking station .	components, materials and energy sources
+A	1745.7	like other functions .	components, materials and energy sources
+A	1749.59	instead of of less buttons .	components, materials and energy sources
+D	1752.79	mean we need good way to position all the buttons and but don't think we should spend very much time in that .	components, materials and energy sources
+A	1764.56	do you think the docking station will is allowed in the budget we have ?	components, materials and energy sources
+C	1772.61	it should be possible yes .	components, materials and energy sources
+A	1774.03	'cause it can be no .	components, materials and energy sources
+C	1774.26	if it's not too fancy .	components, materials and energy sources
+C	1776.04	and if the remote stays rather small , it should be possible .	components, materials and energy sources
+A	1779.91	because that's that's good advantage point as .	components, materials and energy sources
+A	1784.56	if we have fancy-looking docking station or very that's requirement .	components, materials and energy sources
+C	1797.0	so we're just gonna focus on the extras ?	discussion
+D	1801.92	maybe we should do some research into what elderly people like to have in like to have extra in new remote control .	discussion
+A	1811.17	that's good point .	discussion
+A	1812.59	you said they easily get lost as .	how to find when misplaced discussion
+D	1820.0	yes fifty percent of the people indicated that remote control tended to get lost .	how to find when misplaced
+A	1824.57	so maybe we should implement the audio sign , .	how to find when misplaced
+D	1829.65	that was what suggested .	how to find when misplaced
+C	1831.58	like with your key-chain , if you whistle it goes it makes sound .	how to find when misplaced
+D	1831.88	you have it on you have it's on some phones too , which have docking station .	how to find when misplaced
+D	1839.19	and you just press button and the phone goes ringing .	how to find when misplaced
+A	1843.23	so audio signal should be possible as .	how to find when misplaced
+D	1843.28	so where it is .	how to find when misplaced
+A	1847.06	it's not too expensive .	how to find when misplaced
+A	1851.26	another point is the l_c_d_ screen .	components, materials and energy sources
+A	1859.2	if that will rise the cost too much , because .	components, materials and energy sources
+C	1865.23	we'll have to choose between the docking station or the screen , 'cause it's don't think they have different television sets in every country .	components, materials and energy sources user target group
+A	1871.66	it will be too much as .	components, materials and energy sources
+D	1873.15	since lot of people indicated that new remote control is hard to learn , and we're focusing on elderly people here which tend to have hard time understanding new devices , it might be good idea to have just little screen on it , which would explain button if you press it .	look and usability
+D	1889.28	which would tell you what it does .	look and usability
+D	1893.11	and it wouldn't have to be touchscreen or very expensive screen , but just small screen with two .	components, materials and energy sources
+A	1898.96	just the l_c_d_ .	components, materials and energy sources
+A	1900.15	just the normal screen .	components, materials and energy sources
+A	1903.17	that's good idea .	components, materials and energy sources
+A	1904.17	so some extra info .	components, materials and energy sources
+A	1909.39	that's good idea as .	components, materials and energy sources
+D	1911.51	but if that would that would fit into the costs .	components, materials and energy sources
+A	1914.64	as the small screen .	components, materials and energy sources
+A	1924.27	extra button info .	discussion
+A	1929.41	that should be possible as .	discussion
+A	1932.7	let's see what did we say .	discussion
+A	1938.69	should be fancy to , fancy design , easy to learn .	discussion
+A	1942.33	few buttons , we talked about that .	discussion
+A	1944.69	docking station , l_c_d_ .	discussion
+A	1960.37	and default materials .	discussion
+A	1964.52	that's good idea as , because elderly people don't mind if it's titanium cover or just plastic one .	discussion
+A	1974.89	so that doesn't really matter .	discussion
+A	1976.88	so we nee let's specify the target group .	discussion user target group
+D	1978.99	probably elderly people would be little bit more careful with their remote controls than youngsters .	discussion
+A	1993.16	because are we talking about elderly elderly people or people from forty to eighty .	user target group
+A	1999.66	because what we're going to design now is for people above sixty , maybe .	user target group
+A	2010.43	what do we want ?	user target group
+D	2011.08	that would be if we should do something like that it would be , it would be really good for for the image of the company .	user target group
+A	2011.35	if we want with the the telephone for elderly people , we can target the real elderly people .	user target group
+D	2033.79	and , there would be good market for it .	user target group
+A	2038.01	so that's the now you're talking about sixty to eighty .	user target group
+D	2038.5	if we're able to really bring an innovative product .	user target group
+D	2045.1	the really but i'd have to look into that little more .	user target group
+A	2053.44	and different cultures .	user target group
+A	2067.61	we've got five minutes left just now .	discussion
+D	2070.58	and with the little screen in it , which explains the buttons .	look and usability
+D	2075.17	you could we it would be lot easier to adapt it to different cultures .	look and usability
+A	2082.09	in different languages , .	look and usability
+A	2085.22	or you have to put language button in it , but that will be bit unnecessary .	look and usability
+A	2090.85	it's better to put it on different markets with it all .	look and usability
+A	2095.98	so that's the the target .	discussion
+A	2098.8	then few small things .	discussion
+A	2108.08	will put the minutes in the project project document folder .	closing
+A	2112.26	what we're going to do for the next meeting is the industrial designer will do the components concept , user interface designer the user interface concept , and the trend-watching .	closing
+A	2124.58	so just keep in mind the things we've said about the target group , requirements , and the trends which are going on .	closing
+A	2134.93	and specific instructions will be sent to you by the personal coach .	closing
+A	2140.81	so for this meeting .	closing
+A	2143.85	and we have lunch-break now .	closing
+A	2147.94	so that's good thing .	closing

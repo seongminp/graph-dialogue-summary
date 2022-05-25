@@ -1,0 +1,496 @@
+D	5.62	hey , project manager .	opening
+B	7.52	project manager , have something to tell you .	agenda/equipment issues
+B	10.16	have little problems with my laptop .	agenda/equipment issues
+B	12.66	and so had little less time to complete .	agenda/equipment issues
+B	23.89	no , little problem , big problem .	agenda/equipment issues
+B	26.95	thought , it didn't work anymore .	agenda/equipment issues
+D	27.62	what was it , problem ?	agenda/equipment issues
+B	31.98	the entire windows it it hung .	agenda/equipment issues
+D	33.99	it hang hung .	agenda/equipment issues
+D	44.12	you're our project manager .	opening
+A	46.45	your project manager .	opening
+A	50.44	welcome to the conceptual design meeting for real reaction .	opening
+A	58.28	it's the same as the last time .	opening
+A	60.34	also this time there will be three presentations .	opening
+A	65.72	and we must reach decision on the remote control concepts .	opening
+A	72.12	and at the end , , when finish it off have some input from master class visited .	opening
+B	86.34	during lunch , .	opening
+B	91.02	he's the master , .	opening
+D	93.41	master of i'm .	industrial designer presentation opening
+A	93.56	the the the the the concepts on we where we must reach decision on .	opening
+A	99.5	our from are of two sorts .	opening
+A	104.72	components concepts and user interface concepts .	opening
+A	108.51	the first one is really about the the the the the total package with , we have decided to do do the with touch-screen that must be case around it so it won't be as breakable .	opening
+A	122.68	how how about the energy ?	opening
+A	124.94	can you can you reload it or just have batteries which you must exchange ?	opening
+A	130.26	the user interface concept .	opening
+A	132.32	with the type and the the supplements .	opening
+A	135.74	so where to put what button .	opening
+A	138.57	and would say jans , can you begin ?	opening
+A	144.79	at the end , will take notes and at the end of the minutes will be at the shared folder .	opening
+C	153.42	let me see .	industrial designer presentation
+C	155.27	it's this one .	industrial designer presentation
+C	167.72	, i'll be talking about the components .	industrial designer presentation
+C	172.11	what did was reviewed previously used items by two two different age groups .	industrial designer presentation
+C	181.47	below forty five and above .	industrial designer presentation
+C	183.8	and watch what the differences are and checked , , what what do we want , and how can we aim at the target group .	industrial designer presentation
+C	196.09	what found was that senior senior citizens ye , it's it's .	industrial designer presentation
+C	205.92	they , , they like more the they like the traditional materials , like wood and and such more .	industrial designer presentation
+C	212.22	wood and chrome .	industrial designer presentation
+C	213.9	and they like straightforward shapes .	industrial designer presentation
+C	217.42	they they they they like luxurious styles , where whereas the young and dynamic , they like more soft materials .	industrial designer presentation
+C	225.99	think of the teletubbies , .	industrial designer presentation
+C	227.89	soft and fluffy and colourful and , shapes are curved and round .	industrial designer presentation
+C	234.22	you get the picture .	industrial designer presentation
+C	236.38	and they like sports and gaming , and that gives them the vitality .	industrial designer presentation
+C	241.39	so , firs yes .	industrial designer presentation
+A	242.87	one one little question .	industrial designer presentation
+A	244.17	about the the material .	industrial designer presentation
+A	246.94	soft material for remote control ?	industrial designer presentation
+C	249.95	no , i'll i'll get to that .	industrial designer presentation
+C	251.31	you you'll see .	industrial designer presentation
+C	253.61	first off , let's start start with the energy .	components, materials and energy sources
+C	256.36	had choice between few different sources .	components, materials and energy sources
+C	260.84	but the two basic sources that found were the best possible were the battery versus kinetic .	components, materials and energy sources
+C	267.58	kinetic , that's when you move something , then it gets energy .	components, materials and energy sources
+C	272.14	figured , that's ki kinda high-tech , when when you have remote control that , when you pick it up , it has power .	components, materials and energy sources
+C	278.32	that would be actually very , figured .	components, materials and energy sources
+C	280.85	we could also use battery , that's bit .	components, materials and energy sources
+D	282.92	but when the power gets low , you have to shake it ?	components, materials and energy sources
+C	286.82	you just you have to shake it around little bit .	components, materials and energy sources
+C	289.48	and then then it then it has some more energy .	components, materials and energy sources
+C	292.9	you could just go for battery .	components, materials and energy sources
+C	294.73	or you can go for both ?	components, materials and energy sources
+B	296.34	have you considered the option of using solar panel ?	components, materials and energy sources
+C	300.7	but the thing is about solar panel is you have to have light .	components, materials and energy sources
+C	308.51	and you you could you could use normal light , but you wouldn't get the same amount of energy that you would from battery .	components, materials and energy sources
+C	315.8	for ultimate use of solar panels , you could actually use you could use solar panels , but you ha you'd have to implement them into the remote control , leaving you bit less space for the interface .	components, materials and energy sources
+D	332.84	it's too less space .	components, materials and energy sources
+C	333.04	so so it it wo what's actually just in i've figured it out that , seeing that you'll always be within the distance of t_v_ , and the from t_v_ there comes whole bunch of light .	components, materials and energy sources
+C	346.18	so it would actually power itself from t_v_ .	components, materials and energy sources
+C	348.38	but , you just take up all the space , and you wouldn't have the full amount of power actually used .	components, materials and energy sources
+A	355.65	but you prefer kinetic ?	components, materials and energy sources
+C	355.83	so prefer kinetic because it's , the costs aren't that much higher , and , ju just bit more high-tech than than normal battery .	components, materials and energy sources
+C	366.32	if no , but , you pick it up and you press buttons and , you , actually it is .	components, materials and energy sources
+A	366.43	but you don't move remote control too much .	components, materials and energy sources
+A	372.43	and that's enough to to keep the energy level .	components, materials and energy sources
+C	377.87	and it it if it isn't , you just shake it bit and and add add with power up again .	components, materials and energy sources
+C	382.44	but , what what jarek said , you could you could use battery that you'd just keep it on the recharging whenever it moves .	components, materials and energy sources
+C	387.46	and for rest , you'd just add juice on the battery .	components, materials and energy sources
+D	390.0	and when the battery doesn't work , usually shake it too .	components, materials and energy sources
+D	394.09	so like slamming on it .	components, materials and energy sources
+D	396.79	it's exactly the same .	components, materials and energy sources
+C	398.16	and so that , furthermore , you you we checked the cases .	look and usability
+C	405.15	we have different options concerning the cases .	look and usability
+C	408.0	you ha you sim you simply add basic standard model it was square and figured that's bit boring .	look and usability
+C	416.52	so you you we could go for the single curved or the double curved .	look and usability
+C	420.4	single curve , it's just , , , it's just curve .	look and usability
+C	425.87	or but but you could go in in an double curves .	look and usability
+C	428.46	and that's like several different dimensions .	look and usability
+C	430.73	that gives you an whole new effec , that gives you younger and more high-tech look , figured .	look and usability
+A	432.73	dynamic dynamic look ?	look and usability
+C	437.61	but , that we'll discuss later .	look and usability
+D	440.15	but , are you going to draw it ?	look and usability
+C	444.58	you want me to draw in three-d_ ?	look and usability
+C	450.65	, ca ca could could show you .	look and usability
+D	451.05	't imagine how how how it looks like .	look and usability
+C	453.36	could show you .	look and usability
+C	454.32	let's say you let's say that's your standard that's bit your standard design .	look and usability
+C	471.74	but you could actually go like something like this .	look and usability
+C	478.14	and then in three-d_ effect you could go so you you just , this is this bit difficulty in didn't take major in art .	look and usability
+C	493.14	so but but you could have whole new the back back the the the depth , you could you could just play around bit with .	look and usability
+C	500.13	you you don't have to use standard you could it leaves more space for creativity .	look and usability
+C	508.38	that might be an idea , but just , furthermore , , plastic versus rubber ?	look and usability
+C	514.52	you we could choose what what's better , plastic or rubber .	look and usability
+C	518.4	ch prefer rubber because it feels .	look and usability
+C	522.54	it's soft and it's that like soft .	look and usability
+A	524.79	that's the material the younger people want , ain't it ?	look and usability
+C	526.8	plastic is plastic also has that cheap feeling to it , like plastic your your usually associate plastic with something that's cheap .	look and usability
+C	537.08	that's maybe just me , but , we could , , talk about it later .	look and usability
+C	543.57	furthermore , buttons .	look and usability
+C	545.72	traditional or touch screen .	look and usability
+C	548.33	we discussed it in previous meeting , so figured i'll just leave it at the l_c_d_ .	look and usability
+C	554.4	and chip set , if we are going to use traditional buttons , we could go with simple chip set .	components, materials and energy sources
+C	561.71	but if we decide to go on l_c_d_ screen , we would use an we have to use an advanced chip set .	components, materials and energy sources
+C	569.84	and that would bring the necessary costs with with it .	components, materials and energy sources
+C	573.46	so that's something we th have to keep in mind .	components, materials and energy sources
+C	575.44	if it isn't manageable budget-wise , we'd have to go over to to sim to simple buttons .	components, materials and energy sources
+D	581.68	we're going to sell tell ten millions of them .	components, materials and energy sources
+D	587.23	so bet big company in korea or taiwan , like samsung , can give us big discount on the chips , so usually , chips are aren't more expensive than one dollar .	components, materials and energy sources
+C	603.55	probably , but but , that's that's that shouldn't shouldn't be that big issue .	components, materials and energy sources
+D	604.44	so that that shouldn't be real issue , .	components, materials and energy sources
+C	609.74	i'll i'll i'll just add , put big summary here , so we could discuss it bit .	components, materials and energy sources
+C	614.51	what what are your ideas concerning battery versus kinetic ?	components, materials and energy sources
+B	619.79	you should use kinetic as back-up .	components, materials and energy sources
+C	622.89	you you you should we should combination .	components, materials and energy sources
+C	626.2	you use the battery and charge it up with kinetic .	components, materials and energy sources
+C	629.55	when you pick it up , it charges up .	components, materials and energy sources
+D	631.35	like an aku acu , .	components, materials and energy sources
+A	635.85	just like the watch from seiko .	components, materials and energy sources
+C	640.05	what what do you think ?	components, materials and energy sources
+A	641.73	would prefer both too .	components, materials and energy sources
+C	648.22	that would bring the some more costs , but the who cares , right .	components, materials and energy sources
+C	655.99	that's the project manager's problem .	components, materials and energy sources
+B	657.09	buy fifty cents battery and maybe have something in my presentation to to cope with that .	components, materials and energy sources look and usability
+C	660.06	fifty cent , why doesn't and then we have single-curved versus double-curved .	components, materials and energy sources look and usability
+C	672.15	no , we'll we'll just and , plastic versus rubber .	look and usability
+B	677.6	isn't possible to make combination with rubber is or bendable remotes where you've got .	look and usability
+C	677.67	you , figured it will be rather than hard nah , rubber this is casing , .	look and usability
+B	684.9	or do you rubber casing , .	look and usability
+C	689.95	rubber casing , because you use an touch-screen , it's just casing around it .	look and usability
+C	696.7	so , you could go for plastic , but figured would choose rubber .	look and usability
+B	700.58	maybe ask it right now the question that have .	look and usability
+B	705.14	is it possible of is it necessary to make touch-screen square ?	look and usability
+B	710.03	it isn't , , ?	look and usability
+D	713.55	that touch-screens are generally square .	look and usability
+D	717.09	but it's the case you put around it that makes the shape .	look and usability
+B	717.78	we're we put fashion in electronics , so maybe we can .	look and usability
+C	719.1	that isn't , that would cover it .	look and usability
+D	722.56	but if you have square l_c_d_ screen , and you put case around it that has like bulbs or that that covers part of the l_c_d_ screen .	look and usability
+D	733.71	that that's it's custom customisable and , me too .	look and usability
+C	734.35	that that would solve the problem .	look and usability
+C	738.32	so so so what are the opinions ?	look and usability
+C	741.92	rubber or plastic ?	look and usability
+C	746.83	you you you seemed to hesitate bit .	look and usability
+B	747.51	as long as long as it's it's it's firm , and you don't it's not bendable , th that goes too far .	look and usability
+C	755.73	it it shouldn't it shouldn't flop over when you hold it in your hand no , that that that that's gonna the the chip set will hold it firm in place , and and and and l_c_d_ screen also it might it might .	look and usability
+B	766.38	it might even bounce back when you drop it on the floor .	look and usability
+C	771.88	tra traditional versus l_c_d_ , figured we we all set on that .	look and usability
+C	776.86	and , then also the simple versus advanced .	industrial designer presentation
+C	779.95	figure if we go for l_ l_c_d_ , we we should have the advanced .	industrial designer presentation
+C	784.06	so that shouldn't be problem .	industrial designer presentation
+C	785.81	that's my , you're welcome .	industrial designer presentation
+D	789.44	can do my thing ?	marketing expert presentation
+D	792.17	it expert map .	marketing expert presentation
+A	792.8	do your thing , tim .	marketing expert presentation
+B	793.52	do your thing .	marketing expert presentation
+A	797.03	bring it on .	marketing expert presentation
+D	804.61	last week went to paris and milan for some trend-watching .	marketing expert presentation trendwatching
+D	819.74	our research and development department and went to paris and milan .	trendwatching
+D	826.59	in paris and milan , we asked different people , differing in age and in income , the amount of money to spend , what they like in design and material nowadays .	trendwatching
+D	847.98	our main audience , so that's people below forty , prefer the following .	trendwatching
+D	854.67	at first , the colours of fruit .	trendwatching
+D	857.63	very basic colours , like janus explained .	trendwatching
+D	860.79	fresh colours , green , red , strawberry red , yellow , banana yellow .	trendwatching
+D	870.5	considering material , .	trendwatching
+D	876.88	they like spongy material , like sponge-ball .	trendwatching
+D	881.19	like soft material .	trendwatching
+D	883.49	janus mentioned it also .	trendwatching
+D	885.86	he did some some findings himself .	trendwatching
+C	891.53	the teletubbies sh , you could .	trendwatching
+D	891.67	you wer you weren't in paris ?	trendwatching
+D	896.69	like big flashy colours .	trendwatching
+D	905.05	our secondary audience , people above forty forty years in age , they like the dark traditional colours .	trendwatching
+D	914.21	materials like wood that no just just no , , but just just wooden look .	trendwatching
+A	918.79	but wood is not not material you which you build remote control of .	trendwatching
+C	924.49	you you could .	trendwatching
+A	925.45	but never seen one .	trendwatching
+A	931.66	wooden look , .	trendwatching
+D	932.81	like you have those fake fake panels on the floor .	trendwatching
+D	936.83	the that isn't wood anyway , but ?	trendwatching
+D	940.69	but , that's our secondary audience .	trendwatching
+D	942.74	so , we decided to take the people below forty .	trendwatching
+D	948.84	so , that this doesn't apply .	trendwatching
+D	952.83	'kay , the third .	trendwatching
+D	954.01	there're some overall thoughts about new remote controls .	trendwatching
+D	957.98	they have to look fancy .	trendwatching
+D	960.7	they should be technological in innovative .	trendwatching
+D	965.48	that means there have to be fancy things in .	trendwatching
+D	969.47	and easy to use .	trendwatching
+D	971.71	but that's common .	trendwatching
+D	974.79	my personal preferences .	marketing expert presentation
+D	977.32	we have to aim at mu at the main audience .	marketing expert presentation
+D	980.83	and , therefore use fresh colours .	marketing expert presentation
+A	983.48	would you prefer that you can choose the colour of your remote control or .	marketing expert presentation
+D	988.72	i'll i'll come to that in second point .	marketing expert presentation
+D	991.52	here , think about removable covers , as seen in mobile telephon telephone market .	marketing expert presentation
+D	996.1	to customise your own remote control .	marketing expert presentation
+D	998.43	like the nokia the removable covers , just put red on it and go to the shop and buy green one .	marketing expert presentation
+D	1005.49	third , material being used could be like rubber .	marketing expert presentation
+D	1013.54	it fits within the current market trends .	marketing expert presentation
+D	1017.4	and it adds safety to your remote when you drop it .	marketing expert presentation
+D	1022.72	so to come back to your question , and the people in milan and paris also think that the rubber should be pretty hard .	marketing expert presentation
+D	1033.05	like seen on regular mobile phones .	marketing expert presentation
+D	1038.76	actually , they have lot in common .	marketing expert presentation
+D	1040.58	the phones and the .	marketing expert presentation
+C	1042.43	actually saw phone that you could use as remote , so .	marketing expert presentation
+A	1046.36	maybe you could use your remote as phone .	marketing expert presentation
+C	1049.29	that might be next step .	marketing expert presentation
+A	1049.41	there are numbers on it , so so that you say s_p_s_s_ , and it goes to .	marketing expert presentation
+D	1052.47	in my second sheet of personal preferences , we have to reconsider the speech function recognition .	marketing expert presentation
+D	1061.29	it's very innovative .	marketing expert presentation
+D	1068.87	you you can see that the market is just screaming for new technologies , like speak speech recognition and .	marketing expert presentation
+D	1076.49	but , we have to keep the cost in in mind , but it , it it can be very expensive .	marketing expert presentation
+B	1079.91	twelve fifty when your parents are watching some boring program , you can take the remote and do something else .	marketing expert presentation
+D	1084.96	'kay , second .	marketing expert presentation
+D	1085.91	building games like snake or tetris to amuse the younger users .	marketing expert presentation
+D	1091.04	also the link with mobile phones .	marketing expert presentation
+A	1094.3	but you don't use that th games when you watching television , .	marketing expert presentation
+D	1094.65	no , but no , .	marketing expert presentation
+D	1099.92	but you don't use games when you're when you're making telephone call .	marketing expert presentation
+D	1103.55	it's just the same .	marketing expert presentation
+D	1110.77	when you're at college .	marketing expert presentation
+C	1112.67	you take your remote with you to school .	marketing expert presentation
+A	1112.93	you take your remote control with you .	marketing expert presentation
+D	1115.09	you al you also take you take your ipac and go play games .	marketing expert presentation
+D	1122.13	do that , but , and and third , stick with it , the log-in functionality with the slogan , take parental control to new dimension .	marketing expert presentation
+B	1174.79	the interface contents .	interface specialist presentation
+B	1178.66	that's just simple powerpoint mock-up want to make it more as dynamic for you so i'll draw there .	look and usability
+B	1184.88	but , the main concept is take one big touch screen .	look and usability
+B	1190.75	always display the primary buttons clear and visible .	look and usability
+B	1196.88	maybe even li like this with uses of lot of space .	look and usability
+B	1201.4	and make the menu structure changeable .	look and usability
+B	1203.59	so if you press system , that's , multiple system options can , maybe five or ten or or one , can fit in .	look and usability
+B	1213.98	or maybe even step further when you want to have some other options that are not programmable with one horizontal button .	look and usability
+B	1224.51	and other buttons can may be displayed here if that's necessary .	look and usability
+B	1229.63	and , how do do we want to look at does remote look , it's you've gotta hold it in one hand .	look and usability
+B	1238.72	so the middle like all remotes have to be in little bit small , so you can put it in inside your hands .	look and usability
+B	1249.9	and some remotes you can use with your thumb .	look and usability
+B	1251.84	but that's too difficult for this one .	look and usability
+B	1254.35	so you can make it little broader .	look and usability
+B	1259.82	and maybe use your thumb on the on the main buttons .	look and usability
+B	1264.45	and use your other hands on the menu structure .	look and usability
+B	1268.68	so here are gonna be the program buttons .	look and usability
+B	1271.28	one , two , three , four , et cetera .	look and usability
+B	1274.3	and the the volume control and program control maybe .	look and usability
+B	1278.93	and , down here , , added , this could be one big l_c_d_ .	look and usability
+B	1286.26	the menu structure .	look and usability
+B	1289.48	so you can use it in in this way .	look and usability
+B	1295.17	one thing you've gotta keep in mind , keep the remote clear of too much functions at the same time .	look and usability
+B	1303.92	know that if you are changing the menu structure here , and , still believe you should keep displaying the buttons .	look and usability
+B	1313.7	but if you're programming the colour of the t_v_ , do not display twenty other options that are possible .	look and usability
+B	1319.62	just keep it as simple as as possible .	look and usability
+B	1323.21	and do not use too many levels .	look and usability
+B	1324.63	do not have to select screen first and then brightness and then colour and un-plus , and push plus twenty times .	look and usability
+B	1332.25	but just the just in one button if possible .	look and usability
+B	1337.39	and , , you kn you all know the t_v_ levels .	look and usability
+B	1340.64	channel one , two .	look and usability
+B	1342.08	and when you get to to to ten , ye and want to go back , you have problem .	look and usability
+B	1347.12	just most most modern t_v_s , you you press one zero , and it goes to ten .	look and usability
+B	1352.13	and else , to one and through after that .	look and usability
+B	1355.1	so the button less .	look and usability
+B	1357.73	and , things like teletext , put them in the menu .	look and usability
+D	1365.77	what do you think about back-and-forth come-up button ?	look and usability
+B	1370.39	, find must trying to tell it .	look and usability
+D	1371.24	like in internet explorer .	look and usability
+B	1375.93	is volume plus and minus ?	look and usability
+B	1378.99	and this is program plus and minus .	look and usability
+D	1382.75	but does it that is for going from four to five .	look and usability
+D	1387.03	but if you go from two to eight , and you want , and on two .	look and usability
+B	1389.05	or if you're watching studio sports on on seventeen , and your wife is watching some soap on two yes , that's good idea .	look and usability
+D	1393.99	that you can switch switch easy .	look and usability
+B	1397.85	but , my preference would to be put it in the menu structure .	look and usability
+B	1403.48	and if you're using that button lot of times , the menu will still be displayed on the screen .	look and usability
+B	1409.42	you just don't have to play games in-between .	look and usability
+B	1412.42	but if you're really switching between two channels , you won't have time to use the other options .	look and usability
+B	1419.35	already already told that .	interface specialist presentation
+B	1425.6	that's my conclusion .	interface specialist presentation
+A	1430.04	we can discuss little about the the three revolutionary things tim came with .	discussion
+A	1439.59	the parental control , the games , and the voice recognition .	discussion
+A	1442.94	there's not too much decision on that one so that parental control is good function to to put in the remote .	discussion
+A	1455.34	how you think about it .	discussion
+B	1458.01	agree , just put it in the menu structure somewhere .	discussion
+B	1462.47	system properties , parental control .	discussion
+D	1463.73	but what see how see it is you put it on the the remote and then you have like windows log-on screen with parents , children .	discussion
+D	1481.58	something like that .	discussion
+D	1482.85	and when you want to use the parents option , you have to , .	discussion
+B	1485.96	it it has to be fast .	discussion
+B	1487.39	you don't want to to go down and watch the news at eight o'clock and turn it on and twenty seconds for for the log-on screen and then remember your code and all kinds of settings .	discussion
+A	1497.49	no but most people find it much more important that their children don't watch sex or violence on the television , and ten or fifteen seconds longer , so they can finally watch it because of that .	discussion
+B	1511.56	you may use like when there's x_p_ , simple log-on , you just push one or two or three .	discussion
+D	1517.64	pu push parents .	discussion
+B	1518.94	and if you push parents , then .	discussion
+D	1519.39	that then then then you have to go to three-digit log-in .	discussion
+B	1522.04	to log in .	discussion
+B	1525.0	and if you puts ye .	discussion
+D	1526.16	like two one three .	discussion
+D	1528.2	and it's in .	discussion
+B	1528.94	and if you you push children , you don't have to log in , but you can only watch children's channels or .	discussion
+D	1532.22	it automatically goes .	discussion
+C	1537.58	if it's worth the time and effort we are going to spend on it .	discussion
+C	1541.18	because t's simple function , but it's gonna take lot of resources and lot of time to programming it .	discussion
+C	1548.5	because you'll have to start working with the profiles and such .	discussion
+C	1552.05	and i'm not if it's actually worth investing that much time and effort into it .	discussion
+C	1557.21	what but , , if you want to if we in incorporate the parental control , let's say we do , and and whatever , cho child just goes up to the t_v_ and presses up .	discussion
+A	1557.31	that's there's big market for it , because you , you read many times in magazines same , and you heard on the news that that he , they believe that children are influenced by the television , and , we're we're aiming to below forty years .	discussion
+A	1578.6	but there are lot of people will below forty who have children in young age who who want to not watch violent or .	discussion
+B	1587.61	maybe some idea on that .	discussion
+B	1590.79	just make through remote as it is , but make an option to insert profiles , 'cause if my grandad would buy this remote , he wouldn't want to bother with all all the all the things to do .	discussion
+B	1604.58	just make it an option in menu , ins install powerful profiles .	discussion
+A	1611.47	that's that's better idea ?	discussion
+D	1613.22	it just has to be when it's deliver out of the store , it has to be just simple and plain .	discussion
+D	1620.67	but if you want to install it personally if got kids , and could choose between two remote controls .	discussion
+D	1633.74	one with parent control and one without , and would would buy the one with .	discussion
+A	1634.54	with and one without .	discussion
+B	1640.97	, still some question have about how to incorporate those ones .	discussion
+B	1645.55	you're thinking about some channels they cannot see , but , when , , for the for all the standard channels , and only for maybe after ten o'clock in the evening violent films and movies will come and maybe maybe some some timing will be needed instead of of channels , because if you're watching , , you're in the at day , cartoons will come up on maybe friday night .	discussion
+A	1676.58	maybe it can work with show view .	discussion
+A	1678.49	you you can control your video recorder with show view .	discussion
+A	1682.44	when you tick in number , it will start and end recording .	discussion
+A	1686.46	but maybe there's some option that that the show view numbers are violent , and that they are blocked out .	discussion
+B	1695.15	the disadvantage vantage is that someone will has to send all the show-view numbers of the programs that they remotes and edit it all , will have to decide that isn't possible .	discussion
+D	1704.31	but but that isn't possible .	discussion
+C	1722.55	nob nobody's stopping the child from checking the channel .	discussion
+B	1729.81	you could say if parental control is only it it'll go from fourteen to sixteen with the page-up then , but mm-hmm .	discussion
+C	1729.9	but that , i'm not because for that to happen , you you will have to receive signal from the remote control , so it would , , have to be constant constant signalling .	discussion
+C	1749.58	what what may be better is to incorporate an separate device that that you can program with the remote control .	discussion
+C	1756.73	and that provides parental control , .	discussion
+C	1760.42	and that's just an optional device .	discussion
+C	1762.52	so there's that's there's besides the remote control , you'll have separate ?	discussion
+A	1768.01	wouldn't put it in an optional device .	discussion
+A	1769.83	that that then then then it becomes too much , .	discussion
+A	1773.36	if we do it , we we must do it in ways that like profile , parent profile , and family profile , and otherwise .	discussion
+D	1774.1	and and and when you install another device , children can still go up to the t_v_ , pop open the thing and and and go to channel .	discussion
+B	1777.87	on separate menu option .	discussion
+C	1793.01	that's true , but at same instant , same happens when you have remote control .	discussion
+C	1798.3	so but , only difference is the the people buying the remote control will now get the added feature of parental control , and those people wouldn't necessary want it .	discussion
+C	1810.2	so , you you'd be .	discussion
+D	1811.72	but it's just an an added feature feature .	discussion
+A	1815.28	and what do you guys think of the games in the voice recognition ?	discussion
+A	1819.15	personally think that that becomes too much .	discussion
+B	1822.1	, mail too from management that it's very popular to use voice recon recognition .	discussion
+A	1822.8	it's more like it gets you to the functionality , but .	discussion
+B	1829.36	but don't think when you're watching t_v_ , hearing loud noises from the t_v_ , someone screaming one , and you the channel switches , .	discussion
+D	1838.59	like voice recognition is too much , .	discussion
+C	1845.34	see games happening .	discussion
+B	1845.48	you can put it on chip anyway , so as long as it's isn't primary feature of the remote , but optional in but how we do it ?	discussion
+D	1849.17	that that doesn't that doesn't co , that that doesn't cost lot of extra resources , .	discussion
+A	1856.28	so that will that that that must be in it , you think ?	discussion
+C	1860.08	that will be .	discussion
+A	1862.65	so the games are in it .	discussion
+A	1864.07	the voice recognition are not .	discussion
+A	1865.56	and the parental control are optional ?	discussion
+D	1868.58	it's it's in it .	discussion
+D	1869.84	but too ma so , but .	discussion
+B	1873.44	also it's good idea , buts very difficult to incorporate .	discussion
+B	1877.87	so we should make it too complex .	discussion
+B	1879.88	is some menu function , you choose parental control , and maybe four files will emerge from menu where put it on .	discussion
+B	1887.4	but how how it's gonna work will be problem .	discussion
+A	1890.95	but will there like the first idea from you can buy it without and with parental contr control ?	discussion
+A	1901.61	or are we going to put it in and just ?	discussion
+B	1902.28	ye best would be to put it in and make it an menu option .	discussion
+D	1907.12	to put , to put it in always .	discussion
+B	1908.4	you can put on .	discussion
+B	1910.72	and you can just when you buy it , you can select personal preference , parental control on , and the password .	discussion
+C	1920.75	figure if you had two different remotes , you could bo choose one with receiver in it .	discussion
+C	1929.48	so you could actually easily build in parental control .	discussion
+C	1933.72	but it would would be more expensive .	discussion
+C	1936.63	so , and that that way you could make cheap model and expensive model .	discussion
+C	1940.88	could ma make the simple model and the deluxe model , .	discussion
+D	1945.77	but t_v_s aren't capable of sending .	discussion
+C	1949.42	yes they are .	discussion
+D	1951.56	they were just able to receive .	discussion
+A	1952.92	you yo , but most often not .	discussion
+C	1953.25	you you have some t_v_s any .	discussion
+C	1957.81	that is true , that is true .	discussion
+B	1958.79	maybe you just have to restrict it to what programs , where the parent says , you cannot watch channel seven , nine , and ten , and you cannot watch all channels after ten o'clock .	discussion
+B	1968.86	and there's just some little clock in the remote .	discussion
+C	1971.07	you could you could easily you could easily you could easily to the mote control .	discussion
+D	1971.38	just some rules .	discussion
+C	1975.35	but you still have the problem about the television itself .	discussion
+B	1978.74	no , no , it's very simple .	discussion
+B	1980.08	there th i've seen some of remotes who have clock in it .	discussion
+B	1983.79	so , the remote does doesn't transmit when it's after twelve clock .	discussion
+D	1987.81	but , on the t_v_ at least my t_v_ , is is compartment which you can press .	discussion
+D	1994.77	and there are buttons behind it which you can use , if you if you don't if you don't have .	discussion
+B	1998.47	that's to put it very blunt , that's not our problem .	discussion
+B	2002.61	just have the parents buy some glue and it's not not part of the remote .	discussion
+C	2009.13	that is true .	discussion
+C	2010.66	that is true .	discussion
+B	2011.64	you have to .	discussion
+C	2012.54	you could you could you could go like that that would actually make things lot more easy .	discussion
+B	2013.21	or make it ourselves very diffic .	discussion
+C	2017.02	you could just blame it on television and make it their problem .	discussion
+C	2023.45	figured figure we could do that .	discussion
+C	2028.04	i'm not what marketing thinks about it , but user profile .	discussion
+D	2030.75	have to consult my legal advisor about it .	discussion
+A	2039.63	so we have decided on the things that from janus , the energy , the combination between battery and kinetic .	discussion
+A	2048.33	the case will be double-curved and rubber , in fr flashy fruity colour that with cover is removable .	discussion
+A	2058.47	the buttons will be touch-screen .	discussion
+A	2061.42	but there may not be too many buttons .	discussion
+A	2064.39	and in the the menu structure , there must not to be five minutes to go .	discussion
+A	2071.95	too too many levels .	discussion
+A	2074.03	and it must be easy to use .	discussion
+A	2077.06	the parental control will be incorporated , but it must be not too complex .	discussion
+A	2082.68	and the games are in it .	discussion
+A	2084.58	so we have we have decided , .	discussion
+D	2092.78	have one thing left .	discussion
+D	2094.83	maybe for jerome .	discussion
+D	2100.57	maybe it's handy to build in an expert view and simple view .	discussion
+A	2106.71	like like moat or .	discussion
+B	2109.1	what was thinking about is just menu structure , when you don't use it is simple .	discussion
+D	2109.34	like at in the experts view , you have lot of more buttons .	discussion
+A	2110.99	but you have that in the .	discussion
+B	2116.25	and when you push system properties , entire list pops up with ev all you can program .	discussion
+A	2116.32	you use the .	discussion
+A	2122.73	it's already incorporated little in that concept .	discussion
+C	2124.46	you you could actually build in function that you can program it yourself , for the more advanced users .	discussion
+D	2129.6	wh which buttons you like or not .	discussion
+C	2131.69	which buttons do you want to in it .	discussion
+C	2133.49	because you can you can like build in back-forward button , and some po somebody would just want to watch two channels .	discussion
+D	2141.3	just leave the other numbers away .	discussion
+C	2142.87	you could you could have people want want that .	discussion
+A	2146.36	we take it to the other meeting , ?	discussion
+A	2147.96	have little little chat to do and then we finish .	discussion
+A	2151.48	went to master class and two things are are can come in handy for us .	discussion
+A	2158.91	first thing is we talked about knowledge management .	discussion
+A	2162.65	knowledge engineering and the fact that that that the idea of knowledge , sharing and learning knowledge from other companies is like that .	discussion
+A	2174.34	it's it's very hot at the moment , so it's it's mostly for the management expert to to look what other marketing or did said management ?	discussion
+A	2183.46	just talking about myself .	discussion
+D	2184.09	that's my function , to .	discussion
+A	2185.95	what other companies had to also with the the the the marketing campaign when they put on newer remote , just some .	discussion
+A	2203.77	and another one .	discussion
+B	2204.58	som some bench-marker .	discussion
+A	2205.77	they're ha they're at , benchmarking , that's the word saw .	discussion
+A	2210.25	couldn't , another thing is there were there there was survey , and it came out that people like to buy things from single large provider , instead of those who are partnering with us .	discussion
+A	2226.21	so , we must we must bring it as if real reaction is is big company , trustful company , and it has .	discussion
+D	2234.63	how know marketing name for our product .	discussion
+D	2238.32	r_ th r_ to the third power .	discussion
+D	2242.02	real reaction remote .	discussion
+A	2243.5	had had another idea to put the whole the whole idea of real reaction and single brand and that thing .	discussion
+A	2254.56	when you put on remote , you see just like when you telephone , you see little animation .	discussion
+A	2260.96	real reaction remote .	discussion
+A	2263.47	and with the with the with the motto , we put fashion in electronics .	discussion
+A	2267.89	and then you go the .	discussion
+D	2269.65	, but it has to be like split second , because you have to put in code also and .	discussion
+B	2273.42	you can show somebody logo for point five seconds , they'll still remember it .	discussion
+B	2279.34	and it it linger on every time you see it .	discussion
+A	2279.88	but th the idea from this thing is that we must present it as as we are single large provider who will stand on our own .	discussion
+C	2287.93	if you if you have the l_c_d_ screen , you can you can have small logo at the bottom .	discussion
+C	2293.47	and it could just stay there .	discussion
+D	2294.48	that spins around like all the time .	discussion
+C	2295.49	that spins around .	discussion
+A	2298.13	but we we are .	discussion
+D	2299.83	it it's just like globe in internet explorer .	discussion
+C	2304.45	something like that .	discussion
+A	2304.97	but think about that things .	discussion
+B	2306.01	it's for , for the next meeting , right ?	discussion
+A	2308.07	that's what they said in the master class .	discussion
+A	2311.95	next meeting starts in thirty minutes .	discussion
+D	2313.25	who who who gave you the master class ?	discussion
+A	2316.29	so maybe you can go to paris and milan once again .	discussion
+A	2321.64	the master class ?	discussion
+A	2327.84	very special , next session .	closing
+A	2331.14	idea that you the the industrial development centre and user interface will work together on prototype .	closing
+A	2340.48	and will drawing it on the smartboard .	closing
+A	2342.6	so that's kinda new thing .	closing
+A	2344.92	and , the marketing expert will will ke he will be keeping busy with the product evaluation .	closing
+A	2354.06	but the most specific instructions will be sent to you by email .	closing
+B	2356.79	stay here and p_ .	closing
+C	2357.54	so we're going to work together right now ?	closing
+A	2359.53	the , dids this what what heard .	closing
+A	2363.28	not in the master class .	closing
+D	2363.66	in the master class .	closing
+A	2368.18	so you just for the specific instructions and but it was very very good session , gentlemen .	closing
+B	2376.21	no new email .	closing
+A	2382.4	and give me good evaluation .	closing
+D	2383.79	too , lord .	closing
+D	2389.37	'kay guys , lot of success .	closing
+A	2393.14	see you in half hour .	closing
+A	2397.83	but keep an eye on your laptops for real , but th there's there's still the my instructions that you will work together .	closing
+C	2399.13	i'm not if we we because saw something about individual actions .	closing
+A	2412.52	that's not my problem .	closing
+B	2413.26	if you got no .	closing
+B	2414.55	so stupid manager .	closing
+A	2416.16	the project manager always works alone .	closing
+C	2421.91	do you have new email ?	closing

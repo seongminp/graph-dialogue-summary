@@ -1,0 +1,503 @@
+The S Action - schemas have extra
+but the fact that it 's action schema and then slash action schema
+and then what actual a action is chosen is will be in the in the action schema section .
+I if you wanna have in the same level as the action schema SPG schema
+a link between the action schema , a field in the s in the schema for the image schemas that would link us to which action schema we were supposed to use
+references from the roles in the schema the bottom schemas to the action schemas is wha I 'm assuming .
+S So , like are you gonna have similar schemas for FM
+Under so o under action schema there 's a list that can include both things .
+Now it 's technically possible that you can fit schema within schema ,
+What are some types of action schemas ?
+, every action has a set of related schemas
+and this action consists of all com complicated modules and image schemas and whatever .
+
+the fact that we 're calling this " action schema " right now should not entail that we are going to continue calling this " action schema " .
+it 's it 's called s S P G - one
+wha how do how does Professor Peter call that ?
+
+This is just properties of the SPG schema .
+And if so like can are you able to enforce that if it 's if it 's SPG action then you have that schema ,
+so it would be considered valid if we have an SPG action " Enter " and no SPG schema , but a forced action schema .
+Every SPG every SPG action either is an Enter or a View or an Approach ,
+so , SPG action is a category .
+Get get rid of the SPG slash something
+? Like , do you say " alright I 'm going to do an SPG action " .
+Because if we know that Enter is a t is an SPG action ,
+
+, that 's that 's one thing is that we can link up ,
+think also that we can have one or m as many as we want links from the schema up to the s action description of it .
+and link it to another one , and this not only within a document but also via documents ,
+but this is one wa so this is a way to link the way these roles are filled out to the action .
+This is a simple way to link roles to actions .
+
+even within the domain of entering in the light of a Source - Path - Goal schema , that we need to put in fill in additional structure up there .
+So you had like an action schema and a Source - Path - Goal schema ,
+So how does this Source - Path - Goal schema fit into the action schema ?
+So the Source - Path - Goal schema in this case ,
+and you can also describe them in a general way as Source - Path - Goal schema
+But the notion I got from Nancy 's idea was that we may f find concepts floating around i in the a action description of the action f " Enter " frame up there that are , e when you talk about the real world , actually identical to the goal of the S Source - Path - Goal schema ,
+IE the Source - Path - Goal schema of getting there and then the buying snacks schema ,
+because they have a related Source - Path - Goal schema in our tourist domain .
+one of the types of action schemas is Source - Path - Goal action .
+
+That 's what 's left .
+You have a specific intentions to cross the traffic light to get there .
+You have a further specific intentions to left to lift your right foot
+but the principal distinction between having the pure schema and their instantiations on the one hand , and adding some whatever , more intention oriented specification on parallel to that this approach seems to be workable to me .
+It 's still it 's still mainly intention hypothesis
+
+So that 's what 's gonna happen , tomorrow ,
+, did you run into problems or did you run into not h having time ?
+That 's better than running into problems .
+and then the person is presented with what 's running on TV
+what 's running in the cinemas ?
+, we I will promise for the next time to have fleshed out N XML examples for a run through and see how this then translates ,
+maybe you 're gonna run a trial tomorrow .
+
+And then those actions can be in multiple categories at the same time if necessary .
+because , that there 's multiple sens
+it 's it 's crucially necessary , is that we can have multiple schemas and multiple action schemas in parallel .
+And it may be multiple categories as you say which is the reason why it gets a little messy
+
+That 's generally the way it 's done .
+if it 's a general solicitation that is just contact you then we can pro post it to the news group
+OK , that much from the parser and generator side ,
+So , no sample generator output yet ?
+So if you go to a bakery you have a general intention of not being hungry .
+but it 's it for me it seems to be conceptually important that we find out if we can s if there if there are things in there that are a general nature ,
+So , in general they 'll be bindings across both intentions and the actions .
+So it 's gen it 's general across all of these things
+
+let me make one more general remark , has two side actions , its action items that we 're do dealing with ,
+, what this is that there 's an interface between what we are doing and the action planner
+the input into the action planning , as it is now .
+because many actions presuppose some almost infinitely many other actions .
+So so for each particular action that you may want to characterize you would have some number of slots that define in some way what this action is all about .
+. So is it a fixed number or do you leave it open it could be between one and fifteen
+it 's that the action is what you intend
+
+in this case it will hold the the features I .
+because in case we need extra information
+instead of just making it an attribute and which is just one thing we decided to make it 's own entity so that we could explode it out later on in case there is some structure that we need to exploit .
+This was in this case it 's all clear , obvious ,
+that particular case , there 's mult there 's a forced side of that verb as .
+but in this case it 's really like there 's a purpo means that f for achieving some other purpose .
+but it 's still the case that you could you could override that default by giving extra information
+The the reason One reason we 're doing it this way is in case there 's extra structure that 's in the Enter action that 's not captured by the schemas ,
+if that 's the case we our I don't think our system can handle that currently .
+
+Which which we 're abbreviating as " RAD " .
+So is the ri right now are the ideas the rich the RAD or whatever is one potential block inside intention .
+Mmm . We know the things that make use of this thing so that we can just change them so that they make use of RAD .
+RAD 's a great term .
+It 's it 's rad ,
+
+and we will have forced motion and cost action actions .
+Forced motion and caused action ,
+and maybe there 's other image schemas that you could add after this that , how do they work in terms of a force dynamics
+like forced motion and caused action and
+if it 's a forced motion then you have the other schema present in the
+Forced action or forced motion .
+
+but the categories inside of action schemas ,
+So if you wanted to have a new type of action you 'd create a new type of category .
+So we would put " write a letter " in the categories that in which it had it w had schemas u
+in which the things that go into a particular You have categories at the top under action schema
+and the things that go under a particular category are supposed to have a corresponding schema definition for that type .
+and pos partly because you need to know somewhere that those things fall into some categories .
+but if it has if it 's supposed to be categorized in category X then the corresponding schema X will be among the structures that follow .
+
+So it 's like the Enter versus View
+they will have no more linguistic matter in front of them when they enter this room .
+So we know for Enter that there 's Container potentially involved
+The r the in terms of why is it 's laid out like this versus some other
+and e whether or not we take the Enter - View and we all throw up the ladder
+
+And he also approached me and he offered to help our project
+But it 's independent whether we are using the SPG schema in an Enter , View , or Approach mode ,
+but you can think of the Enter , View and Approach as each having their roles ,
+the it 's it 's implicit that the person that 's moving is doing entering viewing and approaching ,
+and maybe it has about that specific to entering or viewing or approaching ,
+think of enter , view and approach as frames
+So the Enter - View - Approach the the EVA , those are fixed slots in this particular action .
+However the it seems to be sensible to me to r to view them as mutually exclusive
+because you can either enter a building or view it or approach it and touch it .
+a different action . and this action - two would have various variable possibilities of interpreting what you would like to do . And i in a way similar to either Enter - View - Approach you may want to send a letter , read a letter , or dictate a letter , let 's say .
+although what we 're specifying here is this is a category where the actions " enter , view and approach " would fall into
+And an Enter , a View , an Approach .
+under action schema you could just say whatever it 's gonna be Enter , View or Approach or whatever number of things
+And " , OK , so do an Enter - View - Approach " .
+if we if our module decided that Enter is the case , View and Approach will not be there .
+OK , so we can promote Enter - View all up a bit
+
+such as the Source - Path - Goal
+Source - Path - Goal ,
+on the in the first iteration a stupid list of Source - Path - Goal actions
+or that are related to Source - Path - Goal .
+how do we avoid writing down that we have the Enter Source - Path - Goal
+Source meaning Source will be will have a name , a type , maybe a dimensionality ,
+and the interior of it corresponds to some part of the Source - Path - Goal goal goal I in this case .
+It maybe it means we had nothing to say about the Source - Path - Goal .
+there are truly times when you have two independent goals that they might express at once ,
+and I get a Source - Path - Goal where the goal is a bakery
+And they 're independently they are events which have very different characters as far as Source - Path - Goal whatever .
+So when you identify Source - Path - Goal and whatever , there 's gonna to be a desire , whatever , eating , hunger ,
+J Do you mean within the Source - Path - Goal actions ?
+Those are all Source - Path - Goal actions .
+So you 'd the Source would be outside and Path is to the door or whatever ,
+like Source - Path - Goal or force , whatever ,
+And then somebody ne either the computer or the user says " alright , , I know I want to do a Source - Path - Goal action so what are my choices among that ? "
+
+blah - blah - blah ,
+and I and that 's also it 's it 's going to produce the concept - to - speech blah - blah information for necessary for one point one in English
+and there 's gonna be s a lot of on the Goal and blah - blah , that a goal can be and .
+So so we would we would instantiate the SPG schema with a Source - Path - Goal blah - blah
+and get rid of the blah - X - blah asterisk sub - action item altogether .
+
+and they 're engaged in various activities , some of which you will hear about today .
+we 're sticking with the term " wizard " ,
+so if there 's something that you 're sending out you can also s send me a copy ,
+And then we 're going to have another we 're gonna have w another trial run
+No it 's just they 're coming for us so that we can bug them
+But it 's not like we need to be with them twenty - four hours a day s for the seven days that they 're here .
+And then you get you 're shown what movies play which films ,
+But they 're shown like on a screen .
+And they 're gonna be , , fleshed out in their real ugly detail ,
+in the future , we may find out that , , there 're really s these subtle differences between
+the Source will store the object that we 're going from ,
+but those could include roles like the thing that you 're viewing , the thing that you 're entering , the thing that you 're
+it 's if we can actually get it so that we can , out of one utterance , activate more than one schema , , then we 're already pretty good ,
+You are more than welcome if you think that this discussion gets you anywhere in your life then you 're free to c
+
+Like so So it 's just based on like the materials you had about Heidelberg .
+the first thing is what 's , , showing on TV ,
+and it 's gonna be all the Heidelberg movies and what films they are actually showing .
+But it 'll tell you that this is what 's showing in Heidelberg and there you go .
+And then you pick a movie and and it show shows you the times
+So is there an easy way in this notation to show when there 's identity between things
+OK , Bhaskara will do the big show on Friday .
+The big parser show .
+
+So the fillers of the role source .
+we 'll fill those in fill those roles in ,
+OK these are this is just a layout of the possible that could go play that role .
+Right , so the the roles will be filled in with the schema
+Inside of Enter there will be roles that can be filled .
+So if I want to go from outside to inside then you 'd have the roles that need to filled , where you 'd have a Source - Path - Goal set of roles .
+h and then those are the ones that actually you then actually define and say how the roles bind to your specific roles
+we know to look for an SPG schema and put the appropriate fill in the appropriate roles later on .
+I 'm I 'm never happy when he uses the word " roles " ,
+
+here you have the action and the domain object
+In the future though , the content of a hypothesis will not only be an object and an action and a domain object but an action , a domain object , and a rich action description ,
+And it 's gonna get more and more complex the l complexer and larger our domains get .
+Because you 're not gonna get anymore information out of the action a as you find it there in the domain object .
+But then again in this case , the domain object may contain information that we don't really care about either .
+, I 'm just wondering whether the ac some the actual sentences from this domain will be available .
+
+Ami is our counselor and spiritual guidance
+and he sits in as a interested participant and helper .
+and we have a real interesting subject which is Ron
+for who those who know him , he 's the founder of ICI .
+there 's a web site
+It 's a tourist information web site ,
+, we we will get a protocol of the prior interaction ,
+, I 'm I 'm not saying it 's necessary
+and it would have been , not changing one hundred words but maybe four hundred words ,
+I want to see " Die Dukes Von Hazard "
+And the presentation agent will go " Hhh ! " Nuh ?
+And the problem is , is that the current system does not distinguish between goes of type " going into " , goes of type " want to go to a place where take a picture of " , et cetera .
+And is that and tha that 's changeable ?
+So it 's just an additional information
+personally , I 'm looking even more forward to the day when we 're going to have X forms , which l is a form of notation where it allows you to say that if the SPG action up there is Enter , then the goal type can never be a statue .
+I 'm there 's a commercial event schema in there somewhere .
+it 's it 's flexible .
+There could be a communication event action like that
+And then later , , there the we have a communication event action where we 'd define it down there as
+The hhh , silence su sublimination ?
+it 's like Shastri would say binding is like an essential cognitive process .
+It 's an a attempt to refine it .
+
+So you 're just saying like what part of town the things are in or whatever ?
+and it 's gonna part of the M - three - L AP API filed by the end of this year
+, so one is really facilitating the other and it 's part of a compound action of some kind , which has structure .
+So there 's there 's a single event of which they are both a part .
+it occur it occurs to me that ne
+We will not end this discussion anytime soon .
+including the " miracle occurs here " part .
+I would be curious to see how separate the intention part and the action part are in the system .
+and then that 's just one way to describe the action part of it .
+
+visit 
+Bed006Cdialogueact252	437215	438285	C	Grad	s:s	-1	0	do some sightseeing
+w it doesn't really have much meaning to grad students
+and I di if that 's something we need to invent
+So it 's g it 's the spec is there
+that 's nicer for a lot of reasons
+you could think of one a sub pru whatever pre - condition for the second .
+I still am not entirely that I really fully grasp the syntax of this .
+And I 'm , I 'm inventing contexts which are maybe unlikely ,
+So there 's just like reverse organization ,
+
+so they 'll have a little bit more natural interaction ?
+So they 'll be given this map , which means that they won't have to like ask the system for in for like high level information about where things are ?
+So it 'll be i it 'll still require the that information
+So he 'll he 's around seven seventy years old , .
+but I imagine I 'll c just catch on .
+So all of a sudden we 'll get descriptions of pictures in there .
+So I the question is when you actually fill one of these out , it 'll be under action schema ?
+It 's gonna be one y you 'll pick one of those for
+all the kids 'll love it .
+
+and the person is not allowed to take this h high level category list with them ,
+you could say " here , list all the kinds of schemas that on the category that
+List all the parent categories .
+list all the parent categories " .
+And then you 're more interested in knowing what the parent categories are of that .
+
+I made that joke already , Nancy , sadly .
+So out of these f s these high level categories the subject can pick a couple ,
+We 're talking more on the intention level , up there ,
+so as you can see this is on one level and we are going to add another " Struct " , if you want , IE a rich action description on that level .
+So there 's like levels of granularity .
+and decide the level of abstraction that you aim at it zero in on that ,
+People reach their level of max their level of at which they 're incompetent or whatever .
+It 's just like those jokes where you have to work on both levels .
+
+and already she has already gone to the trouble of anchoring it with specific o entities and real world places you will find in Heidelberg .
+they 're like action specific roles and the more general Source - Path - Goal specific roles .
+So very specific role names are " viewed thing " , " entered thing "
+and they have frame - specific parameters and roles
+So all of those have f either specific frame specific roles or more general frame specific roles that might have binding .
+because sooner or later the W - three - C will be finished with their X - path , , , specification
+So you have constraints that are dependent on the c actual s specific filler , , of some attribute .
+whatever other frames you have involved , they have to match up in ways .
+and then just say all the things that are relevant specifically to Enter .
+It 's just like a frame hierarchy ,
+So you would say enter and you 'd say my parent frames are such - and - such ,
+
+And so the version he 's sending us is already producing the English that 's needed to get by in version one point one .
+And we will have all of our points in writing pretty soon .
+
+and they know that they have decided that , yes , that 's where they want to do this action that they have it with them and they can actually read them
+, u the one experiment th that that I 've read somewhere , it was they u used pictures .
+I may be just reading this and interpreting it into my head in the way that I 've always viewed things
+This sounds like a paper I 've read around here recently in terms of
+Have you never read the Peter 's Principle
+Yes . I 've I 've I I 'm on record for promising that now .
+
+there the idea is now that next actually we need to hire one more person to actually do that job
+such as if there is a cop a category in emptying your roll of film , the person can then decide " OK , I wanna do that at this place " ,
+And so , the person can maybe make a mental note that " I wanted to go shopping here "
+That 's where the instructor , the person we are going to hire , and the subjects sit down together with these high level things
+and and there 's a person looking at pictures .
+So the person may select " Huehner Rennen " or whatever .
+and right now the way the interface is " action go " and then they have the what the person claimed was the source and the person claimed as the goal passed on .
+I do ultimately want our module to be able to first of all f tell the rest of the system " hey this person actually wants to go there "
+let 's make a a sharper claim .
+
+The goals that we 've d you guys have been talking about are this these identifying which of three modes their question concerns .
+th the q first question for the subject is , " so these are things , , we thought a tourist can do .
+So the interaction beforehand will give them hints about how specific or how whatever though the kinds of questions that are going to ask during the actual session ?
+So the question is are how to represent when things are linked in a certain way .
+it 's somewhere in there that you need to represent that there is some container
+It 's also a question of the recursiveness and a hier hierarchy in there .
+there there should never be a hard coded shortcut from the bakery question to the double schema thing ,
+I have a question about the slot of the SPG action .
+I if I 'm gonna answer your question or not with this ,
+
+the person is able to take notes on a map that we will give him and the map will be a tourist 's schematic representation with symbols for the objects .
+it 's a schematic tourist map .
+the map is more a means for them to have the buildings and their names
+and maybe some ma major streets and their names
+because it 's too hard to memorize all these st strange German names .
+And all the names could should be taken " cum grano salis " .
+now , some simple " Go " action from it from an object named " Peter 's Kirche " of the type " Church " to an object named " Powder - Tower " of the type " Tower " .
+I 'm not it 's hard for me to exactly s
+Or the Gateway Arch in St .
+
+and just sending the little write - up that we did on to those email lists
+How however I suggest that if you if you look at your email carefully you may think you may find that you already have it .
+So if anyone interested in what i 'm about to describe , tell that person to write a mail to me or Jerry soon ,
+It Just a mail that , , he 's sending me the the soon
+
+and also interested in problems concerning reference of the more complex type ,
+and then , secondly , we had , you may remember , the problem with the re - phrasing ,
+, we 're gonna hit a lot of interesting problems
+Like I said , I 'm I 'm just hitting everything with a hammer that I developed ,
+you just hit the button and it 's like
+the the binding is technically no problem
+The the representational problems are I 'm , will be there ,
+
+, meaning that Tilman Becker , who does the German one , actually took out some time and already did it in English for us .
+So it 's it 's extremely important that the two of you are also present in this town during that time .
+But it 's so this time we are at an advantage
+Meeting time rescheduling .
+the Monday at three o ' clock time has turned out to be not good anymore .
+So people have been thinking about an alternative time
+Two - th Two - thirty - ish or three or Friday at three around that time .
+earlier on Friday is better but three if it were a three or a three thirty time then I would take the three or whatever ,
+Like every time I say it , it 's horrible .
+
+It 's the twenty nineteenth .
+It 's the last week of April until the fourth of May
+so it 's twenty - sixth through fourth . That they 'll be here .
+April twenty - sixth to the May fourth ?
+and as I prefaced it this is the result of one week of arguing about it
+Do feel that we have done our chores for this week
+
+you could have a flat structure and just say these are two independent things ,
+So it seems like each of them has its own internal structure and mapping to these schemas
+, s so it 's automatic derived fr from the structure that is built elsewhere .
+This is a cate this a category structure here ,
+Ri - You 'd like so you 're saying you could practically turn this structure inside out ?
+
+And you were my GSI briefly , until I dropped the class .
+Did Jerry talk to you about maybe using our class ?
+the students in the undergrad class that he 's teaching ?
+however there is always more people in a in a facul in a department than are just taking his class or anybody else 's class at the moment
+OK , but th I it 's that people in his class cover a different set
+that 's what I suggested to him , that people like Jerry and George and et cetera just
+
+and then OK there you wanna buy a whatever cuckoos clocks
+And we know that the intention is to enter because we know that the person wants to buy a cuckoos clock .
+and " B " , that person actually wants to buy something to eat there .
+is there a " buying s snacks " schema ?
+the buying snack schema ?
+Buying buying his food
+and the buying event at which however that looks like , the place f thing to buy .
+
+Additionally his interest surpasses English
+like the English language sentence of it is " these are the follow the following films are being shown " like that ?
+because it was a problem for the German system to incorporate all these English movie titles .
+But in English , that 's not really a problem ,
+
+and it proved finally fruitful in the sense that we came up with a new scenario for how to get the subject m to really have intentions
+Yes . In a sense that 's exactly the the idea ,
+, but it in that sense it doesn't make In that case it doesn't really make sense to read them out loud .
+and maybe it is even conceptually somewhat adequate in a sense that we 're talking about two different things .
+, this , , does not make sense in light of the Statue of Liberty ,
+the the in some sense we ex get the task done extremely
+
+like , I remember talking to you about Aspect like that at some point or other .
+When you point at the screen is it your shadow that I 'm supposed to look at ?
+Then we have real means of pointing at an individual instantiation of one of our elements here
+that 's a contentious point between the two of us
+and if you can get that binding point also maybe with a example that would be helpful for Johno and me .
+
+and then I get a commercial action which takes place in a bakery ,
+The other thing that thought of is that you could want to go to the bakery because you 're supposed to meet your friend there or som
+maybe their friend said they were going to meet them in a bakery around the area .
+which is to me a reason why you would keep the inference of that separate from the knowledge of " OK they really want to know if there 's a bakery around here " ,
+And , , when I have traveled with my friends we make these exactly these kinds of appointments .
+It 's I met someone at the bakery in the Victoria Station t train station London before ,
+ba the bak bakery example .
+
+And hopefully it is by means of Keith that we will be able to get a b a better formal and a better semantic idea of what a construction is
+the idea now is to come up with a high level of abstract tasks
+, so the idea is to try to get the actual phrasing that they might use and try to interfere as little as possible with their choice of words .
+The idea is , so , imagine we have a library of schema
+Robert likes to be abstract
+An - and I would like to second Keith 's request .
+
+This is just XML mo notational
+and all in a v very easy e homogenous framework .
+, if I 'm if I 'm recipient of such a message
+I should have we should have added an ano an XML example ,
+I it 's easy to go back and forth
+This is this is a schema that defines XML messages that are passed from one module to another ,
+each module will try have to go back to look up which entity can have which , , entity can have which parents ,
+
+But , to Fey , we already have a blueprint and work with that .
+so we I even made a a silly thing how that could work , how you control you are here
+So this is something that , , may also be a res As a result of your work
+I 'm just glad that I don't have to work it out
+I 'm just glad that don't have to work it out myself ,
+that I 'm not involved in the working out of it
+. That 's why I 'm glad that I 'm not involved in working it out .
+but if you if you work in th in that XML community it is a great acronym
+
+and next to some more or less bureaucratic with the data collection she 's also the wizard in the data collection
+, so we 're about to collect data
+so you still have the thing about having data where what the actual intention was ?
+are you familiar with the with the very rough setup of the data ?
+So all the actual data might be German names ?
+are the are the sample data that you guys showed sometime ago
+
+Also we will talk about Linguistics and Computer Science .
+and so we had a meeting on Friday talking about how to avoid that ,
+Talk to a machine and it breaks down and then the human comes on .
+However , not only was the common census were among all participants of Friday 's meeting was it 's gonna be very laborious to make these drawings for each different things ,
+We can talk about Paths being the fastest , the quickest , the nicest and ,
+So clearly there 's talk about the the parser changes on Friday at least ,
+, and leave it up for us to get the parser input
+
+Cuz we have people from other areas
+Cuz I know how to contact our students ,
+cuz we 've been arguing about it all week ,
+Cuz viewing in a tourist domain is going up to it and or actually going from one place to another to take a picture , in this in a
+, just beca cuz I 'm new
+Cuz it 'd be for me to like look if I 'm thinking about examples
+
+that subject always re - phrase the task that we gave them ,
+and then goes in and solves the task with the system ,
+The question is just how do we get the tasks in their head that they have an intention of doing something and have a need to ask the system for something without giving them a clear wording or phrasing of the task .
+So the task then for that person is t finding out how to get there ,
+so like those tasks are all gonna be unambiguous about which of the three modes .
+and also it will be a good idea to show them the text and chew the task
+So that was like one of the first l , the first task was getting it working for English .
+and more or less ignore the rest , unless there is some implications that you want to constant draw from sub - tasks that are relevant
+
+Because what will happen then is that people repeat , or as much as they can , of that phrasing .
+So , , this is exactly getting someplace with the intention of entering and looking at pictures .
+and also people will get caught up in the pictures .
+And people talking about pictures and pictorial representations
+but i you might be able to combine text and some picture
+
+, apart from that , the old gang , Johno and Bhaskara have been with us from day one
+When Andreas Stolcke and his gang ,
+in Germany on that day , on that evening
+This is very rough but this is what Johno and I managed to come up with .
+for Johno focus the shadow ,
+this is this is more this is probably the way that th that 's the way that seemed more intuitive to Johno I
+If you all share that opinion then that made my day much happier .
+
+So the basic requirement fulfilled .
+, the basic requirement is fulfilled almost .
+and more on the this is the your basic bone schema , down there .
+
+his idea was to get the l the lists of mayors of the department ,
+The list of majors in the department ?
+
+what happened is that , " A " , there was some confusion between you and Jerry with the that leading to your talking to Catherine Snow ,
+and he was he completely that some something confusing happened .
+So it was really Carol Snow who was confused , not me and not Jerry .
+and there was some confusion as to the consent form , which is that what you just signed
+I 'm completely willing to to throw all of this away
+w what might happen is that they will get rid of that action thing completely ,
+
+an extra capability of speaking and writing and understanding and reading that language .
+one is modifying the SmartKom parser and the other one is modifying the SmartKom natural language generation module .
+And I do have some good news for the natural language generation however .
+when they have changed the language model of the recognizer and the dictionary , then we can actually a put it all together
+We This is the output , , of the natural language understanding ,
+This referencing thing however is of temporary nature
+Mayb - maybe I 'm not understanding where this comes from and where this goes to .
+mainly meaning from the natural language understanding , or from the deep language understanding to the action planner .
+So you always need the whole body of y your model to figure out what belongs to what .
+I 'm mostly looking at child language which will have some overlap but not total with the kinds of things that you guys are getting .
+
+Officially I he will be joining us in the summer .
+And Fey is with us as of six days ago officially ?
+And we have a little description of asking peop subjects to contact Fey for recruiting them for our thing
+analogous to what Fey has started in in compiling here
+That 's the rich " Resource Description Framework "
+So , description , having the word d term " description " in there is wonderful ,
+
+you can speak into it and ask for TV and movie information
+the German TV movie .
+Or are they all like American TV programs ?
+OK , so you how the German dialogue the German the demo dialogue actually works .
+So , " American Beauty " is " American Beauty " ,
+unless we get some topical German movies that have just come out and that are in their database .
+

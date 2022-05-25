@@ -1,0 +1,386 @@
+this is dealing with , , mapping on the level of , , the conversation
+And as I said , the it 's we just don't have that many that 's a big deal .
+But I don't think that 's a big deal .
+Right . But if there 's a big hunk of speech , let 's say on Morgan 's mike where he 's not talking , , don't don't worry about that .
+
+make no one 's touching the data
+but you it 's real data .
+So you just somebody can't rely on that data and say " that 's perfectly clean data " .
+right now it 's just raw d it 's just data that we 're collecting ,
+
+I 'm actually pretty busy today ,
+it sounded like they the first gate was pretty easy .
+but it 's it 's usually a pretty
+it 's it 's the technology 's come along pretty .
+
+that also brings up the point that we have to start assembling a speaker database so that we get those links back and forth
+Now , for only four speakers , that 's not gonna be too much time ,
+but if it 's nine speakers , then that i that is more time .
+You 're trying distinguish between the case where there is , where there are more than , where there 's more than one speaker
+and the case where there 's only one speaker .
+
+also , there 's always for everybody there 's there 's always things that are dropping off ,
+t results similar results , like , , the paper , , that I am following .
+but I if it 's ess if it 's essential .
+but we don't wanna w remove it from the corpus , in terms of delivering it
+
+Gary Strong 's
+. It 's it 's certainly not I 'm that it 's not down to one in two
+there 's evenings , and there 's weekends ,
+then there 's a third who 's doing a project here ,
+Anyway , that 's that 's all I was gonna say is that 's , that 's
+Is is this the algorithm where you hypothesize a fundamental , and then get the energy for all the harmonics of that fundamental ?
+And then hypothesize a new fundamental and get the energy
+No . I I don't proth process the fundamental .
+Do you hafta do some , , low - pass filter before you do that ?
+But , I know many people use , , low - pass filter to to get , , the pitch .
+It 's a kinda normalization .
+, the I would say the core thing that we 're trying to do is to recognize the actual , meaningful components in the midst of other things that are not meaningful .
+it 's critical for us to get these other components that are not meaningful .
+if we only had changes in the spectrum that were associated with words , with different spectral components ,
+but then we would still want to account for that ten percent ,
+so it 's in a way it 's an artifact that there 's so much on the on the earlier ones .
+
+, and s and you 're talking string - wise ,
+you 're not talking about the entire page ?
+and we 're sorta preceding to the next step ,
+Just so that they 're they 're all the same length .
+just so that they 're they 're not being overlooked because of that ,
+, you 're you 're still in the midst of what you 're doing from what you described last time , I assume ,
+you 're so you 're not distinguished between voiced and unvoiced ,
+We - See , we 're we 're dealing with real speech
+where truly w we 're hearing you breathing like as if we 're you 're in our ear ,
+Except that we 're we 're trying to mimic
+So what we 're saying is , there 's no guarantee that ,
+, you 're saying it 's uncharted territory .
+Because that 's what we 're trying to pull the other out of .
+
+and the way it wa worked and see if it makes sense
+, there 'll be bunch of people working on it .
+and , it 'll mean some more work , , , in March in getting the proposal out ,
+it 's really interesting data to work with ,
+It 's it 's I haven't worked with that either
+and , , this is it 's this is actual that we wanna work with .
+So , , an and maybe in five years it 'll work really ,
+
+It 's extending the research ,
+because i it has a i it shows very clearly the contrast between , , speech recognition research and discourse research
+because in discourse and linguistic research , what counts is what 's communit communicative .
+But that 's a research question ,
+because that 's actually the research that we 're trying to feed .
+
+The the problem also is she did want to stick with digits .
+But , , the other problem we were thinking about is if you just put the numerals , they might say forty - three instead of four three .
+She 's right . It 's it 's a different problem .
+it 's a it 's an interesting problem
+I really , not a problem spending time with these data .
+and that wouldn't be a problem to have it , , pause plus breath plus laugh plus sneeze ?
+I , , I , what I was wondering is what at what level does the breathing aspect enter into the problem ?
+
+, so things like training the speech - nonspeech segmentation thing .
+it 's like this it 's really valuable that Thilo 's working on the speech - nonspeech segmentation
+, ther there 's a segment in o the one I did
+, and that 's that quite co corresponds to the way I try to train the speech - nonspeech detector ,
+
+No no , th I got I got , , little excited notes from Mari and Jeff and so on ,
+It 's just to prevent spam .
+i w the band the band is , , from zero to four kilohertz .
+, OK . So now there 's there 's another possibility
+
+There are probably forms here and there that are marked as having been read that weren't really read .
+She 's trying to get at natural groupings ,
+but it there 's nothing natural about reading numbers this way .
+and she felt that it 's very , very natural to do that chunking .
+there 's different numbers of w awards for different size
+
+I would think though that the transcribe the transcripts themselves wouldn't need to have such lengthy names .
+once in a while a backchannel will be overlooked by the transcriber .
+, just to save the transcribers time .
+, as the transcribers are going through , and if they get a hunk of speech that they 're gonna transcribe ,
+u th they 're gonna transcribe it because there 's words in there or whatnot .
+If there 's a breath in there , they could transcribe that .
+So for the chunks that are transcribed , everything 's transcribed .
+So I would say don't tell them to transcribe anything that 's outside of a grouping of words .
+but , , if they 're there while they 're transcribing some hunk of words , I 'd say put them in if possible .
+
+that 's not on our side , that 's on the U - dub side .
+, like , Don 's been writing scripts
+this side over he the we 'll have a s ch
+this the discourse side will have a script which will stri strip away the things which are non - communicative .
+
+It 's a matter of experience .
+I 'm speaking for her since she 's not here .
+information on the speak on the channels and all that .
+and I 'm speaking with no experience on this particular point ,
+They have lots of experience with breathing ?
+
+We didn't crash we 're not crashing anymore
+maybe it 's just , , how many t u how many times you crash in a day .
+Or maybe it 's once you 've done enough meetings it won't crash on you anymore .
+I 've been a day off all week .
+I really do think that it 's wise that we 've had them start the way we have
+but , my impression was that the best way to do it was however you You 've used instantaneous frequency , whatever . However you 've come up you with your candidates , you wanna see how much of the energy is in that
+Cuz they 've - they 've got lots of experience with the breaths in , , their transcripts .
+which is that as we 've improved our microphone technique , we have a lot less breath in the in the more recent , , recordings ,
+
+It 'll be interesting to see the reviewer 's comments .
+My favorite is was when when one reviewer says , , " , this should be far more detailed " ,
+and the nex the next reviewer says , " , there 's way too much detail " .
+
+more than a million and a half , more than two million like that .
+but it 's pr probably along the li
+So with this one it 's this particular headset with this particular transmitter w as a wireless .
+Th - it 's necessary to have it more tightly tuned than that .
+And w and , , is a It would be wonderful if , , it 's possible then to use that algorithm to more tightly tie in all the channels after that
+Someone 's giving a presentation ,
+but I 'm I 'm curious about it .
+The the reason we still complain about it is because is when you have more realistic conditions then things fall apart .
+
+The problem is that they 're a lot of fields .
+
+, Information Technology Research program 's part of National Science Foundation .
+which is where the real power of that interface is .
+which means that you 're not tightly , , tuning the individual parts th of that overlap by different speakers .
+and breaths are part of real speech .
+If s , if there 's a little bit of noise out there , and somebody is talking about something they 're doing , that 's part of what we accept as part of a real meeting ,
+e a it 's not just a minor part .
+
+See , if you also wanna just determine if you also wanna determine whether it 's unvoiced , then you want to look at high frequencies also ,
+because the f the fact that there 's more energy in the high frequencies is gonna be an ob obvious cue that it 's unvoiced .
+I so y maybe you do need a voiced - unvoiced determination too .
+
+Did they send , , the messages to you about the meeting today ?
+OK . , we 're probably gonna be collecting meetings for a while
+So that 's amazing you showed up at this meeting !
+to continue the research on the Meeting Recorder ?
+So like , the NSA meeting lengths , all filenames are gonna be the same length as the Meeting Recorder meeting names ?
+So for m the meetings we were thinking about three letters and three numbers
+, it 's a short meeting .
+
+And the decision here , , was to continue with the words rather than the numerics .
+there 's there 's a continual need to bring in new things .
+it probably too , you can find , , that the instantaneous frequency for the continuous , , the output of the continuous filters are very near .
+, of the in the instantaneous frequency of the ne of the continuous filter in the near filter ,
+
+that 's gonna become especially important once we start changing the microphone set - up .
+We have some new microphones that I 'd like to start trying out ,
+So I was just gonna do a fixed list of , , microphones and types .
+because of the way the microphone 's adjusted .
+
+So that 's a couple hours of , , speech , probably .
+So , I wanted to raise the question of whether people in speech recognition want to know where the breaths are .
+And the one that 's used for speech recognition will be processed via scripts .
+, to process it for the speech recognition side .
+which are not within a speech chunk but with which are just in a silence region .
+that for speech recognition , , research ,
+
+and it just brought up the whole issue that hasn't really been resolved about naming .
+And I don't think we have so many meetings that 's a big deal just to change the names .
+Right . So the only thing that would change with that is just the directory names ,
+that there 's one third thing I wanted to ex raise as a to as an issue
+
+First time first time in the day ,
+one of them is that , , it seems that there are time lags involved in doing this ,
+, aside from the fact that they 're very time - consuming to encode ,
+and just simply the keystrokes it takes to negotiate , to put the boundaries in , to type it in , i it 's just a huge amount of time .
+And that would be extremely time - effective , if that 's sufficient .
+
+, I have to talk with y with you , with the group , , about the instantaneous frequency ,
+And I I not that i , the way o to ob the way to obtain the instantaneous frequency is right ,
+the X - the frequency " X " , , using the in the instantaneous frequency ,
+And , , if you if you compare the instantaneous frequency , , of the of the , , continuous , , , filters , that , that , , they used , to to get , , the instantaneous frequency ,
+Let 's let 's hypothesize that it 's this frequency or that frequency ,
+But , , in m i in my opinion the the instantaneous frequency ,
+I obtained the instantaneous frequency .
+, so you scale you s you do a scaling along that axis according to instantaneous
+
+It 's just from his message it sounded like that .
+and reorganize the file structures .
+And it may be that it 's faster to transcribe a channel at a time with only one , , sound file and one , , set of , , utterances to check through .
+That sounds like a reasonable compromise .
+
+and take the details to the people who for whom it 's relevant .
+But there 's often things where people do false starts .
+, wh who knows what studies people will be doing on speaker - dependent things
+And so , , wanted people to , take a quick look at the instructions
+If you say s " three nine eight one " sometimes people will say " thirty - nine eighty - one "
+, th thirty - eight ninety - one is probably how they 'd do it .
+but I got replies from people indicating that they had gotten it ,
+and also it 's of relevance to other people in the project .
+But , , the rules , , that , , people used in the paper to distinguish the harmonics , is doesn't work .
+the rule that , , people propose in the paper
+I had the indication from Dan Ellis in the email that I sent to you ,
+but more people than just PDA users are interested in this corpus .
+and so we don't wanna presuppose that people will be able to get rid of particular degradations
+, that 's what a lot of people do nowadays .
+
+So that means , , instead of calling it " MR one " , " MR two " , you 'd call it " MRM zero one " ,
+You 're saying that the PDA application would have , have to cope with breath .
+OK . So then the then let 's think about the practicalities of how we get to that master copy with reference to breaths .
+, if you 're getting a breath several times every minute ,
+I 'm think if it 's too if it 's too hard for us to annotate the breaths per se , we are gonna be building up models for these things
+so if so , we i if we say there is some a thing which we call a " breath " or a " breath - in " or " breath - out " , the models will learn that thing .
+, so but you do want them to point them at some region where the breaths really are .
+but if there were , , like likely on the frontier , a good breath extractor
+one of the ways that we will be able to get rid of breath is by having models for them .
+
+And and I 'm tried to , , adjust the to improve , , an harmonicity , , detector that , , I implement .
+, harmonic possi possible harmonics ,
+I 'm not too experienced with harmonics
+I will prepare for the next week , all my results about the harmonicity
+e the fraction of the energy that 's in the harmonic sequence that you 're looking at is relatively low , then it should be then it 's more likely to be an overlap .
+to obtain the or to study the harmonics
+
+But , , with the mixed , when you have an overlap , you only have a choice of one start and end time for that entire overlap ,
+So someone may have only said two words in that entire big chunk of overlap .
+a b backchannel could happen in a very densely populated overlap .
+And if we 're gonna study types of overlaps ,
+so then , maybe the answer is to , , listen especially densely in places of overlap ,
+There are large spaces where there 's no overlap .
+and try to get a ratio to distinguish between overlapping and speech .
+
+so is i for it was a proposal for the ITR program ,
+and they have a first phase where you put in pre - proposals ,
+And so th the next phase will be we 'll actually be doing a larger proposal .
+When 's when 's the full proposal due ?
+That they didn't reject a lot of the pre - proposals ?
+
+We want some way of specifying , more than looking in the " key " file , what channel and what mike . What channel , what mike , and what broadcaster .
+I switched to doing the channel - by - channel transcriptions to provide , , the , tighter time bins for partly for use in Thilo 's work
+Maybe I was thinking maybe the best way to do this in the long run may be to give them single channel parts
+having the interface that doesn't require them to do the ti , the time bins for every single channel at a t , through the entire interaction .
+then that really does require listening to every single channel all the way through the entire length for all the different speakers .
+because maybe , , we can close in on that wi without having to actually go to the time that it would take to listen to every single channel from start to finish through every single meeting .
+And they so they hopefully won't be marked in those channel - specific files .
+OK , and it 's also the fact that they differ a lot from one channel to the other
+
+, right , so I was just gonna talk briefly about the NSF ITR .
+and then I wanna talk a little bit about naming conventions ,
+although it 's unclear whether this is the right place to talk about it .
+that in principle we might be able to , , handle breaths by accessi by using cross - talk from the other things ,
+
+My opinion is , , we should just throw them out completely ,
+, the grouping is completely random ,
+so it 's perfectly fine to put a group together again
+What the transcribers did with that is if they did a correction , and they eventually did read the right string , you extract the right string .
+, you 're talking about where they completely read the wrong string and didn't correct it ?
+
+when they Do you do how many they funded when they f in Chuck 's ,
+And I and I wanted to maybe ask , , Chuck to help me with some of the questions of efficiency .
+The way the simple - minded way I suggested was what Chuck was just saying , is that you could make a sieve .
+OK , so now , I had a discussion with Chuck about the data structure
+
+And they said end of business day you could check on the reviewer forms ,
+there was a sentence at the end of one of his paragraphs
+If we end up getting this , , what will it mean to ICSI in terms of , w wh where will the money go to ,
+, you can always search from the beginning or the end of the string .
+So , , you 're dealing with a different domain there , and with start and end times and all that ,
+, so it 's like , I know that take them apart and put them together and I 'll end up with the representation
+
+, and now I 'm I 'm trying to find , , some a , of h of help , , using the energy to distinguish between possible harmonics , and other fre frequency peaks , that , , corres not harmonics .
+you can find , , how , , in several frequencies that proba probably the harmonics , ,
+the errors of peaks the frequency peaks , , move around these , frequency harmonic
+other than that I as far as the one person versus two persons , it would be primarily a low frequency phenomenon .
+And if you looked at the low frequencies , yes the higher frequencies are gonna there 's gonna be a spectral slope .
+
+before on more higher level , , issues in meetings ,
+from I higher level from my point of view .
+it 's go higher level than we 've been talking about for Meeting Recorder .
+with the more acoustically - oriented things are are lower level .
+
+which is , , the time boundaries could mark off words from nonwords .
+there is there 's this dynamic tension between marking everything , as ,
+marking just a little bit and counting on the statistical methods .
+And so in order to build the model you need to have some amount of it marked ,
+
+So the only thing I wanna say about digits is , we are done with the first test set .
+just to finish out the test set .
+but then but then the transcript isn't the Aurora test set anymore .
+Which is a reasonable test set .
+And , Jane , I do have a set of forms which you have copies of somewhere .
+That 's because they set the one up at UW
+And so U - UW set it up as a moderated list .
+
+only looking at the energy at multiples of the of that frequency ,
+Using the energy of the of the multiple of the frequency .
+The higher frequencies will be lower energy .
+as coppo as opposed to all of the all the total energy .
+to compare the ratio of the energy of the harmonics with the , with the , , total energy in the spectrum
+and to study the energy and the multiples of
+wouldn't that give you something more like the central frequency of the , of the where most of the energy is ?
+
+The message says , " You 'll be informed "
+, but probably along the lines of fifteen or that they 'll fund , or twenty .
+so it 'll there 'll be more of them that they fund than of the big .
+I 'll probably gonna hafta look at the paper ,
+and it 'll only mess - up ten percent of the time ,
+
+cuz that way I got my papers done early .
+Cuz there are large s spaces of the
+, cuz the main thing is that , , you 're trying
+
+I haven't enough file feeling to to distinguish what happened .
+And in my case i in equal with our signal , it doesn't happened .
+because , , I haven't enough feeling to u many time to understand what happened with the with , , so many peaks ,
+, I don't think we need to worry a lot about breaths that are happening outside of a , , conversation .
+
+with , , m y working off the mixed signal ,
+I 'm continue working with the mixed signal now , after the last experience .
+but the question of whether it 'd be possible to eliminate them from the audio signal ,
+
+So assuming everybody 's completely busy now , it means we 're gonna hafta , hire more students , or , something ?
+Are there any students in your class who are expressing interest ?
+u I wanted to comment a little more just for clarification about this business about the different purposes .
+
+or " three hundred three hundred eighty - nine one " ,
+It 's the second year of their doing , , these grants .
+some of them anyway , are larger grants than the usual , small NSF grants ,
+See the small ones are less than five hundred thousand total over three years
+But if there seems to be a lot of effort for a small amount of reward in some area ,
+
+He said the next phase 'll be very , competitive
+and count on accuracy during the sparser phases .
+I , ehm I calculate the phase derivate using the FFT .
+you 're looking at f at the phase derivative ,
+to calculate the phase derivate
+
+, the other thing you could do is change the transcript to match what they really said .
+And so the two options are change the transcript to match what they really said ,
+, since we have such a short agenda list I I wi I will ask how are the transcriptions going ?
+that one of the reason we thought we were so much faster than , , the other transcription , , thing was that we were using the mixed file .
+I did i it did occur to me that this is , the return to the transcription ,
+and the idea is that the transcripts will that get stored as a master
+there 'll be a master transcript
+
+they 're gonna be dampened by the , vocal tract ,
+The response of the vocal tract .
+I m what you 'd like to do is get rid of the effect of the vocal tract .
+
+Because if it were likely that a PDA would be able to be built which would get rid of the breathing , so it wouldn't even have to be processed at thi at this computational le
+, let me see , it 'd have to be computationally processed to get rid of it ,
+
+And each line is between one and about ten digits .
+because she wanted to elicit some different prosodics from digits .
+and if we decide we still wanna do some digits later we might be able to do some different ver different versions ,
+It just , we 've been cutting up sound files , in for ba both digits and for , , doing recognition .
+Di - digital camera .
+
+Liz and Andreas can't sh can't , can't come .
+And then the other thing is that , , the forms in front of us here that we 're gonna read later , were suggested by Liz
+and , since this was something that Liz asked for specifically , we need to defer to her .
+And Liz had some suggestions on naming
+Although I I 'd be interested to h get input from Liz and Andreas on this to see if they
+
+and extract out pieces that are in error .
+so that when you 're sorting filenames you can easily extract out bits and pieces that you want .
+And so if each one of those is a fixed length , the sorting becomes a lot easier .
+
+OK , cuz I checked my mail . I didn't have anything .
+, I sent to what we had , , in some previous mail , as the right joint thing to send to ,
+which was " M MTG RCDR hyphen joint " .
+But then I got some funny mail saying that the moderator was going to
+
+and so it can it will always happen that also the automatic s detection system will miss some of them ,
+maybe you maybe you could use some other cute methods to , , short cut it by , making some guesses ,
+you could make some guesses from , from the auto - correlation
+

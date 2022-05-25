@@ -1,0 +1,34 @@
+There are some new requirements for the project: the device will have to be for TV only, they should ignore the teletext function, as it is dated, and, also, the remote should be recognisable as a Real Reaction product.
+The target group will be people below 40.
+The UI preferred an easy-to-use remote to a multi-function one.
+The function of the remote is relatively simple: by pressing a button a current is passed to the chip, and defines what signal is to be sent to the receiver (the TV) via infrared.
+The use of infrared, energy-efficient power source and cheap circuit was suggested.
+The remote could light up via LED's placed inside.
+Functions like zapping are very prevalent, as well as complaints about remotes being easy to lose.
+It also transpires that customers like innovative technology like speech recognition.
+The design can focus on such customer needs, like finding a mechanism to locate a lost remote.
+The functions of the remote will include a back button to switch between two channels, volume, program selection, and speech recognition, with a focus on simplicity of design.
+The industrial designer will look into what would be an appropriate technology to help users find their remote, when it is lost.
+The project manager will add the minutes into the project folder.
+The ID will present the components concept.
+The UI will present the user interface concept.
+The marketing expert will need to find information on current trends.
+LED's can be used to light up the remote.
+Using them sparsely, as in mobile phones, could bring down the cost.
+It would be a good idea to integrate a mechanism for finding the remote control, when the user loses it.
+The latter would be preferable to implementing a backlight into the remote.
+A single, large, round button can be used for both volume and channel selection by using the four separate quadrants.
+Another button to switch between two channels could also be implemented.
+The remote will also include volume and program selection, and speech recognition.
+A recharging cradle can be added to compensate for the extra energy consumption.
+LED's would signify extra energy consumption.
+Power-saving LED's are available, but these could be more expensive.
+It's difficult to choose a technique to find a lost remote.
+They cannot install a special button on a TV, and using a special signal, like clapping, is tricky, because it needs to be differentiated from normal sounds.
+Similarly, using an extra base station would probably be too costly.
+Adding such features may complicate the design and escalate costs.
+There was a challenge regarding the need of the digit channels, based on the fact that they are not often used, and they also look dull.
+Despite that, customers may want them to be on a remote; furthermore, they can be designed in a more attractive way.
+The discussion also focused on their replacement with speech recognition, as the latter helps with locating the remote as well.
+However, this solution may prove too expensive.
+An expanded target group may have to be taken into account in order to achieve the projected sales and profits.

@@ -1,0 +1,21 @@
+The project manager opens the meeting stating that they will address the functional design of the remote and saying they are still undecided about whether it should be universal or specific.
+He suggests they name the project and they come up with "mando", meaning "control" in Spanish.
+The marketing expert presents some research done on user opinions of remotes.
+He suggests the use of using voice recognition or an LCD, which they discuss despite concerns about budget limitation.
+The industrial designer presents, showing examples of existing products and suggesting they add a scroll wheel for channel-changing.
+He says Internet capability might be necessary for an LCD and then brings up button size, suggesting having a flip-open door with extra buttons under it.
+They discuss voice recognition again, and then the interface specialist presents.
+He suggests they have two types of user interfaces and brings up that voice recognition would increase production price.
+They talk about the budget limitations on features and then the project manager summarizes decisios made and closes the meeting by teeling each group member what he should work on.
+The industrial designer will work on the component concept.
+The interface specialist will work on the user interface.
+The marketing expert will work on trend-watching.
+The remote control will be for television only.
+The remote control should be fancy, a good shape, and not too small or too big.
+To target towards young people will bring in new technology.
+A wheel should be used to navigate.
+Because of budget restrictions, they cannot do speech recognition technologies.
+Corporate logo will be clearly displayed on product.
+They have not yet decided whether to include an LCD screen.
+Although the project manager clearly does not favor the idea because of budget costs and the possible requirement of internet connection, others are pushing for it.
+They find that the budget is restricting their capabilities, and mentioned increasing the price of the remote control.

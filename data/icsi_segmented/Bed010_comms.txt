@@ -1,0 +1,381 @@
+so The idea is there 's this , other subgroup that 's worrying about formalizing the nota getting a notation .
+What I what is a good idea that show to anyone who 's interested ,
+So the idea is that this really is that 's supposed show that 's it 's really fictive and so on .
+
+It 's it 's There 's nothing really complicated about it .
+That 's , , that 's that 's HPSG or whatever .
+I will send you a pointer to a Java applet that does that ,
+also give you , a pointer to a paper of mine which is the ultimate taxonomy of reference frames .
+So there 's a line on the wall over there , and you give them a laser pointer , and you say , " Where 's the midpoint ? "
+
+So I 'm I 'm going backwards now ,
+So it 's just , in the sam same actually with the rest of us
+that 's that 's both you guys ' understanding of where we are ?
+aa - It 's hardly ever used but it 's w
+So the s typical task is subdivision .
+To to come full circle on that , this formalization task ,
+ICSI and EPFL , which is the , It 's the Fr
+
+What 's going on at the end of the tool ,
+What 's going on at the end of the tool , or whatever .
+No , I 'll be done everything by this by the end of this week .
+
+, that 's a separate problem .
+If that doesn't work , it 's not a problem we need to solve right now .
+But to solve our problems ag a mediocre design will do in the beginning .
+It 's a design problem .
+
+Probably for university , it 's it 's gonna be real cheap anyway .
+Here 's the real experiment .
+You don't have a hidden purist streak ?
+It 's OK to be purist within that context .
+But to try to do something upscale and purist Particularly if what you 're purist about doesn't actually work , is real hard .
+And he 's giving us five days to do it which means it going to be hard .
+
+and there 's a conversion system for different , to go from XML to something else .
+The , the system , show you the system .
+but the whole system was designed to work with this thing
+So , the reason I 'd like you to understand what 's going on in this demo system is not because it 's important to the research .
+And I g I got the feeling that we are the only ones right now who have a running system .
+So we 're actually maybe ahead of the System Gruppe by now ,
+And then there 's also a set of system things that come up .
+So " OK , we 're not using their system . That means we need our system . "
+and it 's only w In both cases it 's only one piece of a bigger system .
+
+because I went to a linguistics colloquium on the fictive motion ,
+So there 's there 's all this linguistic about , near and far , or yon and .
+So this is all This is There 's this linguistic facts .
+And so , , in addition to the business about just getting the linguistics right , and the formalism and , we 're actually gonna build something
+
+it 's a fish - eye .
+but in Japanese the more conventionalized tendency is to use a a description of " where one has crossed to the river , there is a tree " .
+, and , you can actually say things like , , " there 's a tree where one has crossed the river , but no one has ever crossed the river " , like that .
+but definitely it 's interesting to look at cross the bordered there .
+
+But in terms of what are the decisions and like that , that 's something that we all have to work out .
+But to do that we 're gonna need to make some decisions like ontology ,
+so , And so this is another thing where we 're gonna , , have to get involved and make s relatively early , make some decisions on , " is there an ontology API that "
+There 's a standard way of getting things from ontologies
+or is there a particular ontology that we 're gonna standardize on , and if so , is there something that we can use there .
+
+And , that 's not v That 's the opposite of constructional .
+, construction parser for general constructions .
+so that whatever we discuss in terms of parsing and generating and constructions w we put it in there
+If I find someone at in EML that is interested in that , I may even think that we could look take constructions and generate from them
+And you can just do anything with it , whether it 's syntactic trees , H P S G - like , or whether it 's construction .
+So if you ever get to the generation side of constructing things and there might be something of interest there ,
+It looks like we 're now in a position that the construction analyzer that we want for this applied project can be the same as the construction analyzer that Nancy needs for the child language modeling .
+you will find that if you want to look technically at some of the your traditional questions in this light , Keith , who 's buil building constructions , will be quite happy to see what , , you envision as the issues and the problems and , how they might get reflected in constructions .
+
+so it just starts , it binds some variables and it just decides to , , do some subscold .
+I actually want , at least , maybe , you should be able to start it on your own . If you wanna play around with it , in th in the future .
+Right now it 's brittle and you need to ch start it up and then make ts twenty changes on on seventeen modules before they actually can stomach it , anything .
+. And I was going to switch to start talking about that unless there 're m other more general questions .
+like , " What 's that thing right where you start to go up the hill , " like that ,
+But that construction is also used in English , , like " right where you start to go up the hill " , or " just when you get off the train " , like that to , to indicate where something is .
+i it 's not exactly the th same thing , but s it it 's getting close to that .
+I once I was playing with those devices that allow you to manipulate objects when it 's dangerous to get close ?
+We 're starting to do science ,
+and we 're gonna start on that in parallel with the , the grammar .
+
+, there something that I didn't know until about a week ago or so , is , there are separate brain areas for things within reach , and things that are out of reach .
+That , they do MRI , and if you 're got something within reach then there 's one of your areas lights up ,
+There 's just that part of the brain isn't functioning , so they can't do that .
+It 's not within reach and you use the Within - Reach , mechanism .
+
+And so I looked into spatial description .
+So we can generate spatial descriptions , how to get from A to B . And and information on objects , in German , English , and Japanese .
+And there is a huge project on spatial descriptions differences in spatial descriptions .
+It 's the Bielefeld generation of spatial descriptions and whatever .
+It 's it 's spatial reference frames .
+It 's called " An Anatomy of a Spatial Description " .
+
+what 's the execution engine look like ,
+it does go d all the way down to the conceptual level to some extent .
+So , " as seen from the church , the town hall is right of that , fire station " .
+and , it 's beginning to take shap shape ,
+, the other thing we wanna do is catch up with , Ellen and see what she 's doing
+
+It 's eee messy
+I 'd love to see it if you if you have a copy .
+And it makes a lovely def story about why languages , make this distinction .
+there 's there 's been a lot of behavioral things o on this , but that was the first neur neuro - physiological thing I saw .
+
+. If it 's paying a thousand dollars we can do that .
+But , , if it 's fifty thousand dollars we aren't gonna do it .
+Are are you going to p pay any attention to the relative position of the direction relative to the speaker ?
+
+The we got to the point where we can now speak into the SmartKom system , and it 'll go all the way through and then say something like " Roman numeral one , am Smarticus . "
+It actually says , " Roemisch einz , am Smarticus , "
+I am Sm - I am Smarticus is what it 's saying .
+and then there 's one , the French speaking one , in Lausanne ,
+
+keep the d keep the context open , but actually go after the basic issues .
+I know that there 's an issue of how to weight the different things too , and .
+, , wanted to , , s like mention as an issue , , last meeting I wasn't here
+, I Shweta mentioned that , although she said it 's a secret .
+
+which means it 's just using a German sythesis module for English sentences .
+But in parallel with that , , the hope is tha in particularly you will work on constructions in English Ge - and German for this domain ,
+So and , Keith would like the German as as the English ,
+, but that 's th but we have data in English and German already .
+, there are some differences between Hebrew and English .
+. Did you ever get to look at the rou paper that I sent you on the on that problem in English and German ?
+. I There is a study on the differences between English and German on exactly that problem .
+And , , they found statistically very significant differences in English and German ,
+It might be , since there are only a finite number of ways of doing it , that German might be more like Hebrew in that respect .
+that 's even used in the English literature .
+
+But that that out of the twelve possible utterances that the German system can do , we 've already written the syntax trees for three or four .
+So , the syntax trees are very simple .
+I don't think it 's related to syntax , though , so it may be entirely different .
+
+I could swore , I could swear I saw it sitting on someone 's desk at some point ,
+, meaning a few feet up the hill or whatever from some reference point and all that
+And three - point relations is if something has an intrinsic front side like this chair then your f shoe is behind the chair .
+And , reference object and . No , from my point of view your shoe is left of the chair .
+So . Egocentric two - point , egocentric three - point , or you can have allocentric .
+, but she 's another one of these ones with a three point nine average and and so on .
+It 's probably better if I come next week with the version O point nine of the structure .
+
+And one of the things we need to do is the , and this is relatively tight tightly constrained , is to finish up this belief - net .
+OK so here 's where we are on the belief - net as far as I understand it .
+. Going back I two weeks ago Robert had laid out this belief - net , missing only the connections .
+So , Bhaskara and I went off and looked at some technical questions about were certain operations legitimate belief - net computations and was there some known problem with them or had someone already , solved how to do this and .
+And , so the current state of things is that , again , starting now , we 'd like to actually get a running belief - net for this particular subdomain done in the next few weeks .
+and , he 's gonna leave us an inheritance , which is a hopefully a belief - net that does these things .
+So , I , Is there like a latest version of the belief - net of the proposed belief - net ?
+, just any like rough representation of the entire belief - net is probably best .
+And probably she 'll pick up from you on the belief - net ,
+So , , unless we wanna start digging into the the belief - net and the decisions now , which would be fine , it 's probably
+
+and the Texas speech version of it , which is actually the simpler version , is gonna be done in October which is much too late for us .
+And , if we need a cut - down version for something , or whatever , we 'll worry about that later .
+That 's the level at which we can just li invite everybody and say " this is a project that we 've been working on and here 's a demo version of it " and like that .
+But , more focused on an idealized version than just getting the demo out .
+But , it 's still , , useful for you to understand the demo version enough , so that you can see what it is that it might eventually get retro - fitted into .
+e the version that is , the full version that 's on the server d does not work .
+And even Tilman and Ralf said " there never was a really working version that did it without th all the shortcuts that they built in for the October @ @ version " .
+
+, and did write the tree adjoining grammar for some sentences .
+It 's like most of the sentences in one tree ,
+or I 'd have to add a little stem for the " am " , when I build the built the tree .
+he talked about the idea of like , He was talking about these lexicalized , tree adjoining grammars where you for each word you ,
+For each lexical item , the lexical entry says what all the trees are that it can appear in .
+because the tree adjoining grammars that Tilman is using is as you said nothing but a mathematical formalism .
+You you can actually say things like , , " it 's behind the tree from me " like that , , in in certain circumstances in English ,
+
+And I remember one thing that came up in the talk last Wednesday . , was this ,
+I speak into it and you hear it talk ,
+and I went through all the other packages on Murph - Kevin Murphy 's page ,
+so while we 're still at this top level , anything else that we oughta talk about today ?
+It 's also all on my home page at EML .
+and so anyway we c We can m undoubtedly get Ami to give a talk at EML like that . While he 's in
+
+So . Bu - , i The way the , the dialogue manager works is it dumps out what it wants to know , or what it wants to tell the person , to a er in XML
+and it , , says " OK , I 'm gonna try to do the Greet - the - person goal ,
+I 'm the only person in the world who actually knows how it works .
+Is this person someone who 's in first - year this year ,
+there 's yet another one of the incoming first incoming first - year graduate students who 's expressed interest ,
+
+but if we do it , , a paper version of all the nodes and then the connections between them , that should suffice .
+I did look into that , in terms of , , exploding the nodes out and down ag
+You you have a node , and you click on it , and it shows you all the connections ,
+How do you go about this process of deciding what these connections are ?
+There 's a there 's a very significant connection between
+
+Now , we 're we 're not committed for our research to do any of those things .
+d we do wanna have all the bugs out b where you have to pipe in extra XML messages from left and right before you 're
+but in the moment we 're definitely focused on the understanding , , pipeline .
+And there 're two aspects to it , one of which is , , technical ,
+And you 're gonna be around ? t again , always Tuesdays and Thursdays afternoon - ish ? As usual ?
+which is you You 're familiar with th with the " origo " ?
+cuz we 're we 're not only going The plan is not only to lay out this thing , but to actually build some of it .
+And , , if it 's useful we can probably arrange for you to drop by and visit either at Heidelberg or at the German AI center , while you 're in the neighborhood .
+I don't think we 're gonna get lots more information .
+
+If it turns out we can also give them lots more than that by , , tapping into other things we do , that 's great .
+So I 'd like to , for the summer turn into science mode .
+So there 's a remapping of distant space into nearby space .
+It turned out , inherently not to cover the space .
+
+You should probably move the microphone closer to your face .
+There 's like a little The twisty thing , you can move it with .
+and then if you click on something else that moves away , that goes into the middle .
+
+So . it 's not worth going over in the group ,
+the system the integration group .
+And , part of my responsibility is to use our internal " group - ware " server at EML ,
+So he doe h he doesn't need help from this group on the technical aspects or if he does we 'll do that separately .
+so , as far as this group goes , , it 's certainly worth continuing for the next few weeks to get closure on the belief - net and the ideas that are involved in that , and what are th what are the concepts .
+, I 'm actually probably going to be in contact with her pretty soon anyway because of various of us students were going to have a reading group about precisely that thing over the summer ,
+
+and this is not a crisis that , you do , e everybody who 's a student should , do their work , get their c courses all in good shape
+. How - I have had an experience , not often , but a certain number of times , when , , I 'm working with a tool , a screwdriver , for a long time , I start feeling the tip directly .
+i it feels like your as if your neurons had extended themselves out to this tool , and you 're feeling forces on it and
+
+, is there anything we can give back , beyond th the minimum requirements ?
+So . The plan for this summer , really is to step back from the applied project ,
+And I assume that 's also , , your plan as .
+Very you stop back and suddenly it goes away
+
+So everybody knows there were these guys f from Heidelber - , actually from DFKI , part of the German SmartKom project , who were here for the week
+So Bhaskara is switching projects as of the first of June ,
+. This week I , I have a lot of projects and but after that I will generally be more free .
+i Does either the SmartKom project or one of the projects at EML have something that we can just p pull out , for that .
+And , while we 're at this level , , there 's at least one new doctoral student in computer science who will be joining the project , either next week or the first of August , depending on the blandishments of Microsoft .
+
+We can say " park in front of the car " as you come beh you drive behind the car .
+In Hebrew it means " park behind the car " , because to follow the car is defined as it faces you .
+While in English , front of the car is the absolute front of the car .
+Right , so the canonical direction of motion determines where the front is .
+So it 's they actually say " the monkey in front of the car ,
+here 's the car sideways to me in between me and the car 's in front of the car , or whatever .
+this video tape is in front of me .
+
+and instead of , , breaking down to , like , small units and building back up , they took the sentences , and cut them in half , or , into thirds like that , and made trees out of those .
+So , this is like in half hour or forty - five minutes .
+What I 'd like to do is shoot f for finishing all this next Monday .
+And let 's come up with a first cut at what this should look like . And then finish it up .
+
+And th so , the knowledge base for the system , that generates the syntasti syntactic structures for the ge generation is , in a LISP - like the knowledge base is in a LISP - like form .
+And then it passes the tree onto , , the ge the generation module .
+And so , Tilman wrote a little tool that you could take LISP notation and generate an XML , , tree . , S what do ca structure from the from the LISP .
+So there 's like the VP goes to N and those things in LISP , and it will generate for you .
+So everything else actually did prove to be language independent except for the parsing and the generation .
+Why I had I did need to chan generate different trees than the German ones ,
+that is use your best knowledge of the domain to , hypothesize what the dependencies are and .
+
+. My suggestion is that Robert and Johno give us a report on last week 's adventures to start .
+the last we interrupted you guys telling us about what happened last week .
+imagine a way of hacking at the code to do that .
+I also s would suggest not to d spend two weeks in in changing the JavaBayes code .
+so , , that 's , also gotta be worked out , hopefully over the next few weeks ,
+I may have to go to Switzerland for in June or beginning of July for between two weeks and four weeks , but , after that or before that .
+. the one you gave here a couple of weeks ago would be of interest there , too .
+So , how about if you two guys between now and next week come up with something that is partially proposal , and partially questions ,
+And , the sem semester will be over next week but then you have projects for one more week to come ?
+
+And then we 'll shift gears a Fairly substantially ,
+OK , so then I 'll go back and look at the ones on the list that
+and and then we 'll dig d dig down on this .
+So I 'll d I 'll dig you up this reference .
+so sh she 'll be chasing you down and like that .
+We 'll see whether it 's gonna make sense to have this be separate from the other bigger effort with the formalization or not ,
+, so , and if there is a book , that you 'll be building up some audience for it .
+
+What I 'm what my job is , I will , , give you the input in terms of the internal structure .
+If it 's done right , and if you have data then , there are techniques for learning the numbers given the structure
+and there are even techniques for learning the structure , although that takes a lot more data ,
+
+The sythesis is just a question of , hopefully it 's just a question of exchanging a couple of files , once we have them .
+So that if we come up with a question of " could we fit this deeper in there ? " .
+but y not worry about parsing them or fitting them into SmartKom or any of the other anything lik any other constraints for the time being .
+. And similarly with the parsing , we 're gonna worry about parsing , the general case
+
+mainly because like , the gerund in German is automatically taken care of with just a regular verb ,
+So th the demo requirements for this Fall are taken care of as of later this week .
+And then So , it 's probably fifteen months until there 's another serious demo requirement .
+and we went through this , and , , more or less convinced ourselves that at least the vast majority of the nodes that we needed for the demo level we were thinking of , were in there .
+because the image schemas are going to be , an important pa
+
+, now that was the talk was about English versus Japanese , , which the Japanese doesn't affect us directly , except that , , some of the construction
+but this is a three language project : German , English , Japanese .
+And , we have a , I have taken care that we have the Japanese generation and .
+But , we should leave Japanese constructions maybe outside of the scope for now ,
+
+And , , Johno learned how to write XML tags .
+And Johno 's already done that , , looked at the dem the looked at the SmartKom .
+and , Johno is point person on the parser , analyzer , whatever that is ,
+Nancy and Johno and I are gonna talk about parsers .
+
+And the the thing that got Mark into the worst trouble is he had a very ambitious thing he was trying to do ,
+And then the other thing is while we 're doing this Robert 's gonna pick a piece of this space ,
+so that it becomes clear , what piece , Robert wants to jump into .
+
+And then the thing that actually builds these syntactic structures is something based on Prolog .
+, how does it know which syntactic structure to pull out , and all that ?
+It 's hard enough to get it semantically and syntactically right and then and get the constructions in their form and .
+The solution they proposed was that it was due to syntactic factors .
+That syntactic facto factors do play a role there , wh whether you 're more likely , , to develop , choices that lead you towards using intrinsic versus extrinsic reference frames .
+
+where that 's the center " Origo " is the center of the f frame of reference .
+And then you have the reference object and the object to be localized .
+In some cases the origo is the same as the reference object .
+Origo is a Terminus technikus . in that sense ,
+I 'm the origo and I 'm also the reference object .
+And so these issues about , reference , and spatial reference , discourse reference , - - all this , , deixis which is part of what you were talking about ,
+
+On this scale , you have it either be ego or allocentric .
+But here 's the amazing result , , they say .
+So in addition to e ego and allocentric which appear all over the place , you also have this proximal - distal thing which is very deeply embedded .
+i probably most likely without knowing this evidence is talking about these small scale spaces that you can manipulate versus large scale environmental spaces .
+I 'm sufficiently clueless that I count as a
+
+Just give a talk in the big room , and so peo people 's going on ?
+but yo I noticed people do use Hugin
+Fo - Hopefully as time passes we 'll get more and more data from Heidelberg and from people actually using it and .
+Cuz , I 'm still itching to look at what look at the , and see what people are saying .
+so , I 'm in terms of , people trying to state locations or , , all that , this is gonna be very relevant .
+And people who are accomplished violinists and like that , claim they also have this thing where you get a direct sensation of , physical sensation , of the end affector .
+, so anyway , so So this was the first actual experimental evidence I 'd seen that was consistent with this anecdotal .
+Ge - Germany 's got two big technical institutes .
+So , , two or three people is the size in which actual work gets done .
+
+Er , nah , I don't re I 've never been good at those .
+Because I 've seen it advertised in places so I it seems to
+First of all , it explains something that I 've always wondered about
+, so , , I 've give I 've given her some things to read .
+Cuz they 've actually these DFKI guys have done as much as anyone over the last decade in trying to build them .
+This , I 've I have projects , but then the my prof professor of one of my classes also wa has a final that he 's giving us .
+
+because it 's designed for this seevit thing , where you have the gestural recognition running with this s Siemens virtual touch screen , which we don't have here .
+So what we 're gonna do initially is do design , and , i if you will , .
+but for the limited amount of we have for this particular exercise we 'll just design it .
+We probably will not get those to describe because they were trial runs .
+The the amount You put in your credit card and as .
+
+And , I don I don't want you f feeling that you have to somehow meet all these other constraints .
+So , that like the meetings so far that I 've been at have been been geared towards this demo ,
+Actually , roughly starting let 's say , nex next meeting , cuz this meeting we have one other thing to tie up besides the trip report .
+But starting next meeting we want to flip into this mode where
+Anyth - any other repo visit reports stories ?
+
+The - th There there 's a drive - in thesis sh joint over in Saarbruecken .
+And actually I talked today to a undergraduate who wants to do an honors thesis on this .
+It partly depends on w what your thesis turns out to be and how that goes .
+
+And send in a a couple of side queries on some dummy center set - up program so that it actually works
+So , c sh we could set that up as actually an institute wide thing ?
+but the the outcome that is scientific interest is that both Ralf and Tilman
+The answer seems to be , " no , no one has done it , but yes it 's a perfectly reasonable thing to do if that 's what you set out to do " .
+You get someone with a with a deficit so that they have a perfectly normal ability at distance things .
+and he insisted on trying to do it with a limited set of mechanisms .
+and he seemed fully committed to both sides of this i irreconcilable thing .
+
+And , , it 's not going to be a problem because we decided to stick to the so - called concept to speech approach .
+and " concept to speech " is feeding into this synthesis module giving it what needs to be said , and the whole syntactic structure
+so it can pronounce things better , presumably . Then , just with text to speech .
+And because we 're sticking to that structure , the synthesis module doesn't need to be changed . So all that f fancy ,
+, I still don't exactly understand the information flow in this thing , or what the modules are and so on .
+So , , like just that such - and - such module decides that it wants to achieve the goal of greeting the user ,
+
+but is there a a transcript of any of the , , initial interactions of people with the with the system ?
+
+, the Deep Map project which is undergoing some renovation at the moment ,
+But there seems to be an actu really deep embodied neural difference .
+he does the th the cognitive map world , down in Santa Barbara .
+So there 's , , deep , really deep , emotional commitment to a certain theory being , complete .
+actu actually I 'm invited to do some consulting with a bank in Geneva which has an affiliation with a research institute in Geneva , which I forgot the name of .
+
+, I noticed that , that some of the examples they had , had , non - English word orders and so on ,
+And so you when somebody on the streets com comes up to you and asks you what is SmartKom so you can , , give a sensible answer .
+he 'd what he talked about was that in English we say things like th , " your bike is parked across the street "
+and we use these prepositional phrases , , " , if you were to move across the street you would be at the bike " ,
+
+so I 'd have to add " am walking , "
+but when you get free and you have the time either Robert or Johno or walk you through it .
+But none of that has a short time fuse .
+and I couldn't find the necessary mix of free and with the GUI and , with this thing that we want .
+So so don't view free as a absolute constraint .
+

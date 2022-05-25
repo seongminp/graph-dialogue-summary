@@ -1,0 +1,555 @@
+, so the one th one thing I know that we have on that is we had talked a couple weeks before about the the you were doing with l attempting to locate events ,
+So there 's probably there 's three to four a week ,
+, I , if there 's any way without too much more overhead , even if we don't ship it right away to IBM even if we just collect it here for awhile , to record , two or three more meeting a week ,
+if anyone knows of one more m or two more wee meetings per week that happen at ICSI , that we could record , it would be worth it .
+
+, so , , he was interested in the question of , relating to his to the research he presented recently , of inference structures ,
+where you have to draw the inference that , OK , there 's this time sequence ,
+He 's interested in these knowledge structures ,
+And so it 's just easier to do that broad inference jumping if it 's face to face .
+because , because he 's looking at the per even for addressees in the conversation ,
+, the inference structures was Lokendra .
+, OK , . So let 's back up because you weren't here for an earlier conversation .
+So it 's , it 's So it 's so it 's another source .
+
+but it 's something about how , i " Joe slipped " , " John had washed the floor " like that .
+let 's say you have a snippet that says , " Joe s thinks such - and - such about this field , but he 's wrongheaded . "
+but , let 's say we say , , " Joe used to - and - so about this area , in his publication he says that but he 's changed his mind . " or whatever .
+Then the issue of being able to trace Joe , because we know he 's - known in this field , and all this and tie it to the speaker , whose name was just mentioned a moment ago , can be sensitive .
+It 's ambiguous , so it 's OK .
+I don't mind By the moment , by the moment .
+, whether it 's transcribed or not , is another issue ,
+It 's pipeline , pipeline issues .
+
+, I 'm just thinking , , when you 're when you 're face to face , you have a lot of backchannel
+Now , we 're we 're gonna be careful not to have the " wrongheaded " part in there ,
+It 's just that i you 're right that there 's more poten If we never say anybody 's name , then there 's no chance of of slandering anybody ,
+Because i we 're we 're dealing with the , in the early meetings ,
+we 're recording while we 're saying who 's talking on what microphone , and things like that ,
+They 're They meet on Tuesdays . We 're gonna start recording them next week .
+That 's what we 're aiming for .
+And , , we h we 're highly motivated .
+W what is the the artifact you try to you 're trying to get rid of when you do that ?
+Or , they 're not as averse to wearing one of these head - mount
+, what we 're trying to stay away from was artificial constructions ,
+the issue is just that we 're we 're blazing that path .
+So once they get it sorted out about how they 're gonna do it , which they 're pretty along on , cuz they were able to read the files and so on .
+But they But at any rate , they 'll once they get that sorted out , they 're they 're making cassettes there , then they 're handing it to someone who they who 's who is doing it ,
+but then I got email from them that said " no , we decided we 're not really interested and we don't wanna come down and hold meetings . "
+, and they 're already they 're these things are already recorded ,
+
+And it looks like you 've found a way of mapping the location to the without having people have to give their names each time ?
+there 's just a couple a couple people primarily
+And so I so I 'm I 'm tending to stay away from people 's names even though
+people say people 's names all the time .
+So it can't be bad to say people 's names .
+So if you had an overlap involving three people , how many times was that counted ?
+No no , but what she 's asking is if at some particular for some particular stretch you had three people talking , instead of two , did you call that one event ?
+, but But you could imagine that three people talking has a different spectral characteristic than two .
+So if you wanted to study people overlapping people , that 's not a problem .
+Whereas th i I would think that you we can study more or less as a distinct phenomenon the overlapping of people talking .
+We want something more flexible , i where people might change their position ,
+It 's also likely that people will cancel out afterwards .
+it 's getting the people to come in and put on the and get the setup going .
+, , the meetings where people eat their lunch downstairs ,
+? I that people are gonna feel are gonna feel a little bit constrained .
+What if we give people , we cater a lunch in exchange for them having their meeting here ?
+So , it 's gonna be a problem to get people regularly .
+
+I 'm gonna collect the digit forms and write it down .
+with what 's on the digit forms .
+if you infer form the close - talking mikes where the on - off points are of speech ,
+I don't what I 'm working on was getting it to a form where we can import it into the user interface that we have , into Transcriber .
+. Let 's see . I you actually already said this thing about the about the consent forms ,
+The a , we 're gonna do a revised form , .
+She wanted me to actually estimate how many meetings and put that on the consent form .
+
+. So it 's the it 's i What you what you int what you draw , the conclusions that you need to draw are that space is involved in recording ,
+, I asked her very specifically about this clause of how , , , it says " no individuals will be identified
+Then there 's a larger piece that 's been recorded and put on CD - ROM and sent to IBM .
+H how many total have we recorded now , altogether ?
+- . And we 're recording only this meeting , like continuously
+it 's hard to record those .
+and so I do think we 're gonna continue recording here and record what we can .
+even and I 'm not wh how they record it , but they must record from individual
+
+but we were looking to see if there is there something in common between our interest in meetings and his interest in in this .
+. we should do whatever 's natural in a meeting if we weren't being recorded .
+See , this is where we really need the Meeting Recorder query to be working ,
+but there 's at least one meeting recorded of the natural language guys .
+there 's a network services and applications group here who 's to have their meetings recorded ,
+So right now , , I th I 'd say the data is predominantly meeting meetings ,
+but there are scattered other meetings in it and that amount is gonna grow
+so that the meeting meetings will probably ultimately
+I was these meetings I 'm someone thought of this , but these this reading of the numbers would be extremely helpful to do adaptation .
+, is there Are there any other meetings here that we can record , especially meetings that have some conflict in them or some deci
+I 'm talking more about strong differences of opinion meetings ,
+You you could maybe hold some additional meetings , if you wanted .
+, the problem with that is I would I would feel a little constrained to ? , some of the meetings
+, our " soccer ball " meeting ?
+I none of you were there for our soccer ball meeting .
+. And there 's a lot of different meetings at UW
+Is the , notion of recording any of Chuck 's meetings dead in the water ,
+So , we have two speech meetings , one network meeting ,
+it 's like you don't want meetings that are too large , but you don't want meetings that are too small .
+really doubt that any of the State of California meetings would be recordable and then releasable to the general public .
+and , they hummed and hawed and said " maybe we could have meetings down here " ,
+
+, actually . Cuz Morgan will say , " you had some ideas "
+I 'm not it 's a good idea , but
+So the idea was that what he was going to be doing was experimenting with different measures
+So the idea is to have some ground truth first .
+And so the i the idea of the manual marking was to say " OK this , i , it 's it 's really here " .
+But I but I wanted to raise the KPFA idea .
+Right , that 's the found data idea .
+But if we ask them to do that they might be intrigued enough by the idea that they might be e willing to the I might be able to talk them into it .
+
+and so the tack that we 've taken is more " lets come up with feature approaches and multi - stream approaches and , that will be robust to it for the recognizer and not try to create a clean signal " .
+and after the time delay , there 's these various reflections .
+It 's if you have a clean situation but you just have some delays ,
+so that it 's decision about what the right , right delays are is , is right delayed signal is is incorrect .
+And so , in a noisy situation , , also in a in a situation that 's very reverberant with long reverberation times and really long delays , it 's it 's typically impractical .
+
+, do you bootstrap from a simple measurement which is right most of the time and then you g do better ,
+or do you bootstrap from some human being looking at it and then do your simple measurements , from the close - talking mike .
+and so but it 's it 's doing something very , very simple .
+cuz you add this complex thing up afterwards that does something good y yo you wanna see what the simple thing does first .
+Right ? So let 's take the simple case where you just had you had some some delay in a satellite connection
+
+we 're , I don't expect Jose to do it for f fifty hours of speech ,
+We 're saying about twelve hours .
+i if we 're if we collect fifty or sixty hours , the meeting meetings it will probably be , , twenty or thirty percent of it ,
+so there 's this one hour , ten hour , a hundred hour thing that we have .
+we have we have twelve hours that 's recorded but not transcribed ,
+Eight weeks times three hours is twenty - four , so that 's , so like thirty hours ?
+and you can always think of , also for political reasons , if ICSI collected , two hundred hours , that looks different than forty hours , even if we don't transcribe it ourselves ,
+So , I th that if we are able to keep that up for a few months , we are gonna have more like a hundred hours .
+But that it 's not unreasonable to aim at getting , , significantly in excess of a hundred hours .
+The thing was , I was hoping that we could @ @ in the under this controlled situation we could at least collect , , thirty to fifty hours .
+but as far as the collection , it doesn't seem to me l like , , unreasonable to say that in January , , ro roughly which is roughly three months from now , we should have at least something like , , twenty - five , thirty hours .
+and it 's not going to be I don't think it 's going to be that much more of a deal for them to do thirty hours then to do one hour ,
+
+If we wanna go through and extract from the audio and the written every time someone says a name .
+So let 's say me and Jane are talking at the same time ,
+there was that business where I g I it was Adam and Jane were talking at the same time
+, you could you could do the dumbest thing and get it ninety percent of the time .
+So , , maybe we should move on to other things in limited time .
+, I don't wanna charge the time that I have on the project too early , before there 's enough data to make good use of the time .
+, but , so they they have , they 're volunteering their time and they have a lot of other things to do ,
+
+So , you see , Don , the unbridled excitement of the work that we have on this project .
+So at any rate you were you 've done some work on that
+but anyway some potential collaboration there about the working with these data .
+you were you were working with th the data that had already been transcribed .
+Now , my a Adam 's working on a , on a revised overlapping interface ,
+I It 's it 's a good work ,
+I 'm working on a program to do that , and
+I 've worked on it for about half a day ,
+It would probably help the program that I 'm doing to first feed it through that .
+Is Brian Kingsbury 's work related to that ,
+Brian 's Kingsbury 's work is an example of what we did f from the opposite dogma .
+the radio stations and television stations already have worked out presumably , related to , , legal issues and permissions and all that .
+but if someone came that was great and wanted to do some real work and they have to end by the end of this school year in the spring , how much data will I have to work with , with that person .
+One of the things that is a little a little bit of a limitation , there is a think when the people are not involved in our work , we probably can't do it every week .
+
+I might not realize that he was talking about disk space as opposed to anything else .
+and at the rate we 're going , by the end of the semester we 'll have , I , forty or fifty , if we if this really
+But I don't think we 're gonna stop at the end of this semester .
+. We 're getting towards the end of our disk space ,
+That 's a good way to end a meeting .
+
+e a I 'm remembering it just off the top of my head right now ,
+So anyway , that 's that 's e a quite different thing from anything we 've talked about that , , might might come out from some of this .
+I probably been affect No , I th I 've been affected by too many conversations where we were talking about lawyers and talking about and concerns about " gee is somebody going to say something bad ? " and so on .
+, we 've got a lot more data than we have transcriptions for .
+I 've I 've written a program to do that ,
+I 've I 'm fiddling with the parameters , to get it to actually generate something ,
+because we 've had these meetings and we 've had this discussion about this , and I 'm remembering a little bit about what we decided ,
+, I 've been burning two C Ds a day , which is about all do with the time I have .
+
+and , in the close - talking mikes you couldn't hear the overlap , and in the distant mike you could .
+On the other hand , there 's other phenomena that are going on at the same time for which it might be useful to look at the close - talking mikes ,
+But why can't you use the combination of the close - talking mikes , time aligned ?
+If you use the combination of the close - talking mikes , you would hear Jane interrupting me ,
+Although the other issue is that the mixed close - talking mikes
+, even with the close - talking mike you 're not gonna get it right all the time .
+, so you 're trying to So you 'd There 's a distance between the close and the distant mikes so there 's a time delay there ,
+and and it 's the obvious thing to do in this situation if you if , , you 're gonna be talking some distance from a mike .
+, similar to what we talked about with energy detection on the close - talking mikes .
+but they might be able to have it wouldn't be that weird for them to have another mike that was somewhat distant .
+It seems like it 's a big part of this corpus is to have the close - talking mikes .
+So , since I 'm interested in the distant mike , I wanna make that there is at least that somewhere
+
+and , the question was raised " , should we restart the recording at this point ? "
+, and my question is , if you did that , if you followed my suggestion , would it take much less time ?
+it 's a question of what you bootstrap from .
+it 's an empirical question .
+There are a number of interesting questions that you can ask about how interactions happen in a meeting , that don't require any transcription .
+but there 's there are research questions you can answer without the transcriptions , or at least that you can start to answer .
+But I had another question , which is , , in principle , w , I know that you don't want artificial topics ,
+
+but , , what we had meant by " events " I was points of overlap between speakers .
+This th I I con I consider I consider an acoustic event , the overlapping zone , the period where three speaker or are talking together .
+But I don't distinguish between the numbers of speaker .
+For me , it 's it 's , all overlap zone , with several numbers of speakers is , the same acoustic event .
+if you 're interested in speakers overlapping other speakers and not the other kinds of nonspeech , that 's not a problem ,
+So the when you said there were three hundred speaker overlaps ,
+When , I would have meetings with the folks in Cambridge when I was at BBN over the phone , they had a some a special speaker phone
+
+So , I looked through the transcript that we have so far , and , fou identified a couple different types of things of that type
+and , one of them was something like , during the course of the transcript , , w we had gone through the part where everyone said which channel they were on and which device they were on ,
+because there 's If , there 's court transcripts , there 's there 's transcripts of radio shows
+The the reason that I generated the mixed file was for IBM to do word level transcription , not speech event transcription .
+But the transcription , I don't I 'm not interested in the in the words , transcription words , transcribed in follow in the in the in the speech file , but Jane put a mark at the beginning of each talker ,
+and we don't have the transcripts back yet from IBM
+, we need to that there 's a possibility that the transcript will need to be adjusted afterwards ,
+I b By the , I don't think the transcriptions are actually , in the long run , such a big bottleneck .
+
+Th - that 's an a side of style a style that we 're not collecting here ,
+, we 'll collect what we collect here
+And if we continue to collect some next semester , we should ,
+I wanted to ask another a aspect of the data collection .
+It 'll just look like ICSI 's collected a lot more audio data .
+what if we had another level , just to collect data , which is without the headsets and we just did the table - mounted .
+
+and that wasn't as directly relevant to what he 's doing .
+Just because your gaze is also correlated with the directionality of your voice .
+because you have s you have more one , more one voice , produced in a in a moment .
+, all the time there were the voice has overlapped .
+Some of it 's masking masked .
+, I 'm doing weird normalizations and things like that .
+Because it 's just an added bunch of weird .
+
+, it 's more realistic but it 'll it 'll be a lot harder .
+so give me another half day and I we 'll have something we can play with .
+We 'll find out tomorrow whether we can really do this or not .
+And and the , the other side to it was the what which is where we were coming from I 'll talk to you more about it later is that there 's there 's
+And at the rate we 're going we 'll get pretty close to that this semester .
+So it 'll be early next week .
+
+and then we drifted into the research and maybe five minutes into that Andreas had to leave .
+, I f I 've @ @ d A minute , several minutes ago , I , like , briefly was not listening
+So again , that 's that 's three hundred in forty - five minutes that are that are speakers , just speakers .
+No , forty - five minutes is the is the session ,
+in in the fin in the forty - five minutes .
+So it 's three hundred in forty - five minutes ,
+but we if if he could speed up what he was doing by just getting the speaker overlaps so that we had it , say , for forty - five minutes , then at least we 'd have three hundred examples of it .
+especially since Andreas is leaving in five minutes ,
+Right so there 's this There 's this forty - five minute piece that Jane transcribed .
+
+, I would like to consider one people with difference noise in the background ,
+but you wouldn't hear the paper rustling .
+and signal to to noise relation is low .
+because it 's confused with noise .
+There 's there 's continual noise from fans and ,
+and there is more impulsive noise from taps and
+and when they would first connect me , it would come on and we 'd hear all this noise .
+But if there 's noise , then the very signal that it 's looking at is corrupted
+, , I do think eating while you 're doing a meeting is going to be increasing the noise .
+
+But a thousand events in twelve minutes , that 's
+, but a thousand taps in eight minutes is a l in twelve minutes is a lot .
+So the twelve you it took you twelve hours this included maybe some time where you were learning about what you wanted to do ,
+but , it took you something like twelve hours to mark the forty - five minutes , your
+Tw - twelve hours of work to segment and label twelve minutes from a session of part of f
+that 's in twelve minutes ?
+but you have you have time , marked twelve minute the overlaps in twelve minutes of it .
+It took you a long time to mark twelve minutes .
+So so in the tw twelve minutes , , if we took three hundred and divided it by four , which is about the length of twelve minutes , i , I 'd expect like there should be seventy - five overlaps .
+How many overlaps in your twelve minutes ?
+Onl - only I transcribe only twelve minutes from the
+About twelve by now . Twelve or thirteen .
+
+So maybe what 's causing it to crash is I keep starting it and then stopping it to see if it 's working .
+And so starting it and then stopping it and starting it again causes it to crash .
+And start by giving the transcript number .
+maybe you have some discussion of some of the p the plausible things to look at now that we 're starting to get data ,
+Silence starting or silence ending
+But when you start going past that and trying to do better , it 's not obvious what combination of features is gonna give you the , the right detector .
+, we 've started having a morning meeting , today i starting a w a week or two ago , on the front - end issues ,
+and we 're gonna start recording them .
+, whoever we have working on the acoustics for the Meeting Recorder are gonna start with that .
+and what we were gonna get from UW , , assuming they they start recording , isn't als also is not going to be this exact setup .
+
+but I prefer because I would like to study if , I will find , a good parameters to detect overlapping
+So , it 's clear that if you wanna study if you wanna find all the places where there were overlap , it 's probably better to use a distant mike .
+, in the overlapping zone , on in several parts of the files where you can find , smooth speech from one talker in the in the meeting ,
+it 's probably in that in those files you can not find you can not process
+I 'm expect I 'm not expecting
+I expect you to find more overlaps than Jane
+, this is very , very time - consuming , and you 're finding lots of things
+Did you find more than seventy - five overlaps in that period , or ?
+, I haven't sent them yet because I was having this problem with the missing files .
+
+But a actually , I 'm . I really would like to push finish this off .
+, that you can get the training data for pretty quickly is , ,
+, I did I did something almost identical to this at one of my previous jobs , and it works pretty .
+, i he 's pretty close , anyway . I think it 's
+I was doing pretty short , , tenth of a second , sorts of numbers .
+No , so the that 's the biggest one , chunk so far ,
+So actually , we 're gonna h start having a pretty significant chunk
+
+It 's very low . You would comp if we compare it with the headphone .
+I consider all the all the session because I count the nnn the overlappings marked by Jane ,
+So , can I ask can I ask whether you found , , how accurate Jane 's labels were as far as
+But , by the moment , I don't compare , my temporal mark with Jane , but I want to do it .
+I and if I compare with Jane , it 's probably I correct and to get a more accurately transcription in the file .
+And when Adam was doing his automatic thing he could then compare to that and see what it was different .
+
+to nnn to to find what is the ehm the false , the false hypothesis , nnn , which are produced when we use the ehm this parameter pitch , difference , feature
+I consider the , nnn the nnn , nnn , the entirety
+When I w I was look at nnn , the difference speech file ,
+And so if when you transcribe only using the nnn the mixed file , it 's possible if you use the transcription to evaluate a different system ,
+I found that nnn that , ehm , pr probably ,
+But my idea is to process only nnn , this nnn , this s of speech .
+The the transcription by Jane , t i , I I want to use to nnn , to put
+I consider I The the nnn The the three hundred is considered only you your transcription .
+, that 's difficult because often times the the system transfer function is such that when it 's inverted you get something that 's unstable ,
+
+, , if we use the ehm the mixed file , to transcribe , the events and the words , I saw that the speech signal , collected by the this mike of this mike , are different from the mixed signal , we collected by headphone .
+but the problem is , we detected difference events in the speech file collected by that mike qui compared with the mixed file .
+i and you use the speech file collected by the fet mike , to to nnn to do the experiments with the system ,
+its possible to evaluate , or to consider acoustic events that which you marked in the mixed file , but they don't appear in the speech signal collected by the by the mike .
+So I agree that if someone wants to do speech event transcription , that the mixed signals here
+So and I I say that , or this only because I c I in my opinion , it 's necessary to to put the transcription on the speech file , collected by the objective signal .
+the the signal collected by the , the real mike in the future , in the prototype to correct the initial segmentation with the real speech
+I I saw the speech file collected by the fet mike ,
+
+Is it Are you calling the beginning or the end of it the event ,
+So my goal is to get words with reference to a time bin , beginning and end point .
+I b I bet they 're more , because the beginning of the meeting had a lot more overlaps than the middle .
+I 'm I 'm not that the beginning had more .
+
+So , do you think his interest is in using this as a data source ,
+and that if we were going to project into the future when we had a lot of data , and such things might be useful for that in or before we invested too much effort into that he should , with Jane 's help , look into some of the data that we 're already have
+So , it was partly that , , give somebody a chance to actually look at the data and see what these are like , partly that we have e some ground truth to compare against , , when he gets his thing going ,
+like very straightforward question is where we are on the amount of data and the amount of transcribed data ,
+So that would mean like if you were listening to the data that was recorded on one of those .
+that 'd be enough data plenty of data to do that with ,
+And you wanna s you wanna fr freeze your data for awhile
+. So I was thinking right now it 's this exploratory where you look at the data , you use some primitive measures and get a feeling for what the scatter plots look like ,
+I actually I actually think that 's useful data , the chatting ,
+
+I remind that me my first objective , in the project is to study difference parameters
+and give you with the report from the study from the the session one session .
+and it 's a g worthwhile thing to study ,
+I was mostly trying to think , " OK , if you start a project , within say a month , , how much data do you have to work with .
+So , not complaining , I was just trying to think , , what kinds of projects can you do now versus six months from now
+and and and meanwhile we collect , and it 's more like , three months from now , or six months from now you can you can do a lot of other things .
+
+And and you need to have a lot more than that to have any even visual sense of what 's going on , much less any reasonable statistics .
+, trying and change it sample by sample , but you have some reasonable sized blocks . And , , th
+So now , if you try to r you To completely remove the effect of that is impractical for a number of technical reasons ,
+So , anyway that 's that 's a reasonable thing that I 'd like to have somebody try
+there 's all sorts of all sorts of reasons why it 's not really practical .
+So for all those kinds of reasons , we we , concluded we didn't want to in do inversion ,
+Stage some political debates .
+
+and I was thinking it was a meeting a couple of weeks ago that we spent much of the time talking about the mundane cuz that 's easier to get out of the way
+Cuz it could be that you 'd look through it and you say " , this is just the wrong task for him to pursue his "
+cuz you have this close you have contamination from other people who speak loudly .
+Cuz I 'm not actually , just logistically that spend
+, the transcriptions are a bit of an unknown cuz we haven't gotten those back yet as far as the timing ,
+cuz it 's politically better for us to say we have this many hours of audio data , especially with the ITR , if we put in a proposal on it .
+really m a lot more than we have here right cuz we 're not right on campus ,
+
+, if you ha since you have to go over the transcripts later anyway , you could make it one of the jobs of the people who do that to mark
+and es especially since these people won't be used to dealing with multi - channel transcriptions .
+
+OK , so I 'll go ahead and start with digits .
+but I if in general we wanna have meetings that we record from outside this group do the digits .
+, the morning group is really motivated
+cuz they 're working on connected digits ,
+is I have a bunch of scripts to help with the transcription of the digits .
+We don't have to hand - transcribe the digits because we 're reading them and I have those .
+or just if you 're if you ha If there are meetings here that happen that we can record even if we don't have them do the digits , or maybe have them do a shorter digit thing like if it was , , , one string of digits , , they 'd probably be willing to do .
+One is without doing the digits Or , I the full - blown one is where you do the digits , and everything , and then talk about doing it without digits ,
+just to have the data , even if they 're not doing the digits , but they do wear the headphones ?
+
+, and then it does a median filter , and then it looks for runs .
+It 's a cross - correlation filter .
+, i almost exactly what you described , an energy detector with a median filter , you look for runs .
+Although if you if you have some parameters like what 's a good window size for the median filter
+, what 's the difference in If you were trying to construct a linear filter , that would
+, I 'm I 'm saying That 's a simplified version of what 's really happening . What 's really happening is
+So you construct a filter , and you have this filtered version of the speech gets gets subtracted off from the original speech .
+and so , if you do your estimate of what the system is , and then you try to invert it , you get a filter that actually , , rings , and goes to infinity .
+
+but also the the causal aspects of the floor and how it might have been the of the fall
+because if there 's a slanderous aspect to it , then how much to we wanna be able to have to remove ?
+So that 's something I 'd like somebody to do at some point , just take these digits , take the far - field mike signal , and the close mike signal , and apply really good echo cancellation .
+that would subtract off the parts of the signal that were the aspects of the signal that were different between the close - talk and the distant .
+But what I 'm saying is if I talk to people that I know who do these th who produce these things we could ask them if they could record an extra channel , let 's say , of a distant mike .
+
+, , just , just in that one s ten second , or whatever it was , example that Adam had that we passed on to others a few months ago ,
+See I was wondering cuz we st we have these ten hours of other that is not yet transcribed .
+t ten It 's like ten meetings ?
+Ten meetings that have been sent to IBM ?
+So this is the st the straight - forward approach .
+So from a s practical standpoint , maybe we could have them do it once every ten meetings , .
+And and d Do you have any idea when the you 'll be able to send the ten hours to them ?
+
+And I 'm surprised I I 'm surprised I forgot that ,
+and , the need to build in , , this mechanism for understanding of language .
+And and I got the impression from your mail that there was enough things like this just in the little sample that you looked at that it 's plausible at least .
+I mentioned several that w had to do with implications drawn from intonational contours
+So it 's really adaptive and wise to not mention names any more than we have to
+It was it was just unconscious , semi - conscious behavior .
+Was that there m there was this already a script I believe that Dan had written , that handle bleedthrough ,
+And so I have some scripts that let you very quickly extract the sections of each utterance .
+there 's a least squares algorithm that adjusts itself adjusts the weight so that you try to subtract essentially to subtract off different different reflections .
+Right . So it 's taking samples , it 's doing adaptation , it 's adjusting weights ,
+So it 's so there 's there 's that technical reason , and the fact that things move , and there 's air currents
+. So . So I , I 'd mentioned to Adam , and that was another thing I was gonna talk , mention to them before that there 's It it oc it occurred to me that we might be able to get some additional data by talking to acquaintances in local broadcast media .
+it 's like , , the goldibears goldi goldilocks ,
+
+, I don't think we 've been doing it at that level of detail .
+, also Jane was doing word level .
+you just were showing at the level of the phrase or the level of the speech spurt , or
+but , , w it just wasn't important for our purposes to have it that i disrupt that unit in order to have , , a the words in the order in which they were spoken ,
+because you 're looking at it at a much more detailed level .
+thought if it was tried and true , then and he 's gone through additional levels of development .
+, we 're already talking about two levels of detail in meetings .
+. , we should also check with Mari again , because they because they were really intending , , maybe just didn't happen , but they were really intending to be duplicating this in some level .
+
+and that it was the other person who fell than the one who cleaned it
+So I was just realizing we 've You guys have been talking about " he " for at least , I , three four minutes without ever mentioning the person 's name again .
+, if you have the P Z Ms you should be able to pick up what a person is looking at from their voice .
+So , two people are talking , and then a third person starts talking .
+So then , in the region between since there is some continuous region , in between regions where there is only one person speaking .
+but once a person has signed it once , then that 's valid for a certain number of meetings .
+There 'd be no reason why a person couldn't get together several , , friends ,
+But the lunch meetings are one person getting up and
+
+to find a good solution to detect , the overlapping zone in speech recorded .
+to find and to locate and to mark the different overlapping zone .
+besides the overlapping zones , I the breaths aspiration , talk , clap ,
+but my objective will be to study overlapping zone .
+Three hundred overlapping speech
+Alm - Three hundred overlapping zone .
+With the overlapping zone , overlapping speech what different duration .
+Wi - but , without any mark between the zone of the overlapping zone with two speakers speaking together ,
+Because for me , is the is the zone with some distortion the spectral .
+she nnn includes information about the zone where there are there is an overlapping zone .
+ta I 'm we need this information to
+So we weren't concerned with exactly when an overlap started and stopped .
+And also if we wanna add things like , , more refined coding of overlaps , then definitely we should count on having an extra pass through .
+
+So I 'm suggesting we turn it around
+, especially with Morgan , with the way we have the microphones arranged . I 'm right on axis
+I don't think the microphones would pick up that difference .
+No I just was suggesting that it 's not a bad policy p potentially .
+, I di I didn't intend it an a policy though .
+Di - dif different bandwidth .
+so , , Adam 's struggling with trying to get things to be less buggy , and come up quicker when they do crash and things like that ,
+and it 's typically one microphone ,
+, but , again , Jerry is Jerry 's open
+OK , leave them on for a moment until I turn this off , cuz that 's when it crashed last time .
+Turning off the microphone made it crash .
+
+, with , a beginning mark and the ending mark .
+But there isn't any mark , time temporal mark , to c to mmm e - heh , to label the beginning and the end of the of the
+how would it affect your time if you only marked speaker overlaps ?
+On - only to mark only to mark overlapping zone , but
+But , having somebody have some experience , again , with with marking it from a human standpoint ,
+I know Mark Liberman was interested in LDC
+
+, one of the things I wanted to do , , that I talked to Don about , is one of the possible things he could do or m also , we could have someone else do it , is to do block echo cancellation ,
+and even echo cancellation is going to be something It may you Someone may be moving enough that you are not able to adapt quickly
+And so we haven't had anybody try to do a good serious job on echo cancellation and we should know how that can do .
+the block echo cancellation particularly appealed to me ,
+and then there 's a there 's an echo .
+You say I I want to use this this item but I want to subtract off various kinds of echos .
+So , echo cancelling is , , commonly done in telephony ,
+So the echo cancellation does not really allow for noise .
+and we 're even pretty skeptical of echo cancellation , which isn't really inversion ,
+
+And I imagine that transcripts of speech text that is speech probably has more of those than prepared writing .
+probably de probably depends on what the prepared writing was .
+So this is this is gonna be a big , big problem if you want to later do , , indexing , or speech understanding of any sort .
+But , tsk , ehhh In that way I I begin to study and to analyze the ehn the recorded speech the different session
+Not speech not speech or too much speech .
+, when I 'm talking to you right now , you 're getting the direct sound from my speech ,
+and i for that task you wouldn't care whether it was large vocabulary speech or anything .
+So I talked with some people at the Haas Business School who are i who are interested in speech recognition
+
+I bet you could pick that up in the acoustics .
+and I have found , one thousand acoustic events ,
+, I I do I don't need to to mmm to m to label the different acoustic ,
+I would like to to test these parameters with the another , acoustic events ,
+, if it 's a tapping sound , you wouldn't necessarily or , , something like that , it 'd be it might be hard to know that it was two separate events .
+I I t I talk about acoustic events in general ,
+? n in twelve minutes I found , one thousand acoustic events .
+And one contiguous region like that you 're calling an event .
+or are you calling the entire length of it the event ?
+I con I consider I consider acoustic events , the silent too .
+to bec to detect because I consider acoustic event all the things are not speech .
+So how many of those thousand were silence , silent sections ?
+If it 's three hundred i it sounds like you probably only have fifty or sixty or seventy events right now that are really
+
+Is there any point which you think that , , you could gain some advantage and some potential use for it .
+, we were talking about Dan at one point and we were talking about Lokendra at another point .
+In ge in in a general point of view .
+, it 'd be hard , but on the other hand as you point out , if your if i if your concern is to get the overlapping people 's speech , you will you will get that somewhat better .
+, you didn't need to show the exact point of interruption ,
+And so doing that to generate these possibilities and then going through and saying yes or no on them would be a quick way to do it .
+That piece was then sent to IBM so they could transcribe so we have some comparison point .
+, there 's the State of California downstairs , and
+
+Or you can set the threshold low and then weed out the false alarms by hand .
+but you 're also getting , , the indirect sound that 's bounced around the room a number of times .
+not to try to completely remove it , that is , invert the room response ,
+if you actually I mentioned that it 's hard to really do the inversion of the room acoustics .
+and we decided to do this approach of taking , just picking features , which were will give you more something that was more stable , in the presence of , or absence of , room reverberation ,
+I know this sounds tough but we 've got the room set up .
+So I was thinking , , we 've got the room set up
+Because , , we had talked before about the problem about using found data , that it 's just set up however they have it set up
+
+to try to get rid of some of the effects of the the far - field effects .
+and , if it 's if it 's not a simple echo , like a cross - talk echo , but it 's actually room acoustics , it 's it 's you can't really do inversion ,
+It comes back . And you want to adjust this filter so that it will maximally reduce the effect of this echo .
+but just to try to eliminate some of the effect of some of the echos .
+Then we 'll figure out the right the right set of weights for your taps for your filter in order to produce the effect of those echos .
+
+I came up with something from the Human Subjects people that I wanted to mention .
+But also to some extent it 's just educating the Human Subjects people , in a way ,
+some of these that are the nonspeech overlapping events may be difficult even for humans to tell that there 's two there .
+So this was the human subjects folks who said this , or that ?
+but it does seem to me that we might be able to get subjects from campus to come down and do something that wouldn't be too artificial .
+And a and it just seems like maybe we could exploit the subj human subject p pool , in the positive sense of the word .
+
+But I th I gather from our discussion a little earlier today that you also mean interruptions with something else
+and then the other thing would be it might be to have a preliminary discussion of some of the other research areas that we 're thinking about doing .
+and one of the things I know that also came up is some discussions that that Jane had with Lokendra
+, if I 'm tapping on the table , you it 's not gonna show up on any of the mikes , but it 's gonna show up rather loudly in the PZM .
+But , it did occur to me that we could go to friends in broadcast media and say " hey you have this panel show , or this , this discussion show , and can you record multi - channel ? "
+the other thing that occurred to me after we had that discussion , , is that it 's even possible , since , many radio shows are not live , that we could invite them to have like some of their record some of their shows here .
+i I have better contacts in radio than in television , but
+You could get a lot of lively discussions from those radio ones .
+
+And I should say that , you just pau you just read each line an and then pause briefly .
+, we have the party line has been that echo cancellation is not the right way to handle the situation
+, that 's the party line .
+But it occurred to me a few months ago that party lines are always , , dangerous .
+Which is what I was calling the " party line " , which is that doing that thing is not really what we want .
+
+because i in narratives , , if you spell out everything in a narrative , it can be really tedious ,
+Now , why do you need to mark speaker overlap by hand if you can infer it from the relative energy in the
+such as the increase in energy , such as the energy in the LPC residuals , such as
+there 's a bunch of things , increased energy is - is an obvious one .
+Then you try to you try to minimize the energy in some sense .
+So what are the patterns , the energy patterns over the meeting ?
+
+, we the things that we talk about in this meeting tend to be a mixture of procedural mundane things and research points
+and we have anybody has some mundane points that we could send an email later , hold them for a bit , and let 's talk about the research - y things .
+, it fits into the m area of the mundane ,
+, there was a have been some talks recently by Lucent on their b
+
+And and Dan Ellis said , " , we 're just so far ahead of the game right now we really don't need to " .
+So , the inferences that are involved are things like , OK , so , how do you interpret " ahead of the game " ?
+and he continues , like " we 're so ahead of the game cuz now we have built - in downsampling " .
+So you have to get the idea that , " ahead of the game " is sp speaking with respect to space limitations ,
+that that downsampling is gaining us enough space ,
+, so , if read that Dan was saying " we 're ahead of the game " in that in that context ,
+So he said , , " we 're ahead of the game , w we have built - in downsampling " .
+

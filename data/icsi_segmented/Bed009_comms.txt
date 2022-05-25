@@ -1,0 +1,374 @@
+, it 's it 's not defined yet .
+and it 's it 's not really been defined yet
+but that doesn't necessarily contradict an architecture where there really is a pers a def - defined interface .
+That 's an additional reason to have this - defined interface
+
+So we 're gonna try to finish by five so people who want to can go hear Nancy Chang 's talk , downstairs .
+let 's Let 's hear
+but it 's what I hear . One could also look at that and see whether there is some synergy possible .
+
+And he 's gonna be responsible for the implementation of this action planner .
+
+That 's part of our belief .
+we are on part six of r a route that consists of eight steps and
+it 's gonna interact co in a complicated way with the understanding parts .
+No no it 's it 's complicated for
+Part of it comes from the user model .
+
+They they govern more or less the dialogue behavior or the action
+It 's not really what you do with the content of the dialogue but it 's
+what 's called the action plan and what 's really the dialogue manager .
+In in one of these things which are much more continuous than the just the dialogue over movies and .
+Would there be any chance of getting the terminology changed so that the dialogue planner was called a " dialogue planner " ?
+It oughta be called a dialogue manager .
+There is there 's a logic to dialogue which is separable .
+in that case the dialogue manager is event driven .
+So the dialogue manager may think it 's in a dialogue state of one sort ,
+So that forces the dialogue manager to change state .
+
+And they 're currently Agreeing or in the process of agreeing on an X M L - ification of something like a state - transition network of how dialogues would proceed .
+- . Also it 's it 's Yes , the choice between this processing and that processing and my template matcher .
+yes , it 's it 's possible to do list processing .
+and in German set processing is used .
+
+and The these transition networks will be what the action planner interprets in a sense .
+So there 's ac so there th the word " action " , OK , is what 's ambiguous here .
+So action he action here means dia speech ac dialogue act .
+whether there 're dialogue action planners that work with belief - nets that are action planners that work with state automata .
+, the i it 's the action planner is going to take some spec and s make some suggestions about what the user should do .
+What the user says after that is going to be very much caught up with what the action planner told it .
+And even on a more basic level the action planner actually needs to be able to have an expressive power that can deal with these structures .
+or It 's really gonna be an action planner .
+and not because somebody actually believes it ought to be action planner .
+and you can use the same language core , understanding core to interface with planner - A , planner - B , planner - C and .
+
+Walk a scenic route ?
+So that 's that form of planning , and action , and a route planner and GIS , all .
+just the spatial planner and the route planner
+because the action planner should not be or the dialogue manager in that case should not w have to worry about whether it 's interfacing with something that does route planning in this way or that way
+It doesn't really have to worry ab how route planner A or how route planner B actually wants it .
+It 's called the " route planner " .
+
+and so it 's a a computer call system that gives you tourist information
+So , one thing is there 's an actual planner that tells the person in the tourist domain now ,
+when so , when you get to the tourist domain it 's not just an information retrieval system .
+Now how much people have thought ahead to the tourist domain in this
+whereas in the a tourist domain it might be an entire route .
+I haven't seen anything for the tourist path domain .
+Because there 's this other thing The o There 's this other thing in the tourist domain which is gonna be a route planner
+I if that c in persists then we 're gonna need another term . for the thing that actually does the planning of the routes and whatever we are doing for the tourist .
+and about th the something about was the agent a tourist or a native or a business person
+And it 's a small enough domain that probably you ,
+And that all sorts of things , particularly in the tourist domain , can be represented in terms of source , path and goal .
+
+And so the idea is to construct suitable interfaces and a belief - net for a module that actually tries to what the underlying intention was .
+Robert didn't bring it today but there 's a belief - net which is
+There 's a first cut at a belief - net that doesn't it isn't fully instantiated ,
+that 's that 's where the belief - net comes in .
+And the idea of the belief - net is it combines the information from the dialogue which comes across in this general way ,
+And so that 's the belief - net that we 've laid out .
+And so th the coupling to the situation comes in this model from , at th at the belief - net , combining evidence from the dialogue with the ontology with the situation .
+
+They wanna go to a completely different point where they can look at it and take a picture .
+And it 's th that 's completely encapsulated from th the dialogue system .
+nothing 's being completely settled there
+no he 's completely gonna rewrite everything . In Java .
+completely utopian at the moment ,
+
+but there 's gonna be some feedback and input from the action planner into all the analysis modules , telling them what to expect and what the current state of the discourse is .
+
+so anyt we 'll find a time later in the week to get together and talk about your understanding of what SmartKom plans are .
+do earlier in the day on Thursday , or most of the time on Friday ,
+It 's a good time to pause .
+it 's it 's also a quantrant
+and the values in these slots would be fixed things like the a time or a movie title like this
+
+so what they 're really doing right now is only selecting among the alternatives , the hypotheses that they 're given enriched by the domain knowledge and the discourse modeler and so on .
+there 're there 're two levels of giving an answer and I on both levels I don't have any further questions .
+But While we 're on the subject wanted to give you a head 's up that it could be that some months from now we said " OK we 're now ready to try to close that loop " in terms of querying about some of these decisions .
+th it 's you 're making your life much more difficult than it has to be .
+whether we 're we 're gonna stick to Prolog or not .
+, what we 're calling " the entity " ,
+and the idea that we 're really after is a very deep semantics based on cognitive linguistics
+So , what we 're really trying to do is to map from the discourse to the conceptual semantics level .
+
+it 's fine for looking up when T when the show 's on TV .
+I showed you once the interac action between them among them in the deep map system
+and so you can actually interface to such a system without ever having met it before
+We have knowledge bases from Verbmobil system we can use
+
+For the debugging we 'll probably just have a drop - down menu
+, tha it 's not going to that 's not going to be good enough .
+I 'll I 'll talk to Michael
+So part of what you 'll get out of this will be the fact tha w
+
+So that 's a functionality that doesn't exist yet to do that dynamically ,
+No , in SmartKom terminology that 's called a function that 's modeled by a function modeler .
+and then you get back from that mmm , a functioning model which might be a planner or a VCR or whatever .
+I didn't think of the internal working of the the action planner and the language the function model as relevant .
+But I do think the function modeling concept has a certain makes sense in a in a certain light
+So we talked about the fact that There 're going to be a certain number of decisions That you want the knowledge modeler to make , that will be then fed to the function module , that does , route planning .
+
+at least we want to offer the extra information . We don't really we 're not too worried .
+t s Ultimately if you have if you can offer that information , somebody 's gonna s do something with it sooner or later .
+this is a this is a goal seeking behavior , along with specific information from the ontology about the kinds of objects involved
+
+And language input , is crucial also when you do the deep understanding analysis that we envision .
+so it 's speed is crucial .
+And how do you envision the this deep semantic to be worked with .
+
+First go here ,
+Bed009Ddialogueact394	128617	128657	D	Grad	b	-1	0	Mm - .
+Bed009Fdialogueact393	128579	128658	F	Professor	s^rt	-1	0	first go there
+Bed009Fdialogueact395	128718	128839	F	Professor	s^rt	-1	0	uh , , take a bus ,
+so a printout of the communication between those two fills up
+It 's tricky because one could imagine
+One could imagine that the next thing that 's trying to fill out the detailed , route planning , let 's say , will also have questions that it would like to ask the user .
+You could imagine you get to a point where it 's got a choice to make and it just doesn't know something .
+
+And we already talked with Andreas , Thilo and David
+and just gonna say we have again the recognizer to parser thing where we 're working on
+And also Ralf has hooked up with David and you 're gonna continue either all through tonight or tomorrow on whatever to get the er parser interface working .
+but David is here and he 's actually knows everything about the SmartKom recognizer .
+what 's in the latches from the speech recognizer
+
+And you guys are g giving talks on tomorrow and Wednesday lunch times ,
+which is the way we decided we were gonna go because A , it 's easier in the beginning
+was a learning - based approach which learned from a big corpus of trees .
+there 's m I 'm there 's gonna be more discussion on that after your talk .
+, there 's the practice talk .
+It won't talk particularly about how that relates to what Robert was saying at the beginning .
+Her talk is going to be not about using this in applications , but about modeling how children might learn this deep semantic grammar .
+
+It probably will work better if we do it later in the week , after we actually understand better what 's going on .
+What what does not work for me is Thursday afternoon .
+Thursday afternoon doesn't work for me , but
+
+Also it would be really to the plans are , in addition to what 's already in code .
+Information related to the user and information related to the situation .
+So this is one that already adds additional information to the
+So if this is additional information that could be merged in by them .
+and add some more features like segmentation .
+and there will be additional situational information .
+
+cuz y you 're the grammar maven .
+That person just wants to take a picture , " cuz he just bought film ,
+cuz we wanna not Pa - pass over any , questions or concerns that you have .
+cuz that 's what everybody else calls it .
+
+This is then out of deference to our non - morning people .
+and we 're setting it up so that we can we hope to implant certain intentions in people .
+And our system led people here , to a point where they were facing a wall in front of the tower .
+But what we actually observed in Heidelberg is that most people when they want to go there they actually don't want to enter ,
+I s I see questions on peoples ' faces ,
+f from my understanding of what the people at Phillips were originally trying to do doesn't seem to quite fit into SmartKom currently
+, It 's great if people are already taking that into account .
+ye that 's that 's the concept that people have ,
+and there are a couple of people not here for various reasons who are doing doctoral dissertations on this ,
+
+or we simply adopt the more in - depth style that is implemented in the German system
+but if we can offer it that distinction , maybe somebody will go ahead and implement it .
+Surely nobody 's gonna go ahead and implement it if it 's never gonna be used ,
+Marcus Lerkult is actually implementing that
+Beyond what 's currently being implemented which is just word lists .
+
+and it does require some knowledge of those grammars and and some ling linguistic background .
+So the idea of having a , , transition diagram for the grammar of conversations is a good idea .
+, but it 's used for stem forms .
+That 's good , because that will tell you a fair amount about The form of semantic construction grammar that we 're using .
+to the form of conceptual grammar that w we have in mind for this .
+
+we have first looked at a simple sentence that " How do I get to the Powder - Tower ? "
+and there is a tower and it 's called Powder - Tower .
+that is @ @ " action go to whatever domain , object whatever Powder - Tower " .
+Think of this as a two - dimensional representation of the tower .
+let 's take this business about going to the Powder - Tower .
+
+, but this is not the st this is not just the state of the discourse .
+And not just say the dialogue will consist of ten possible states and th these states really are fixed in a certain sense .
+but I it 's really wrong headed for something that you that has a lot of state ,
+but , Miel syntactic analysis with finite state transducers .
+And yes the it the chunk parser was a finite - state machine that Mark Light originally w worked on in while he was in Tuebingen
+and then somebody else in Tuebingen picked that up . So it was done in Tuebingen ,
+but it 's also finite - state transducers , .
+, and Purely finite - state transducers are not so good for German since there 's
+
+That 's external services .
+and keep these things like tourist information external .
+And then call it external services .
+but , at least it makes sense to me that sooner or later a service is gonna come and describe itself to you .
+and the function modeler and a self - description of the external service haggle it out
+
+and There one of our diligent workers has to volunteer to look over Tilman 's shoulder while he is changing the grammars to English
+and part of that is trying to find out whether people change their linguistic verbal behavior when first thinking they speak to a machine and then to a human .
+So , s So what would happen if we sent a note saying " Gee we 've talked about this and couldn't we change this th the whole word ? "
+So if there is resistance against changing it , that 's just because " , We don't want to change things . "
+
+one branch is to get us caught up on what 's going on .
+That 's part of why we implant these intentions in the data collection to see whether people actually phrase things differently
+Because what they take is this fixed representation of a of an intention .
+The word order is not fixed
+
+and are then able not only to produce strings but also the syntactic parse
+the syntactic tree that is underneath in the syntactic structure
+and so we 're thinking , how much syntactic analysis actually happens already in the parser .
+it 's to integrate and syntactic analysis .
+
+There are all kinds of decisions that we have identified in terms of getting to places and in terms of finding information about things .
+and in particular some of the combination rules and ways of getting the conditional probabilities aren't there .
+But we believe that we have laid out the fundamental decisions in this little space
+So one of the decisions is what we call this AVE thing .
+So that 's a discrete decision .
+But , th the current design suggests that if it seems to be an important decision and if the belief - net is equivocal so that it doesn't say that one of these is much more probable than the other , then an option is to go back and ask for the information you want .
+We probably won't do this early on , because the current focus is more on the decision making and like that .
+So all that information could be combined into decision networks and give you decisions .
+and on the output end , given this information , you can then make decisions about what actions to take .
+
+not like the ones in Munich but pretty close to it .
+The major difference to the Munich ones is that we do it via the telephone
+And we also want to look closely on the linguistic information that
+it 's it was pretty ambitious .
+
+In terms of if you 're trying to build some fast parser and
+we 're trying to build a templ
+build a template that w somehow would capture the fact that he wants to take a picture .
+
+, wanna give them all with German accents today or ?
+And and by virtue of doing that then in this case Johno will have acquired the knowledge of how to extend it .
+it will turn out to be the case that , this thing we 're talking about , th the extended n knowledge modeler will fill in some parameters about what the person wants .
+And English is all th all word order .
+at least for German you have all of the the stemming information .
+and here 's the case where the English and the German might really be significantly different .
+in terms of , w if you 're doing this for English as as German
+Some extensions have to be made . For for a English version
+
+we have talked this morning with the with Tilman about the generator .
+Either we do a syllable concatenating grammar for the English generation which is starting from scratch and doing it the easy way ,
+Thursday morning sounds fine ?
+the two levels will be as far as I 'm concerned as standing here for the generation module
+So , let me Let me s expand on that a little bit from the point of view of the generation .
+it 's it sounds like it 's stand alone .
+Provides , they claim , a very powerful , general notion of deep semantics .
+
+and some lines of code were already written today
+it 's Morphix is not used on - line .
+s so the lexicon might be derived by Morphix
+but What what 's happening on - line is just a retrieval from the lexicon which would give all the stemming information
+so it would be a full foreign lexicon .
+
+OK , there 's all sorts of dialogues that won't make any sense which would be just fine .
+And the notion is that all sorts of physical situations are characterized in terms of containers .
+But also , importantly for Lakoff and these guys is all sorts of metaphorical things are also characterized this way .
+So this a notion of a source , path , goal , trajector , possibly obstacles .
+
+for one thing we 're also using this room to collect data .
+no not meeting data but sort our version of a wizard experiment such
+And it breaks halfway through the experiment and a human operator comes on .
+, there 's a meeting next week
+
+And maybe some model will tell us , some GPS module , in the mobile scenario where the person is at the moment .
+the obvious one would be if you envision this as a module within SmartKom , where exactly would that Sit ?
+what one would like is for this , knowledge modeling module to add which of those it is and give it to the planner .
+, y your I d the notion of this as a self contained module
+th the functional module that interacts with where the tourism g is going probably is too restrictive .
+and this one of these planning modules comes along and says " hey , right now we need to ask a question " .
+And and the underlying idea is that there is something like kernel modules with kernel functionality that you can plug certain applications like tourist information or the home scenario with controlling a VCR and so on .
+There were these various , competing syntax modules .
+and then there would be another module that takes that highly underspecified deep semantic construction
+
+let 's say a simple parse from a s from an utterance won't really give us is what the person actually wants .
+And then enrich or augment the M - three - L structures with what it thought what more it got out of that utterance .
+So then an utter more than one utterance is There there 's often pause between it
+So the idea would be could we build an analyser that would take an utterance
+th this utterance is talking about an attempt to reach a goal .
+So th the and this is an again attempt to get very wide coverage .
+
+an another more basic point there is that the current tasks and therefore th the concepts in this ac
+S so y we looked at the e current pattern matching thing .
+And as you say it 's just a surface pattern matcher .
+I didn't n see it being used in the current template parser .
+So in German then you actually do case matching and things like in the in the pattern matcher or not ?
+and map it onto the current context to find out what the person really was talking about in that context .
+
+Tubingen was at least involved in putting the chunks together
+I can't quite recall whether they actually produced the chunks in the first place .
+And they 're doing chunk parsing
+But given th the constraints , that you want it to be small and fast and , my is you 're probably into some chunk parsing .
+But the other half of the problem is How would you get that information from the parsed input ?
+
+But for a full system , then one might very formulate a query ,
+then , There would be a a loop in which this thing would formulate a query ,
+That 's simply a functionality that you give data as in a query
+So a typical one in this formulation is a container .
+
+the ultimate goal is that before they leave we can run through the entire system input through output on at least one or two sample things .
+Who How far is the the M - three - L specification for the la natural language input gone on the
+the true key issues is how does the whatever comes out of the language input pipeline look like
+If the If the parser and the language end doesn't the person 's been told
+We talked about this several times that the input end is gonna need a fair amount of feedback from the planning end .
+, there is another philosophical issue that you can evade
+The processing of that , both on the input end , recognizing that certain words in a language talk about containers or goals , et cetera ,
+
+and then that can be developed as needed when we get enter the tourism domain .
+whether they want to enter in order to buy something or whether they just wanna go there to look at it .
+or " that person wants to enter because he discussed the admission fee before " .
+Or " that person wants to enter because he wants to buy something
+Do you want to access , view or enter a thing .
+give it to the dialogue planner and say this , ar are you are you planning to enter ?
+
+And we 've gone through that once before in the Deep Mail project
+I should 've brought some slides ,
+And we are constructing and then we 've identified more or less the extra - linguistic parameters that may f play a role .
+so far I 've thought of it as adding it onto the modeler knowledge module .
+So the idea is that we 've actually got this all laid out an and we could show it to you ig
+, I 've I 've looked at it
+they 've mentioned possible obstacles , et cetera . "
+
+and the notion that there are a relatively small number of primitive conceptual schemas that characterize a lot of activity .
+So another one of these primitive , what are called " image schemas " , is goal seeking .
+And the idea is this is another conceptual primitive .
+So if you can do this , then the notion would be that across a very large range of domains , you could use this deep conceptual basis as the interface .
+
+So my suggestion then is that you look into the currently ongoing discussion about how the action plans are supposed to look like .
+and Marcus and Michael together are leading the discussion there ,
+maybe we can even shuffle some know how from there to Markus and Michael .
+but so this is definitely a good point to get Michael into the discussion .
+
+These these types of these bits of additional information are going to be embedded into the M - three - L structure in an subfield that we have reserved .
+Set - based , or even very complex structured information in these slots
+and I 'm not if complex slots of that type are really being taken into consideration .
+
+So , So there was a chunk parser in Verbmobil , that was one of the branchers .
+They w They had There were This was done with a two phase thing , where the chunk parser itself was pretty stupid
+From Michael Strube , I 've heard very good about the chunk parser that is done by FORWISS ,
+So this is came as a surprise to me that , embassy s is featuring a parser
+
+, , right now I know the GIS from email is not able to calculate these viewpoints .
+and this is just for historical reasons within , the preparation phase of the project
+and that 's what Srini is working on in in the DAML project where you find a GIS about that gives you information on Berkeley ,
+And I 'm not a big believer in this statistical , cleaning up
+But from our point of view this is also a research project
+
+also because again in Deep Map we have faced and implemented those problems once already
+But we are facing much more realistic problems .
+
+There is no entrance there , but it just happens to be the closest point of the road network to the geometric center
+So we took out that part of the road network as a hack
+which was now the closest point of the road network to
+
+They are thinning out and thickening out lattices
+That would get expressed and then hopefully , you 'd get an answer back .
+And to run that back through . the dialogue manager and to the output module and back around .
+
+and the way you do it is you just read the numbers not as each single ,
+First you read the transcript number .
+And then extend it to an arbitrary number of applications eventually .
+People at DFKI have written a fair number of parsers .
+Other , people over the years . have written various parsers at DFKI .
+There is this one that they did at SRI some years ago
+
+but it could sit anywhere in the attention - recognition
+this is what attention - recognition literally can
+but slowly , , getting into the realm of the contingent .
+And they also have to be very robust . cuz of speech recognition errors
+

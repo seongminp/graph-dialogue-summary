@@ -1,0 +1,20 @@
+The project manager stated the agenda and set the goals for the current meeting.
+The industrial designer discussed different options for batteries, case materials and shapes, chips, and interface components and also discussed the components necessary for a speech recognition capable remote control.
+The user interface designer presented his concept for the interface design which he called the "millennium remote control".
+The user interface designer also discussed with the team color options and how to make a "smart" remote which is in tune with the user's preferences.
+The marketing expert discussed current findings from trend watching reports which indicated that there is a desire for products to have a fancy look and feel, be technologically innovative, be easy to use, incorporate a fruit and vegetable theme, and be spongy.
+The project manager gave the team members their assignments and then the team went over the decisions they had made and discussed whether to use titanium or rubber in their design.
+The user interface designer will work on the interface design.
+The marketing expert will work on the product evaluation.
+The user interface designer and industrial designer will work together on a prototype
+The price of the remote to the consumer will increase if the consumer wants more colors available on the LCD screen.
+The remote will contain a speech recognizer.
+The remote will have some buttons.
+The remote will incorporate a fruit and vegetable theme.
+The remote will feature an LCD screen.
+The remote will use two regular batteries.
+Whether to allow the LCD or the remote case to come in different colors.
+How to account for the increase in production costs for a remote that comes in different colors.
+How to make a "smart" remote.
+Whether to make a remote out of rubber or titanium.
+Whether the team should invent their own trend.

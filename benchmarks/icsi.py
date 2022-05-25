@@ -39,10 +39,10 @@ if __name__ == "__main__":
         "-l", "--min-length", help="Minimum utt length", type=int, default=45
     )
     parser.add_argument(
-        "-t", "--topic-groups", help="Topic groups", type=int, default=5
+        "-t", "--topic-groups", help="Topic groups", type=int, default=25
     )
     parser.add_argument(
-        "-k", "--top-k", help="Number of summary sentences", type=int, default=1
+        "-k", "--top-k", help="Number of summary sentences", type=int, default=2
     )
     parser.add_argument(
         "-v",

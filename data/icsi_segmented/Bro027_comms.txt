@@ -1,0 +1,521 @@
+And so , , Stephane 's idea was , , let 's feed , , both this discriminatively trained thing and something that 's not .
+that 's counter to that idea .
+But if that 's the hypothesis , at least it would be counter to that hypothesis to do that .
+and the idea w the thought was , " , , , that i th the neural net should be better ,
+, it 's it 's it 's a great idea .
+So that 's why I was wondering if maybe it 's not even a good idea .
+
+So that 's on th that 's on the f the far field ones though , right ?
+And now he 's he 's requiring it to be done first .
+And generally , i it s allows you to transmit like , fifteen , , cepstrum .
+to to generate , that it 's it has to distinguish between .
+
+there 's there 's how many how many inputs ?
+, that 's at the input to the net .
+Delta at input to net ?
+And then , there is there are more inputs that comes from the tandem MLP .
+so d with the delay , that 's gone is the input , which is the sixty millisecond .
+At the input of the neural net you have this , , f nine frames of context plus the delta .
+
+So they are actually trying to , , fix that those values using the clean , , training part of the Wall Street Journal .
+It 's , , ranging from zero to clean ?
+after cleaning up , maybe having more noise than the training set of TIMIT after clean s after you do the noise clean - up .
+on a clean training , or zero DB testing .
+It 's clean training
+with , like , less latency using SNR and energy , , after the cleaning up .
+After the b after the noise compensation , n I was trying t to f find a f feature based on the ratio of the energies , that is , cl after clean and before clean .
+I 'm still trying to make it better by using some other features from the after the p clean up
+Now this this , , " before and after clean " , it sounds like you think that 's a good feature .
+
+but it 's still pretty noisy .
+, the near field 's pretty good .
+Which , , , is a pretty low frequency thing .
+, if if a week before we have to be done someone says , " , you have to have fifty milliseconds less than you have now " , it would be pretty frantic around here .
+But still , that 's that 's a pretty big , , win .
+and but the LDA is , , pretty short right now .
+but they 're pretty correlated with one another .
+It 's it 's pretty different .
+, it should be pretty close to cancelled out .
+but it seems like it 's pretty far back in the process .
+So that if they are , like , pretty c close to one , which means it 's speech .
+
+but the features that the VAD neural network use are , , MFCC after noise compensation .
+, and then it 's a pretty small neural network which use , , nine frames of six features from C - zero to C - fives , plus the first derivatives .
+then there is , , the neural network which use nine frames .
+, but I started to play with the , , , tandem neural network .
+And the other stream is the output of a neural network , using as input , also , these , , cleaned MFCC .
+From the networks , it 's twenty - eight .
+There 's a KLT after the neural network , as before .
+so , having two KLT , having just a KLT for a network , or having a global KLT .
+When I added the num the neural network it doubles the number of deletions .
+, but without the neural network it 's , it 's better .
+It 's just when we add the neural networks .
+I 've been exploring a parallel VAD without neural network
+
+still , it 's possible that we 're getting in some more noise .
+that One thing with the HTK is that is has the as we 're using the configuration we 're using is w s is being bound by the terms of Aurora ,
+And it doesn't seem like you 're in terms of your delay , you 're , , that
+, we 're s we 're not we 're not in terrible shape .
+You 're just using the full ninety features ?
+they 're being fed into these , , variants , only Gaussians and ,
+and they 're not so much the stationary driving noises , right ?
+You 're shifting the feature space .
+, they 're good because you you learn to distinguish between these categories that you want to be good at distinguishing between .
+It PAC - PCA low - order PCA throws away pieces that are , maybe not gonna be helpful just because they 're small , .
+That 's what that 's what we 're gonna do next
+It 's the transformation they 're estimating on
+because that 's part of what you 're learning in it ,
+But , if you 're gonna if you 're going to multiply the output of the net by this other decision , , would then you don't care about whether the net makes that distinction , right ?
+i It 's bothersome that you 're getting more deletions .
+
+and hundred and maybe it 's like fi hundred hertz .
+, certainly a lot of the noise , , is , , below a hundred hertz .
+Even even for a hundred hertz up , it 's it 's still fairly noisy .
+So even if we had a hundred times as much data , we wouldn't go out to , , ten or t or a hundred times as many Gaussians or anything .
+, so it 's two hundred and ten ,
+so it 's who un two hundred and ten .
+and t and ten another ten milliseconds you said for the frame ?
+let 's say ten milliseconds seconds for the LDA .
+Some people wanted to use hundreds of parameters
+
+, Barry 's not here and Dave 's not here .
+, say about just q just quickly to get through it , that Dave and I submitted this ASRU .
+So that 's that 's a little different than Dave thought , .
+and then , we 'll start up again with Dave and Dave and Barry and Stephane and us on the , , twentieth .
+
+, so he did he did his PHD on dynamic Bayes - nets ,
+, what 's the effect of just putting the neural net on without the o other path ?
+that says that , , the , the models in , , the recognizer are really paying attention to the neural net features .
+When you in the old experiments when you ran with the neural net only , and didn't have this side path , , , with the pure features as , did it make things better to have the neural net ?
+until you put the second path in with the pure features , the neural net wasn't helping .
+, I still think it would be k interesting to see what would happen if you just had the neural net without the side thing .
+If it really is that the net is hurting you at the moment , then the issue is to focus on , , improving the net .
+, one of the things that always disturbed me , , in the resurgence of neural nets that happened in the eighties was that , , a lot of people Because neural nets were pretty easy to use a lot of people were just using them for all sorts of things without , , looking into the linear , , versions of them .
+the advantage being like it doesn't have the latency of the neural net if it if it can
+, what , , would be more what you 'd want to do is is , , put it into another neural net .
+So we have to figure out the neural nets , I .
+The , other thing I was wondering was , , if the neural net , , has any because of the different noise con unseen noise conditions for the neural net ,
+So if it is something the neural net is not able to discriminate the classes
+so that is coming from a separate neural net or some VAD .
+So you 're saying , feed that , also , into the neural net .
+You could feed it into the neural net .
+So , what if you then , since this , what if you only use the neural net on the speech portions ?
+
+I guessed that they were gonna do it some time during the semester
+, the main thing is that since that we got burned last time , and , by not worrying about it very much , we 're just staying conscious of it .
+, that 's that 's the difference as far as the timing ,
+And the LDA that we are f applying is only in time ,
+So it 's like more like a filtering in time ,
+And some of the time it 's going to hurt you ,
+But if you were gonna put it in as a feature it means you already have it by the time you get to the tandem net ,
+
+No , it 's forty milliseconds for t for the , , cleaning of the speech .
+So it adds forty milliseconds .
+It 's like forty plus forty plus
+This forty plus twenty , plus one hundred .
+It 's forty for the for the cleaning of the speech ,
+after the noise part , the forty the other hundred and eighty
+, but the main thing , maybe , is the cleaning of the speech , which takes forty milliseconds or so .
+So , what you have now is fort , forty for the noise , twenty for the delta , and ten for the LDA .
+, so it 's makes forty - five features that are used as input to the HTK .
+And from the other side it 's forty - five .
+What 's the relation between that limit and the , , forty - eight , forty eight hundred bits per second ?
+The f the forty - eight hundred bits is for transmission of some features .
+So it was like , , forty - five cepstrum plus twenty - three mel log mel .
+
+the overall results seemed to be first place in in the case of either , , artificial reverberation or a modest sized training set .
+And But if you had a really big training set , a recognizer , , system that was capable of taking advantage of a really large training set
+, it 's the same training set ,
+, we might , we might have to experiment with , better training sets .
+What are the S N Rs in the training set , TIMIT ?
+So that 's i after you explore these other alternatives , that might be another way to start looking , is just improving the training set .
+So we 're only improving the training of our feature set ,
+, so now the after - noise compensation the neural net is seeing a different set of S N Rs than that was originally there in the training set . Of TIMIT .
+but it 's it 's varied enough that if doing this adjustments , , and playing around with it doesn't , , make it better , the most , it seems like the most obvious thing to do is to improve the training set .
+But , , the problem is , training sets aren't perfect and testing sets are different .
+
+What the how much rejection would there be at twenty hertz , let 's say ?
+Twenty hertz frequency
+, it 's it 's zero at twenty hertz , right ?
+So if you add these components it goes t to a hundred and seventy ,
+You started off with two - twenty and you ended up with one - seventy ?
+If it 's two hundred , if we shaved off twenty , we could we could , , meet it by moving the delta back .
+That 's seventy milliseconds of which was formerly in parallel ,
+So it 's you have seventy - three features ,
+and then reduce the dimensionality to something like twenty - four like that .
+
+Would it make sense to do the KLT on the full set of combined features ?
+But if on the ha other hand , , it 's , say , somewhere in between what you 're seeing now and and , , what you 'd have with just the pure features , then maybe there is some problem of a of a , , combination of these things , or correlation between them somehow .
+So it 's like a combination of the , what , , Dan has been calling , , a feature , , a feature combination versus posterior combination .
+It 's it 's , , you have the posterior combination
+but then you get the features from that and use them as a feature combination with these other things .
+and by combining two information sources if , if
+part of why you were getting into the KLT Y you were describing to me at one point that you wanted to see if , , , getting good orthogonal features was and combining the different temporal ranges was the key thing that was happening or whether it was this discriminant thing , right ?
+
+So I downloaded the software and compiled all of that .
+So this is now it 's compiled under Solaris ?
+, in the proposal , , the input of the VAD network were just three frames , .
+did the configuration that 's very similar to what we did for the February proposal .
+It 's i It 's because it 's what we did for the first proposal .
+So , was the training set same as the p the February proposal ?
+, in the proposal , they were transformed u using PCA ,
+, that 's a proposed date , I .
+
+, and there 's also the , , air conditioning .
+So the net saw all the SNR @ @ conditions .
+so , there 's lots of different kinds of acoustic conditions .
+But it was just just having a variation in acoustic conditions was just a good thing .
+where , like , you train it on those four noise conditions , while you are feeding it with , like , a additional some four plus some f few more conditions which it hasn't seen , actually ,
+
+but if if there is any , , way to move in a way that would that would , , be more open to different kinds of features .
+The VAD use , , LDA filtered features also .
+There is , , just downsampling , upsampling , and the LDA .
+, the LDA we , is , like is it very crucial for the features , right ?
+So . There is a f a first feature stream that use straight MFCC features .
+but it was completely equivalent to another one feature that you had ,
+and they , They run LDA on the features right before they train the models .
+The LDA that you saying is , like , you take a block of features , like nine frames , and then do an LDA on it ,
+but what if you put ran the other LDA , , on your features right before they go into the HMM ?
+and you read the system descriptions and everybody 's got , , LDA on their features .
+
+The signal - to - noise ratio is is actually still pretty bad .
+, that 's a noise source .
+but it it really became apparent to us that we need to take account of noise .
+And it was also a diverse set with different noises and .
+But that would not be true if we did some explicit noise - processing as as , , the convolutional things we were doing .
+So , actually , we , , here the features are noise compensated
+I , because before we were had were able to have the noise , , , , and the LVA be in parallel .
+What I was going to say is that , , maybe with the noise removal , , these things are now more correlated .
+It 's TIMIT with noise .
+but , , you 're saying , the noisier ones are still going to be , even after our noise compensation , are still gonna be pretty noisy .
+, , it depends on whether you believe that the noise compensation is equally reducing the noise on the test set and the training set .
+Heaven forbid , this noise compensation process may be imperfect ,
+actually {nonvocalsound} the TIMIT noises are a range of noises
+
+But it 's it 's like a nonlinear discriminant analysis .
+instead of just h having c , those cleaned up t cepstrum , sh should we feed some additional information , like The the
+, should we f feed the VAD flag , also , at the input so that it has some additional discriminating information at the input ?
+. So it 's an additional discriminating information .
+So that you bring in some information from the net itself .
+
+and it creates a one hundred milliseconds delay .
+One hundred milliseconds for smoothing .
+mill a hundred milliseconds for smoothing is an arbitrary amount .
+It 's it 's not like it 's adding up to four hundred milliseconds .
+, so the delay is only the forty millisecond of the noise cleaning , plus the hundred millisecond smoothing at the output .
+
+So you 're saying , add the Macrophone data to the training of the neural net ? The tandem net ?
+We can't train the other with anything other than the standard amount ,
+So it had like all these different conditions of S N Rs , actually in their training set of neural net .
+For the training of the neural net .
+So the training the neural net is being trained with noise compensated .
+, close microphone training and distant microphone , , high speed , .
+Close mike training
+So you f you face the potential problem with discriminative , be it LDA or neural nets , that you are training to discriminate between categories in one space
+
+LDA , neural nets , they 're good .
+and in principle you would think that the neural net would do better at the discriminant part than LDA .
+but we should at least have , a number , , to show that we did try the LDA in place of the neural net ,
+so that we can , show a clear path .
+
+Right now it seems that i tested on SpeechDat - Car while the experiment are running on your on TI - digits .
+so it 's TIMIT with the TI - digits ' , , noises , , added .
+it 's i All the noises are from the TI - digits ,
+that could be seen from the TI - digits , , testing condition
+because , , the noises are from the TI - digits , right ?
+So cleaning up the TI - digits
+the condition It it gave us an enormous amount of improvement in what we were doing with Meeting Recorder digits ,
+and it fails on TI - digits ,
+, we what 's it 's gonna be the TI - digits yet .
+
+The tandem is like i nonlinear LDA .
+So you wouldn't necessarily then want to do LDA on the non - tandem features because now you 're doing something to them that
+But it 's just when we add the tandem , the final MLP , and then
+but certainly , it would be in parallel with the with a tandem net .
+
+and it 's used before the delta computation .
+if you add the c delta comp delta computation
+So it 's like s five , six cepstrum plus delta
+and then afterwards , you have to compute the delta on the , , main feature stream ,
+which is , delta and double - deltas ,
+What if you used a smaller window for the delta ?
+, if it 's two if it 's , if it 's two - fifty , then we could keep the delta where it is if we shaved off twenty .
+, you have twenty for delta computation
+So there is just this feature stream , the fifteen MFCC plus delta and double - delta .
+And is are i are any deltas being computed of tha of them ?
+
+Is that nine frames u s , centered around the current frame ? Or
+I the is this are these twenty - millisecond frames ?
+If you are phrasing f using three frames , it is thirty here for delta .
+, it 's it 's five frames ,
+So five frames , that 's twenty .
+So , if you use , like , an IDL VAD , , for dropping the frames ,
+, we have dropped some silence f We have dropped so silence frames ?
+No , we haven't dropped silence frames still .
+It it seems that the VAD network doesn't , it doesn't drop , , too many frames
+
+So , it seems funny that I , maybe I don't u quite understand everything , but that adding features
+But , , just in general , adding information
+Suppose the information you added , , was a really terrible feature and all it brought in was noise .
+So is it is it though the performance , big relation in the high ma high mismatch has something to do with the , , cleaning up that you that is done on the TIMIT after adding noise ?
+, it 's not artificially added noise or anything .
+
+that one really benefited from the larger set .
+, there is another short sample set
+Is there any word yet about the issues about , , adjustments for different feature sets or anything ?
+So they 're set they 're setting it based on that ?
+they felt they wanted to set a limit .
+But after cleaning up you have now a different set of S N Rs , right ?
+Now after cleaning up it 's a different set of SNR .
+because it was , like , a weird feature set .
+
+but it goes down a lot more , like fifteen percent on the HM case .
+I 'm just surprised that you 're getting fifteen percent relative worse on the wel
+but you said it was i somewhat better , say , five percent better , for the first two conditions , and fifteen percent worse for the other one ?
+even if it is fifteen percent worse ,
+because the fifteen percent worse is given like f w twenty - five point two five eight .
+g And it gave me like , , one point One more than one percent relative improvement .
+So it 's , like , only slightly more than a percent improvement ,
+, it 's around five percent , because it 's
+
+I , , started working on the Mississippi State recognizer .
+, I 'm other people working on this are not sitting still either ,
+But but it 's It doesn't necessarily work that way .
+, maybe we can add some context from these features also as Dan did in his last work .
+So you have a good set of features that everybody 's worked really hard to make ,
+or if I try to make it work on that it 's just the Italian , it doesn't work on the Finnish .
+I 'm thinking , also , a w about Dan 's work where he trained a network , not on phoneme targets but on the HMM state targets .
+
+, you 'd think that 'd be more like SpeechDat - Car ,
+The SpeechDat - Car is more , , roughly stationary , a lot of it .
+, you can see the kind of numbers that we 're having , say , on SpeechDat - Car
+, it 's like the high mismatch of the SpeechDat - Car
+You mean the most noisy occurrences on SpeechDat - Car might be a lot more noisy than
+, the SNR after the noise compensation of the SpeechDat - Car .
+And that SNR may not be , like , com covering the whole set of S N Rs that you 're getting in the SpeechDat - Car .
+but the SpeechDat - Car data that you 're seeing is also reduced in noise
+I don't think there 's anybody recording over a car from a car ,
+So it 's mostly , " Car " is stationary ,
+Babble , it 's a stationary background plus some voices ,
+but it was l like two percent relative worse on SpeechDat - Car .
+because I t I try to make it work on tr SpeechDat - Car
+If you extrapolate the SpeechDat - Car - matched and medium - mismatch , it 's around , , maybe five .
+
+, I 've been playing with , first , the , , VAD .
+, you have the LDA as part of the V D - , VAD ?
+So actually , this is in between what we had with the previous VAD and what Sunil did with an IDL VAD .
+If you add a g good v very good VAD , that works as as a VAD working on clean speech ,
+So fi si fifty - three is what you were getting with the old VAD .
+and sixty - two with the , , quote , unquote , cheating VAD .
+And fifty - seven is what you got with the real VAD .
+Which means that it 's it 's doing a slightly better job than the previous VAD ,
+maybe , some , , correlation auto - correlation or some s additional features of to mainly the improvement of the VAD . I 've been trying .
+And and then I another alternative would be to take the feature that you 're feeding into the VAD , and feeding it into the other one as .
+at some point where the VAD is saying it 's actually speech .
+
+, it improves on the - matched and the mismatched conditions ,
+but it get worse on the highly mismatched .
+like , on the - match and medium mismatch , the gain is around five percent relative ,
+On the highly mismatched condition .
+So , " highly mismatched condition " means that your training is a bad estimate of your test .
+is it something to do with the mismatch that 's created after the cleaning up , like the high mismatch
+, you 're saying there 's a mismatch in noise that wasn't there before ,
+but if they were both the same before , then if they were both reduic reduced equally , then , there would not be a mismatch .
+and if the performance goes down in the TI - digits mismatch high mismatch like this
+So it 's only the highly mismatched ?
+
+And that 's always worse than using sixty - four hertz .
+but the question is , whether sixty - four hertz is , , too , , low .
+It 's based on the system that has a fifty - three point sixty - six percent improvement .
+, even for a - matched case it 's sixty percent error rate reduction ,
+Which gave sixty - two percent improvement , right ?
+Then you can go up to sixty - two percent error rate reduction , globally .
+because the limit is now sixty features .
+You said there was a limit of sixty features ?
+because it 's it has a high rate energy
+
+So wha what is , what 's causing that ?
+The only thing that changed is the n a p a es the estimation of the silence probabilities .
+after that , , you have the , filtering of the silence probabilities .
+the best that we can get i That means that we estimate the silence probability on the clean version of the utterances .
+And if it is n if it is close to zero , which is So it 's like a scale @ @ probability value .
+The other thing you could do is just , , p modify the , , output probabilities of the of the , , , neural net , tandem neural net , based on the fact that you have a silence probability .
+So you have an independent estimator of what the silence probability is ,
+is it due to the fact that , the probability of the silence at the output of the network , is ,
+it may be too it 's too high in a sense , like , everything is more like a , , flat probability .
+, that 's an interesting thing to try to see , if what 's going on is that in the highly mismatched condition , it 's , , causing deletions by having this silence probability up too high ,
+
+, we 're dealing with rever reverberation ,
+and , , when we deal with pure reverberation , the technique he 's using works really , really .
+, maybe it 's not a big deal .
+, , you 'd have to do the nonlinearity part and deal with that .
+
+And , , on that , , they have run some experiments using various insertion penalties and all those
+and you could experiment with cutting various pieces of these back a bit ,
+But but that 's that 's what was chosen .
+, you did experiments back then where you made it bigger
+, I just h put the second stream in place and , ran one experiment ,
+
+or do you think I should send it to this there 's an a m a mailing list .
+Because he there was some mail r saying that it 's may not be stable for Linux and all those .
+I The other thing is , , before you found that was the best configuration , but you might have to retest those things now that we have different The rest of it is different ,
+The differences between these configurations were not huge ,
+so maybe it 's treating some things differently .
+There was enough of a difference , I , between the testing and training .
+
+Cuz they have , , already frozen those in i insertion penalties and all those is what I feel .
+cuz it 's really , it 's just sort of reasonable numbers , starting to be .
+cuz then it has one part that 's discriminative ,
+cuz that 'll shoot up the latency a lot ,
+, that 's just cuz of something on campus .
+cuz I 'll be in Finland .
+cuz , , Su - Sunil , Stephane , and I will all not be here .
+
+so when he gets done with his prelim study one of the next things we 'd want to do is to take this , , noise , , processing and , , synthesize some speech from it .
+, maybe the noise subtraction is subtracting off speech .
+the b biggest classification would be the speech and silence .
+So , by having an additional , , feature which says " this is speech and this is nonspeech " , , it certainly helps in some unseen noise conditions for the neural net .
+So , like , it 's not really doing any distinction between speech and nonspeech
+but it sounds to me like , , looking at the relationship between this and the speech noise is is probably a key thing .
+
+So now , we may come back to the situation where we may be looking for a modification of the features to account for the fact that we can't modify these parameters .
+I I if you 're keeping the back - end fixed .
+We have the VAD information also available at the back - end .
+, , we have we are transferring the VAD to the back - end
+feature to the back - end .
+Because we are dropping it at the back - end after everything all the features are computed .
+
+So , I got in touch with Joe and , , from your email and things like that .
+it 's like that could r turn out to be an important issue for us .
+Because they have this document explaining the recognizer .
+but it 's still worth , , just since , just chatting with Joe about the issue .
+But if , if there isn't , and it 's just shut down and then also there 's probably not worthwhile bringing it into a larger forum where political issues will come in .
+The issue was that , , this is supposed to be a standard that 's then gonna be fed to somebody 's recognizer somewhere
+
+, it 's hard to take advantage of of big chunks of data .
+, whereas the other one does expand as you have more training data .
+If you have if you have , , lots and lots of data , and you have and your your training is representative of your test , then getting more sources of information should just help .
+So we found this , this Macrophone data , and , that we were using for these other experiments , to be pretty good .
+, the Macrophone data , , , , it was recorded over many different telephones .
+, they are trained on the same data as the final HMM are .
+Do y do you have that feature available for the test data ?
+
+So it 's it 's a weight on the ball spectrum .
+And another wad was a , , like a sample a sample run .
+That sample was released only yesterday or the day before , right ?
+And they have these tables with , , various language model weights , insertion penalties .
+, it 's th it 's there on that web .
+I noticed , just glancing at the , , Hopkins workshop , , web site that , , one of the thing I , we 'll see how much they accomplish , but one of the things that they were trying to do in the graphical models thing was to put together a , , tool kit for doing , r , arbitrary graphical models for , , speech recognition .
+He had some continuity built into the model ,
+Insertion substitutions stay the same ?
+But it 's but that one 's weighted lower ,
+, y you 'd have to actually run it continuously ,
+
+So , if you have that better recognizer that can that can build up more parameters , and if you , , have the natural room , which in this case has a p a pretty bad signal - to - noise ratio , then in that case , , the right thing to do is just do u use speaker adaptation . And and not bother with this acoustic , , processing .
+In that case you wouldn't necessarily expect it to be better .
+because I expected the neural net to help more when there is more mismatch , as it was the case for the
+The most noisy cases are the distant microphone for testing .
+If it 's the case , then multiplying it again by i by something ?
+But if you look at the , , highly mism high mismat the output of the net on the high mismatch case and just look at , , the distribution versus the other ones , do you do you see more peaks ?
+if the , , high mismatch case had been more like the , , the other two cases in terms of giving you just a better performance , how would this number have changed ?
+
+, p the one that they have reported is a NIST evaluation , Wall Street Journal .
+and then this they 're going to run some evaluations .
+Where where is this fifty - seven point O two in comparison to the last evaluation ?
+, what is it 's it 's like in the Hub - five evaluations , ,
+but th as far as the orthogonalizing transformation , you were trying that at one point , right ?
+So , from fifty - three point six it went to fifty f four point eight .
+
+, we 've tried including the full bank .
+And so they 've picked the values .
+And he 's , , been at IBM for the last couple years .
+, they 've been putting them in their systems off and on for ten years ,
+So we 've been thinking about putting it into the neural net also .
+
+the latency of the VAD is two hundred and twenty milliseconds .
+The two - twenty is one hundred milliseconds for the
+And you ought to be able to shove tw , sh pull off twenty milliseconds from somewhere else to get it under two hundred ,
+So if we if we can live with the latency or cut the latencies elsewhere , then that would be a , , good thing .
+
+, I know that when you figured out the filters that we 're using for the Mel scale , there was some experimentation that went on at , at OGI .
+Yea - actually , the left edge of the first filter is at sixty - four .
+This is the filter bank in the frequency domain that starts at sixty - four .
+So I wonder , is it @ @ Was there their experimentation with , , say , throwing away that filter ?
+, the signal - to - noise ratio , , looks a fair amount better if you if you high - pass filter it from this room .
+There is ten that comes from the LDA filters also .
+Fi - There 's an LDA filter .
+ten milliseconds for LDA filter ,
+And , , people were doing recurrent nets but not looking at IIR filters ,
+
+So that would be even That wouldn't change this number down here to sixty - two ?
+we have to find a way to decrease the number of features .
+But I if you 're keeping the number of Gaussians fixed in the recognizer , then
+So having , , a g a l a greater number of features , if they aren't maybe the right features that you use , certainly can e can easily , , make things worse .
+, you do have the problem that , , u i we are not able to increase the number of Gaussians , , or anything to , , to match anything .
+, actually to s , what I observed in the HM case is that the number of deletion dramatically increases .
+Did they increase the number of deletions even for the cases that got better ?
+because the dele the number of deletion is reasonable .
+
+, and when they had the reverberation here , , we 'll measure the signal - to - noise ratio
+, I 'll I 'll d I 'll double check that and ask him again .
+if you get ten people in involved in it there 'll be a lot of perspectives based on , , how
+So either it 'll get cancelled out , or you 'll get , like , almost the same .
+By that time you 'll be , you 'll both be gone from here .
+So there 'll be no definitely no meeting on September sixth .
+What 's September sixth ?
+So it 'll be a few weeks , really , before we have a meeting of the same cast of characters .
+Mmm . So it 's just , , the next two where there will be there , , may as be meetings ,
+And then starting up on the thirteenth , {nonvocalsound} , we 'll have meetings again
+
+And it has one hundred hidden units .
+, it 's , , five hundred hidden units .
+Or , like , instead of using phonemes , using more context dependent units ?
+and come up with a reasonable , not too large , set of context dependent units ,
+
+Is that the ba band center ?
+So I was trying , , with full band and multiple bands ,
+m ps separating them to different frequency bands
+and deriving separate decisions on each bands , and trying to combine them .
+p s It 's like , it 's tentatively all full .
+
+And , , the VAD is used , i for on - line normalization ,
+But , we could probably put the delta , , before on - line normalization .
+So if you if you put the delta before the , , ana on - line If
+cuz the time constant of the on - line normalization is pretty long compared to the delta window ,
+as soon as we added LDA on - line normalization , and all these things , then
+
+but one of the differences that we found between the two systems that we were using , the Aurora HTK system baseline system and the system that we were the , other system we were using , the , the SRI system , was that the SRI system had maybe a , , hundred hertz high - pass .
+presumably to handle some , , inertia in the in the production system ,
+So I about eleven thousand parameters ,
+In the , a lot of the , the Hub - five systems , , recently have been using LDA .
+, we , we were getting ready to do the tandem , , for the Hub - five system ,
+and everybody 's putting that on their systems now ,
+, y you have this complicated system with thousands and thousand parameters
+
+And actually it brought up a question which may be relevant to the Aurora too .
+And the , , Aurora HTK , it was like twenty .
+And he gave me all of the pointers and everything that I needed .
+Aurora has a clean subset .
+Wh - what 's the baseline you need to be under ?
+And and , just , like , it gave me the baseline performance of the Aurora ,
+
+which actually shouldn't be a problem , even in small phones . .
+but the problem is still that the latency is too large .
+, if the initial range of SNR is different , we the problem was already there before .
+The problem f for me was to find a consistent threshold that works across the different databases ,
+So there are there was , like , some problem in balancing the deletions and insertions when I try different thresholds .
+Now the only problem is you don't want to ta I for the output of the VAD before you can put something into the other system ,
+Problem is , if you are going to run this on different m test sets , including large vocabulary ,
+
+I t I 've tried a hundred and it was more or less the same , or slightly worse .
+Because it seems like just adding information shouldn't give worse results .
+And and the thing I have in mind is , , maybe you 'll see that the results are not just a little bit worse .
+it was giving s slightly better results .
+it shou we should have the results today during the afternoon ,
+
+the semester 's late August they start here .
+so you could start pulling back ,
+, I 'm leaving next Wednesday .
+I 'm leaving next Wednesday .
+I 'm gone for two and a half weeks starting next Wed - late next Wednesday .
+

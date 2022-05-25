@@ -1,0 +1,265 @@
+let 's just assume our Bayes - net just has three decision nodes for the time being .
+
+Let 's assume this is our question .
+Let 's assume this is the output .
+That it Doesn't this assume , though , that they 're evenly weighted ?
+assuming she 's coming to this meeting .
+
+That 's just specifying the input for the w what 's
+which we view as input into the Bayes - net .
+So , it n a All I 'm saying is , whatever our input is , we 're always gonna get the full output .
+, regardless of of the input . Wh - Regardle
+So the , this Location node 's got two inputs ,
+
+. It 's one of those , that 's It 's more like a decision tree , if you want .
+OK , if it 's a Where - Is question , which decision nodes do I query ?
+or you just make a p @ @ a priori estimate of what you think might be relevant and query those .
+So , you 'd have a decision tree query , Go - there .
+If k if that 's false , query this one . If that 's true , query that one .
+
+because there 'd be no way to generate the nodes for every possible sentence .
+it 's based on things like , , there 's gonna be a node for Go - there or not , and there 's gonna be a node for Enter , View , Approach .
+And not care whether that 's consistent with anything .
+
+That 's That 's no problem ,
+the reason is why it 's a little bit more complex or why we can even think about it as an interesting problem in and of itself is
+, but that 's that 's just shifting the problem .
+Cuz you kn When you said people have the same problem ,
+People have the inverse problem with my name .
+
+and for each of the situation nodes that we observed in the Bayes - net ?
+which makes me think Bayes - net should be the way to solve these things .
+, I know , but the Bayes - net would be able to The weights on the on the nodes in the Bayes - net would be able to do all that ,
+So is the only r reason we can make all these smaller Bayes - nets , because we know we can only deal with a finite set of constructions ?
+So my i So , if we were to it with a Bayes - net , we 'd have to have a node for every question that we knew how to deal with ,
+But I what 's confusing me is , if we have a Bayes - net to deal w another Bayes - net to deal with this ,
+is the only reason OK , so , I , if we have a Ba - another Bayes - net to deal with this , the only r reason we can design it is cuz we each question is asking ?
+k I didn't intend to say every possible thing should go into the Bayes - net ,
+because some of the things aren't relevant in the Bayes - net for a specific question .
+And , , finish up this Bayes - net .
+
+And for the Where - Is construction , we know we need to l look at this node , that merges these three things together
+We , but , the Bayes - net that would merge
+So then , the Bayes - net that would merge there , that would make the decision between Go - there , Info - on , and Location , would have a node to tell you which one of those three you wanted ,
+
+That 's the one that 's painful . That hurts . It hurts so bad .
+It 's a painful , painful microphone .
+
+What you want is You wanna say , " OK , give me the posterior probabilities of the Go - there node , when this is happening . "
+because the output is always gonna be all the decision nodes and all the a all the posterior probabilities for all the values .
+As , if I understand it correctly , it always gives you all the posterior probabilities for all the values of all decision nodes .
+So , when we input something , we always get the , , posterior probabilities for all of these .
+Let 's assume those are the posterior probabilities of that .
+because all of these factors have presumably already gone into making these posterior probabilities .
+Like , if you 're asked a Where - Is question , you may not even look like , ask for the posterior probability of the , , EVA node ,
+Cuz , that 's what , in the Bayes - net you always ask for the posterior probability of a specific node .
+You can compute , , the posterior probability of one subset of the nodes , given some other nodes ,
+
+And since we have a finite number of constructions that we can deal with , we could have a finite number of nodes .
+But since we can only deal with a finite amount of
+It 's probab , I would s definitely say it 's finite .
+How 's that ? {nonvocalsound} How it can be finite , again ?
+
+or OK . So , lemme see if I 'm confused .
+it 's it 's apples and oranges .
+
+But . Again , in this Given this input , we , also in some situations , may wanna postulate an opinion whether that person wants to go there now
+So we have to , like So that it 's no longer possible to just look at the nodes themselves and figure out what the person is trying to say .
+, that 's actually what I had planned , personally .
+
+This is i That 's what you s it seemed like , explained it to me earlier
+You 're just gonna have to explain it to me , then , on Tuesday ,
+
+Also , I 'm somewhat boggled by that Hugin software .
+It 's somewha It 's boggling me .
+
+, But the there 's So you just have three decisions for the final node , that would link thes these three nodes in the net together .
+. But we believe that all the decision nodes are can be relevant for the Where - Is ,
+But , it seems like we could have I mea or we could put all of the r information that could also be relevant into the Where - Is node answer
+Like the Endpoint is not necessarily relevant in the Bayes - net for Where - Is until after you 've decided whether you wanna go there or not .
+
+So we 'd have a node for the Where - Is question .
+So the But I the k the question that I was as er wondering or maybe Robert was proposing to me is
+A decision node for every possible question , you mean ?
+, look at look Face yourself with this pr question .
+
+Let 's not forget we 're gonna get some very strong input from these sub dis from these discourse things ,
+Forget about the ones where it 's all middle ground .
+
+, so if Let 's say I had a construction parser , and I plug this in , I would each construction the communicative intent of the construction was
+and then hook it up to some fake construction parser
+maybe it 's OK , so that that we can that we have one node per construction .
+, , but , the , , that 's what the construction parser would do .
+h theoretically the construction parser would do that
+Any any form - meaning pair , to my understanding , is a construction .
+The " giving a speech " construction ,
+
+, . if this is th l what the Does This is what Java Bayes takes ? as a Bayes - net spec ?
+That put it into the format that the Bayes n or Java Bayes or whatever wants ?
+When you when you say the input to the v Java Bayes , it takes a certain format ,
+To convert it into the Java Bayes for format ?
+, . I d think I haven't figured out what the terms in Hugin mean , versus what Java Bayes terms are .
+but that 's in Java Bayes ,
+
+it 's th called " the Crown " .
+sk let 's let 's call it " Keith - Johno
+I 've had people call me Eva ,
+
+No , because if we we 're gonna interface to We 're gonna get an XML document from somewhere .
+I 'm h I 'm happy that they 're recording that .
+, w what you 're s proposing is a n Where - Is node ,
+What what I am thinking , or what we 're about to propose here is we 're always gonna get the whole list of values and their posterior probabilities .
+Just this weekend we 're going camping .
+
+When 's Jerry leaving for Italia ?
+
+People come up to you on campus and say , " Where 's the library ? "
+Cuz even in people , like , they what you 're talking about if you 're using some strange construction .
+But if you said something for which there was no construction whatsoever , n people wouldn't have any idea what you were talking about .
+
+So no matter what they said , if I could map it onto a Where - Is construction , I could say , " !
+And at least in compilers , that 's all that really matters ,
+
+When the person said this , the car is there , it 's raining , and this is happening .
+And with this you can specify the what 's happening in the situation , and what 's happening with the user .
+And not knowing what was asked , and what happened , and whether the person was a tourist or a local ,
+
+, w if it 's if it has reached a certain height , then all of this becomes irrelevant .
+So either you always have it compute all the posterior possibilities for all the values for all nodes , and then prune the ones you think that are irrelevant ,
+
+In terms of , these would be wha how we would answer the question Where - Is ,
+w We we 're we wanna know how to answer the question " Where is X ? "
+In the ca Any piece of language , we wouldn't be able to answer it with this system , b if we just h
+And and if we And if someone says , , , something in Mandarin to the system , we 'd - wouldn't know which node to look at to answer that question ,
+, but But how does the expert but how does the expert system know how who which one to declare the winner , if it doesn't know the question it is , and how that question should be answered ?
+, when you 're asked a specific question and you don't even
+
+She 's on the email list ,
+I always have to check , every time y I send you an email , a past email of yours , to make I 'm spelling your name correctly .
+
+, I 'll until you 're plugged in .
+and it 's possible that Nancy 'll be here ?
+The first bad version 'll be done in nine months .
+
+, , but in the s , let 's just deal with the s the simple case of we 're not worrying about timing or anything .
+, I 'm also agreeing that a simple
+
+, maybe it does make a difference in terms of performance , computational time .
+Killing , reasoning . What 's the difference ?
+, it 's just the difference between voiced and unvoiced .
+
+And i if there 's a clear winner here ,
+that looks the values and says , " The winner is Timing .
+pru Take the ones where we have a clear winner .
+
+Cuz we wouldn't have the correct node .
+Cuz I , The way you describe what they meant , they weren't mutu , they didn't seem mutually exclusive to me .
+Cuz if you needed an If y If Go - there was true , you 'd wanna endpoint was .
+Cuz it was like , that one in Stuart 's book about , , the
+Cuz of Memorial Day ?
+
+So , , the idea is to f to feed the output of that belief - net into another belief - net .
+Our belief - net thinks he wants to go there ,
+then we would , " Aha ! He , our belief - net , has s stronger beliefs that he wants to know where it is , than actually wants to go there . "
+And now we need an expert system or belief - net that interprets that ,
+You or have a finished construction parser and a working belief - net ,
+
+So , in that sense , we weight them equally
+that would take all of the inputs and weight them appropriately for that question .
+and so then I would know how to weight the nodes appropriately , in response .
+But , , in the {nonvocalsound} practical sense , it 's impossible .
+
+, I just was abbreviated it to Struct in my head , and started going with that .
+But , when you abbreviate yourself as the " Basman " , you don't use any H 's .
+, it 's because of the chessplayer named Michael Basman ,
+
+going all the way , f through Parking , Location , Hotel , Car , Restroom , @ @ Riots , Fairs , Strikes , or Disasters .
+And that XML document will say " We are able to We were able to observe that w the element , , @ @ of the Location that the car is near . "
+You 're not gonna say " It 's It 's five hundred yards away from you " or " It 's north of you " , or " it 's located "
+
+Say , if we had to y deal with arbitrary language , it wouldn't make any sense to do that ,
+Cuz oth If we 're just taking arbitrary language in , we couldn't have a node for every possible question ,
+, , are you saying that , what happens if you try to scale this up to the situation , or are we just dealing with arbitrary language ?
+
+What 's the situation like at the entity that is mentioned ?
+shi situational context ?
+If we trusted the Go - there node more th much more than we trusted the other ones , then we would conclude , even in this situation , that he wanted to go there .
+
+, out of curiosity , is there a reason why we wouldn't combine these three nodes ? into one smaller subnet ?
+, so , the final d decision is the combination of these three .
+where we 're combining top ones .
+
+, what where we also have decided , prior to this meeting is that we would have a rerun of the three of us sitting together
+We 'll meet next Tuesday , I .
+OK , then . Let 's meet again next Tuesday .
+. So you 're saying , next Tuesday , is it the whole group meeting ,
+
+, if he doesn't want to go there , even if the Enter posterior proba
+I , Jerry needs to enter marks ,
+But , , if he 's gonna enter marks , it 's gonna take him awhile , I ,
+, she was sorta finishing up the , , calculation of marks and assigning of grades ,
+
+But , we don't really we 're interested in before we look at the complete at the overall result .
+, , if you said something completely arbitrary , it would f find the closest construction ,
+
+So this is just , again , a an XML schemata which defines a set of possible , , permissible XML structures ,
+i , it 's an XML Structure that 's being res returned ,
+because Bhaskara is doing probabilistic , recursive , structured , object - oriented , ,
+
+But there 's something about bowel problems with the dog .
+Like " Bus dog fried egg . " .
+
+But , I I , , this is another , smaller , case of reasoning in the case of an uncertainty ,
+. If the if your brain was non - deterministic , then perhaps there 's a way to get , , infin an infinite number of constructions that you 'd have to worry about .
+So the best - case scenario would be the number of constructions
+or , the worst - case scenario is the number of constructions equals the number of neurons .
+
+So like , if I 'm just interested in the going - there node , I would just pull that information out of the Struct that gets return that would that Java Bayes would output ?
+We just compose as an output an XML mes message that says . " Go there now . " " Enter historical information . "
+
+. Just because it forces us to be specific about the values here ?
+So there is no way of telling it t not to tell us about the EVA values .
+, this is pretty , , I I hope everybody knows that these are just going to be dummy values ,
+across , lots of different neurons , to specify different values ?
+
+So we get After we are done , through the Situation we get the User Vector .
+and we get a certain We have a Situation vector and a User vector and everything is fine ?
+Based on the k what the question was , so what the discourse , the ontology , the situation and the user model gave us , we came up with these values for these decisions .
+
+and you can Keith can worry about the discourse .
+
+So every part of a structure is a " Struct " .
+, . So . Part of what we actually want to do is schedule out what we want to surprise him with when he comes back .
+w we should do no work for the two weeks that he 's gone .
+I had I had scheduled out in my mind that you guys do a lot of work , and I do nothing .
+
+We can't expect this to be at O point three , three , O point , three , three , three .
+Is it considered to be like in are they considered to be like very , , s abstract things ?
+There 's a bandwidth issue ,
+
+, w wouldn't we just take the structure that 's outputted and then run another transformation on it , that would just dump the one that we wanted out ?
+OK . Because then , once we have it up and running , then we can start , defining the interfaces
+, worry about the ontology interface
+
+Or , " The winner is Info - on , Function - Off . "
+So . If even if the function or the history is scoring pretty good on the true node , true value
+And if it was false , you 'd wanna d look at either Lo - Income Info - on or History .
+
+Right . Cuz if we have a fixed number of neurons ?
+, two to the power of the number of neurons .
+
+As long as y you 're not wearing your h headphones .
+That headphone . The headphone that you have to put on backwards , with the little thing and the little foam block on it ?
+
+And form u starts at the level of noun Or actually , maybe even sounds .
+Discourse - level constructions .
+Can't you use different var different levels of activation ?
+
+Now , the e But for some reason the Endpoint - Approach gets a really high score , too .
+S so if the endpoint if the Go - there is Yes and No , then Go - there - discourse will just be fifty - fifty .
+If the discourse is strongly indicating that
+
+Did you just sti Did you just stick the m the the microphone actually in the tea ?
+I 'm not drinking tea .
+realized that I had my hand in between my mouth and my micr er , my and my microphone .
+

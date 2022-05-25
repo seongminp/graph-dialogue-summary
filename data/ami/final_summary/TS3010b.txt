@@ -1,0 +1,12 @@
+The project manager opened the meeting by explaining how to locate his minutes from the previous meeting.
+The Industrial Designer briefly explained the internal workings of the remote,  and mentioned his preferences for power source and case material.
+He also suggested mobile phone-like changeable covers, and the group discussed the profit in this.
+The User Interface Designer very briefly mentioned some features a remote should have and suggested it should be multifunctional.
+The Marketing Expert present the findings of the usability study.
+The group then discussed their target group ,and what features they might include to attract them.
+The manager introduced new requirements to the project, insisting they were to be followed.
+The group then discussed what buttons they might need, which included menu, numbers, channel and volume changing arrows and mute.
+The design of the remote control is to be carried out at the next meeting.
+Individual actions for the next meeeting can be found in emails to be sent.
+The buttons will consist of number, a menu button, arrows for changing channel and volume, but also navigating the menu, and a mute button.
+*NA*

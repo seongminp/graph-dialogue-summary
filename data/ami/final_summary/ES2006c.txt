@@ -1,0 +1,23 @@
+The project manager opens the meeting by stating the agenda.
+The industrial designer begins presenting, first describing the insides of a remote control.
+He lists the options for types of batteries, shapes for the remote case, materials to use, and functions to include such as push buttons, scroll wheels, and LCD screens.
+He then talks about the type of chip certain features would require.
+The interface specialist begins presenting, first defining user interface and then showing some examples of remotes.
+She mentions that many existing remotes do not have a nice appearance, and states her preference for a remote that is small and simple and contains a scrolling wheel.
+The marketing expert gives her presentation about user requirements and current trends.
+She shares that fruits and vegetables are popular, meaning curviness and assymetry are in.
+The group decides to use LCD screens to give the remote style.
+They discuss what material should be used, talk about how the surface of the case should look, and plan out the general user interface.
+After they make some decisions about the remote, the project manager closes the meeting by telling them what their tasks will be until the next meeting.
+The Industrial Designer will work on look and feel.
+The Interface Specialist will work on user interface.
+The Marketing Expert will work on the product evaluation.
+The two designers will work together on developing a prototype using modeling glay and follow the instructions the group has come up.
+They will get extra instructions from their personal coach
+The remote control and its buttons will be made of rubber.
+The case will be flat on top and curved on the bottom.
+The remote will have push buttons outside, and an LCD and spinning wheel inside.
+The remote will resemble a vegetable and be in bright vegetable colors.
+It will have voice recognition, use a simple battery, and contain an advanced chip.
+It will have standard on/off, channel-changing, numerical, and volume buttons, with a menu on the screen.
+*NA*.

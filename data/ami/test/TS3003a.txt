@@ -1,0 +1,221 @@
+A	13.46	so good morning .	opening
+A	16.73	see you all find your places .	opening
+A	19.56	is everybody sitting on the right place ?	opening
+A	26.29	so let's see .	opening
+A	35.95	first will introduce myself .	opening
+A	38.09	if if everybody knows me , so i'm bart , hello .	opening
+D	40.79	my name's frank .	opening
+A	54.15	let's start off with little presentation .	opening
+A	62.27	now first i'll tell you little bit about the setting .	introduction to tools and equipment
+A	68.35	you can see there are few cameras here .	introduction to tools and equipment
+A	70.37	they'll record our actions and you'll have wires and microphones that will record your voice .	introduction to tools and equipment
+A	77.97	there are also some microphones there but th you don't have to pay lot of attention on those , because it will disappear when you don't attend to it .	introduction to tools and equipment
+A	90.14	so is there project documents folder ?	introduction to tools and equipment
+A	94.24	there are some notes in it already see , some documents .	introduction to tools and equipment
+A	99.19	i'll start with the presentation kick off .	introduction to tools and equipment
+A	106.87	is being modified by the administrator .	introduction to tools and equipment
+A	112.06	let's do it read only .	introduction to tools and equipment
+A	116.66	if you've noticed , but we're working for real reaction .	project specs and roles of participants
+A	122.27	it's company in electronics .	project specs and roles of participants
+A	125.29	we put fashion in electronics , we make it work , we put lot of effort in design and in the product itself .	project specs and roles of participants
+A	134.76	i'm bart the project manager so i'll direct you through the project .	project specs and roles of participants
+A	140.63	this is our agenda .	agenda/equipment issues
+A	143.39	we have our opening acquaintance , tool training , project plan description closing .	agenda/equipment issues
+A	149.67	maybe sit down , then take some notes or let's see .	agenda/equipment issues
+A	161.34	maybe you can take the minutes once in while .	agenda/equipment issues
+A	164.42	it's not lot of work , but just if you hear something you can write down , just write it down .	agenda/equipment issues
+A	171.36	as you can see it's the opening , aquaintance tool training .	agenda/equipment issues
+A	175.25	aquaintance is point we've done bit .	agenda/equipment issues
+A	179.17	have you all seen the corporate website already ?	discussion
+A	184.23	have you seen any flaws in it ?	discussion
+D	190.89	can't say paid much attention to it , but .	agenda/equipment issues discussion
+A	193.52	see if it works this way .	agenda/equipment issues
+A	197.53	no , it doesn't work here .	agenda/equipment issues
+A	203.35	but on the corporate information side there's th there was real remote instead of real reaction .	discussion
+A	212.74	real remote is not really the company we're we are , but it's just little fault .	discussion
+A	219.34	what are we going to do ?	project specs and roles of participants
+A	223.35	our project aim is as you can see new remote control .	project specs and roles of participants
+A	227.35	it has to be original , trendy , and user friendly .	project specs and roles of participants
+A	231.13	so these are the points why we also hired you .	project specs and roles of participants
+A	238.11	we've got the marketing expert for the trendy and user friendly look .	project specs and roles of participants
+A	246.29	and industrial designer there's also user friendly and bit original .	project specs and roles of participants
+A	253.41	and we've got our user interface designer .	project specs and roles of participants
+A	257.76	he's also that's about the new remote control .	project specs and roles of participants
+A	263.16	project method is there are three phases we are going through .	project specs and roles of participants
+A	270.9	first is functional des design , individual work , meetings .	project specs and roles of participants
+A	275.68	after the functional design , then the conceptual design and the detailed design .	project specs and roles of participants
+A	281.25	had some role indications on here .	project specs and roles of participants
+A	288.19	but it already by yourself .	project specs and roles of participants
+A	291.78	the industrial designer is going to work on the working design , components design and bit of the look and feel design .	project specs and roles of participants
+A	301.24	the user interface designer is going to do the technical function design , user interface concept and user interface design .	project specs and roles of participants
+A	311.03	and the marketing expert is doing little bit of user requirement specification , trend watching and project product ev evaluation .	project specs and roles of participants
+A	321.9	so that's bit what you're going to do .	project specs and roles of participants
+A	324.73	but that will be all worked out in other meetings .	project specs and roles of participants
+A	332.18	then we've got our first tool training .	introduction to tools and equipment
+A	335.24	we are going to work with lot of high-tech tools here , so it's ab it's handy if we have little bit of training first .	introduction to tools and equipment
+A	342.63	as you can see we've got the smart boards here and here in the white board .	introduction to tools and equipment
+A	348.7	in the white board here there's little tool bar on this side .	introduction to tools and equipment
+A	355.79	here are some functions .	introduction to tools and equipment
+A	356.82	you can save .	introduction to tools and equipment
+A	357.9	these functions we don't have anything to do with , only undo , you can undo little piece of drawing .	introduction to tools and equipment
+A	365.63	blank new document for each person .	introduction to tools and equipment
+A	368.97	select pen , eraser .	introduction to tools and equipment
+A	371.44	capture we don't have to do anything with .	introduction to tools and equipment
+A	374.23	then we've got our pen .	introduction to tools and equipment
+A	380.05	it's really funny because you can draw with it on this page in the is form of .	introduction to tools and equipment
+A	389.28	you can also select the current colour and the line width .	introduction to tools and equipment
+A	393.05	but then first you have to select the pen function .	introduction to tools and equipment
+A	396.73	but we're going to work with it in minute .	introduction to tools and equipment
+A	402.61	that's very simple and it's easy to draw your findings and drawings on there .	introduction to tools and equipment
+A	410.0	then short thing about documents .	introduction to tools and equipment
+A	415.13	we've got our shared folder , project project what was it ?	introduction to tools and equipment
+A	422.79	but all you will found that already because there are lot of documents in it already , so it will be .	introduction to tools and equipment
+A	428.95	and these are available on the smart boards as , so if you have document you wanna show , just open it from the folder .	introduction to tools and equipment
+A	439.41	here is simple tool bar .	introduction to tools and equipment
+A	440.97	it's what said , it's save , print , move back or forward one page .	introduction to tools and equipment
+A	447.51	you can switch between the different drawings .	introduction to tools and equipment
+A	452.64	and then we're going to try out the white board .	introduction to tools and equipment
+A	456.78	so as you can see we all going to draw animal .	drawing exercise
+A	461.19	just to just to get bit familiar with it .	drawing exercise
+A	467.85	mouse wasn't running away .	drawing exercise
+D	469.28	that was interesting .	drawing exercise
+A	471.33	is everybody is anybody playing with the mouse ?	drawing exercise
+A	475.34	we're going to draw animal .	drawing exercise
+A	478.29	and just sum up few of its favourite characteristics .	drawing exercise
+A	483.67	the only thing we have to look after is that we use different colours , and different line width .	introduction to tools and equipment
+A	492.13	there's start from now .	introduction to tools and equipment
+A	497.87	you can use this pen by holding it like like little child .	introduction to tools and equipment
+A	501.77	because if you hold it like this , the sensors will get blocked and then the drawing won't get good .	introduction to tools and equipment
+A	509.3	another thing is you have to be bit slow .	introduction to tools and equipment
+A	513.66	'cause if you're going to draw like really fast then the pen won't hold up .	introduction to tools and equipment
+A	518.95	so we choose form of current colour grey is appropriate .	introduction to tools and equipment
+A	528.98	then the line width .	introduction to tools and equipment
+A	529.9	seven will be .	introduction to tools and equipment
+A	535.02	now you'll see my drawing capabilities .	introduction to tools and equipment
+A	538.63	these are not very much , but , see you have to do it real slow .	introduction to tools and equipment
+A	554.37	was trying to draw dolphin , but his nose has to be little bit but it's close .	drawing exercise
+D	577.62	i'm thinking about swordfish .	drawing exercise
+A	579.62	so what it's this is bit of the swordfish .	drawing exercise
+A	582.04	he hasn't got an eye .	drawing exercise
+A	586.55	now we've got another function .	drawing exercise
+A	587.75	we've got the eraser .	drawing exercise
+A	590.63	and then you can undo this easily .	drawing exercise
+A	598.78	and i've got to write down few of its characteristics .	drawing exercise
+A	604.29	is they've got no text tool , no .	drawing exercise
+A	630.67	this is typically undo action , .	drawing exercise
+A	639.89	maybe you have to hold it bit upside-down .	drawing exercise
+A	644.08	that's it because if you wan ar are going to do it like this then it will be stripe .	drawing exercise
+A	650.73	but , i'm just trying .	drawing exercise
+A	658.42	this is not my work , .	drawing exercise
+A	661.82	maybe you have to use .	drawing exercise
+A	684.84	it's it wants to draw another animal ?	drawing exercise
+A	691.57	it lives for the fun .	drawing exercise
+A	694.96	so it's my characteristic characteristic about the dolphin .	drawing exercise
+A	703.19	it lives for the fun .	drawing exercise
+A	704.77	so now i'm gonna hand over the pen on the new blank sheet to you .	drawing exercise
+D	721.27	gonna use different line width .	drawing exercise
+D	724.63	and i'm gonna draw in black .	drawing exercise
+D	732.28	'kay , i'm not much of an artist , but here we go .	drawing exercise
+A	743.56	maybe it's easier to draw the smaller line width , .	drawing exercise
+A	748.38	because this is going lot better than did .	drawing exercise
+D	805.4	this is my .	drawing exercise
+D	820.5	with little blue dot they always get sprayed on their butts .	drawing exercise
+A	834.99	it's real dead sheep , .	drawing exercise
+A	836.69	for recognition , , see .	drawing exercise
+A	843.07	maybe you can also write your name somewhere .	drawing exercise
+D	846.48	they are come on .	drawing exercise
+D	858.82	you have to go really slow when you're writing .	drawing exercise
+D	879.44	they're brilliant animal animals .	drawing exercise
+D	881.44	and that's just little me thingy .	drawing exercise
+D	888.55	i'll pass the pen to our user interface designer .	drawing exercise
+B	890.86	i'm just gonna draw its head , but let's see .	drawing exercise
+B	972.4	what that is ?	drawing exercise
+B	993.06	you say blank , or .	drawing exercise
+A	994.96	just blank sheet .	drawing exercise
+C	1009.34	was gonna draw cat too , so .	drawing exercise
+C	1014.47	i'll just try something else .	drawing exercise
+C	1018.12	something different than garfield .	drawing exercise
+C	1039.84	mine is bit more skinny .	drawing exercise
+A	1041.12	it's pretty skinny cat .	drawing exercise
+C	1044.43	but , it's supposed to be cat .	drawing exercise
+D	1045.68	and the most interesting tail .	drawing exercise
+A	1048.55	is your cat , or did you find him on the street ?	drawing exercise
+C	1059.71	like cats because they are independent .	drawing exercise
+A	1083.74	that's pretty clear .	drawing exercise
+A	1084.95	so everybody knows how to work with the white board now ?	drawing exercise
+A	1088.18	so if you have any ideas or if you wanna draw anything on the white board , just ask and go ahead .	drawing exercise
+A	1095.09	it's pretty easy .	drawing exercise
+A	1101.75	haunted white board .	agenda/equipment issues
+D	1102.15	we're being haunted .	agenda/equipment issues
+A	1106.77	so we've got the tool introduction .	agenda/equipment issues
+A	1109.9	we move along to the project finance .	agenda/equipment issues
+A	1115.06	as you can see , we for our remote control , selling price is twenty five euros .	project budget
+A	1124.3	our selling price .	project budget
+A	1126.48	our profit aim is fifty million euros .	project budget
+A	1129.46	that's the least we have to get from our remote controls , so we have to work together to reach our aims .	project budget
+A	1137.75	we can do it international , so we have to focus on different users , different cultures , and different trends as .	project budget
+A	1147.17	but that's all in the later stadium .	project budget
+A	1152.33	our production cost can be maximal twelve and half euros , so that's also point we have to keep in mind , that we won't make remote controls with small televisions inside , and like that .	project budget
+A	1168.83	it won't work .	project budget
+A	1170.61	so just try to remember these points .	project budget
+A	1173.94	selling price twenty five , profit aims fifty million , but more important is the int international market we're trying to focus on .	project budget
+A	1183.93	and production cost maximal twelve and half euros .	project budget
+A	1189.48	so that's leads us to our little discussion .	agenda/equipment issues
+A	1192.75	we've got about five or ten minutes left for discussion .	agenda/equipment issues
+A	1197.84	so i'm gonna sit down , .	agenda/equipment issues
+D	1201.97	you got message .	agenda/equipment issues
+A	1204.42	i've got message .	agenda/equipment issues
+B	1206.96	five minutes , .	agenda/equipment issues
+A	1206.98	that's good timing .	agenda/equipment issues
+D	1210.06	so just on side note , why is it my laptop is only giving me black screen ?	agenda/equipment issues
+A	1215.19	maybe you have to say the magic word .	agenda/equipment issues
+A	1221.07	does it do anything ?	agenda/equipment issues
+A	1223.42	maybe you have to just clap it down ?	agenda/equipment issues
+A	1228.28	back up again .	agenda/equipment issues
+A	1233.96	no slide show .	agenda/equipment issues
+D	1236.12	it's off now .	agenda/equipment issues
+A	1237.99	now you have to put it back .	agenda/equipment issues
+A	1239.48	you'll be , .	agenda/equipment issues
+D	1240.53	it was on , but , there we are .	agenda/equipment issues
+A	1243.81	t's those laptops .	agenda/equipment issues
+A	1249.98	but so does everybody has experiences with remote controls , and not the ordinary mote controls , but also little bit different ones ?	discussion
+A	1262.51	like you can use for other ?	discussion
+D	1267.46	we have broad t_v_ at home , and d_v_d_ player , so we got like lot of remote controls , one for the t_v_ , one for the video recorder , one for the d_v_d_ player .	look and usability
+C	1267.78	no , me neither .	look and usability
+D	1280.3	and it's it would be best to just make one remote control that can operate them all .	look and usability
+A	1285.64	i've i've got one at home .	look and usability
+A	1287.77	and you can program eight different devices in it , and you can use it for your television , anything else .	look and usability
+A	1296.53	and it also operates on infra-red , so you have to got the little device inside your room , and then you can operate it from the third or th or second floor .	look and usability
+A	1308.68	so that's pretty handy when you have video recorder or d_v_d_ player downstairs and you've got link to your t_v_ on the second floor .	look and usability
+A	1317.16	so that's pretty handy thing .	look and usability
+A	1321.83	but only the that if you can put different devices in one remote control , it makes it lot easier as .	look and usability
+A	1334.01	it's that's good to remember .	look and usability
+D	1337.75	so you can take minutes again .	look and usability
+D	1341.55	since it's your job .	look and usability
+A	1342.5	so we've we want different functions and we can maybe see if we can do something with the infra-red .	components, materials and energy sources look and usability
+A	1354.2	but if that will exceed the production costs .	components, materials and energy sources
+A	1357.2	so that that's something we have to find out , .	components, materials and energy sources
+D	1361.38	but that would be really good if we could do that .	components, materials and energy sources
+A	1365.91	and other functions for remote control ?	look and usability
+A	1370.4	maybe we can make it shock proof .	look and usability
+D	1374.24	has to be shock proof 'cause my remote control tends to fall lot .	look and usability
+B	1379.77	waterproof , or , you never no know , 'kay .	look and usability discussion
+D	1381.86	so , one other little thing .	components, materials and energy sources look and usability
+A	1390.19	so these are our few things we can think of .	look and usability
+A	1395.0	will put the minutes from this meeting in our project folder .	discussion
+D	1403.81	thought it might be handy to put battery status display on it .	components, materials and energy sources
+D	1408.75	so you can see how much is left in the battery .	components, materials and energy sources
+A	1408.77	that's battery stays .	components, materials and energy sources
+D	1414.32	but they'll also really drag up the production costs , so think we'll have to see about that too .	components, materials and energy sources
+D	1422.16	but maybe just little led , .	components, materials and energy sources
+A	1425.62	that's an idea as .	components, materials and energy sources
+C	1431.5	they were all mentioned , so .	discussion closing
+A	1433.28	any questions about this presentation ?	discussion
+A	1436.8	kick off presentation .	discussion
+D	1440.83	nope , don't .	discussion
+A	1443.76	then i'll put the minutes from this meeting in the project folder , and then we can all work .	closing
+A	1451.74	finish meeting now .	closing
+A	1455.18	and we can all work on our own projects .	closing
+A	1468.18	then i'll meet you in about half an hour , .	closing
+D	1472.02	half an hour .	closing
+A	1474.55	so good luck .	closing

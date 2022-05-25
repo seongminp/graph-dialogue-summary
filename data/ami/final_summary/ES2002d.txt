@@ -1,0 +1,17 @@
+The project manager recapped the decisions made in the previous meeting and two team members presented their prototype and discussed the features the prototype contained.
+The team then looked at the production costs of the remote and had to decide which features to retain or lose in order to maintain the target cost.
+In maintaining the target cost, the team had to lose a number of features which they originally wanted, such as a kinetic battery, an LCD display, and various color options.
+The team then evaluated the prototype on the basis of its appearance, technological innovation, and spongy quality.
+The prototype did fairly well in the evaluation.
+The team then conducted an evaluation of the project process.
+The team felt that their creativity was hindered by the project budget and their inability to discuss the project outside of their meetings and that the structure of the task did not foster teamwork.
+*NA*
+The remote will not contain a kinetic battery.
+The remote will have a regular chip.
+The case will be double-curved.
+The remote will have push buttons.
+The remote will not feature an LCD display.
+The display will be on the television instead of on the remote.
+The buttons will be normal colored.
+The remote will have square buttons.
+Meeting the target cost.

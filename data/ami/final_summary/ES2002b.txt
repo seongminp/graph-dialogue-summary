@@ -1,0 +1,22 @@
+The project manager briefed the team on some new requirements to consider when designing the remote.
+The user interface designer presented two existing products and discussed what was wrong with each product.
+The team discussed how to create a remote which did not include the problems present in the existing products presented by the interface specialist.
+The marketing expert presented consumer preferences and requirements and the team discussed who their target demographic should be and whether to include speech recognition in their product.
+The industrial designer discussed the interior workings of a remote and the team discussed various options for components and energy sources.
+The team then discussed features to include in the remote and what they could do to figure out how to categorize them.
+The industrial designer will work on the components concept.
+The user interface designer will work on the user interface.
+The marketing expert will work on trend watching
+The team will not work with teletext.
+The remote will only control televisions.
+The corporate color and design must be incorporated into the design of the remote.
+The remote will have buttons for the following functions: on and off, channel up and down, volume up and down, and entering channel numbers.
+The remote has to look good and be easy to use.
+The target demographic is people aged fifteen to thirty five.
+The remote will use an infra-red sensor.
+The remote will use regular batteries.
+How to categorize the functions on the remote.
+How to implement the categorization of functions in the design of the remote.
+Defining a target demographic.
+Whether to include speech recognition as a feature in the remote.
+How to incorporate more advanced functions into the remote while keeping the design and usability of the remote simple.

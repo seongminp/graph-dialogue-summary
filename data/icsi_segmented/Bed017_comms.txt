@@ -1,0 +1,303 @@
+So w Anyway . So that 's a major open issue .
+And a lot of the even though it 's a it 's a very different domain , but a lot of the , , issues are fairly similar .
+
+and supposedly , , we 'll actually get s deep connected to their work
+And and so I 'll just n give you a real quick introduction to what I 'm working on ,
+and they 'll say why 's it not it 's not working ,
+Like that when somebody 's working about , working on servlets ,
+We There 's someone in ICSI who actually has been working on has worked on that kinda ,
+
+and it turns out , , the CPT 's are really big , if I do that ,
+And so , , it 's easier to specify the CPT and all .
+and you 're gonna have CPT 's over the classes and their relations .
+
+Eva 's got a laptop , she 's trying to show it off .
+something happened , in on Eva 's side with the PRM that we 're gonna look at today ,
+whether th It 's the EVA decision .
+She 's ac Eva 's got a little write - up on it
+, so one of the things that Eva 's gonna do over the next few weeks is see if we can track that down .
+If there is an interpreter , it looks like , what Eva 's got should run
+i it looked to me like if Eva were able to come up with a , value for each of a number of , sites plus its EVA thing ,
+
+, and we found another , cogsci student who 's interested in playing wizard for us .
+She 's actually suggested to look , at the psychology department students ,
+Now , what we have at our university quite a bit is that , students , try to u program a certain assignment , ,
+, maybe what 's the background of that student 's
+it 's it 's really the lack of students , at IU at the moment .
+, . it 's ju it 's more the lack of students , really ,
+if I were a student , I 'd love to come here , rather than work for some German {nonvocalsound} company , or
+
+I 'm tr I w I wa have been trying to see whether the PRM would make it more efficient if we do inferencing like that .
+, so that 's about as far as I 've gone on the PRM .
+It 's in the definition or in the in Daphne 's definition of a PRM
+
+So Fey 's time with us is almost officially over ,
+It 's the same paper that I gave to Jerry last time .
+, in the case where , it depends on both the user and the site , then I 'm still having a hard time trying to see how , using the PRM will help .
+with , , references to the user and the site and the time .
+And , with some other information about how much time the person has and whatever ,
+but I 'd it 's it 's time again ,
+
+OK , so , , what I started looking at , , to begin with is just , content management systems , i in general .
+if there 's no content inside of it , it 's not very useful .
+and then also search the entire web , rather than just the small , content management system .
+
+But you have to say something genuinely funny before you 'll get an example .
+that 'll be done officially s once we 're done .
+somebody 'll , If it 's a group meeting once a week probably someone 'll go down and , whatever .
+until then we 'll come up with a something that 's @ @ that 's way more complicated for you .
+and so I 'll be , happy to talk to you
+and maybe I 'll just walk around the office
+So I 'll be here for , tomorrow and then , the remainder of , next week .
+Anyway , s , you 'll see you 'll certainly see a lot of the people there .
+
+like the I - triple - E , There 's an I - triple - E , LON standard ,
+
+you could , from this , go on and say suppose there 's a group of people traveling together
+I I 'm trying to figure out how it maps to the kinds of things that we 've talked about in this group , and , actually associated groups ,
+
+and they always brush over this real quickly without really elaborating much of that
+cuz it 's it 's very easy to whip up something quickly ,
+
+I sorta constructed a couple of classes .
+Like , a user class , a site class , and , a time , a route , and then and a query class .
+The red lines on the , , graph are the , relations between the different , classes .
+And that would it 's just another class in the model ,
+and , if you have a question about a homework , it 's probably makes sense to ask somebody who 's in your class with you , the guru in the certain area ,
+
+, the special needs and , , money , and the user interest .
+s some of these attributes only depend on from , say , the user ,
+or , which form of transportation the user has
+and whether , , the onsite parking matters to the user , in that case .
+And , they all depend on the same users , but different sites ,
+because it 's all from the user side .
+meaning , , how good it matches the needs of a user .
+And that 's what I then propagate back to the user ,
+
+but we haven't worried too much about that end of the discourse .
+Remember the , Prashant story ?
+w , which is , , you . I don't Depending on how you wanna integrate with that end ,
+So anyway , that 's the end of the story .
+So anyway , that was that was today 's little story .
+And , if I put one and one together , I may end up with a number that 's greater than one and that potentially present once you get back .
+
+That 's definitely a job for artificial intelligence .
+So that 's that 's crucial for the success of or @ @
+, this was supposedly an exchange program ,
+I had forgotten a I To be honest with you , I 'd forgotten we had a program .
+we 're , , involved in a literally three hundred million dollar , program .
+
+, no , but he 's he 's as you said , he 's , like the state legislature , he 's trying to offer us bribes .
+And , the State of California is now a month and a half behind its legis its legally required date to approve a budget .
+Which is like half the school population in California .
+
+So there 's a huge , , need for improvement there .
+Now , what I plan to do is I want to do a try to improve the quality of the search results ,
+So if I knew which operating system the person was working on , would this improve my search result ?
+
+that 's a that 's a very that 's a key point of these systems
+so we thought , , it 'd be to have a system that could take care of this ,
+I assume that the there will be learning systems that tag their content .
+But the that the key point with these , learning systems is that , a learning system is only as good as the amount of content it carries .
+You can have the best learning system with the best search interface ,
+, like , taking the data and fig you said the learning systems that figure out
+
+but at least we 're we 're seeing the end of the tunnel there .
+so , , if beauty is truth , then , we 're in good shape .
+And , eventually I meant that to mean whether they 're open at this hour or not .
+And status would be , , more or less like , whether they 're under construction ,
+and you could then match this to the meta - data of off the documents you 're you 're searching against .
+where we 're all carrying around our individual bookshelves ,
+You 're just taking the keywords as a topic text ,
+and they 're they 're busily working away .
+Right . So I thi tha that 's that 's one of the things that might be worth looking into while you 're here .
+One of these times soon we 're gonna hear about construal .
+
+is that , all the users of this system share the same interpretation of the keyword and the same interpretation of , whichever taxonomy is used ,
+and that 's where the shared interpretation of certain terms and keywords comes in again .
+It 's like , , , the c context - based factors that influence how you interpret ,
+and if we want to share and integrate things , they must , they must be designed really .
+
+Because , , , the standard story is that keyworks keywords evoke frames , and the frames may give you additional keywords
+or , if that that a bunch of keywords , indicate a frame , then you can find documents that actually have the whole frame , rather th than just , individual
+and he 's worked with frame net ,
+
+As for SmartKom , I 'm the last SmartKom meeting I mentioned that we have some problems with the synthesis ,
+So . So the scenario is the following , you 're working on some project and you encounter a certain problem .
+Now , the big problem that I 'm facing right now is , it 's fairly easy to hack up a system quickly , that works in the small domain ,
+but there you face a problem that these are very hard to extend .
+, if you fal solve the problem , hope you can do one for us too .
+I said , " great ! That 's a good problem to work on . "
+enormous problem in California ,
+
+And two days ago There 's two l , so , two branches of legislature . One branch approved it ,
+yesterdayday there was this that the other branch would just approve it ,
+but now there 's actually a little back sliding to people who approved it got flak from there ,
+
+That was r actually Robert 's idea . But anyhow .
+, so Robert , why don't you bring us up to date on where we are with EDU ?
+So , , people who have thought about the problem , like Robert
+And , so Robert was mentioning , earlier today is that , Microsoft with their printer set up program has a Bayesian network ,
+
+I remember them learning when , , you the structure for ,
+, what 's the state of the art there is to you have a bunch of documents or learning units or learning objects ,
+. I 'm I could learn a lot about , , just how to how to come up with these structures ,
+
+versus , , what type of an event it is ,
+because there 's an implicit , , assumption behind that
+, which error message was encountered .
+And , he 's in one of the rooms on the fifth floor and ,
+the c the original construal proposal .
+
+Now , if you put on your semantic glasses , you say , that 's not all that easy ,
+and , looking into some of the ideas that the semantic web community , came up with .
+I 'll go to the , Semantic Web Workshop , , in two weeks .
+
+we have a visitor from Bruchsal from the International University .
+So my scientific director of the EML is also the dean of the International University ,
+So there 's some international standards
+
+and , these fields are pretty straightforward , you have author information , you have , size information , format information and so on .
+Now , what you need to do here is you need to provide some context information
+So this information should be transmitted , , when a certain document is retrieved .
+. , you have to s still m understand what the content says about itself , and then match it to what you think the informational needs
+so , you must be able to reuse some existing , domain information , or or ontologies that other people wrote
+And Srini 's doing information extraction also ,
+
+in a in a smaller group we had , talked and decided about continuation of the data collection .
+and she brought us some thirty subjects and , t collected the data ,
+That 's for the data collection .
+, and you store meta - data , associate to them .
+
+So , , I 'm not really involved in any project , that 's that 's relevant to you , a at the moment ,
+which homework assignment is he or she working on at the moment ,
+And so some of the I how much about the larger Heidelberg project ,
+, unfortunately , Srini , who is heavily involved in DAML and all this is himself out of town .
+
+and potentially you can have many different sites in mind .
+So if you changed sites , you can , , save some work on that .
+so , instead of , doing a lot of , , computation about , , which one site it wants of the user wants to visit , I 'll come , try to come up with like , a list of sites .
+because he did some work on topic spotting
+
+So , I want to be able to model information like , , so in the in the context of developing distributed systems , of a at a computer science school ,
+And and having , a symbolic formalized model of this I could simply compute that ,
+And so , what I 'm What I try to do is try to model this , in a way that you could really combine , knowledge from very different sources ,
+so it 's probably not that easy to simply have a symbolic , computational model .
+
+and ten dialogues have been transcribed
+Plus , Johno and I are meeting tomorrow ,
+So and he was , , the chief staffer to Clinton on technology matters .
+But the really interesting thing was , he st he s said something about , I 'm interested in things that have high social multiplier ,
+if you had a adult literacy program that was as good as an individual tutor ,
+Bed017Fdialogueact717	214849	21506	F	Professor	s^e:s	+1	0	and as compelling as a video game ,
+Bed017Fdialogueact718	215138	21547	F	Professor	s^e:s	+1	0	then that would have a huge social impact .
+Anyway . So it was that , he 's got this view , of A , that 's what you should try to do , and B , , language would be a good way to do it .
+
+So I tried to construct the dependency models ,
+no the dependencies would of the queries would be reduced to this .
+
+because they have to partake in two experiments in order to fulfill some requirements .
+, what is the document about ? So it 's some taxonomic , ordering of the of the units .
+and , the only thing that m really works out so far are library ordering codes ,
+
+One is you store keywords associated with the with the document ,
+which is more elaborate than " I 'm looking for this and this keyword . "
+and then compute how many documents match ,
+because document retrievals is a very fuzzy procedure ,
+m @ @ and what I what I envision is that you rather than just supplying a bunch of keywords you could for an FAQ you could state like a logic condition , when this document applies .
+So " this document explains how to set up your , mail account on Linux " like this .
+
+to plan certain things and figure out which can be done at what time ,
+So , , the plan is when Daphne gets back , we 'll get in touch
+and you wanted to plan something that somehow , with some Pareto optimal , , thing for
+
+and so , what I want to build is a smart F A Q system .
+, so . So I 'm I 'm not building an expert
+, I want to build a smart librarian ,
+Another project we started on , and didn't get funded for was , , to try to build an automatic tutoring program , for kids whose first language wasn't English .
+and the idea was if we 're so smart about language understanding and speech understanding , couldn't we build , programs that would be tutors for the kids .
+
+Now , what this a standard like this would give us is we could , with a search engine just query , different repositories all over the world .
+now , depending on what the search engine or the content repository depending on which , , which , rules and which ontologies it uses , or its view of the world , you can get very different results .
+So it might ma make a lot of sense to actually query a lot of different search engines .
+rather than going to some Yahoo - like , search engine .
+
+Actually , , a class of with different attributes that are the intermediate nodes ,
+, so anyhow , using those intermediate nodes then , this would be the class that represent the intermediate nodes .
+
+You should be at least be self - satisfied enough to laugh at your own jokes .
+he 's hired to run a lot of CITRIS ,
+even though we don't have the money they So they 've been hiring people right and left ,
+OK . So I did manage to get pull my head out of the sling by sidetracking into CITRIS ,
+but or a temporarily putting it out of the sling
+
+and then , also has , , reference slots to its preferences ,
+and one of them is like , time affordability money affordability , site availability , and the travel compatibility .
+but , if you look at travel compatibility for each of these factors , you need to look at a pair of , , what the , preference of the user is
+for each of the site you 'll come up with this rating , of travel compatibility .
+
+Andreas , you 've met everyone except Nancy .
+Good . Then , we can move on and see what Andreas has got out his sleeve .
+And Andreas and I tried to come up wi or we had come up actually with a with him working on an interface for FrameNet , as it was back then , that would p do some of the work for this machine ,
+but it just I 'm a little surprised that , Andreas didn't come up with anyone else he wanted to send .
+
+Then the w long term perspective is pretty clear .
+he 's using Java , cuz servlets are used are written in Java .
+cuz some of us do pretty detailed linguistic analyses ,
+The no linguistic background person that the IU sent over here .
+
+I 'm I 'm you have the same when somebody utters a sentence in a certain , , context
+it , and the same sentence in another context makes a huge difference .
+, in a in one t one s mmm , small difference in a in a way , is that he doesn't have to come up with an answer ,
+
+this is more or less similar to the flat Bayes - net that I have , , with the input nodes and all that .
+a lot of these I got from the flat Bayes - net ,
+I you end up having fewer number of nodes than in a flat Bayes - net ,
+
+Here we 're gonna make it a little bit more complicated for the subjects , this round .
+, package the whole thing in a in a re in a few more complicated , structure .
+We get rocking and rolling on this again , once we get a package ,
+cuz I made it really complicated in the beginning ,
+
+the people at Stanford write papers as if they had one ,
+So if you have a write - up then , I 'd love to read it
+And he just finished writing a draft of his thesis .
+but , I 'll volunteer to put it right back in by stating that I am n among some other things in the process of writing up that we have been discussing at our daily meetings ,
+
+and I want to do this by having a depth , steepest descent approach .
+Trying to have , an approach how to integrate s certain representation of certain concepts and also some computational rules ,
+What I 'm also looking into is a probabilistic approach into this
+And there you could have an idea where you actually have a peer to peer approach ,
+
+And the , , other question I would have is that presumably , from the way the Stanford people talk about it , you can put the probabilities also on the relations .
+and find out which which questions are worth , asking .
+
+No , cuz she already told me it , before she told you .
+No , she told me a long time ago . She told me she told me like two weeks ago .
+
+But what does it Would a pote potential result be to split up and never talk to each other again ?
+, the reason is really for me , to have an opportunity to talk to some other researchers in the field .
+Talk about changing the topic .
+
+and the ability to instantiate , , instance of people and sites and , , will help in the expression .
+there are things that you can express this way which you can't express in a normal belief - net ,
+, the notion of instantiating your el elements from the ontology and fits this very nicely and doesn't fit very into the extended belief - net .
+
+The other person of is Dan Gildea ?
+I u Dan Gildea , GILDEA .
+
+And , using this and some , knowledge about the domain you can do some simple inferences .
+In in this case , infer in knowing wanting to kinds of things to ask .
+So ultimately because , developing these rules and these inference inferences is very costly ,
+
+one of his many occupations that just contributes to the fact that he is very occupied .
+which , never got done because Prashant found a happy occupation
+
+and w we have all these sponsors that are always eager to get some teams .
+and it seems like spring break in two thousand one .
+So , I it turns out I wound up having lunch today with a guy named Tom Kalil .
+
+how to toggle the display width function
+But there are some application efforts trying to exploit it .
+. I didn't push him on the ch on the child thing ,
+

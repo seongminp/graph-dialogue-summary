@@ -1,0 +1,29 @@
+The project manager opened the meeting and then the industrial designer discussed the interior workings of a remote along with his personal preferences for the appearance of a remote.
+The user interface designer discussed the technical functions of a remote and indicated that a user centered approach to designing the interface would be preferable.
+The marketing expert discussed the functional requirements of a remote and user tendencies in using remotes.
+The marketing expert indicated that an ideal remote would include an LCD screen, would not be too small in size, and is easy to use.
+The project manager briefed the team on some new requirements and led them in a discussion in which the team discussed their target group and made decisions on the appearance and functions of their upcoming product.
+*NA*
+The team will not pay any attention to teletext.
+The remote will only be used for televisions.
+The product needs to reach a new market with customers under forty.
+The corporate image must be recognizable in the product.
+The remote will have buttons within the LCD display for power, volume selection, channel selection, digits from zero to nine, mute, a menu for teletext, a battery indicator, to access double digits, screen settings, channel settings, and audio settings.
+The remote will feature an LCD screen.
+The LCD screen will have a separate menu for teletext.
+The remote will shut down when the television shuts down.
+The remote will go into standby when idle.
+The LCD screen will have a low battery indicator.
+The remote will have a rechargeable battery which comes with a charger.
+The remote will be capable of speech recognition if there is enough money left in the team's budget.
+The remote will allow users to have the possibility to enlarge the buttons.
+The remote will have a general menu with the most used functions.
+The remote will be button-less.
+How much an LCD screen costs.
+If consumers over forty will want a remote with an LCD screen.
+Whether to include buttons for teletext.
+What sort of power supply to use since the LCD screen requires a large amount of power.
+What to do if people forget to recharge the batteries in their remote.
+Where consumers will place the charger.
+Whether to implement speech recognition.
+Whether the remote should feature a regular power button or if the power button should be integrated with the LCD display.

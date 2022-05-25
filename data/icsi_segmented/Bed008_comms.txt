@@ -1,0 +1,383 @@
+, because it 's whether it 's open or not .
+so le that 's a that 's a good
+and then li consider that it 's respective ,
+It 's driving how the other four are interpreted .
+
+from another point of view it 's interest it 's it 's important to it 's selling or servicing and .
+
+If that 's permissible then I 'm happy .
+. So here 's here 's what 's permissible
+That 's on the added variable ,
+
+and actually I had specific s suggestion to start first with the path ones .
+OK so let 's start with the belief - nets , the general influence
+OK , that 's let 's start that way .
+Right , so that 's that 's where it starts getting to be essentially more interesting ,
+
+Anyway th so in general this is the design , this is really design problem .
+would Even if it was true in some abstract general sense it might not be true in terms of the information we actually had and can make use of .
+So in some sense it 's it 's there .
+So that 's step that 's the that 's the that 's the basic thing .
+
+And here I was really in some s sometimes I was really standing in front of a wall feeling very stupid
+so in terms of the planner what 's what 's a good one to do ?
+
+everything that has situation comes from the situation model - A .
+Because that 's what we , that 's why this situation comes up .
+where go there from the user and go there from the situation just about each other but they both feed the go there decision
+So what helps us in our situation is that these all have values in the same set ,
+So it 's not just a generalized situation like
+it 's to tell the bottom node which one of the situations that it 's in
+The situations that H has , are they built into the net
+
+What 's the difference between mode and endpoint ?
+So the let 's take the case of the this endpoint thing ,
+you 're just merging those for just the sake of endpoint decision ?
+which is to get rid get rid of that l long link between who the user and the endpoint .
+which is the endpoint decisi the endpoint decision based o on the user models ,
+so what we what we talked about is three separate endpoint decisions ,
+let 's p put it this let 's do endpoint underbar - U .
+so that 's the endpoint decision as seen through the
+Actually , I the easiest thing would move mo move the endpoint ,
+the other one 's three values for endpoint already .
+
+because we 're gonna want to know , which constructions indicate various of these properties
+as we s e going to this detail Keith is going to worry about the various constructions that people might use
+that 's that 's a whole lot of constructions
+
+So that there 'd be certain properties that would fit into the decision node
+that 's a that 's a choice .
+So that the Go - there decision will have a node from discourse ,
+My current idea on that would be that each of these decision nodes has questions associated with it .
+or is it that we get for each decision on the very bottom we get the sub - E , sub - D , sub - U and maybe a sub - O " O " for " ontology " meta node
+OK , so why don't you tell us a little bit about decision nodes and what the choices might be for these ?
+
+Now it 's gonna be important not to have loops .
+really important in the belief worl net world not to have loops
+It if i loo it it 's not def i it 's not defined if you 're there are loops ,
+, no it 's not a loop yet , I 'm just saying we , in no , in
+
+I that 's that 's completely right
+and so again re that 's completely correct ,
+But is th is this picture that 's emerging here just my wish that you have noticed already for symmetry
+it 's not s completely impossi
+in order to get some closure on this figure out how we 're gonna get this picture completely messy .
+so e we have to figure out some display hack to do this
+
+more likely to view if he 's a tourist
+Viewing usually is cheap or free .
+but that viewing it without ent view w with our definition of view it 's free
+if they just wanna view it then it 's fine to go there when it 's closed
+so what Bhaskara says which is completely right is if that they 're only going to view it then it doesn't matter whether it 's closed or not
+
+Piece of paper ? I could borrow ?
+Nancy 's still stick ?
+so if you can afford it and perform it is preconditions .
+and then says here it 's either , yay , A , or nay .
+I gu yes my curr , don't that 's enough .
+what 's the utterance go giving us
+No it 's it 's sh
+
+which sets of things are relevant to which decisions
+So it could be ra they create different ranges that are relevant for different decisions or whatever
+what are the features we need in order to make all these decisions
+but it 's gonna be more instructive to think about other decisions that we need to make in path land .
+what 's what 's another decision you like ?
+ea who are each of them is making a decision based on some factors
+ROVER , the ROVER decision .
+
+but this w wou would be though that , , we only have at most four at the moment arrows going f to each of the bottom decisions .
+it 's all fine to say all these arrows come into the si same place
+So is it 's it 's clearer n clear enough what the issue is ,
+anyway so it clear that even with this if we put in all the arrows nobody is gonna be able to read the diagram .
+It 's it 's cl e is it clear what he wants to compute ?
+
+now what we talked about , and this is another technical thing Bhaskara , is can we arrange so that
+whereas if you like keep breaking it up more and more it 's not exponential anymore .
+That 's tha there 's one technical one
+one is the technical one that you don't wind up with such big exponential CBT 's ,
+You can technically wear that as you 're talking .
+
+Everything that has user comes from the user model
+which were the endpoint decision as seen from the user model as seen from the ontology and as seen from the discourse .
+As related from the user model .
+That 's from the user model ,
+somebody else has built this user model .
+It seems like everything in a user model a affects
+Seems like everything in the user model would contribute to whether or not the user was compatible with something .
+we have the user model , the situation model here ,
+
+It 's you took some actions , you spent money and ,
+commercial action inside where people p
+again for this purpose it 's commercial .
+
+w the user was definitely more likely to enter if he 's a local
+if it is exhibiting pictures or sculptures and like this , then it 's more likely to be entered .
+If it 's closed one probably won't enter .
+And also if it 's an expensive place to enter , this may also
+are there are there large things that you would have to pay to get up close to
+almost by definition paying involves entering ,
+
+one of which is just lay out the influence structure of what we think influences what
+so but du we should have all of the basic design of what influences what done before we decide exactly how to compute it .
+So here is the we had that the user 's budget may influence the outcome of decisions .
+let 's first of all let 's see if it does influence anything .
+And if it does influence anything then you 're gonna need something that converts from the number here to something that 's relevant to the decision there .
+but for the moment this is just a node that is conditioned externally and might influence various things .
+So so my advice to do is get this down to what we think is actually likely to be a strong influence .
+
+because this case it 's pretty simple ,
+It 's pretty big .
+It 's probably pretty easy do it to do it in HTML ,
+So as we discussed specifying this thing is a big pain
+
+S so this assumes symmetry and equal weights and all this things , which may or may not be a good assumption ,
+So we 've assumed equal weights
+, I was assuming that 's what we 'd always do
+I was assuming that 's what we 'd always do ,
+
+So let 's think about this question of how do we wanna handle
+One is how do we want to handle the notion of the ontology
+and let 's call these X - one , X - two XN ,
+whereas it might be the case that in certain situations one of the experts is more reliable and in certain situations the other expert is more reliable .
+So the way this is handled is by what 's called a mixture of experts ,
+and what it does is it decides which of the experts is to be trusted in this particular situation .
+that 's determined by what the experts are saying ,
+
+particularly Bhaskara and I were going to try to decide what kinds of belief nodes are needed in order to do what we what we need to do .
+and n it 's not a belief update ,
+so the update of that is gonna have to be essentially external to the belief - net .
+The other thing is that every time that 's updated beliefs will have to be propagated
+but then the question is do you do we wanna propagate beliefs every single time it 's updated or only when we need to ?
+, but the good thing is we could have loopy belief propagation which we all love .
+
+I they 're only there for the day and they don't have a place that they 're staying .
+But the they 're undoubtedly gonna be more things to worry about .
+So we 're deriving this the this feature of whether the main action at this place happens inside or outside or what we 're deriving that from what activity is done there ?
+at a mental level that 's what we 're gonna have to sort out .
+So now we 're looking for user related things that
+we 're gonna have to somehow figure out some way to encapsulate that
+What 's th what we 're talking about is compatibility .
+And anyway we 're gonna have to find some way to cl get this sufficiently simple to make it feasible .
+Each so you 're from each point of view you 're making the same decision .
+S so we 're we 're gonna have to use some t care in the knowledge engineering to not have this explode .
+so , I know we 're going for a rough and ready .
+
+if it 's a running budget so what are the discrete values of a running budget ?
+had values here such as is he s we had in our list we had " Is he staying in our hotel ? " ,
+mmm certainly a place can be a hotel and a famous site .
+It 'll have the EVA values
+, but that doesn't change the fact that you 're you want these two values .
+Alright , but let me let 's stay with this a minute
+i it see i if it 's fou if it 's four things and each of them has four values it turns out to be a big CPT ,
+EV - it 's the EVA .
+So what 's going on is that this H node looks at these four values of those guys
+and it decides in given these values which of these isn't likely to be more reliable or most reliable .
+
+what are what are intermediate things that are worth computing ,
+Why , it 's worth saving this one
+
+an entity maybe should be regard as a vector of several possible things ,
+we have the user interest is a is a vector of five hundred values ,
+it , so it 's like a vector of five hundred one 's or zero 's ?
+So H passes a vector on to the next node ?
+A vector of the weights as the se
+
+is that the object type node ?
+, o open up object type and let 's see what its values are .
+Couldn't you have it as just a primitive feature of the entity ?
+you could have a node that 's that was a measure of the match between the object 's feature , , the match between the object the entity , I 'm and the user .
+
+You 've s have you seen this before Keith , these belief - net things ?
+. So Keith w what 's behind this is actually a program that will once you fill all this in actually s solve your belief - nets for you and .
+this is actually a GUI to a simulator that will if we tell it all the right things we 'll wind up with a functioning belief - net at the other end .
+so that the belief - net itself has properties
+from the belief - net point of view it is
+And belief - nets have their own beliefs about what are good ways to do that .
+d I would almost say the other way to do that would be to open u or make N - many belief - nets
+I have each of these thing each of the end belief - nets be a page and then you click on the thing
+That 's the way belief - nets are defined ,
+
+but then we had this third idea of input from the discourse .
+the fir see the first thing is , getting back to thing we left out of the other is the actual discourse .
+and I why don't we just stick a discourse thing up there to be as a placeholder for
+We we also had discourse features for the endpoint .
+, the idea is that you go there , you go comes from something about the user from something about the situation and the the discourse is a mystery .
+so the semantics that you 'll get out of the discourse will be of values that go into the various discourse - based decision nodes .
+And it there 's a also a split if you loo if you blow this up and look at it in more detail there 's something that comes from the discourse in terms of what was actually just said
+and then what 's the discourse history give us .
+it could be that the discourse gadget itself integrates as
+
+the way we had been designing this , there were three intermediate nodes
+No no , no to an inter no , an intermediate node .
+, , see I 'm I 'm thinking that any node that begins with " Go - there " is either gonna be true or false .
+Also , that node , the Go - there s S node would just be fed by separate ones for
+maybe the t they 're final re and , I the very bottom endpoint decision to the Go - there node .
+Maybe we could have intermediate node that just the Endpoint and the Go - there S node fed into ?
+the Go - there , actually the Endpoint node could feed into the Go - there S
+So recall the basic problem which is that you have a belief - net and you have like a lot of different nodes all contributing to one node .
+
+but it 's much more complex to query when would be the most appropriate time .
+Do I have time to go in and climb all the way to the top of the Koelner Dome or do have to " time to take a picture of the outside ? "
+which would include his money and his time and his energy
+but you it would be great if you could actually just display at a given time all the things that you pick up ,
+and it 's so will take a long time to write down
+
+And and should we say that this interests affects the likelihood of entering ?
+It does matter though if there 's like a strike or riot .
+But that still allows for the possibility of the of the user model affecting our decision about whether a strike is the thing which is going to keep this user away from
+hey there 's a strike on , does that affect whether or not you wanna go
+because if these S have three possibilities each and this has three possibilities then you have two hundred and forty - three possibilities
+
+and then we 'll then we 'll also at some point break and talk about the techy .
+And I 'm we 'll find more as we go that
+You 'll see it you 'll see something comes up immediately , that the reason I wanna do this .
+We 'll d what type of building is it ?
+then we 'll go we 'll go nuts
+wanna , get closure that 'll be the game then ,
+it 's and I don't think it 's gonna g e I don't think it 'll get worse than that ,
+I 'll just refer to this as like X hat ,
+
+these are ju that 's just a point ,
+No , , if you go to re if you go to Prague or whatever one of your key points that you have to do is cross the Charles Bridge
+That also points to entity type I .
+like because if you have everything pointing to one node it 's like exponential
+. So so now the other thing that Bhaskara pointed out is what this says is that there sh should be a link ,
+we 'll have to do layout at some point ,
+So from the point of view of the ob of the entity
+you could have point one , point three , point two , and point four , say .
+one full quarter times point one
+so these numbers have been replaced with point one , point three , point two , and point four .
+
+cuz that 's tempor that varies temporally ,
+cuz you could have outdoor places that sell things
+cuz then we get into huge combinatorics and like that
+that 's tired , fresh ,
+cuz I wanna see if we 're gonna reuse any of this .
+
+but surely the user interests
+Cuz if the , , and if the user is tired , the user state ,
+Or fat user fatigue even .
+The user interests and the user who who the user is are completely apart from the fact whether he is tired broke
+I maybe I 'm conflating that user node with possible asking of the user
+like consider endpoint view , it has inputs coming from user budget , user thrift
+actually with the underlying semantics and it isn't like you have two hundred and fifty - six different ways of thinking about whether this user wants to go to some place .
+
+they 'll be some system which is able to take the discourse in context and have outputs that can feed the rest of belief - net .
+it 's it 's not beyond what the system could solve
+W I was just , if you wanted to pay attention to more than one you could pass a w a weighting s system though too ,
+is there gonna be data soon from what people say when they 're interacting with the system and so on ?
+and , one might be f fairly pleased with getting a really good analysis of five maybe ten in a summer
+
+but the part the good part is walking over it ,
+and then again as part of the ou outer controlling conditioning of this thing those would be set ,
+That 's the p part of the idea , is
+
+, , in Srini 's thing there was this thing there was this option like proper inferences which suggests that doesn't happen , automatically .
+and what 's the best way to organize this so that it 's clean and consistent and all that .
+Just as a suggestion maybe you could " save as " to keep your old one and clean
+But What I was gonna suggest next is maybe we wanna work on this a little longer
+anyway I let me consi suggest that 's a s not a first - order consideration ,
+So what I , what Jerry suggested earlier was that we , view these guys as voting
+
+I 'm just thinking about how people , human beings who know about places and places to go and so on would store this
+if he 's usi if he 's in a car right now
+people with Harry drove the car into the cafe
+we need data with people intentions ,
+
+one of the we w items for the user home base should be essentially non - local .
+Isn't there a " save as " inside of java base ?
+, , it might soon , if this is gonna be used in a serious way like java base then it might soon be necessary to start modifying it for our purposes .
+and in that case we 'll have to just write up little things that allow you to create such CPU 's on your own in the java base format .
+in terms of java base it 's what you see is what you get in
+
+so if there 's some general notion of the relation to the time to do this to the amount of time the guy has like that is the compatibility with his current state ,
+so it could be compatibility with his current state
+So that if you have this idea of the compatibility with the requirements of an action to the state of the user one could imagine that was u
+Maybe should be renamed into physical state .
+It 's hard for me to imagine how everything wouldn't just contribute to user state again .
+, but other though the node we 're creating right now is user compatibility to the current action ,
+
+and then we had the fact that given the fact that he 's thrifty and there will be admission then we get all these cross
+Gothic churches versus Baroque townhouses versus
+but it 's probably beyond what we could actually write down . or learn .
+So we just have to figure out what the regularities are and code them .
+OK , so they could either be hand coded or learned or
+
+the notion was that if you had a few key properties like is this a tourist site , some landmark
+if it 's exhibiting itself it is a landmark ,
+Things can be generally a landmark and be accessible .
+or can be a landmark a or not accessible , some statue
+
+and the properties are filled in from on ontology items .
+so that some somehow someone would find this word , look it up in the ontology , pull out these properties , put it into the belief - net , and then the decision would flow .
+so and we assume that some of these properties would come indirectly through an ontology ,
+I we 're gonna wind up pulling out discourse properties like we have object properties
+the ontology we said we would pull these various kinds of properties from the ontology like exhibiting , selling , and .
+
+if it 's fixing things selling things , or servicing things
+is that you want an intermediate structure which i is essentially the or of for this purpose of selling , f fixing , or servicing .
+ser s selling , fixing , and servicing .
+So are they the is it the object that sells , fixes , or services things ?
+So places that service things sell things or fix things and pe places that e exhibit things .
+and it would probably you wouldn't just remember that they sell and then deduce from that it must be going on inside .
+it can either do s do sell things , fix things , service things , exhibit things , it can be a landmark at the same time as doing these things ,
+
+and then what you and I have to talk about is , OK if we 're doing that and they get combined somehow how do they get combined ?
+and create , sorta weighted combination .
+All of their outputs combined to make a decision .
+So what we don't wanna do is to for every single combination of E and V and A and every single letter E , s give a number
+
+And so I 've tried to come up with some initial things one could observe
+, you 've written in you 've written in what seems to be required
+Seems to me that we 've e embedded a lot , embedded a lot of these things we had in there previously in in some of the other final decisions done here ,
+OK , you 've got a signal , a d set of decisions
+that you 'd have to do see in order to do reference and like that you 've gotta have both the current discourse and the context to say I wanna go back there ,
+so currently we 've been giving them all weight one fourth
+So the next possibility is that we 've given just a single weight to each expert ,
+It it just seems that like without that outside input that you 've got a situation where , , like if X - one says no ,
+
+and then as a separate but related task
+there was a decision with the same three outcomes based on the th those three separate considerations
+not only is it sim is it cleaner to compute it separately but it could be that it 's used in multiple places .
+And now some of those will get fancier like mode of transportation and
+, you would say , based on in this dialogue that we have which one of the things that they said whether it was the entity relations or whatever was the thing that determined what mode it was ,
+
+Given given not transverse the castle , the decision is does the person want to go there or is it just
+because , it might be easy to figure out that this person is going to need more film eventually from their utterance
+the finance is here thought of as the financial policy a person carries out in his life ,
+So that 's w in our in Johno 's pictogram everything that could contribute to whether a person wants to enter , view , or approach something .
+If the if the person talking is angry or slurs their speech they might be tired or ,
+Or if it 's not accessible to a tourist ever the likelihood of that person actually wanting to enter it ,
+and Johno has committed himself to being the parser wizard ,
+whereas it might turn out that , some w be that , what the the actual the verbal content of what the person said , like what what might be somehow more important than the
+
+, the problem with it is that it putting in a feature just for one decision ,
+, just seems like it 'd push the problem back a level .
+But trying to formulate the conditional question , that sounds too much .
+So the problem is to specify the so the conditional property of this given all those ,
+
+was to at spend at least part of the time trying to build the influence links ,
+
+and we want it to be a valid probability distribution ,
+so we could say that the probabilities are , , probability of being E is one over four , because one person voted for E out of four
+And in order for this to be a valid probability distribution for each X - hat , we just need that the W 's sum to one .
+so it 'd be so in this case the probability that Y equals A would be W one times
+
+what does the underscore - T at the end of each of those things signify ?
+i endpoint , e end poi
+
+Can I ask about " slurred " and " angry " as inputs to this ?
+So so the function of the thing that comes out of H is very different from the function of the other inputs .
+Does H have to have another input to tell it alpha , beta , whatever , or is the
+
+Alright , so I 'm - I should read all of these numbers ?
+How can I write here that this is something , a number that cr keeps on changing ?
+Is this like a number that represents how much money they have left to spend ?
+So H produces some , it produces a number ,
+
+he is he cheap , average , or spendy ?
+OK , think of people being cheap , average , or spendy or we can even have a finer scale moderately cheap ,
+So I jus just to make I understand this , so in this case we would still compute the average ?
+You 'd compute the weighted average ,
+

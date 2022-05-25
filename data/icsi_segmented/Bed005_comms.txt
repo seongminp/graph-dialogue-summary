@@ -1,0 +1,427 @@
+, there 's this huge package which may or may not be consistent
+Let 's see if there 's another package that 's , , more civilized about this . "
+and is a it 's , it 's huge ,
+I don't think , the fact that it blown u blows up is a huge issue in the sense that
+
+But other than that , that 's one 's been approved ,
+, it just automatically initializes things that are common , right ?
+And this is what it is the structure of Map requests ,
+But it seems to me it 's probably a good idea to li minimize the number of , change requests we make of them .
+and what do we want to request now that 's leave enough space to do all that ?
+And so that sounds like a great thing to do as the priority item
+And it 's it 's not a great estimate ,
+
+What we think is gonna happen is that , , in parallel starting about now we 're gonna get Fey to , where you 're working with me and Robert , draft a note that we 're gonna send out to various CogSci c and other classes saying , " here 's an opportunity to be a subject .
+In parallel with that , we 're gonna need to actually do the script .
+It 's it 's the It 's under what sub - type you 're doing it .
+It you 're you 're doing the interaction
+and , what is it that they 're actually dealing with in the world ?
+, we 're gonna have a short discourse
+Th - there 's no reason why we 're c we 're constrained to do that .
+OK ? Th - that 's what they 're real good at .
+because they 're having really trouble getting the upper level straight ,
+
+pre - school parents and .
+We also considered using the Berkeley High School and their teachers , maybe ,
+, . The high school 's a great idea .
+That 's why they invented " pocket T 's " .
+we definitely it 's a great idea tha to pursue that .
+
+, you mean that 's not going to actually modify the tree ,
+so , you you may or So , then you 'd have this little vector of , , , Approach Mode or EVA Mode .
+Let 's OK , so we have the EVA vector for various kinds of landmarks .
+It 's part of what about a an object , is its EVA vector .
+So we 'd have our own little , , EVA tree .
+If it 's that type of thing , and we want its EVA vector , pppt - pppt ! it 's that . "
+
+Actually , it 's a little tricky , in that there 's some allowable German orders which aren't allowable English orders and .
+And one of our jobs was to make the English equivalent of that .
+, but again , there 's one module in which there 's one piece that we have to convert to English .
+, I say that 's one way to do it , is to just convert it int into a into a C P T that you zip
+
+So , that 's a very pretty relationship between these local vectors and the ontology .
+, th the first , they had to make a design question , " do we take ontologies that have instances ?
+But SmartKom 's gonna need an ontology .
+
+If if you 'd add Today and Evening , it 'll add Time or not .
+So , . I definitely think it 's It 's worth the exercise of trying to actually add something that isn't there .
+Then the next thing we talked about is actually , , figuring out how to add our own tags , and like that .
+And also , , since you had suggested that , , we figure out if we ever , for a demo reason , wanted to shortcut directly to the g GIS and the Planner ,
+But we would rather , , try to figure out what 's what 's ,
+and you 'd add up the total evidence for " V " , " E " , and " A " .
+We 're gonna need some way to either get a p tag in the ontology , or add fields ,
+
+OK . , let 's hope that the generation will not be more difficult ,
+With sugge , suggested improvements
+So , at least unless somebody else wants t to suggest otherwise the general domain we don't have t to , broaden .
+let 's say that by the end of spring break , I 'll try to come up with some general story about , , construction grammar ,
+And then there 's a language generator ,
+and then after that a s a synthesizer that goes from an XML structure to , , language generation , to actual specifications for a synthesizer .
+and that 's that 's wh where it gets difficult .
+
+And that 's that 's the next step ,
+there were other actions , that s seemed to step state variables somewhere ,
+It seemed to me that this m way of doing it is a stack a step backwards from the way we 've done it before .
+and if we want to answer a question on that , we actually have to go one step before that , and understand that .
+
+, where it actually produces the XML out of the , , parsed .
+That 's just a specification for the XML format .
+That function automatically generates an initialized XML structure ?
+each of those functions act on the current XML structure , and change it in some way , , by adding a l a field to it , .
+cuz it may be that all those th things , while they look like function calls , are just a way of adding exactly that to the XML .
+So , it 's not just that it 's adding that field .
+which , in German , , takes these t sentence templates and produces XML structures .
+The other thing is , at the other end , roughly at the same level , there 's something that takes , , X M L structures , produces an output XML structure
+
+But all the rest is p simply frosting on the cake ,
+So that 's the main purpose . Alright .
+So when it encounts encounters " Day " , it will , ,
+There 's there 's not seven committees , or anything , right ?
+Or the re the restaurant where they wear lederhosen ?
+Whether it 's abstracts or newspapers and like this .
+So once that 's done , then all the rest of it is , , , , what we want to do for the research .
+If we can use all the , , execution engines , then we can , , really {nonvocalsound} try things that would be too much pain to do ourselves .
+There 's just quadruplets of , N - duplets of , , E Vs .
+And we don't want to write this down necessarily every time for something
+Cuz , they have instances all the time .
+
+where y where you end , and some points of interest along the way .
+how get getting to vista points and calculating those on the spot .
+Wherever you 'll find a route planner it n does nothing but get to the closest point where the street network is at minimal distance to the geometric center .
+, at some point we 're going to have to worry about the language end .
+and they want to approach it probability point one , say
+. OK , so th so the important point is W not what the G function is .
+The important point is that There is a a general idea of shortcutting the full CPT .
+Nancy , I 'm you read it at some point in life .
+but what seemed attractive to me in im in the last discussion we had , was that we find out a means of getting these point four , point five , point one , of C - four ,
+and if it 's a garden , it 's point three , point four , point two .
+If it 's a castle , it 's point eight , point one .
+If it 's , , a town hall , it 's point two , point three , point five .
+cuz there 's not There 's a pretty point about this we might as get in right now .
+But , at that point you may say , " hey , Java Bayes isn't the only package in town .
+
+So this sentence is parses the p the same output ,
+What 's an idiomatic of phrasing this ?
+I changed that file , actually , where it 's on my account .
+, I changed those sentences to make it , , more , , idiomatic .
+And , , you can have i many variations in those sentences , they will still parse fine .
+I had to change , @ @ " Spielfilm " to " film " ,
+And the next thing I would like to be able to do , and it seems like this would not be too difficult either , is to say , " OK let 's now pretend we actually wanted to not only change the mapping of , , words to the M - three - L but we also wanted to change add a new sentence type
+This is what you would need to change to get the , , XML changed .
+but it 's going to change the event .
+Here , we change and so , we Here we add something to the Discourse - Status , that the user wants to change something that was done before
+
+But the whole i is it is it really relevant that we are dealing mostly with , , questions ?
+, , we could take all the standard metaphor examples and make question versions of them .
+One of the questions just come at Bhaskara is , " How much of this does JavaBayes support ? "
+But , anyway , s skipping the question of exactly which functions
+Wha - still leaves one question .
+That 's that 's al different question .
+That 's the question is " to what extent does it allow us to put in these G functions ? "
+
+So these are these are your friends back at EML .
+I 'd be s I 'd be surprised at
+- he you are not , , throwing , carrying owls to Athens .
+so , probably let 's put that off till I till I understand better , , what he 's doing .
+The reason is , given the craw bet , the the projects that all carry their own taxonomy and , on all history , they 're really trying to build one top level ontology ft that covers all the EML projects ,
+That 's more something that I kicked loose in EML .
+So it 's a completely EML thing .
+
+Given N - nodes , and furthermore , the fact that there 's three things here , we need to specify " three times " , , " two to the N " probabilities .
+And , that 's a lot of probabilities to put here , which is a pain .
+W The this would just represent the probability distribution of this ,
+So , , if it is a landmark , and no none of the other things really ap applicable , then this would represent the probability distribution .
+They want to enter it with probability , with probability point five
+, hash on object name to , , , the probabilities or whatever .
+
+and if you anything except that it 's a b it 's it 's a building , then up at the highest thing , you have the pr what amounts to a prior .
+If you anything else about a building , , you just take whatever your crude approximation is up at that level ,
+we may have to build another data stru
+So we build a little data structure
+
+I the good news of last week was the parser .
+Bhaskara and I started working on the parser .
+And , and now it 's We have a complete English parser that does everything the German parser does .
+And , , the reason was that the parser i c completely ignores the verb .
+and it 's optional for that parser .
+, are they present in the code for the parser ?
+there 's a , , quote parser ,
+
+. it 's just that the goals are g very different to cases
+Like , let 's just look at the case when , , this is actually the final action , right ?
+in which case we could , , say , , " Morning , afternoon , evening , night " .
+So maybe in this case Maybe we just t k Maybe we decide that , if the thing 's a landmark and we anything else , then we 're gonna conclude that , They want to view it with probability , , point four .
+Which y w you choose appropriately for each case .
+So , specifically in this case you have to f have this many numbers ,
+but in any case i View it logically as being in the ontology .
+And so what we would do in that case , is , in our instance gadget have our E V
+
+Anyway . So , , before we get started with the , , technical part , want to review what is happening with the our data collection .
+There 's one tricky part about ,
+, this has been a a Deep Map research issue that was is part of the unresolved , and to - do 's , and something for the future , is how can we run our text , our content , through a machine that will enable us , later , to retrieve or answer e questions more sensibly ?
+And much more interesting is the fact that , as part of doing this , we are , , inheriting this system that does all these other things .
+But , I It 's not only Is Part of what I haven't figured out yet is how all this goes together .
+If we get the mechanism , that will be the wonderful part .
+
+Now , we hav the whole Unfortunately , the whole database is , , in German .
+but , just to get from Powder - Tower to an object I ID in a database is also not really trivial .
+Or or if you take something even more scary , , " how do I get to the third building after the Tower ?
+the Ple - Powder - Tower ? "
+O or tower , or this tower , or that building , or
+It 's a pui it 's actually one of the examples he 's got in there .
+and I will show you what 's what some examples from that for towers , and .
+
+it 's actually That looks like it 's state modification .
+You bury the s the state in the function
+Now , what 's the state of the art of getting to entrances ,
+, actually , the idea , first of all , is that each of these things has a quote - unquote distinguished state ,
+So , , if we don't really know if a landmark or not , Or , i if that just doesn't seem relevant , then that would be th the Disting - the Distinguish state .
+, if they didn't talk about it , that would be the Distinguish state .
+So The idea is that , each of these EI is represents what this would be if all the other ones were in the distinguish state . Right ?
+
+, so what I 'd like to do is also have our subjects sign a waiver saying " I don't want to see the final transcript " .
+And if they don't If they say " no , I 'm not willing to sign that " , then we 'll show them the final transcript .
+But anyway . I 'd I 'd like to , e , add an a little thi a thing for them to initial , saying " nah , do I don't want to see the final transcript . "
+It 's mystery functions .
+And the final thing is that , this is a deterministic function of these ,
+So , depending on what your situation is , there are different functions which are most appropriate .
+{nonvocalsound} The so what we want , is JavaBayes to support deterministic , , functions .
+One thing you could do , which is s in a way , stupid , is take this deterministic function , and use it to build the CPT .
+It said , " Here 's the way you 'd take the logical f G function and turn it into a CPT . "
+
+It 's a design thing , not a political thing .
+, what I my feeling was we reserved something that has a r an OK label .
+The problem isn't the short ra range optimization .
+There 's this whole framework problem that I 'm feeling really uncomfortable about .
+So we had this problem last year when we first thought about this domain , actually ,
+And we can w we can do all sorts of things that don't fit into their framework .
+because that might be a good , , architecture to have , in general for , , problems with , , multiple inputs to a node .
+And the , , problem that we were having was that , , given N - nodes , there 's " two to the N "
+But the other problem is , how do you fill in all these numbers ?
+It 's a political problem .
+
+So Noisy - ORs are a way to , , deal with this .
+So , " Noisy - OR " is a funny way of referring to this ,
+it 's a Noisy - arg - max or a Noisy - whatever .
+, like the Noisy - OR function , really is one that 's essentially says , , take the max .
+
+which is we gonna check out our social infrastructures for possible subjects .
+So , if you happen to be in a non - student social setting ,
+I The last paragraph " if you agree to participate you have the opportunity to have anything excised which you would prefer not to have included in the data set . "
+it 's it 's actually a set ,
+and knights jumping out of windows ,
+
+like the n s " Discourse Status Confirm " .
+OK . So that 's going to be a call on the discourse
+There is a feature called " Discourse - Status " ,
+Now , if we know that " Write " produces a " Feature Discourse - Status Confirm Discourse - Status " .
+And th the their discourse patterns probably {nonvocalsound} don't follo follow quite as many logical connec
+I if it 's a a discar Discourse Initial Phrase , we will have nothing in the discourse history .
+So , if you don't have any information about the discourse , you just use your priors of whatever the discourse
+
+and we 'll bring in people .
+OK . So , we 're looking for a total of fifty people ,
+And other people ignore those tags .
+But , i depending on what people are interested in , one could have , , tours ,
+And , again , it 's just a question of which of these things , , people want to dive into .
+Something , , maybe we should address one of these days , is to That most of the work people actually always do is look at some statements ,
+And , I thi that 's the standard way people get around the
+When we see what people have done , it may turn out that the easiest thing to do is to build a separate thing that just pools i
+
+and , what I sent out about a week ago , was an idea of how to do that , for , , evidence combination .
+So one of one function that you could use as your " G function " is an e Evidence - Combining .
+, if y if you decide what 's what is appropriate , is probablistic evidence combination , you can write a function that does it .
+With the neural net , right , , things come in , you have a function that combines them
+And then But , the combination functions , and whether we can put those in Java Bayes , and all that , is , is the bigger deal .
+cuz he said that he actually did hack some combining functions into
+I don't see why the , , combining f functions have to be directly hacked into
+that the Max - the Evidence - Combining function .
+
+So it really is key word matching , .
+I 've got a couple new Wu papers as .
+That 's just what they the word they used in that paper .
+So , this is the Heckerman paper you 're working with ?
+So I gave Bhaskara a copy of this , " ninety - two " paper .
+it 's Heckerman and Breese .
+Anyway . So the paper isn't th isn't real hard .
+, you 'll make a couple of more copies of the Heckerman paper to give to people ?
+
+We have @ @ simple " from objects " and " to objects " and ,
+and every step has a " from object " where you start , a " to object "
+So , it 's a relational database with persons , events , and , , objects .
+not because , , A is a Landmark or not , but we we label this whatever object type ,
+We know we have twenty object types
+And , if yo As I say , if about a specific object , you put it there .
+OK . So , th it will know about the twenty object types there are in the world .
+Let 's assume there are only twenty object types in this world .
+
+And , so , I there 's a plan to have a meeting Friday afternoon , with , Jane , and maybe Liz and whoever , on actually getting the script worked out .
+And I who 's mok working most closely on it .
+and they or may not be following some larger plan , , that we have to recognize or , , infer .
+is in this over - arching story we worked it out for th as you say , this the storytelling scenario .
+if it 's closed or not , at the moment .
+But he doesn't remember at least when I talked to him , he didn't remember whether it was an e an easy thing , a natural thing , or whether he had to do some violence to it to make it work .
+
+So that 's as far as our brainstorming was concerned .
+So , in a sense it 's pretty broad .
+And this is It seems to me that we should maybe at least spend a session or brainstorm a little bit about whether that l this is special case in that sense .
+Did we ever find m metaphorical use in questions in that sense , really ?
+And , In a sense it sup we can make it supported by , , manually , , entering , , probabilities that are one and zeros , right ?
+, in some it seems very plausible in some sense , where we will be likely to not be observe some of the .
+in the sense that , m the guy who was doing the ontology , s ap apologized that i it will take him another through two to three days
+So , in a sense , " I " used as Institutions for some s in some sense or the other .
+
+The week after that 's Spring Break ,
+. Also , Fey will not be here during spring break .
+, or , . " Wh - why is he why is he pushing for promotion ? "
+or , " who 's pushing proof "
+, so I 've been in contact with Wu ,
+So , I will , e before next week , , @ @ p push some more on this that Dekai Wu did ,
+
+Are we Have we concurred that , , these forms are sufficient for us , and necessary ?
+, " on the same form , we need a separate form . "
+And , again , this is li in the databa this is also pretty formed
+So I don't I don't think , , it 's difficult , to convert them to question forms that really exist and people say all the time ,
+We how to handle the declarative forms , @ @ really ,
+, so there 's there 's two separate things , Robert .
+I was thinking maybe we should just cough into the microphone and see if they can't th see if they can handle it .
+
+It has these style sheets and also the , , schemata .
+but let me say that , suppose someone mentioned , , admission fees
+It 's a really , , if there is something for the person talking about the admission fee ,
+It you can always see easily that I 'm not grasping everything correctly ,
+and that 's , , a tough cookie ,
+
+But what I 'd like to do , if it 's O K , is to s to , as I say , start the recruiting in parallel and possibly start running subjects next week .
+, w We d The first we did is we tried to do change the " laufen " into " run " , or " running " , or " runs " .
+And it and it runs around looking for Discourse Status tags ,
+and then run your own write your own function that would take the output of those four ,
+
+Or , , the church across from City Hall ,
+So that , if about it let 's say , a particular town hall that , it 's one that is a monument , then , that would be stored there .
+what I don't think is ever going to be in the ontology , is , , the likelihood of , , people entering r town halls , and looking at town halls , and approaching town halls ,
+So , there will be nothing on that town hall , or on the Berkeley town hall , or on the Heidelberg town hall ,
+it 'll just be information on town halls .
+
+except that it has some references to audio - visual media here .
+if there 's any important issue that
+but , , more generally the , this whole issue of , , referring expressions ,
+All the entities do have concrete reference .
+
+w c sh should we move on to the technical sides ?
+what is the basic thing that you are , , obligated to do , , , by the summer before w y c we can move
+that 's where we have to get technically clever .
+
+Th - this is s should be im it isn't There 's another thing going on of gathering data ,
+They 're also gonna translate the , , German data from the TV and cinema for Andreas .
+We have just commissioned someone to translate some bits of it ,
+Right . Cuz for a while we were thinking , " , how can we change the , , data to illicit tha illicit , , actions that are more like what we are used to ? "
+So , you don't need da data enough to cover , nearly as much .
+and i it expects its data structures to be in a given form ,
+and if you say , " hey , we 're gonna make a different data structure to stick in there "
+but it doesn't require any data fitting or complication .
+
+And then there 'll be a certain number of , hours during the week which she will be available
+but we 'll s we 'll start with that .
+and maybe we 'll look for them some subjects next door
+So I 'll dig up some more from Dekai .
+. A are you saying that we 'll not be able to observe certain nodes ?
+, in the beginning , we 'll write up a flat file .
+and we 'll write it down in a flat file .
+OK . And I 'll I 'll think s through this , , getting EVA vectors dynamically out of ontologies one more time
+
+What w I was missing here , and , maybe it was just me being too stupid , is , I didn't get the notion of the global goal of the whole route .
+And if we get something in there that is a structure elaborate and and complex enough to to maybe enable a whole simulation , one of these days , that would be u the perfect goal .
+this XML here just has to do with Source - Path - Goal type ,
+. It 's beyond Source - Path - Goal ,
+
+. These are the the ten different sentence types that the the parser was able to do .
+And , so , since the d decision was on types , on a d simply type - based , we now have to hook it up to instances .
+w That we have to build our own instance , , things , that , with their types ,
+So , we 'd have our own little things so that whenever we needed one , we 'd just use the ontology to get the type ,
+
+Meaning , , kid children 's gymnastic classes ,
+Then Bhaskara went to class and once he came back , , it was finished .
+activate those h classes in the in the XML
+, a kid understanding what 's going on .
+OK . What are the thl class of things we think we might try to do in a year or two ?
+But for the moment just , t for this class of things , we might want to try to encompass .
+We could just steal the classes in JavaBayes and then interface to them with our own code .
+That requires understanding the classes in JavaBayes , I . @ @ .
+
+but it was about an hour and ten minutes .
+that means we may need two hours and twenty minutes rather than an hour ten minutes ,
+Or , , we need and if we ' r take a ten year perspective , we need to do that ,
+So there 's , like , the , ten , f ten , fifteen , , things .
+
+And the value of the score is , v I assume , I , the more of these optional things that are actually in there , the higher the r score it is .
+So , if we want to turn it into u understan standing stories about Heidelberg , we can do that .
+e w a Assuming we have this , , we ta in that case we actually do have these wonderful stories , and historical anecdotes ,
+That 's assuming these are all binary , which f they may not be .
+assuming that this cue is turned on and the other ones just didn't apply ?
+
+those functions " Action " , " Goodbye " , and so on , right ?
+You mean , where the where the act how the action " Goodbye " maps into something
+Goodbye , causes it to c to create an " Action Goodbye - End - Action " .
+because how does it know to put Goodbye in Content , but , , Confirm in Features ?
+
+. So it doe I it These u these optional elements ,
+And every element of that e r f of that Every segment we call a " route element " .
+No matter how we want to call it , this is our playground .
+and this is a certain effect that we 'd like to conclude .
+So , the idea is that , , Let 's call these , , C - one , C - two , C - three , and C - four , and E , for and Effect , I .
+The idea is to have these intermediate nodes .
+So , the idea is that , , you have these intermediate nodes , right ?
+
+Which is a means of telling the system to shut down .
+So , this tells us that whatever is has the ID " zero " is referenced here by @ @ the restriction seed
+There aren't really deep mysteries about , what w what things the system knows about .
+there 's a particular piece of this big system ,
+
+Help you create a mental model , blah - blah .
+Th - c the full conditional probability table with some function .
+So you just take the , if each of th if each of the ones has its own little table like that , then you could take the , , strength of each of those , times its little table ,
+now is it clear that you might like to be able to shortcut the whole conditional probability table .
+, they 're used to create tables
+so we can just make our own little functions that create tables in XML .
+
+, y you guys started fighting , , on the Bayes - net " Noisy - OR " front ?
+So , Recall that , , we want to have this structure in our Bayes - nets .
+So , really , i What a A Noisy - OR seems to " neural - net - acize " these Bayes - nets ?
+It is a is also more neural - net - like , although , it isn't necessarily sum , s , sum of weights or anything like that .
+So you could have four different Bayes - nets that you 're running ,
+, then you 'd have to break all of your Bayes - nets into smaller Bayes - nets ,
+
+So it 's feature film and TV .
+so if I do this now , , you can see that it parsed the wonderful English sentence , " Which films are on the cinema today evening ? "
+It could be " this evening , which films are on the cinema " ,
+, " today evening " , i " Is anything happening in the cinema this evening ? "
+Are pl playing at the cinema ?
+cinem " Kino " to " cinema "
+to " today " heu " heute " to " today " ,
+evening " Abend " to " evening "
+
+if you want to , push us into reference problems , that would be great .
+because the reference problem really is not trivial , even if you have such a g - defined world .
+
+It seems to me we can get all the complexity we want in actions and in language without going outside of tourists in Heidelberg .
+to the complexity you can build into the , what a tourist in Heidelberg might ask .
+
+In order to e do sensible information extraction .
+Cuz we don't have the a access to the information .
+The f the the Bayes - nets in general are quite good at saying , " if you have no current information about this variable just take the prior for that . "
+
+is one , , Also allocating , , some tags for our Action Schema Enter - Vista - Approach ,
+And the Approach mode , anyhow , is the default .
+Then the scope of this is beyond Approach and Vis - or Vista .
+Enter , V View , Approach , right ?
+
+So , you can sho You you Are are you gonna show us the little templates ?
+. We ar we can sh er show you the templates .
+So , if you want to look at the templates , they 're conveniently located in a file , " template " .
+
+tu , tur change the description to , , English
+And you have both proper names and descriptions
+You have proper names , and descriptions .
+IE the e the shortest k the more general descriptions of all the objects and , , persons and events .
+

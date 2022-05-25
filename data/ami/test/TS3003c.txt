@@ -1,0 +1,333 @@
+A	24.25	this is our third meeting already .	opening
+A	28.37	hope you enjoyed your lunch .	opening
+A	43.09	this is the second phase we're going to discuss today .	opening
+A	48.44	it's the conceptual design meeting .	opening
+A	51.62	and few points of interest in this meeting are the conceptual specification of components .	opening
+A	61.25	conceptual specification of design .	opening
+A	64.1	and also trend-watching .	opening
+A	66.22	these are hopefully the points you addressed in your pre presentations you're going to show me in few minutes .	opening
+A	77.08	but first i'll show you the agenda .	opening
+A	82.15	first the opening .	opening
+A	84.04	then we have three presentations .	opening
+A	86.21	after that we have to come to decision on remote control concepts .	opening
+A	91.42	how we're going to make it .	opening
+A	93.83	and then we're closing .	opening
+A	96.0	we have about forty minutes .	opening
+A	99.11	so suggest let's get started .	opening
+A	102.21	did someone encounter any problems during the preparation ?	opening
+A	114.8	then little thing about the last meeting .	opening
+A	121.77	these are the points we on .	opening
+A	124.69	the requirements and the target market .	opening
+A	127.58	requirements are teletext , docking station , audio signal , small screen , with some extras that button information .	opening
+A	137.69	and we are going to use default materials .	opening
+A	141.37	does somebody have any comments on these requirements ?	opening
+A	148.52	these are just the the things we thought of , so maybe if you figured something else or thought of something else , just let me know .	opening
+A	156.11	and maybe we can work it out .	opening
+A	158.44	and we're going to target sixty to to eighty year old customers .	opening
+A	165.11	so now everybody knows what we're do we're doing , suggest let's get started with the presentations .	opening
+A	175.32	so shall we keep the same line-up as last time ?	opening
+D	181.91	i'll start off then .	opening
+D	203.97	'kay i'm gonna inform you about the trend-watching i've done over the past few days .	trendwatching
+D	209.95	we've done some market research .	trendwatching
+D	212.24	we distributed some more enquetes , questionnaires .	trendwatching
+D	216.7	and besides that deployed some trend-watchers to milan and paris to get all of the newest trends .	trendwatching
+D	227.28	and i've consulted some additional trend-watch trend-watchers , after the original trend-watchers return , about what the the best design would be .	trendwatching
+D	240.88	these are some overall findings .	trendwatching
+D	245.09	most important thing is the fancy design .	trendwatching
+D	249.6	the research indicated that that was by far the most important factor .	trendwatching
+D	255.1	innovativeness was about half as important as the fancy design .	trendwatching
+D	262.39	by innovativeness this means functions which are not featured in other remote controls .	trendwatching
+D	268.97	about half of , half as important as the innovativeness was the was easy to use .	trendwatching
+D	278.4	for our group , we're focusing on the people of sixty to eighty years old , this is , these factors are slightly more equal .	trendwatching
+D	295.07	'kay these are some more group specific findings .	trendwatching
+D	298.3	the older people prefer dark colours .	trendwatching
+D	301.02	they like recognisable shapes , and familiar material .	trendwatching
+D	305.33	and our surveys have indicated that especially wood is the material for older people .	trendwatching
+D	316.34	this is , this image will give you little bit of an impression about the look-and-feel that the remote should have .	trendwatching
+D	331.07	this leads us to some personal preferences .	look and usability
+D	335.2	the remote control and the docking station should blend in in the in the room .	look and usability
+D	342.26	so this would mean no eye-catching designs .	look and usability
+D	347.97	just keep it simple and the docking station and small screen would be our main points of interest , because this would be the these would be the innovativeness in the remote control .	look and usability
+D	363.93	so this would be very important that we at least include these features .	look and usability
+D	368.96	the trend-watchers consulted advised that it should be , the remote control and the docking station should be telephone-shaped .	trendwatching
+D	379.01	so you could imagine that the remote control will be standing up straight in the docking station .	trendwatching
+D	385.5	this is not really this is new shape to older people .	trendwatching
+D	390.85	so they would prefer design where the remote control just lies flat in the docking station .	trendwatching
+D	399.58	so it would be kinda more telephone-shaped .	trendwatching
+D	402.66	besides that we would advise to bring two editions , one with wood-like colour and maybe feel , and one with grey-black colour .	look and usability
+D	413.14	the wood-like for the more exclusive people .	look and usability
+D	418.09	people with more money .	look and usability
+D	419.98	the grey-black colour for people with less means .	look and usability
+D	430.97	that would be all .	marketing expert presentation
+A	434.95	any questions about the the trends ?	marketing expert presentation
+A	442.22	we go on to the next one .	interface specialist presentation
+B	468.2	some research about designing of an interface .	look and usability
+B	472.37	the last meeting we had about using few buttons .	look and usability
+B	479.69	so that's what what want to to do in our design .	look and usability
+B	490.88	so finding an attractive way to control the remote control .	look and usability
+B	496.75	the found some something about speech recognition .	look and usability
+B	504.06	so maybe we can use that .	look and usability
+B	507.25	and using little display .	look and usability
+B	515.84	just we have just to focus on the primary functions .	look and usability
+B	522.8	so only buttons for sound , for on-off , shifting up sa ca channel or down shifting down .	look and usability
+B	537.94	and we need some new attractive functions which attract people for using it .	look and usability
+B	550.76	so it's like speak speech recognition and special button for selecting subtitles .	look and usability
+B	559.05	just what we mentioned last meeting .	look and usability
+B	563.4	and overall user-friendly .	look and usability
+B	567.36	so using large large buttons .	look and usability
+B	570.8	it's possible to to make quite cheap system for speech recognition .	look and usability
+B	581.27	you can think about when you lost your remote control , you can call it and it gives an sig signal .	look and usability
+B	593.56	and and for shifting up sen ch channel or for putting out sound , you can just give sign say sound off or and .	look and usability
+B	612.48	television put the sound off put the sound off .	look and usability
+B	621.07	was thinking about the special button for subtitles , just one button to keep it simple .	look and usability
+B	627.55	one push on the button you get small subtitles .	look and usability
+B	632.53	double push push , if double click , so you get big subtitles , for people which who can't read small subtitles .	look and usability
+B	649.65	so and we have to keep in general buttons so we've got the buttons we have to use .	look and usability
+B	659.77	the on-off , sound on-off , sound higher or lower , the numbers , zero to nine .	look and usability
+B	667.22	the general buttons more general one button for shifting up and shifting down channel .	look and usability
+B	674.99	also we want to use little display for for displaying the the functions of the buttons .	look and usability
+B	686.09	and we can build in function which shows the channel or some which the television is on .	look and usability
+B	695.46	so made little picture of it .	look and usability
+B	712.19	just we can put the on-off button over in this corner , almost all remote controls are using on-off button on that place .	look and usability
+B	725.71	so people will recognise the button .	look and usability
+B	732.71	so display of it , it's just small display .	look and usability
+B	740.43	you can put it on top .	look and usability
+B	743.12	it's most place where people , most of looks at .	look and usability
+B	751.99	so and special button for shifting up and shifting down channel , it's on place where the thumb of of the so you you can easily shift up or shift down .	look and usability
+B	770.38	it's quite handy place .	look and usability
+B	776.23	so and all the functions for subtitle one button , for sound and for our design , we have to discuss about it so the form of it so and that's it .	interface specialist presentation look and usability
+C	814.38	about the components design .	industrial designer presentation
+C	816.73	for the energy source we can use basic battery or , as an optional thing , kinetic energy , like in watch , which you just shake and it produces energy .	industrial designer presentation
+C	828.29	but if we choose for that option , the docking station would become obsolete .	industrial designer presentation
+C	833.6	so don't t's really an option .	industrial designer presentation
+C	836.87	for the casing , the manufacturing department can deliver flat casing , single or double curved casing .	industrial designer presentation
+C	845.83	it's really up the the design that we're gonna use .	industrial designer presentation
+C	848.59	it's doesn't imply any technical restrictions .	industrial designer presentation
+C	854.24	as case supplement , we could , of that later , rubber belt , like anti-slip .	industrial designer presentation
+C	863.41	for the buttons , we can use plastic or rubber .	industrial designer presentation
+C	866.77	and the chip-set , it says simple here , but it should be advanced , because we're using an l_c_d_ screen .	industrial designer presentation
+C	874.18	and as the trend-watcher presentation showed , people like wood , but it raises the price and it doesn't really fit the image , unless we would start two product lines .	industrial designer presentation
+C	887.25	form should follow function overall .	industrial designer presentation
+C	889.7	the kinetic energy source is rather fancy .	industrial designer presentation
+C	895.54	but depends on what we want .	industrial designer presentation
+C	898.17	we should disc discuss that .	industrial designer presentation
+C	900.47	for the case , the supplement and the buttons , it really depends on the designer .	industrial designer presentation
+C	907.06	and the chip-set really should be advanced because otherwise it would really be simple remote control .	industrial designer presentation
+C	915.23	and that's it .	industrial designer presentation
+A	920.09	so that brings us to the discussion about our concepts .	discussion
+A	945.06	so these are the points we have to discuss .	discussion
+A	949.6	first we can talk about the energy source , since that's has pretty big influence on production price , and image .	components, materials and energy sources
+A	969.08	so first of all we have to see it is possible to introduce kinetic energy in our budget , .	components, materials and energy sources
+C	977.98	yes there there are four options .	components, materials and energy sources
+C	979.92	we could use the basic normal battery .	components, materials and energy sources
+C	984.36	but don't think that's really an option .	components, materials and energy sources
+C	987.19	you don't wanna swing before you can watch television .	components, materials and energy sources
+C	992.61	but not every room is very light so it's not very good option .	components, materials and energy sources
+C	996.67	or the kinetic energy .	components, materials and energy sources
+D	1000.75	and how exactly does the kinetic energy work ?	components, materials and energy sources
+C	1003.6	you shake your remote , and then it powers up .	components, materials and energy sources
+D	1003.7	you just you use it and it works .	components, materials and energy sources
+D	1010.1	personally don't think that older people like to shake their remote control before they use it .	components, materials and energy sources
+D	1019.23	and besides that you mentioned it would make the docking station obsolete .	components, materials and energy sources
+D	1024.99	and our docking station could be one of the marketing issues with which we can get great popularity for our product .	components, materials and energy sources
+B	1038.0	but what's the function ?	components, materials and energy sources
+D	1038.44	wel you could load up the batteries , you could insert the find the lost remote control function in there .	components, materials and energy sources
+B	1040.66	for loading up the batteries .	components, materials and energy sources
+B	1045.02	but it won't use much energy believe .	components, materials and energy sources
+B	1058.64	it's just small display so believe it will run on one battery for six months or or or more .	components, materials and energy sources
+B	1068.12	so believe one battery is just enough .	components, materials and energy sources
+A	1068.73	elderly people just like to have everything in place .	components, materials and energy sources
+A	1080.77	and don't think they they like remotes just laying everywhere in their rooms .	components, materials and energy sources
+A	1087.73	so maybe docking station will help them give the remote place .	components, materials and energy sources
+A	1092.41	and also what you said .	components, materials and energy sources
+A	1093.69	you can introduce voice recognition by finding back your remote .	components, materials and energy sources
+A	1101.87	but it's more efficient and cheaper to put it in the docking station .	components, materials and energy sources
+A	1109.64	so you have but button on your docking station which you can push , and then it starts beeping .	components, materials and energy sources
+A	1116.26	and then we can we can still use the voice recognition , but maybe then for only the the channels .	components, materials and energy sources
+D	1123.34	i'm wondering what will the voice recognition mean for the production price ?	project budget
+A	1130.84	that's good point .	project budget
+C	1131.38	don't have any information on pricing .	project budget
+C	1134.02	so i'll have to ask the manufacturing department .	project budget
+D	1137.34	'cause in our earlier market research , if you'd allow me to go to the flat board , smartboard .	user target group
+D	1150.59	so it was open here .	user target group
+D	1153.62	we also asked if they would , if people would pay more for speech recognition in remote control .	user target group
+D	1163.69	you can see here , our target group would not do that .	user target group
+D	1168.27	so if that would increase the price for which we're selling our remote control would greatly advise not to do it .	user target group
+D	1176.67	that would be better to insert in our other product , that is meant for the younger people .	user target group
+C	1185.32	but that would also go for the l_c_d_ screen then .	components, materials and energy sources
+C	1189.47	it's bit higher percentage , but .	components, materials and energy sources
+D	1193.12	this is but this is here the question was , would you prefer it .	components, materials and energy sources
+D	1199.24	so that doesn't really mean they wouldn't pay extra for it .	components, materials and energy sources
+D	1202.5	and on top of that the l_c_d_ screen would help in making the remote control easier to use .	components, materials and energy sources
+D	1212.14	and voice recognition function would not make the remote control much easier to use .	components, materials and energy sources
+A	1216.95	easier to use ?	components, materials and energy sources
+A	1217.91	no , that's good point .	components, materials and energy sources
+B	1220.11	but is our research about bi large l_c_d_ sh display , or just small one we want to use ?	components, materials and energy sources
+D	1230.63	this was for like an l_c_d_ screen like you would have on on the the most advanced mobile phones .	components, materials and energy sources
+D	1238.48	so pretty large .	components, materials and energy sources
+A	1243.48	personally think the l_c_d_ screen we wanna use , with the extra information , nobody has anything against it .	components, materials and energy sources
+A	1250.54	because it's just some extra information , and it's easy to ignore as .	components, materials and energy sources
+A	1255.07	so if you don't wanna use it you just don't use it .	components, materials and energy sources
+A	1258.42	and the maybe we have to discard the voice recognition .	components, materials and energy sources
+A	1268.89	because it will increase cost signifi significantly .	components, materials and energy sources
+A	1274.31	and don't think the don't will be lot easier to use , as .	components, materials and energy sources
+A	1281.22	so that brings us back to the energy .	components, materials and energy sources
+A	1283.72	if we don't have the voice recognition , it will it won't use lot of energy to use .	components, materials and energy sources
+A	1291.26	so in that case we could use kinetic energy , but just simple battery which you can reload on docking station is just as good .	components, materials and energy sources
+A	1303.56	and much cheaper as .	components, materials and energy sources
+A	1305.86	so let me just choose for the battery .	components, materials and energy sources
+C	1305.9	and that's the best choice .	components, materials and energy sources
+A	1313.53	that brings us to the chip .	components, materials and energy sources
+C	1315.52	there isn't any choice there because we're using the the the the display .	components, materials and energy sources
+A	1317.5	just the advanced .	components, materials and energy sources
+C	1319.47	so it's gotta be advanced .	components, materials and energy sources
+A	1330.09	and then we get to the point of the case .	components, materials and energy sources
+A	1334.55	which brings us little bit back to marketing as .	components, materials and energy sources
+A	1341.19	if we wanna choose for wood or the black and grey .	components, materials and energy sources
+A	1349.08	as we saw there is not wood is lot more expensive to produce .	components, materials and energy sources
+A	1357.23	but it will attract elderly people who wanna have something exclusive , which they can show off to their grandkids .	components, materials and energy sources
+A	1370.33	look i've got new remote control , and .	components, materials and energy sources
+D	1371.39	and most important factor there is the wooden colour .	components, materials and energy sources
+D	1378.03	so it wouldn't actually have to be wood , if it's just wood-coloured .	components, materials and energy sources
+A	1386.17	but with colour was lot more expensive ?	components, materials and energy sources
+C	1390.61	i'll have to research .	components, materials and energy sources
+A	1395.15	it's lot more difficult to to handle and to to get in the right shape .	components, materials and energy sources
+B	1400.79	is it possible to make changeable case .	look and usability
+B	1404.97	so you 'cause with mobile phones so like the nokia mobile phones , when you can change the case of it .	look and usability
+A	1417.83	change the cases .	look and usability
+B	1417.83	so maybe it's possible possibility .	look and usability
+B	1421.43	so you have just to make one standard remote control , and you can sell few .	look and usability
+A	1432.61	you can sell the cases .	look and usability
+A	1435.44	that's very good option .	look and usability
+A	1437.94	because then you can advertise as with the give your grandfather new case for his remote control , or whatever .	look and usability
+A	1448.13	because that's it's something extra , it's something other remotes don't have , which we can get great advantage point .	look and usability
+D	1453.95	that is true .	look and usability
+A	1457.96	so and then you can make them with colour .	look and usability
+A	1459.59	black and grey , other colours as .	look and usability
+D	1462.46	we would have to look carefully into the design though .	look and usability
+D	1468.87	'cause we would have to make one control which would fit in with wooden cover and plastic cover .	look and usability
+D	1477.98	the more original one , or the more standard one .	look and usability
+D	1483.0	so that would wouldn't design telephone but no we should just , we should then just design one one remote , but it would have to be fancy with either the wood cover or the plastic one .	look and usability
+A	1483.57	so you suggest we should design two different telephones on which you can apply , remote controls , on which you can apply different case covers , .	look and usability
+D	1510.65	so , but that shouldn't be too much of problem .	look and usability
+A	1514.24	so everybody's with the changing covers ?	look and usability
+A	1518.53	that's good good option .	look and usability
+A	1523.88	changing case covers .	look and usability
+D	1524.94	heard our industrial designer talk about flat , single and double curved .	components, materials and energy sources
+D	1531.51	could you explain that little more ?	components, materials and energy sources
+C	1533.41	the the general like most older remotes are flat , just straight .	components, materials and energy sources
+C	1540.6	and our manufacturing department can also deliver single curved or double curved ca curved cases .	components, materials and energy sources
+D	1547.27	and what would single curved and double curved mean ?	components, materials and energy sources
+C	1550.07	it would just only affect the form , for as far as know .	components, materials and energy sources
+C	1556.22	so it's really just up to the design department what we're gonna use .	components, materials and energy sources
+C	1560.03	it doesn't really matter for the price or the functionality .	components, materials and energy sources
+D	1562.64	so we can just do whatever we want .	components, materials and energy sources
+C	1564.12	pick one you like , yes .	components, materials and energy sources
+A	1569.32	but the form has to be it has to it's has to be possible to stand up ?	look and usability
+A	1576.77	or just only to lie down ?	look and usability
+D	1578.46	no just to lie down .	look and usability
+A	1580.5	and the the cover of the the docking station is also on top of the television then ?	look and usability
+D	1581.25	we'll go for that .	look and usability
+D	1587.87	or besides it .	look and usability
+A	1589.91	and you can just then click it in .	look and usability
+A	1593.69	so the interface .	look and usability
+A	1597.22	what type of interface do we want to use ?	look and usability
+A	1601.88	maybe you can make little drawing of it on the on the the board .	look and usability
+A	1611.44	does somebody have ideas for form or .	look and usability
+B	1615.37	we can just use the regular form of it , but it's not quite fancy .	look and usability
+D	1624.57	you said you wanted to put the changing channels button on the right side , so you could , so your thumb would be easily that was very good point 'cause pointed out earlier that lot of remotes r_s_i_ .	look and usability
+D	1641.56	so that would be great for that .	look and usability
+D	1643.42	maybe we could just make one of those buttons on both the left and the right side .	look and usability
+D	1650.95	for left-handed users also .	look and usability
+B	1655.76	we is it possible to program it so you got on the left side or on the right side buttons for for shifting up and shifting up ?	look and usability
+B	1667.15	and on the other other side buttons for shifting , for for the sound ?	look and usability
+D	1676.54	for the volume .	look and usability
+B	1676.69	or or isn't it ?	look and usability
+D	1678.6	that could we could do that but i'm not if that would be very good for the easy , ease of use .	look and usability
+A	1686.81	usabili ease of use will be lot more difficult , and then it's but you have extra buttons .	look and usability
+D	1693.96	but if we would make changing channels and changing volume button on both sides , that would certainly yield great options for the design of the remote .	look and usability
+D	1707.13	'cause it could be made all symmetrical and .	look and usability
+A	1713.49	so people can get confused .	look and usability
+D	1715.52	that is true .	look and usability
+A	1717.73	especially if they have the same writings on it .	look and usability
+B	1724.17	or we have to make left for lefties and you mean if no .	look and usability
+A	1726.41	can't we make can't we make remote which you can flip over and use on the same functions as the normal one ?	look and usability
+A	1740.29	then you have to let's see if ca blank one .	look and usability
+A	1750.68	and then you get here's little l_c_d_ screen .	look and usability
+A	1777.72	now have to think .	look and usability
+A	1804.34	it's plus and min .	look and usability
+A	1808.61	no it's not very handy .	look and usability
+A	1810.69	because the plus and the min will be opposite and all kinds of no that's not gonna work .	look and usability
+A	1821.0	maybe we should .	look and usability
+A	1823.49	but is it problem that left-handed persons use different hand ?	look and usability
+A	1831.17	the functions are that basic that nobody should have any problems with choosing channel or .	look and usability
+D	1839.3	that is true .	look and usability
+B	1841.79	it's just using your thumb .	look and usability
+A	1847.12	we could just leave it normal shape .	look and usability
+A	1851.92	but maybe we have to make it bit more fancy .	look and usability
+A	1857.83	in one or ano another way .	look and usability
+C	1861.94	we should start by by choosing case .	components, materials and energy sources
+C	1865.34	because that's the basis you're building on .	components, materials and energy sources
+C	1871.76	so could draw them out .	components, materials and energy sources
+C	1880.24	let's look at the flat case .	components, materials and energy sources
+C	1889.73	it's from the side so it's rather normal .	components, materials and energy sources
+C	1893.58	the the single curved so i'm not really what they're gonna look like , but it's something like this .	components, materials and energy sources
+C	1907.36	so this type should be better for you or better should prevent repetitive strain injury bit .	components, materials and energy sources
+C	1918.55	and the double curved looks something like this .	components, materials and energy sources
+C	1933.16	so th those are the three options we have .	components, materials and energy sources
+A	1938.28	suggest the single curved , because maybe the curve is pretty good to put the the screen in .	components, materials and energy sources
+A	1947.09	so that elderly people can use the remote control and at the same time look easily at the screen , because it's bit , it has bit of angle .	components, materials and energy sources
+B	1955.79	so do you say this you got like believe there ?	components, materials and energy sources
+B	1974.0	so you want to put display over here ?	look and usability
+A	1984.97	but now it's do you have it upside down or do you have it this that's top ?	look and usability
+B	1985.03	we can make it ?	look and usability
+B	1989.45	that's the top .	look and usability
+B	1990.55	so this top .	look and usability
+B	1992.83	maybe it's possible to make this side like let's see .	look and usability
+B	2010.75	to make this side like the right colour .	look and usability
+B	2018.5	bit like so in the form of your hand .	look and usability
+B	2022.17	so it's an so so the remote control have to lay in your hand .	look and usability
+B	2031.57	so it's possib for so and and to put the the buttons for changing the channel over here .	look and usability
+A	2034.61	so get your mouse .	look and usability
+A	2048.31	that's good one .	look and usability
+A	2049.61	but it's better to put the screen on top .	look and usability
+B	2055.08	rem but this place it's .	look and usability
+A	2055.63	so just flip it hundred and eighty degrees around then you get here .	look and usability
+A	2063.39	if you can have this one , you turn it like this .	look and usability
+A	2065.92	and then flip it upside down .	look and usability
+A	2070.43	because maybe your hand is in the way , if you have the display here .	look and usability
+C	2076.52	it's more logical to have it on top as because , like on your mobile phone , it's always above .	look and usability
+B	2079.05	so so five minutes .	look and usability
+C	2088.03	maybe you should just start on blank page .	look and usability
+A	2091.8	so then we get here's that's the curve .	look and usability
+A	2122.81	here the display , and then buttons .	look and usability
+A	2125.09	and then we can have little bit off here and here maybe .	look and usability
+A	2131.75	just that's for left hand and right hand users .	look and usability
+A	2136.08	and then the rest of the buttons over here .	look and usability
+B	2140.34	but the on-off button , still on the top .	look and usability
+A	2143.6	still here jus that's .	look and usability
+D	2146.73	and i'd prefer the corners to be round .	look and usability
+D	2151.01	think that would be better .	look and usability
+A	2151.21	should be more bit more friendly , .	look and usability
+D	2154.35	friendly on the eye .	look and usability
+A	2161.88	where's my mouse ?	agenda/equipment issues
+A	2164.23	then we've got general idea of the concepts and the materials we're going to use .	agenda/equipment issues closing
+A	2175.12	so now for the next meeting we'll have to look at the look-and-feel design .	closing
+A	2180.81	it's important that the corporate design image is going to be in the remote .	closing
+A	2185.75	so check out the corporate website maybe .	closing
+A	2188.91	the user interface design , it's the same story .	closing
+A	2192.86	and product evaluation .	closing
+A	2195.27	so the industrial designer and user interface designer are going to work together on this one .	closing
+A	2201.99	but you're going to get your instructions sended by the coach .	closing
+A	2208.54	so just will put these minutes on the in the folder .	closing
+A	2218.6	and then we're going to try to finish our project , and make good design for all the grandfathers and grandmothers , .	closing
+A	2230.07	which are let's see .	closing
+A	2233.95	i'm not if you're going to start right away to work together or you're going to fill in the questionnaires first .	closing
+A	2242.33	and then you'll get message .	closing
+A	2244.81	so that's it .	closing
+A	2247.78	maybe this one ?	closing
+A	2250.26	then we can save this one in the folders group .	closing
+A	2261.73	yes , it's here .	closing
+A	2266.53	smartboard , there it it .	closing
+A	2267.88	so if you wanna have look at it , it's over there in the projects folder .	closing
+A	2274.52	and then we'll start in thirty minutes again .	closing

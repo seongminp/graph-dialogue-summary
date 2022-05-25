@@ -1,0 +1,283 @@
+B	0.02	i'll until you're all hooked up .	opening
+B	52.39	put it on in that way .	opening
+B	80.08	welcome back everybody , hope you've had fun .	opening
+B	85.44	right this is our conceptual design meeting , we're slightly ahead of ourselves from the last meeting , th .	opening
+C	96.01	was getting that impression as .	opening
+B	101.04	this is where we talk about properties , materials , user-interface and trend-watching .	opening
+B	112.69	so we've touched on few things to do with that already , but we'll just go over it .	opening
+B	120.4	the minutes from the last time .	opening
+B	126.02	we had couple of changes in our plans in that we couldn't use teletext , it wasn't gonna be control for everything and that we had to incorporate the image of the company into it somehow .	opening
+B	142.8	we have decided on leaving out the voice recognition , we've decided on there being flip design and different shape from what's normal .	opening
+B	160.44	we were thinking shell , but something along those lines , just different shape from what's normal , .	opening
+B	168.97	you were going to look into the rechargeable batteries and we were gonna think about the port and an alarm for getting it lost , things like that , and our market was going to be young , business , range .	opening
+B	188.62	so shall we start with the first presentation ?	marketing expert presentation
+B	191.93	yes if you feel it's .	marketing expert presentation
+D	193.33	we just connect up .	marketing expert presentation
+D	217.91	there we go .	marketing expert presentation
+D	218.98	so we decided on our market and so this feedback from the marketing department is really about trend watching .	marketing expert presentation
+D	228.0	the methods we used to decide on current trends and so on , market trends , were that we did our traditional our usual market research study with hundred subjects and the the general feedback from them is that the most im i'm i'm slightly tongue-tied after lunch , project manager .	marketing expert presentation
+D	251.19	we decided on the most important aspect required in remote control device and we'll come to that later .	marketing expert presentation
+D	256.56	so that was one of the first things we did .	marketing expert presentation
+D	258.49	also with our company being forerunners in putting fashion into technology , we also looked at fashion update using our consultants on fashion and design in paris and milan .	marketing expert presentation
+D	270.29	so the general findings from that was in the market trends the most important aspect for remote controls were people want fancy look and feel , rather than the the current functional look and feel of remote controls .	trendwatching
+D	285.99	they also also want remote control to be technologically innovative , and , as we predicted , that it should be easy to use .	trendwatching
+D	294.2	now should point out that the first of those findings , fancy look and feel , is the most important , is twice as important as the second , technologically innovative , which is in turn twice as important as being easy to use .	trendwatching
+D	307.84	so possibly that the feature that we put first is actually third is still important , but it's third in order of preference for the the subject group we looked at .	trendwatching
+D	316.96	, now the fashion update which relates to very personal preferences among our subject group , we found from our consultants in paris and milan who des attended all the design and fashion fairs there , that fruit and vegetables are going to be the theme for clothes , shoes and furniture .	trendwatching
+D	335.05	so should we be thinking of using something like that in our remote control design too ?	trendwatching
+D	340.13	there also seems to be trend towards spongy feel to materials , again in contrast to last year .	trendwatching
+D	347.85	so lot of interesting feedback there , both from our market research departments and from our people in paris and milan .	marketing expert presentation
+D	354.32	be interesting to see what our design people make of that .	marketing expert presentation
+B	359.65	let's start from the inside and work our way out .	industrial designer presentation
+A	364.3	it's with me .	industrial designer presentation
+D	365.43	unless anyone has any questions about that ?	industrial designer presentation
+B	367.55	don't , not yet .	industrial designer presentation
+C	380.97	that screwed in ?	industrial designer presentation
+B	388.56	hate those little things especially if you do them on too tight and you can't get the leverage on them to undo them .	industrial designer presentation
+C	411.88	this is all about the design of the actual components and the availability of the components we have in stock at the moment .	industrial designer presentation
+C	422.52	first the into the method .	industrial designer presentation
+C	427.42	the the main idea of the whole thing is just so you sh you just press buttons and it should activate things on the t_v_ and we discussed last meeting that it should be easy to find .	industrial designer presentation
+C	439.48	also in this study i've looked into the availability of some of the materials , 'cause some of the things that we looked at last time aren't un unfortunately aren't available .	industrial designer presentation
+C	452.66	findings , i've got my little picture there .	industrial designer presentation
+C	455.96	this is the chip called the t_a_ double one eight three five which is what's used in every remote control 'cause it sends out standard signals , based on your input and it's used for all all t_v_ remotes at the moment .	industrial designer presentation
+C	474.86	and then we we're loo looking into battery options .	industrial designer presentation
+C	479.86	there's actually no rechargeable option available , so we saw the the standard double a_ and triple a_ which we thought were bit bit too bulky at the moment , dynamo charging , that that might be bit silly to be to be honest , people won't it's it's like wind-up radio .	industrial designer presentation
+B	497.45	wa can you explain that ?	industrial designer presentation
+B	500.12	like right , .	industrial designer presentation
+C	502.19	so you wind up your remote control before you use it .	industrial designer presentation
+B	504.94	how what how long can you get out of that , can you pick it up and then wind it for two minutes and then that's it for the night ?	industrial designer presentation
+C	506.26	it might you , , presu you wouldn't have to wind it for very long , but don't don't t's really necessary when you th you think of the next two options , like the the solar charging , 'cause most people have the light on in the room anyway so they could get when when you got t_v_ .	industrial designer presentation
+B	512.23	or that doesn't count though does it ?	industrial designer presentation
+D	532.32	does does light charge as as sunlight does ?	industrial designer presentation
+B	533.78	it was u_v_ like any , any i'm pretty that solar is from the sun .	industrial designer presentation
+C	537.43	alright it would the the dynamo would take more space 'cause you actually need physical handle to wind up .	industrial designer presentation
+D	539.17	has to be solar .	industrial designer presentation
+A	540.83	regarding those sizes , which one you think will be light because we we have to take into consideration size also , so maybe standard triple a_ might take lesser space or and dynamo might take more space .	industrial designer presentation
+B	560.54	don't counts electric lights no , but not many you don't want to limit your market .	industrial designer presentation
+D	561.91	artificial light , no .	industrial designer presentation
+D	565.27	that's going to know , different parts of the world too , if we're if we're marketing internationally .	industrial designer presentation
+B	568.35	people who live in basement flats there's not that many people , but there are people .	industrial designer presentation
+C	571.73	but and most people most people also watch t_v_ in the in the night anyway .	industrial designer presentation
+B	580.59	but then it would be charging through the day , the point is that it charges through the day and then you've got it charged for the evening .	industrial designer presentation
+C	587.25	but the the next one's the best anyway .	industrial designer presentation
+C	590.62	the the kinetic charging which is like you get it in you get it in wrist watches and you you don't even notice it .	industrial designer presentation
+B	595.4	i've seen but then if you think about watch , it's on your wrist so it's on your whole bod it's on your body the whole time so you're walking around , you're doing things , it is moving lot of the time .	industrial designer presentation
+C	598.34	the amount the amount of probably moving around you'd be doing all the time would would charge it up , don't think you'd ever need to actually physically start shaking it up to make it work .	industrial designer presentation
+A	608.54	and are these like what are the life of the kinetic battery , it like it runs for long time ?	industrial designer presentation
+C	613.51	it's it charges into some form of it's smaller cell which it charges into and the si the size watch watch battery , 'cause they use them quite frequently in watches .	industrial designer presentation
+C	628.74	and that'll that would would last for do i'm not entirely how long it would last but i've never seen one run out .	industrial designer presentation
+A	640.27	we solar would be slightly expensives .	industrial designer presentation
+C	649.9	and but then again it is because if you think about it , the watch , although it's only tiny amount it's it's it's always moving for the whole day and they don't run out over night when you leave them on the side .	industrial designer presentation
+B	650.14	if you'd you switch the t_v_ on , then you put it on the side , then you pick it up to change it and then you put it on the side .	industrial designer presentation
+B	655.88	is it really gonna be enough ?	industrial designer presentation
+C	673.33	and th for the same the same reason , you're only using it for incredibly short amount of time just to send the signal and then you're finished with it and you put it no no do don't think the the draw on it would be .	industrial designer presentation
+B	681.77	so it's not the draw on it isn't .	industrial designer presentation
+D	685.04	could ask referring back to solar charging , is that compatible with standard batteries ?	industrial designer presentation
+D	691.32	could people put standard batteries in but with they could leave it in the sunlight for solar charging or the two things not compatible ?	industrial designer presentation
+C	695.82	ye th you could have dual power thing but the the thing with the solar cells is you would need to put them on the case and they because , if you lie on calculator they they're qui they're quite big and they all they all look identical .	industrial designer presentation
+D	714.49	so that affects the exterior design .	industrial designer presentation
+C	717.25	they're they're expensive , they don't the normal batteries would be the cheapest i'd presume then it would actually be the the solar charging ones , but the it's they're not very resistant to dropping , 'cause if you drop if you if you have the size you'd need to charge remote wouldn't be that big but if remotes always get thrown around and , so .	industrial designer presentation
+B	717.74	what price are we looking at for presume the normal batteries are the cheapest ?	industrial designer presentation
+A	720.58	it's twelve point another question is like .	industrial designer presentation
+B	740.29	they're not designed practical-wise .	industrial designer presentation
+C	753.65	calculators you don't really throw around lot whereas remotes you do , they can they do , they they've got dual things , but they're the batteries are smaller .	industrial designer presentation
+B	759.16	you do get bit of wear but don't calculators have battery in them as ?	industrial designer presentation
+D	767.35	again it de .	industrial designer presentation
+A	769.92	which one would last the longest , because we don't want customers to be like charging like mobile phone every day .	industrial designer presentation
+A	775.96	remote control , like , so we have to look at the life also .	industrial designer presentation
+C	776.18	so the the the if you if you had something du using the standard batteries and the solar charging , , don't think you'd the it would how long the standard double a_s would last in or triple a_s would last .	industrial designer presentation
+D	796.5	it would just detract from the attractiveness of the of the whole feature , it's not gonna add anything , .	industrial designer presentation
+C	799.32	it would , .	industrial designer presentation
+B	801.89	can we add in an attachment to closing feature ?	industrial designer presentation
+B	807.99	can we think about that ?	industrial designer presentation
+B	809.78	'cause if we're doing the kinetic thing and it's add it in to think about because , where am ?	industrial designer presentation
+D	812.31	shouldn't we do some market research on that first before we add it in because personally right , .	industrial designer presentation
+B	825.09	if it is the kinetic thing and it is small and it is portable and it is different shape and the kinetic is something people don't do we're doing something original and different but if you wore it if it's something you could just clip on your pocket then you would have that less , you you wouldn't lose it so much .	industrial designer presentation
+B	849.51	but then maybe that's looking at someone who's just sitting on their own rather than the eternal battle for control of the controls .	industrial designer presentation
+D	857.15	it's not something that's come up in any of our focus groups and market research , it's not thing that people are looking for when we threw it open to the field .	industrial designer presentation
+D	868.04	but it's something to put on the side to think about maybe .	industrial designer presentation
+C	872.2	'll move on .	industrial designer presentation
+C	874.85	my second part of my findings the mo most current remotes use this silicone p_c_b_ board which pr printed circuit board , which has these contacts that are really close together and then when you press down on the rubber button , it'll connect the circuit and each each switch is connected to two different legs on the chip and so sends different message and that then gets translated by the chip into code and then it's fired out of this l_e_d_ in the sequence of on and off bursts .	industrial designer presentation
+B	918.16	what things do we have to consider there ?	industrial designer presentation
+B	919.88	can we what size , does it come in varying sizes or is it just one size and we would have to fit the design of mm-hmm .	industrial designer presentation
+C	925.27	ll this the thi the thing about is they they can be as big or as small as you want them to be because you can you can print circuit board like that that it's it's simply spaced like that so you can have fit the the size of the nine buttons in .	industrial designer presentation
+C	943.54	if you if you see how thin the tracks are , you could you could you could put them virtually right next to each other and have much smaller switch on each one , if you if you wanted to but the there is an option to do to do it like that , or you could have some array of switches which i'll speak about in the next bit so that and then to , so to conserve battery life the remote should be in standby mode no while not being used .	industrial designer presentation
+C	976.66	now what was thinking about that was 'cause sometimes when when you have these things , they've got little lights on behind the buttons , so you can see wh the buttons are , like on mobile phone , they do it more often than on than on t_v_ remote , but you could you could have lights behind the buttons and after like five or ten seconds of not being used i'd have that turned off , if we decided to go for buttons that could light up .	industrial designer presentation
+C	1004.91	the case material , i've been sent what the factory can actually give us , the there's the plastic which we were gonna go for anyway as the main case case housing and the the main problems with the you could go for wood but it would be bit impractical .	industrial designer presentation
+C	1032.5	titanium very expensive just to process , which to make it is expensive , and rubber , you're saying that people like this spongy feel this year , so perhaps some something made of rubber , but was thinking more of the buttons , because the buttons which they've they've said that they've they've put across are what is used in some stress ball manufacture and it's meant to be anti r_s_i_ .	industrial designer presentation
+C	1069.91	i'm no i'm not how that would work because surely your fingers would still be moving over the short distances but that's what they said .	industrial designer presentation
+C	1078.67	the problem with the casing is that there's quite there's quite few design restrictions that they've got on the shape of the case .	industrial designer presentation
+C	1094.17	if you go for titanium they can only do standard box shape , whereas if you come to plastic they can they can be little more they can they can do curved shapes .	industrial designer presentation
+C	1104.96	but whether whether or not because we'd have it in two separate units for the flip phone .	industrial designer presentation
+A	1111.24	second thing is and second question is like , mobile you can change the cover , you call it skin or whatever .	industrial designer presentation
+A	1117.63	so in this case if you're looking at like customer can change the colour like from green , parrot green to chilli red like that .	industrial designer presentation
+A	1123.63	so is that feature available in like titanium , or it's like only specific to plastic or mm-hmm .	industrial designer presentation
+C	1128.23	in in titanium don't don't would be available really , the ju just it you could make it available in the titanium , it was just it would be so expensive to buy new case for it , because of the expense of how much titanium is is it's light and strong but it should be left for aircraft design rather than for for remote .	industrial designer presentation
+D	1152.1	it does mark quite easily too if you let it fall .	industrial designer presentation
+D	1154.44	i've got mobile phone myself which is titanium and it does mark very easily if you drop it .	industrial designer presentation
+D	1159.44	was just wondering if we make the basic mould out of plastic but have like rubber cover that goes over , that would give the spongy feel , that also allows us to have different fasciae for the phone .	industrial designer presentation
+C	1168.63	and you can peel them off .	industrial designer presentation
+B	1169.94	so instead of the fascia that comes off being plastic , the fascia that comes off would be the rubber , like those pens that you get with the grip , that you can you can pull that off .	industrial designer presentation
+D	1174.31	like rubber sleeve almost , .	industrial designer presentation
+A	1176.08	something like alright .	industrial designer presentation
+A	1179.73	that could be good idea .	industrial designer presentation
+A	1181.92	it could it would be comfortable to hold on also .	industrial designer presentation
+D	1184.63	very cheap way of changing the look of it and people can just buy new one if they want to .	industrial designer presentation
+B	1188.72	that's been really popular with mobile phones so don't see why not .	industrial designer presentation
+C	1193.73	also the just just going back to the interface designs with the buttons , the kno we were planning to do some touch screen .	industrial designer presentation
+C	1204.82	now what was saying before about instead of having you could have just bare p_c_b_ circuit board and i'm you could probably get it in different colours and so just by touching it with your finger it'd make the connection over if you had them close enough , that would be one option .	industrial designer presentation
+C	1224.65	the second option th they offer rubber buttons , but that an l_c_d_ type of screen 'cause one they're incredibly thin and don't take up much space , two they you can have them in array and you can arrange the buttons on the screen in set thing and you could have them like touch display .	industrial designer presentation
+A	1250.61	didn't get the last part , you're talking of just what you said didn't get the meaning of it completely , you're saying like .	industrial designer presentation
+C	1254.32	what what on the on the l_c_d_ screen you could becau you could fit it the problem with it is that it's flat and so you can't do lots of curve curved things with it , but you can you wouldn't have with the l_c_d_ you'd have the wires coming off , you wouldn't have that with the with the l_c_d_ , you'd only have that with the printed circuit board .	industrial designer presentation
+C	1283.2	with also with the .	industrial designer presentation
+D	1285.14	don't to interrupt , don't see why the curved thing is problem , if we had shell , once we open that , so it'd be , .	industrial designer presentation
+B	1291.4	it would be flat inside .	industrial designer presentation
+C	1292.64	you could have flat screen inside , , but i'm just wondering whether we want an l_c_d_ screen inside .	industrial designer presentation
+D	1295.95	have misunderstood you ?	industrial designer presentation
+C	1299.06	it wouldn't be like full colour , it would just be black and white , but there'd be touch touch buttons , so you wouldn't be pressing down on 'em , or we could have rubber buttons which are made of this material which is anti-r_s_i_ .	industrial designer presentation
+B	1312.35	it would be good to have contrast between , if the whole thing is gonna be this rubber thing it would be good to open it up and see something quite fancy looking inside .	industrial designer presentation
+B	1322.37	now how would you distinguish , if you had it bare , how would you distinguish where you had to press , like one of the palm pop thing .	industrial designer presentation
+C	1328.39	hadn't hadn't really thought of that to be honest .	industrial designer presentation
+D	1329.81	had another idea , if it helps with that , but just to do with the r_s_i_ .	industrial designer presentation
+D	1334.49	is it possible , just as an option , when we open it up , people can use their fingers to press the button , or we have inside like small pointer thing when people want to .	industrial designer presentation
+C	1341.3	you could , you could have some stylus that you could pull out but they could get bit easily lost , 'cause had .	industrial designer presentation
+A	1349.89	for somebody who very often , if he would person who switches channels very often or does use particular function very often will find it very irritating to use and he might spoil the touch-pad very fast compared to button like , if you keep punching with an pointer or whatever .	industrial designer presentation
+D	1350.41	they're easy to replace as , cheap .	industrial designer presentation
+B	1350.45	it would have to be attached .	industrial designer presentation
+D	1368.02	just thought they wouldn't actually need one and they could use anything they've got , couldn't they ?	industrial designer presentation
+D	1371.75	pencil or pen , so they wouldn't really need mm-hmm .	industrial designer presentation
+B	1374.37	we'll talk about that so if you finish your and we'll come back to that .	industrial designer presentation
+C	1377.38	that's that that's the end of my .	industrial designer presentation
+B	1379.23	that's you , .	industrial designer presentation
+A	1380.42	and just one small question before like you are , regarding the circuit , since we are hav having flip-top , we can customise the two circuits for different type of buttons like we are keeping the standard buttons on the top and the more complex buttons under this thing , so we can divide the circuit like .	industrial designer presentation
+C	1393.63	that that would be fairly simple , you'd you'd actually have two separate you'd have two separate circuit boards but they'd be joined by wires or like some cabling between them , 'cause in the in the actual flip bit you'd have some linking .	industrial designer presentation
+D	1413.28	i'll just raise another point while it occurs to me , it applies to both our designers here , so i'm not how it would fit in .	look and usability
+D	1419.02	if we flip open , now how you've got some mirrors in nightclubs that are mirrors when you turn to them and you turn away and it gives like an advertising display , you seen those ?	look and usability
+D	1428.93	and they respond to the turn of your body .	look and usability
+D	1431.38	is it possible that when we open our flip-top shell it's little compact mirror and when you press button it then goes onto the phone display th the remote control display thing .	look and usability
+B	1441.55	we're marketing to guys as much as we are to women .	look and usability
+D	1445.33	they don't look at themselves ?	look and usability
+B	1448.66	t's remote control , you were sitting watching t_v_ are you gonna want to open it and say shit should go and have shower and do my hair before put the t_ , no , no .	look and usability
+D	1453.41	you mean , it's with us using the ideas for mobile ph it's with us using the ideas for mobile phones kinda got sidetracked onto that , .	look and usability
+D	1462.02	trying to think of other features we can build in that wouldn't cost too much but maybe we'll leave that one on the side .	look and usability
+C	1469.38	you can you could do it , you could have 'cause if you if you just put the full charge through an l_c_d_ display it'll completely blank it out , but if you could get any mirror effect on it , i'm not about .	interface specialist presentation look and usability
+D	1481.17	forget about the mirror that was just very quick passing thought .	look and usability
+A	1485.92	would like to share something which did here .	interface specialist presentation
+A	1492.37	first thing is on design we just took the input from the previous meeting , especially from the marketing and industrial design , to check on the customer needs and feasibility .	interface specialist presentation
+A	1502.9	second is we checked into competitors , the picture here shows one of the standard models offered by competitors here .	interface specialist presentation
+A	1508.02	so you generally see there's not much of variety and like marketing team said , people need trendy , they are bored of black and white .	interface specialist presentation
+A	1515.7	so you generally see rectangular shape , very monotonous designs here .	interface specialist presentation
+A	1522.92	and second thing is there's too much of confusion here .	interface specialist presentation
+A	1527.29	no particular remote is standard .	interface specialist presentation
+A	1531.18	like , some some people have here you see this ?	interface specialist presentation
+A	1535.91	this is on found th that only common feature is the ch channel control and volume control , rest other buttons , they are in very disorganized and they are not consistent th with other models and all .	interface specialist presentation
+A	1549.28	and second as already discussed with william , we are going to have maybe g_ g_u_i_ interface in the in the middle of the flip-top and graphic user interface which is what we do in computer , have icons or touch pad or whatever , which is like you have on icons you have is good example of g_u_i_ graphic user interface .	interface specialist presentation
+D	1557.6	what does that stand for ?	interface specialist presentation
+C	1564.18	if you if if you have like buttons that appear on the screen in this l_c_d_ screen .	interface specialist presentation
+A	1576.34	so not point or click press any particular device , he just has to click on that particular icon to simplify .	interface specialist presentation
+A	1584.31	and on the top repetitive buttons which are like volume or channel changing and all could be on the pointing device , that means the use of button .	interface specialist presentation
+A	1592.81	so he need not use pointer to keep changing the channel if person is frequent surfer .	interface specialist presentation
+A	1598.78	so we are having combination of boards , so on the simpler board , on the top we have this button , rubber buttons , to keep frequently changing the channels .	interface specialist presentation
+B	1609.46	can we swap that round so th that the ones that we use all the time are on the bottom part ?	interface specialist presentation
+B	1615.64	'cause if you're thinking about holding it you would be using your thumbs to press , just like mobile phone .	interface specialist presentation
+D	1622.57	no you'd hold it you don't if you flip it open then you'd be wouldn't you ?	interface specialist presentation
+D	1627.47	isn't that the idea ?	interface specialist presentation
+D	1628.68	you us if we just use the shell as an example again , you open that , you've got your l_c_d_ display there and you've got the buttons there so you're holding it in the palm of your hand , .	interface specialist presentation
+C	1635.08	but you can do it with your thumb li .	interface specialist presentation
+B	1635.33	that's what was just saying , and then have the and then have the l_c_d_ at the top and then be able to touch that for the other controls , so have the the volume and the programme , things like that , on the lower side .	interface specialist presentation
+A	1643.44	and you mean to the and the lower distance .	interface specialist presentation
+A	1655.62	so the findings are too many cluttered buttons .	interface specialist presentation
+A	1658.63	repetition of certain but buttons which already explained , example the volume and channel control buttons .	interface specialist presentation
+A	1663.84	all are confusing and in inconsistent .	interface specialist presentation
+A	1666.13	we had latest finding of voice recognition , there was mail which mentions that our division has developed new speech recognition feature .	interface specialist presentation
+A	1675.57	we have to check into the for financial feasibility whether we can incorporate it this at low cost , but for like we had response from the customers that they would like to have the feature of finding it .	interface specialist presentation
+A	1691.25	so it could be like , where is the remote , and the remote answers am here .	interface specialist presentation
+A	1695.27	some thing or it gives bleep sound or some sound and if this can be incorporated this would be more you can say trendy also ?	interface specialist presentation
+A	1704.46	and technologically innovative also .	interface specialist presentation
+A	1708.98	so we we can check into the financial feasibility of incorporating this .	interface specialist presentation
+A	1716.23	my personal preferences would be like , as already marketing department , they want something to do with fruit so wouldn't say the design should be like fruit , but we can take inspiration from fruit colours , like the vibrant colours , red chilli tomato red or whatever and second thing is cer certain standard buttons we should have , like , if you see the previous slide most of the users would now be acquainted with this cer central pattern , here , so we we we would not change that particular pattern because this is the most consistent thing in all remote controls .	interface specialist presentation
+B	1757.45	't see that , is that play and stop and things ?	interface specialist presentation
+A	1760.16	this is central one , the one you volume and channel .	interface specialist presentation
+B	1761.45	or is that volume and channel ?	interface specialist presentation
+A	1764.29	so keep that that standardised because that's the most common feature across all models , if you look the models , it's here .	interface specialist presentation
+A	1773.65	this and voice recognition .	interface specialist presentation
+B	1790.14	i'm not how long we've got left , but we need to make decision about the things we've discussed .	discussion
+B	1802.7	so , we agree on do we agree on the battery ?	components, materials and energy sources
+B	1813.06	that means that there's no function for li the port , that it sits in , then pressing the button then having so we could incorporate voice recognition for the finding it .	components, materials and energy sources
+C	1822.95	if it is it is qui it's quite feature to have and also if they've got it if they've got these parts already in stock , then it won't be cheap to re-manufacture them , or it will be cheap to re-manufacture them .	components, materials and energy sources
+B	1824.25	it's bi it's like it's gadget , it's selling point .	components, materials and energy sources
+C	1841.48	so do you reckon that's good idea that , where's the remote , i'm here thing ?	components, materials and energy sources
+C	1846.62	that would be quite fun .	components, materials and energy sources
+B	1848.0	the only the only pitfall that we would have would be how much it's going to cost if that means we have to cut down somewhere else , but we've used cheap relatively cheap and simple things .	components, materials and energy sources
+C	1865.0	to th t's it's not as expensive as it would be if it was full colour 'cause if we've just got black and white one , they use them in calculators so .	components, materials and energy sources
+B	1865.2	the l_c_d_'s not cheap .	components, materials and energy sources
+A	1877.46	maybe we could start with the black and white .	components, materials and energy sources
+A	1880.73	that that way we could upgrade later .	components, materials and energy sources
+B	1880.79	and you could .	components, materials and energy sources
+D	1883.7	we talked about kinetic charging , we've deci seem to have decided on that , did we decide on double a_ or triple a_ batteries ?	components, materials and energy sources
+B	1891.65	do you want like back-up ?	components, materials and energy sources
+D	1893.87	no , one of the decisions we had to make was whether we had double a_ or triple a_ batteries 'cause they've still got to be charged this way haven't they ?	components, materials and energy sources
+C	1899.26	no the kinetic ones come come with watch battery that goes in watch .	components, materials and energy sources
+D	1905.07	right , , got you .	components, materials and energy sources
+C	1906.15	so it's lot smaller , so it would .	components, materials and energy sources
+D	1908.4	got you on that , didn't realise .	components, materials and energy sources
+B	1912.74	so we've got battery .	components, materials and energy sources
+B	1915.88	the inside components is pretty standardised across the board isn't it ?	components, materials and energy sources
+B	1921.89	so there's not really decision to be made there , .	components, materials and energy sources
+B	1928.08	the buttons what did you give us as our the bare-board l_c_d_ or on the top one you've got the touch and then , .	components, materials and energy sources
+C	1936.36	the were we're going for the l_c_d_ on that one , on the buttons , on the on the on on the top one we're gonna .	components, materials and energy sources
+C	1950.04	on the bottom we were gonna have the rubber , the rubber ones , the anti-r_s_i_ ones .	components, materials and energy sources
+D	1959.77	could you repeat that last part ?	components, materials and energy sources
+C	1961.78	on we've got the flip the flip-screen , the top one is gonna be the l_c_d_ and the bottom one is gonna be the rubberised buttons .	components, materials and energy sources
+A	1971.44	and for the .	components, materials and energy sources
+B	1973.36	no , it's fine .	components, materials and energy sources
+A	1977.09	for the body design plastic , we could use the body , for the inside and rubber as padding or for the grip , something like to add to the design .	look and usability
+B	1981.56	for the inside .	look and usability
+D	1988.2	mm-hmm , so we decided on rubber casing for the plastic shell , variety of designs , .	look and usability
+B	1992.25	so , so .	look and usability
+D	1995.97	and it is just although it's rubberised and spongy , apart from that we're just going to go for vegetable and fruit colours , we're not gonna try and make it actually vegetable or fruit design or anything else , like shell that we discussed , just go for the colours .	look and usability
+B	2007.04	no we don't wanna be tacky if we've got different shape anyway the fact the the material that we would be using would be cheap , so we could make it red , we could make it psychedelic , , we could make it black and white zebra stripes , but that's not really what we're focusing on , what we're focusing on is the yes .	look and usability
+A	2008.16	it's it's different .	look and usability
+B	2033.84	so we could just pick anything .	look and usability
+D	2037.64	is that going to be this image i've got in my head of something shaped like that , maybe about that size , made of plastic , fits into the palm of the hand , rubberised cover that's spongy .	look and usability
+D	2049.18	is that really going to fit fancy look and feel which was the major thing that people wanted , market research , is that fancy ?	look and usability
+B	2055.21	it's just different it's just different from everything else and , i'm trying to imagine clean looking houses , beige and black so you either want something that goes with that , which is what's on the market anyway , or you want something that contrasts as like you get clocks now that are more of talking point than an actual clock because they're so interesting and .	look and usability
+D	2082.3	i'm just pushing at that to see if you came out with anything else , but agree .	look and usability
+D	2086.84	we looked at those remotes , they are anonymous , very similar looking things .	look and usability
+D	2090.8	this would definitely be different enough , wondered if anybody could come up with something even more the thing is the rubberised covers are going to be relatively cheap to produce , that if in year's time we we get feedback from the design fairs that show something else is coming it's so easy for us to just produce that and it can be slipped on , which is another beauty of it .	look and usability
+B	2094.28	and you would just have an across the you would have so many different options that you could do , you could have plain black one , you could have sparkly pink glittery ones for your little .	look and usability
+B	2116.3	and ones tha ones that have rubbery spikes , you could just go so far with it , like puffer fish , you could just , you could take it wherever , so that's quite flexible thing .	look and usability
+C	2121.37	you can you can just .	look and usability
+A	2122.88	acupressure , you could talk of acupressures .	look and usability
+A	2130.84	and finally the body should be retouchable , may maybe ch you can change the body or the case casing the case outside , it should be moulded it with the design in such way you can change it every time .	look and usability
+C	2141.32	with these rubber these rubberised ca not the actual plastic outside case , just the rubber thing that goes round the outside .	look and usability
+B	2152.26	we've got five minutes , , or that might've been up for while .	closing
+D	2156.44	so can recap sarah , for the decisions that we've made , kinetic charging , the watch-type batteries , l_c_d_ display on th the top side of the flip top , rubberised buttons on the bottom side , we're gonna use fruit and vegetable colours for the rubber cover , the case itself is plastic .	closing
+D	2175.86	that's how far we've got , what else do we have to add to our decisions here ?	closing
+A	2180.25	fine , we were talking of voice recognition also because that we are not for how to look it remote control if it's lost .	closing
+A	2190.83	so , are we looking at voice ?	closing
+D	2190.95	yes , it was just , there was just cost issue with that , but it's good idea we just need to check on the cost , is that right ?	closing
+A	2195.78	or maybe like william was suggesting in the last thing some devices you put on key chains .	closing
+A	2201.36	for , the whistle .	closing
+C	2201.54	the whistle ones , .	closing
+A	2204.25	so we can if financially voice recognition is not feasible we could go for whistle .	closing
+D	2217.03	and incorporating the company logo ?	closing
+A	2222.6	didn't mention this , but we'll be incorporating in the design .	closing
+D	2226.56	'cause took it from the feedback you gave in the last meeting from from your report , it's not just case of having little r_r_ hidden somewhere , they do want it to be obvious that it's our product don't they ?	closing
+B	2235.57	they do , but we can you could is , it is , you just address that with advertising .	closing
+D	2238.38	since it's the only one of its kind on the market it's gonna be ours .	closing
+B	2244.76	you associate the name with the individual product that it is and that does the work for you .	closing
+B	2250.35	it'll have logo on it just like everything , but everything else has logo on it .	closing
+B	2254.19	the point is that it's got to stand out somehow differently but it does , without that so i'm not worried about that .	closing
+D	2261.5	did we know at the last meeting we spoke about beeper , that was you talked about beeper for location , have we just rejected that in favour of voice recognition then ?	closing
+B	2268.77	depending on how we've got this memo saying that it's something that the company's looking into , so that seems to make sense , but if it turns out that it's hugely expensive we'd have to cut down somewhere else , then it's worth thinking about .	closing
+C	2269.86	depending on the expense of it .	closing
+C	2276.09	and they've got in stock , so .	closing
+B	2286.98	but we'll find out more about cost afterwards .	closing
+B	2291.51	right i'm going to wrap it up there .	closing
+B	2296.32	got end meeting now message on my mo so .	closing
+B	2302.58	so we've probably got it says , closing we have forty minutes so think we've probably got about that time before we come back .	closing
+D	2306.69	you got to go through .	closing
+B	2314.36	it's either that or we only had forty minutes to discuss what we just discussed and how long that took .	closing
+A	2321.72	we are pretty going in clear direction now .	closing
+B	2325.9	is everyone happy ?	closing

@@ -1,0 +1,254 @@
+A	37.32	is everybody ready ?	opening
+D	39.73	i'd to just put on my microphone here and i'll be right with you .	opening
+A	47.17	take it you all have received instructions as to what you were supposed to do and the marketing manager probably should go first , addressing the needs and desires .	opening
+D	75.89	you want me to start right now ?	marketing presentation
+D	79.98	could you put my slides up 'cause it might be helpful if we looked at the slides at the same time .	marketing presentation
+A	95.59	you're participant four .	marketing presentation
+D	96.82	i'm participant four believe .	marketing presentation
+A	100.96	and now full screen .	marketing presentation
+D	108.47	there we go .	marketing presentation
+D	109.63	we have introduced ourselves , so the functional requirements are is is part of my goal but why don't we pass right to the second slide .	marketing presentation
+C	110.39	and then full screen .	marketing presentation
+D	120.69	that's where my discussion starts .	production strategy
+D	123.34	right since i'm in charge of trying to figure out what we should put on this thing since have to try to sell it .	production strategy
+D	130.3	that the method should follow would be gather suggestions from everybody , and th the reason put that there like that is that in the init in the initial stage should just be open to lots of suggestions .	production strategy
+D	146.73	you can say anything you want no matter how silly it sounds it should run your car , it should heat up your motor if should turn on your c_d_ whatever you want it to do and then as we go on what we'll have to do is accept and eliminate these suggestions according to design and budget feasibility .	production strategy
+D	165.62	so i'll be coming to you frequently as the industrial expert to tell me how hard it's gonna be to add feature or how expensive it's gonna be or if your time , if it takes five years to develop this it's just something we can't do .	production strategy
+D	180.11	so in the beginning just have big puddle of things that we anybody can th throw anything in and then just weed things out that can't be done for one reason or another , and then the things that seem the most attractive that to to customer we'll try to then prioritise those .	production strategy
+D	197.78	so that was what there , and as said on the slide there consulting the industrial engineer about that and the other thing is timing is really gonna be as important as money , because if we're gonna sell this thing , the best time to sell it is as christmas present .	marketing strategy production strategy
+D	213.64	twenty five euros makes little present , and we want it to be an impulse purchase , we want somebody to see it and t's , gee gotta have that .	marketing strategy
+D	222.22	and take out their wallet and buy it .	marketing strategy
+D	224.06	so it's gotta be really attractive and it but it's gotta go to market by september , 'cause anything that you don't already have out there in september showing it around , isn't gonna sell for christmas .	marketing strategy
+D	234.85	and then i'll be coming to you as the user interface person to try to tell me from your point of view what are the most friendly features that we could put on it and try to prior help me with that prioritising of of the features and of the the look and the colour and i'll be coming back to you to help weed out those suggestions from that point of view .	marketing strategy
+D	261.31	so i'll be coming to you for how much is it gonna cost us and how long is it gonna take you , and i'll be coming to you to tell me what's gonna make somebody take out their wallet , what what's what's gonna really be what they call sizzle , 'cause we gotta sell this sizzle .	marketing strategy
+D	278.51	lot of times the thing that works the best from an engineering point of view isn't the thing that somebody's really just gonna take out their wallet and buy for christmas for for their child or for their husband or whatever .	marketing strategy
+D	290.54	can we go to the next slide ?	design should focus on tv functions
+D	294.86	alright already did little bit of research after our first meeting where we threw out some ideas and it looks to me that within the budget that we're looking at the the whole house idea really isn't gonna be possible .	design should focus on tv functions
+D	306.25	so i'd like your suggestions to come back to the other slide where was saying we we could suggest anything .	design should focus on tv functions
+D	311.75	i'd like the suggestions to be really specific , so that we'll have list of things we can cross off , not something like whole house control what'll be and then found on the internet from from my research that some extended electronic entertainment control should be possible .	design should focus on tv functions
+D	329.24	at the budget that we're looking at and at the price point we're looking at , we should be able to make it work the t_v_ , the v_c_r_ , the stereo set maybe something else cute like coffee pot or one other appliance or maybe lamp .	design should focus on tv functions
+A	341.99	can can at this point interject something ?	design should focus on tv functions
+D	343.81	have to wind up ?	design should focus on tv functions
+A	346.86	we have received instruction from higher up that certain things should not be considered .	design should focus on tv functions
+A	353.55	the one thing something to eliminate maybe that's the teletext , because that's outdated with the internet , and according to to higher management the it should only control the t_v_ , mostly because they feel that it's too comp complex task to to to include other things , and they are concerned with the time to market .	design should focus on tv functions
+C	374.39	complicated , , .	design should focus on tv functions
+A	382.85	and the and the third thing that they wanna make that their that the corporate image is being maintained , and that the corporate colour and design are being used on the product , so that it's easy that that that they can be easily identified as product of of of the company , and that there's no mistake that it could be somebody else who is bringing this out .	design should focus on tv functions
+D	383.08	so that's something so .	design should focus on tv functions
+A	407.04	so wanted to interject this here so we're not getting too much off track here with with the things we wanna look at .	design should focus on tv functions
+A	413.53	these were instructions from higher up so we have to eliminate these things , so it's only gonna be t_v_ , but the one thing maybe that could be eliminated is the teletext idea .	design should focus on tv functions
+D	427.0	alright , for that .	marketing presentation
+D	428.38	alright now other things that found out on in my research is that the complaints that people have about the remote controls that are out there now .	marketing presentation
+D	437.38	'cause lot of them take too much time to learn how to use , and that was thirty four percent but even more important the thing that we did address in our last meeting that frequently it's lost somewhere in the room .	marketing presentation
+D	449.0	so those are two things that we definitely do wanna address , we wanna make it as simple as possible , we wanna make it obvious and intuitive to use , and then the things about finding it we talked about the light emitting thing as as maybe beep , and that those are things after my research that we definitely wanna try to incorporate .	marketing presentation
+D	477.34	'kay can we go to the next slide ?	marketing presentation
+D	479.65	so , my personal preferences in this project are really have to concentrate on the sizzle .	marketing strategy
+D	487.37	that is the selling point , the thing that's gonna make it an impulse purchase .	marketing strategy
+D	491.69	because once there's no be-back , sales they always say , be-backs don't come back .	marketing strategy
+D	498.02	if somebody says , i'll come back and get it next week you're dead .	marketing strategy
+D	501.07	they're never gonna come back and buy it .	marketing strategy
+D	502.5	you've gotta make it attractive enough so they buy it now now now now is big word in in my book for selling this thing .	marketing strategy
+D	510.54	and , in order to make it really sellable we've gotta shorten the learning curve , make it's really intuitive and easy to use .	marketing strategy
+D	518.32	we have to have as few buttons as possible , because more buttons is more confusion , so that's why i'm saying , simplicity is good .	marketing strategy
+D	526.03	finding it's important , you can't use it if you can't find it .	marketing strategy
+D	528.95	so we've gotta concentrate on the features that help you find it , and i've already said this several times but put it down in writing here , it should be an attractive impulse purchase at twenty five euros .	marketing strategy
+D	539.11	so it has to have enough value that when somebody looks at it they say , twenty five euros i'm not gonna take that .	marketing strategy
+D	544.76	has to be so great that they're gonna say , twenty five euros isn't much .	marketing strategy
+D	549.21	and then maybe motto , like we put fashion in electronics might be something we can use in our marketing campaign .	marketing strategy
+D	556.96	that's about it for me right now .	marketing strategy
+A	563.03	and who would be next , , that would be you .	industrial design presentation
+A	572.29	you want me to get your slide show up ?	industrial design presentation
+A	580.82	and you are number three ?	industrial design presentation
+C	582.47	number two , .	industrial design presentation
+C	593.76	can you make it full screen ?	industrial design presentation
+C	598.41	no , it's like you you have to press here .	industrial design presentation
+C	602.45	the cup cup shape here ?	industrial design presentation
+C	605.21	the thir third .	industrial design presentation
+A	607.98	there , mm-hmm .	industrial design presentation
+C	609.94	so today i'm going to talk about the working design of the remote controller .	how RC basic functions work
+C	613.73	can you go to the next sli slide ?	how RC basic functions work
+C	618.32	the metal is like in remote controller you have chip integrated circuit which is like brain of the remote controller .	how RC basic functions work
+C	625.93	it takes the power from battery say battery it it can be elec an electric supply like you have to like switch connec connect connect your remote controller to power supply from the electricity like that .	how RC basic functions work
+C	639.41	it should be battery because remote controller should be like you you you should take it to wherever you want and then th this integrated circuitry takes energy from the power source and whatever like if you press button it's like input for the remote controller and it takes the input and it it transforms into infro infrared bits and it sends it into the device , like t_v_ or air conditioner , something like that so .	how RC basic functions work
+C	666.43	remote controller is specifically designed to single device .	how RC basic functions work
+C	670.27	if you want to design it for multiple devices then you should make all the devices compatible with the frequency like th the remote controller it sends some bits some waves like with particular frequency the device should the frequency is .	how RC basic functions work
+C	686.29	it should re re recognise the waves which are coming from the remote controller and it should take the action like if you press button channel like that then the remote remote controller will send send se send signal , and the t_v_ it should translate that into like change the channel like that , change the volume control and so it's hard to design remote controller for multiple devices .	how RC basic functions work
+D	716.5	that's already been eliminated by management , so we're off the hook .	how RC basic functions work
+A	716.92	yo and it's but it's so .	how RC basic functions work
+C	726.28	so user interface controls the chip and accordingly the messages like there should be user user in interface like switch pad like that buttons should be there .	how RC basic functions work
+C	736.53	so you can control whatever you want , you want to change the channel you want to control the volume you you want to mute mute the t_v_ or you want to have child lock or you want to do some operations there's there should be some device to tell what to do to the in integrated circuit so that the integrated circuit can send the signals and t_v_ can perform the actions .	how RC basic functions work
+C	761.11	so can you go to the next slide ?	design suggestions
+C	763.82	so would like to add some extra features to the remote controller these are the very simple features and they don't take much much of the investment also , it's like el the text or buttons which which are there on the remote controller they those we can make like fluorescent they'll be like light emitting if it is dark so that you can find your remote controller if it is dark .	design suggestions
+C	795.06	and ther there should be beep if many buttons are pressed if suppose child is playing with the remote controller and and she she or he is pressing the buttons all at the time then there should be beep saying that it's this this is not action , there can be no action taking to that so .	design suggestions
+C	815.15	and there should be child lock , like you should be able to lock your remote controller so that whatever buttons are pressed by child they can't be like you you if you have ki kids and all then they'll be pl playing with the remote controllers so can lock the remote controller .	design suggestions
+C	831.82	if make it useable for more than one device it's it's hard but it's possible but it so it's it's , , .	design suggestions
+A	835.85	that has been that has been eliminated , so that's that's unfortunately moot point now .	design suggestions
+D	837.1	already eliminated that .	design suggestions
+C	842.45	and different shapes that we can do like we can have all animals shapes or comfortable whi which can fit into your hands and so that , , and colours also , different colours , and no no no , it won't don't will be like , you can have for if you want ther there to be more .	design suggestions
+D	853.0	now that's good from marketing point of view , the fun the fun shape .	design suggestions
+A	857.0	it just build mould and .	design suggestions
+D	857.0	and that you you say that won't add too much to the budget ?	design suggestions
+D	859.82	to the shape is do you think there's any chance of having ser in having the same machine with the same buttons but maybe several different shapes ?	design suggestions
+C	866.83	it's it's just shape so it doesn't matter .	design suggestions
+A	869.28	as the budget we're looking at if you build one mould don't think that's going to make big difference whether it's gonna be square or yes .	design suggestions
+C	883.0	that is also possible .	design suggestions
+D	884.16	is that gonna be possible ?	design suggestions
+D	885.04	'cause that might help with the marketing .	design suggestions
+A	885.31	we will have to look at the budget on that but in principle that that would be that would be fun , .	design suggestions
+C	887.13	that will be .	design suggestions
+D	891.44	because we had something sexy for adults and we could have something silly for children or little animal shape or in or little elephant so they can remember where it is .	design suggestions
+A	895.49	silly for children .	design suggestions
+C	896.35	for children , exactly .	design suggestions
+A	897.33	like an animal or .	design suggestions
+B	898.13	like doll , or yes .	design suggestions
+C	898.84	that's what , .	design suggestions
+C	904.4	and and the butto buttons also if you want to have more features in your remote controller then there should be more buttons .	design suggestions
+C	911.06	if there are more buttons then it will be more complicated .	design suggestions
+C	913.92	if you have less features then your remote controller won't be attractive , so we need to make some buttons which are which are like in in intended for two or three operations , like if you press one button in one mode then it will change the channel , if you press the other button in another mode it will change the colour .	design suggestions
+C	932.99	so if you want to have less buttons we can have that option but it will complicate the matter more so .	design suggestions
+D	938.61	that that's something that we'll have to discuss with the user interface person because there's lot of argument to be made for one button for one feature .	design suggestions
+D	949.3	because one of the things were complaining about in my what found out in my research is when they complained about how hard it is to learn new one .	design suggestions
+D	957.05	the changing modes was something you and , all all four of us we work with computers all the time , changing modes is nothing for us , but people who and and that's and that's the thing people learn by feel , and you don't feel the mode change .	design suggestions
+A	966.71	little elderly , little arthritic hand , and and it's small button and and it they don't press it exactly something else happens not their favourite channel comes up but something else and they're very frustrated .	design suggestions
+C	981.76	you don't us , usually .	design suggestions
+D	985.2	so maybe having buttons be various shapes might be help too .	design suggestions
+C	990.02	shapes also , different shapes .	design suggestions
+D	991.18	like the triangle is for the volume and square is for changing channels , so that people can develop tactile sense of it .	design suggestions
+C	992.08	that will mm-hmm .	design suggestions
+D	1000.76	but we'll get to that with you .	design suggestions
+C	1000.79	, and also text should be very clear so that there there won't be any ambiguities and so .	design suggestions
+D	1006.76	now that's good point .	design suggestions
+C	1008.93	and display clock if you want more features then we can display clock it don't will take any money extra money because anyway we have an integrated circuit we can just definitely fit that feature into the circuit so it's , and we display clock .	design suggestions
+D	1021.43	that's that's good that's good one , because the clock would be really friendly , and and when is your favourite show coming on and , and lot of time there's not clock on the screen , and you have to go somewhere but you just wanna look at the news for minute .	design suggestions
+A	1022.84	mm-hmm , mm-hmm .	design suggestions
+C	1027.53	and then you can just see your remote controller so .	design suggestions
+A	1028.09	you're sitting there already or maybe you have no other mm-hmm .	components design suggestions
+D	1035.6	that's that's good , the clock is good .	design suggestions
+C	1038.12	can you go to the next slide ?	components
+C	1040.56	components the main components we need for it ha like buttons and underneath that there should be switch .	components
+C	1050.3	like we can have bulb like whenever we are operating remote controller or whenever the t_v_ is on suppose , then the remote controller should automatically have light .	components
+C	1063.85	then it will be like if you switch on your t_v_ through anoth another source , not from through remote remote controller and you you lost your remote controller maybe you can find with the light .	components
+C	1074.56	maybe we can have that .	components
+C	1075.78	whenever the t_v_ is on , remote controller will have light .	components
+C	1080.2	and then infrared bulbs .	components
+C	1082.77	this is like when it is dark .	components
+C	1086.68	and battery , there should be battery for power supply , and chip , chip which is like brain to the remote controller which does all the operations , and wires connecting all chips , which is lights , everything , so there should be wires .	components
+C	1101.67	and there should be case where we can keep all the things and , different shapes or whatever it is there should be case to put to give shape .	components
+B	1110.68	to keep the remote ?	components
+B	1115.19	holder remote holder .	components
+A	1116.13	holder , , mm-hmm .	components
+C	1120.17	can you move onto the next slide .	industrial design presentation
+C	1122.87	next sli slide .	industrial design presentation
+C	1126.12	have referred the site the homepage of the our website , from where have got few points .	industrial design presentation
+C	1140.21	that's it , that's it from me now .	industrial design presentation
+D	1147.15	so it we should visit this site and have look at what's up there ?	industrial design presentation
+A	1151.62	you don't have to .	industrial design presentation
+C	1152.75	it's not like that , have referred the page to get new ideas or like what can be the working design to how it works and all and so and so .	industrial design presentation
+D	1162.05	so it might be helpful if we had look at that .	industrial design presentation
+C	1164.5	if you want .	industrial design presentation
+D	1172.85	could you go back to that slide where she had that slide up betsy ?	industrial design presentation
+C	1176.37	it's actually there now , there on the screen .	industrial design presentation
+A	1200.4	you are number two ?	user interface presentation
+B	1202.09	no no , i'm three .	user interface presentation
+B	1210.37	make it full ?	user interface presentation
+A	1210.71	would you want it full full screen ?	user interface presentation
+B	1211.46	yes yes yes .	user interface presentation
+B	1214.42	as user interface designer did little research to find out what are the features which user would like to have on their remote .	basic functions
+B	1224.22	can you go onto the next slide ?	basic functions
+B	1226.97	so found out that but the main purpose of remote is to control the function of television at far off distance at remote distance .	basic functions
+B	1239.88	now for that , remote controller should have switch on off button by which user can sit anywhere in the room in front of the t_v_ and he can control the functionalities different functionalities of the t_v_ .	basic functions
+B	1253.32	there should be signal something like radio wave or infrared light or led which can be used to change the different functionalities in the television if the user wants to change the channels or increase the volume he can change it .	basic functions
+B	1269.78	now there should be some timer to set for viewing particular particular programme or switching on and off particular programme according to the user choice .	design suggestions
+A	1279.01	on the on on the remote .	design suggestions
+B	1283.88	so if if he want to view particular programme at say nine o'clock he can set the time , and the t_v_ will automatically it will switch on at that particular time .	design suggestions
+B	1293.89	so he can use that properties of features and then there should be child lock system if particular channel is not to be viewed by particular for certain age , then the parents can lock that particular channel so that the ch children cannot view that channel .	design suggestions
+A	1304.86	by your child , mm-hmm .	design suggestions
+B	1313.16	and the the and the one of the feature user would like to have is the compactness of the co remote .	design suggestions
+B	1323.83	the remote should be compact and it should ha it should have as many buttons as possible for controlling different functionalities of the t_v_ television .	design suggestions
+B	1333.47	and as this is my personal preference that it should be in the shape of t_ in alphabet for more compactability .	design suggestions
+B	1343.53	and and and it is one more point which noted it down , like the material which which which is used for remotes should be human friendly it should not any skin disease some al allergy to either children or to ad adult person .	design suggestions
+B	1359.89	and it should have an it can have an alarm clock person if some if somebody wants to get up at around eight eight p_m_ then he can set the time and it can be used as an alarm clock , and don't will cost much to set an alarm clock inside remote .	design suggestions
+C	1376.42	if there is clock then there can be alarm clock .	design suggestions
+D	1378.02	and an alarm clock , that should that should be .	design suggestions
+B	1378.3	yes , and as john reece said the buttons can be , can me we can use the fluorescence to light up the buttons so different buttons will glow differently .	design suggestions
+B	1391.84	so in even in the dark the user can buttons to use to switch on particular channel .	design suggestions
+B	1399.14	and the design of the remote should be in such way that there should not be any sharp projections so that if child plays with remote , he he should not be harmed in any way .	design suggestions
+B	1415.28	and findings , found out on different sites that there are different remotes which can be used , there are remotes which use the infrared for controlling the different functionalities , there are remotes which use the radio waves to control the functions and there are so there you have different types of remotes for different light source which are used which can be used for controlling the different functionalities of television .	design suggestions
+B	1456.32	and these are my few personal preferences like it can be used for multipurpose use .	design suggestions
+B	1461.51	not , no like it can it can be used as t_v_ control as plus an alarm clock to set an alarm timing and it should have child lock , and then to save electricity there should not be much move lots of circuits and all that .	design suggestions
+B	1479.88	and if person if if if parents wants the television to be switched off by ten o'clock then it should be switched off ten at ten o'clock automatically , so that nobody else comes later and use it .	design suggestions
+C	1491.24	it's like , it's like timer it's like lock to the television .	design suggestions
+A	1493.75	timer , , mm-hmm , mm-hmm .	design suggestions
+B	1495.47	and then you can use timer as .	design suggestions
+A	1502.88	now have on my slide show we already we have already done the agenda , and on the closing there will be lunch break and all that .	target group
+A	1542.75	however the decision we have to take in this meeting is who is our target group .	target group
+A	1550.7	and what function , working design , how how does it work .	target group
+A	1557.34	so these are the two things we should come up wit with .	target group
+A	1560.64	so the first thing is pro maybe little easier on who is our target group .	target group
+A	1570.93	in many ways everybody .	target group
+A	1574.48	everybody who has t_v_ .	target group
+B	1576.57	t_v_ television we was .	target group
+A	1577.98	and today there are probably not many people who don't have t_v_ .	target group
+C	1581.7	don't t_v_ , .	target group
+A	1583.14	there are few but in general not .	target group
+A	1587.09	now , talking about the target group which is in sense everybody , but within the target group we have subgroups .	target group
+A	1595.2	we have we have earlier it was mentioned about elderly people who have limited function with their fingers and hands , so that's one group that's certainly important .	target group
+A	1609.75	then we have just the nervous people who can never press little button on anything unless it's really very clear .	target group
+A	1618.45	and how much we want to cater to children's use .	target group
+A	1624.55	that's question whether that's important that children can really use it or not .	target group
+A	1634.47	so this these are just some thoughts have on it , and what you feel about whether we can just say we have one target group and for this one target group we're gonna design this one thing or whether we're looking at what we like we we talking about different shapes , whether that different shape also includes maybe different buttons for different groups .	target group
+D	1662.76	there's the old motto , children under six never shop alone .	target group
+D	1667.37	so if you've designed something that's very attractive to children the mummy mummy we want it now we wanna go to the store and see it that has lot of marketing pull .	target group
+A	1679.64	that has lot of that has lot of appeal but i'm i'm talking about the functionality now on it whether we're looking at different groups .	target group
+A	1688.47	the children issue can be addressed with the shape and with colours .	target group
+A	1693.22	like you make it and pink , fluorescent , banana colour or whatever , .	target group
+D	1697.62	you can make banana shaped one .	target group
+A	1701.78	but the question is really , who is our target group .	target group
+A	1706.49	do we look at one target group ?	target group
+A	1710.54	and with the twenty five euros can we can we afford to have i'm asking the technical people here whether to look at subgroups with maybe different buttons for each group how much would that throw us out of the cost we are supposed to respect ?	target group
+B	1736.96	no generally we can we can design remote which is mainly for people with age from ten to forty and and then we can add on specific functional buttons for children as as the elderly people or the people wit with who have nervous problems , yes .	target group
+A	1755.38	with with mm-hmm .	target group
+C	1757.67	we can design different remotes for different people , like for aged people there will be big buttons and .	target group
+B	1763.0	but in family in family there will be aged person , children and middle aged but they cannot buy three different remotes .	target group
+C	1766.66	children and everybody , .	target group
+B	1770.29	they would like to buy just one and just one which can be used all the three cost effective .	target group
+C	1775.78	that we can do , but specifically if if like elderly people want big buttons then you can't really make bi big remote controller so maybe specifically you can design big con remote controller for elderly and for children , like in different .	target group
+D	1790.07	what about the electronics ?	target group
+D	1791.32	that's not really gonna change much , is it ?	target group
+C	1792.95	no , it it doesn't cost , .	target group
+D	1794.06	that that that won't change much , will it ?	target group
+A	1794.14	no the the quest the question to be addressed here is only who is the target group and how will it function , and the how will it function is probably the question of the buttons , within the target group or subgroups .	target group
+C	1797.28	doesn't doesn't doesn't matter .	target group
+A	1812.72	the question is only whether our budget will allow to have more than one design in sense .	target group
+A	1822.18	the basic design understand will be the same , but the question is how much will that set us back if let's say forty percent we make large buttons and the rest we make regular buttons .	target group
+A	1835.33	so that remains to to be seen but the target group as whole is is everybody with t_v_ .	target group
+D	1843.62	and can we can we is it even feasible to make one one remote control with something for everyone , or would we have to use the same electronics and make three different shapes ?	offer alternative fascias
+A	1855.53	that's that's the question .	offer alternative fascias
+D	1856.58	the same electronics and all that's gonna be different is the plastic case .	offer alternative fascias
+D	1861.2	and in that case we could probabl moulded plastic isn't all that expensive is it ?	offer alternative fascias
+D	1865.75	you as an industrial person ?	offer alternative fascias
+C	1866.61	don't think no .	offer alternative fascias
+A	1868.47	maybe there's there's an idea the new new portable phones ?	offer alternative fascias
+A	1874.26	they have like removable plastic cases , so you can have striped one or you can have fluorescent blue one , or whatever , and maybe something like that , that in each package you have you you have you have you have let's say fluorescent blue on it but then you have another colour or stripe whatever that already comes in package .	offer alternative fascias
+D	1887.25	there's real idea .	offer alternative fascias
+A	1900.4	and then if people really want more colours they can buy it separately .	offer alternative fascias
+C	1904.62	like for mobile phones we have different covers , like designs and all so that we can have that .	offer alternative fascias
+A	1909.27	and but like if if then everybody is is is tired of the fluorescent blue and of the striped or whatever they have as another one in the package , then they can go to the store and for few francs or euros whatever they can buy an alternate package with another two colours in it .	offer alternative fascias
+D	1922.28	an alternate package .	offer alternative fascias
+B	1927.75	but have doubt like will it be cost wise effective if we if we design remote having all the different features for different people or designing three different remotes for three different categories of people .	target group
+A	1945.49	the idea here is to to to design one remote and what the only change is gonna be the funct the functional functional cosmetics if you want to put it that way , having maybe larger buttons or buttons that light up or buttons that are slightly differently shaped for people either for children five minutes that was tha that's the old message .	target group
+D	1946.15	we can only aff , .	target group
+D	1977.56	warning , finish meeting now .	target group
+A	1978.28	finish meeting now .	target group
+D	1985.06	may have to come back to one or two of these points at our next meeting but mm-hmm .	target group
+C	1986.68	maybe , , .	target group
+A	1988.92	but to sum it up the target group is everybody .	target group
+C	1989.31	if we do some more research , maybe we .	target group
+A	1994.52	if money permits we can address some features for some subgroups within that .	target group
+C	2000.29	maybe seventy percent is unique remote controller and thirty percent is it's like .	target group
+D	2001.14	but we have to , fair enough .	target group
+A	2001.45	do we agree , do we ?	target group
+A	2004.74	do we agree on on that in principle , like money will tell whether we will be able to do that or not .	target group
+A	2012.07	so now understand it's lunch break .	closing
+A	2017.78	so that's what we will do .	closing
+A	2022.2	so hank you very much .	closing
+A	2024.39	and we'll see you after lunch .	closing

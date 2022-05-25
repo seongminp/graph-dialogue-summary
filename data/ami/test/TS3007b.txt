@@ -1,0 +1,299 @@
+C	6.64	see my bunny is still standing .	opening
+C	8.94	no one drawing it .	opening
+A	9.45	it's too beautiful .	opening
+C	10.68	figured that much .	opening
+A	22.67	minute , my laptop is , there it is , .	opening
+A	44.88	so welcome back .	opening
+A	46.85	at the functional design meeting the plan is that each one of you , so not me but only you will present the the things you worked on the last half hour .	opening
+A	63.24	will take minutes and will put the minutes that have at the end of the session in the shared folder .	opening
+A	71.54	also the minutes of the previous session are also in the shared folder now , so you can read that now or afterwards .	opening
+A	80.63	had an email from the from the management board , if you al also received it , but there were four points which are very important .	opening
+A	97.55	first one is they think that teletext teletext becomes outdated and internet will be the the main focus .	opening
+A	108.29	second one is also important , because it's one of the discussion points of the previous session .	opening
+A	115.25	the remote control shou should onl only be used for the television , so it not gonna it's not gonna be multi-purpose remote control , so that's one thing to keep in mind .	opening
+A	128.1	second , and that's important for the marketing expert , the current customers are in the age group group of forty years and older , but with this new remote they will would like to reach group younger than forty .	opening
+A	146.63	and to keep in mind , but not really for now is that they want the the the slogan and the and the logo to to be recognised more in the remote .	opening
+A	159.66	so , we have forty minutes , so not more than ten minutes per presentation each , and use all the the the facilities so that you have either smartboards , the the word files , what you whatever you want .	opening
+A	177.22	so tim , can you start ?	marketing expert presentation opening
+D	209.52	'kay , welcome .	new requirements
+D	212.2	have some new findings on marketing expert level , which will show you .	new requirements
+D	222.15	the method used was giving orders to our usability lab to do questionnaire .	new requirements
+D	232.2	one hundred respondents were involved and my marketing department generated report with lot of results .	new requirements
+D	246.48	these were couple of findings , first page of three .	new requirements
+D	253.63	we have three audiences of two audiences , i'm .	new requirements
+D	259.47	the first one , this scale , from sixteen to forty five age .	new requirements
+D	266.93	the second one is from sixty four forty six to sixty five .	new requirements
+D	272.58	as you can see here , the market share for the first audience is about sixty percent sixty five .	new requirements
+D	282.69	second audience audience is thirty five percent .	new requirements
+D	287.36	and some interests from the from the age groups , it seems like the young users of remote controls really like the fancy new technology , like an l_c_d_ screen on the remote control , speech recognition .	new requirements
+D	310.63	don't think that's really appropriate .	new requirements
+D	313.8	and when you see the audience , the age is going up , they don't really want it anymore , at least the new technologies .	new requirements
+D	329.8	second findings out of the questionnaire are the opinion the opinions of the audience about current remote controls .	new requirements
+D	342.61	first point is , seventy five percent of the users find the most repo remote controls very ugly , and eighty percent of the users would spend more money when remote control would look fancy .	new requirements
+D	357.15	so that's maybe something for the user interface designer .	new requirements
+D	366.91	according to the frequency of use versus importance investigation , following buttons are most important .	new requirements
+D	376.46	will tell something about the way this this test was , , done .	new requirements
+D	385.27	persons were asked what the buttons were they use most , how much an hour , and in the second table the importance of those buttons .	new requirements
+D	400.78	when you multiply them , you get the these three points .	new requirements
+D	405.88	switching channels , , that's pretty pretty normal , that's what you do with remote control .	new requirements
+D	417.01	the second , teletext , and the third , volume controls .	new requirements
+D	423.01	it's good that we the user want wants , at least the these three points have to be very clear .	new requirements
+A	434.32	but it's strange that the the manage board the management board said that the teletext will be outdated by the internet .	new requirements
+A	441.27	so that that's strange .	new requirements
+D	442.92	, but at the moment teletext is , th the best thing you can get on t_v_ , like getting information .	new requirements
+D	454.55	so , when you ask people , what do they use , they use teletext and not the internet on remote control .	new requirements
+D	466.07	that's ne it it's new technology , but it's not incorporated right now .	new requirements
+D	471.08	my personal preferences .	new requirements
+D	473.43	we should aim at the audience from sixteen to forty five .	new requirements
+D	481.95	first of all it's the biggest share , the biggest audience , sixty five percent .	new requirements
+D	490.61	second , you will get the most revenue from from it .	new requirements
+D	495.33	, people from sixteen to forty five watch lot of t_v_ , more than people who are el elder .	new requirements
+D	504.91	second point , we have to impro improve the most used functions , as said here , switching channels , teletext and volume controls .	new requirements
+D	517.7	third point that came out of the of the questionnaire , people used to get lost off the remote controller , so maybe it's an idea for us to design ex placeholder on side of the , , of the t_v_ where you can put the the remote control in .	new requirements
+D	542.91	that's about it , .	new requirements
+C	546.9	when you mentioned improving functions , what what do you mean by that what what are you think about ?	new requirements
+D	551.03	not not the not the functions , but it came out that lot of buttons weren't even used on remote control .	new requirements
+D	560.96	so you can have remote control full of buttons , hundreds hundreds of buttons , but if you don't use them , it's , they have to be on it just to to get it done if necessary , but the most used buttons have to be bigger or , perhaps .	new requirements
+C	566.88	so focusing more on the used buttons .	new requirements
+C	580.8	could you use perhaps one button for multiple functions , like example pressing it in longer makes it switch to an different function .	new requirements
+D	590.35	just for the minor functions perhaps .	new requirements
+C	592.16	ma perhaps , just just an idea .	new requirements
+D	594.59	just to get less buttons on the remote control , to make it easier and quicker to learn .	new requirements
+D	602.64	'kay , that's it .	marketing expert presentation
+C	606.17	i'll go , .	industrial designer presentation
+A	606.29	janus , can you , janus .	industrial designer presentation
+C	624.23	right , i'll be explaining bit about working design about the project .	industrial designer presentation
+C	631.9	what did was dissected current remote controls and viewed how how they looked , how they worked , what components are involved , and how they are connected together .	industrial designer presentation
+C	646.46	and after that put up scheme about how these things are organised and i'll show it to you in in in few seconds .	industrial designer presentation
+C	656.02	and i'll explain bit about how it works and how we could build one and why several possibilities that we discussed in the earlier meeting falls off .	industrial designer presentation
+C	670.52	what did was checked remote controls and the remote controls of today are all infrared , not like all probably know .	existing products
+C	678.89	and the thing about that is the remote controls have to act as t_v_ or stereo , and those have transmitter that's also focused on infrared , so if we want to build remote control with bluetooth then the t_v_ should have bluetooth too in order to communicate , so that would mean extra cost for the user and thus that's that wouldn't mean cheap remote control for us .	existing products
+C	709.29	so that's probably why most controls are still infrared .	existing products
+C	714.1	furthermore they all have very simple structure , so that would probably mean lower costs and that could mean for us good thing 'cause we should be able to build relatively cheap cheap remote .	existing products
+C	732.58	as mentioned ready , we have some bluetooth may be possible , but figured it wouldn't be possible in within our budget , but that's not for me to decide , but that's maybe something for marketing to look into .	existing products
+C	744.41	because my personal opinion is is not to do bluetooth or or radio waves , although , actually have .	how to find when misplaced existing products
+D	753.45	what do you think about incorporating bluetooth or radio receiver in the place-holder next to the t_v_ , connected to the t_v_ ?	how to find when misplaced
+D	764.33	so it's in the wrong product .	how to find when misplaced
+C	766.77	actually figured that would be that would be rather , but then you'd still have the the infrared function .	how to find when misplaced
+C	773.95	so in in theory you'd actually just move the problem , but what did think about was when you mentioned about the the cup-holder , is why not introduce speech function like where is the remote .	how to find when misplaced
+C	787.03	if somebody says , where is the remote , then it goes beep beep beep beep , , maybe maybe something to look into , what the cost that something like that would be .	how to find when misplaced
+C	796.19	but it may be may be something to explore .	how to find when misplaced
+C	799.17	i'll i'll just explain bit of the components .	how to find when misplaced
+C	802.46	first you have the energy source .	how to find when misplaced
+C	804.15	the energy source would be battery , simple battery that you can find anywhere .	how to find when misplaced
+C	808.51	figured that would be best , 'cause when the battery stops functioning we could just use you could just go out and buy new one .	how to find when misplaced
+C	816.05	so we didn't and we don't have to do all to be too complicated about that .	components, materials and energy sources
+C	821.43	the energy source is connected to the infrared button , but the infrared button works only via the chip and the subcomponent to the switch there is switch between these .	components, materials and energy sources
+C	834.38	when the switch is pressed in on this this case it switches button , when button is prush pushed in , electric current goes through here , and in immediately , bulb lights up displaying to the user that something has happened .	components, materials and energy sources
+C	848.56	that's that's so the user won't be thinking , did the button be pressed , what happened .	components, materials and energy sources
+C	854.4	or press button but nothing's happening on the t_v_ , so is is something wrong .	components, materials and energy sources
+C	859.38	so that's just to to to explain the of to to make it clearer to the user .	components, materials and energy sources
+C	866.3	the signal goes via chip that's translated into electric sig electronic signals and then it's processed and then it's sent to the infrared bulb where it will be received on the receiving end .	components, materials and energy sources
+C	880.93	and those interpreted by the device , this case the television .	components, materials and energy sources
+C	885.89	my personal preferences here , have to keep it simple .	components, materials and energy sources
+C	889.61	not too many gadgets and functions , just like you said the most users you have lot of buttons and you use you don't use them , so why why should we invent spend more time on those .	components, materials and energy sources
+C	903.46	we should stick by with infrared transmitting and no receiving .	components, materials and energy sources
+C	910.3	so no input from the television .	components, materials and energy sources
+C	913.3	so we shouldn't be spending time on teletext and st things like that , because when you want teletext on infrared you'd have to build in receiver too , and so in order to receive the signals from what's on t_v_ and such .	components, materials and energy sources
+C	931.17	so figure that would be spending too much money and time and yes , but what should we agree with you , but should we spend money or and time on building receiver into the remote control ?	components, materials and energy sources
+D	934.77	, maybe another problem , current t_v_s can even send infrared .	components, materials and energy sources
+C	952.38	'cause that would be extra components , extra designs , larger remote control .	components, materials and energy sources
+C	958.84	these all all that we have to take in account .	components, materials and energy sources
+C	962.59	so my personal opinion is no no no receiver .	components, materials and energy sources
+C	966.81	should look into the design and the functionability .	components, materials and energy sources
+C	970.39	like said , use one button for multiple functions , or just hide the few buttons of switching it open , the usual .	components, materials and energy sources
+C	981.28	and don't overbuild , we shouldn't make big remote control for simple functions , but we we should stick to the basics .	components, materials and energy sources
+C	989.86	so that was my my personal opinion .	industrial designer presentation
+C	993.08	and that was my my presentation , but .	components, materials and energy sources industrial designer presentation
+B	997.6	yes , go ahead .	interface specialist presentation
+A	999.17	the last presentation .	interface specialist presentation
+A	1000.32	you have plenty of time , tim and janus don't talk to ten minutes , so take your time .	interface specialist presentation
+A	1008.87	if you take your time too long will eventually warn you .	interface specialist presentation
+B	1020.06	i'm going to give presentation abut some of the technical functions of these design and usability functions .	interface specialist presentation
+B	1029.42	what's my opinion about what's most important to combine the design , technical possibilities and the user friendliness in one , so if you going to design remote that looks good , that shouldn't weigh over the if it's possible to make , , but also the user friendliness , so tha that's that's some of the main points .	components, materials and energy sources
+B	1053.96	and another one is the use of many functions will will make it more difficult , so use as as little functions as possible or at least don't display them all at once on the same remote .	components, materials and energy sources
+B	1068.03	if you have fifty functions you don't want fifty buttons to be shown at the same time , 'cause when you visit an internet site you don't want fifty links to see , but maybe use hierarch hierarchy structure .	components, materials and energy sources
+B	1083.74	and one of the ideas was maybe use touch screen , but in how far that is possible , since we are sticking to infrared and and the remote cannot receive anything , but we might consider that .	components, materials and energy sources
+B	1099.78	hope this is all clear to you .	components, materials and energy sources
+B	1104.05	if you you can use remote like this with all the functions , many functions , but , your thumb is little bigger than th it than this .	components, materials and energy sources
+B	1113.52	you have to be very careful what you push , and if you're looking for teletext you'll be searching for half an hour from , where is it ?	components, materials and energy sources
+B	1123.82	where the hell he here and , , when you have to use something else .	components, materials and energy sources
+B	1131.12	so just keep it simple , make clear buttons , easy to use .	components, materials and energy sources
+B	1134.85	if you want to use play and back and stop , that's very important .	components, materials and energy sources
+B	1143.41	this was because of our last discussion , if multiple machines are used , create easy switch between the machines , but it's no longer applying .	components, materials and energy sources
+B	1154.8	prefer to use it only for t_v_ and not to give too many options and and if possible , the buttons should give dr direct action , not first select , and so that's where the difficulties lie .	components, materials and energy sources
+A	1170.45	you you just said you wanted to to combine more functions in one , so you you want to keep it simple , but that if you want to do that , then you can't escape the the fact that there will be buttons which give more options than one .	components, materials and energy sources
+B	1190.05	this so that's the thing you have to weigh against each other .	components, materials and energy sources
+C	1190.8	but , but you you have to keep in mind that several t_v_s don't even have menu structure , or they have very simple menu structure , so you have to keep in mind that not all not our remote won't be able to work on all televisions .	components, materials and energy sources
+B	1193.34	do we want to use few options and might not be so or original , or multi-purpose as we thought , or do we want to use many buttons .	components, materials and energy sources
+B	1204.05	so weighing those factors .	components, materials and energy sources
+D	1207.35	it's maybe an option if you use an l_c_d_ or touch screen , that in the middle are the the main keys , like displayed on the .	components, materials and energy sources
+D	1226.62	something like that .	components, materials and energy sources
+D	1227.76	just in the middle the general functions , like play , channel switching , and then at the top or at the bottom , some menus like settings or that you can drop down .	components, materials and energy sources
+B	1242.96	but when all the questions had do we want to use menu display on the t_v_ ?	components, materials and energy sources
+B	1248.41	or does have to everything be in remotes ?	components, materials and energy sources
+B	1252.47	'cause if you use memory display on the t_v_ , you can simply push more menu and then select the options you want to have and press .	components, materials and energy sources
+B	1262.14	so that's my recommendation , if you use many options in one buttle button , display the menu on the t_v_ and don't use combination of of two buttons at the same time or pressing buttons three times for five seconds , is too complicated for most users .	components, materials and energy sources
+D	1279.09	so too , but and that's partly because lot of t_v_s have different menus , and when you have particular menu at your device , it could be that don't correspond to the menu what's actually on t_v_ .	components, materials and energy sources
+B	1298.29	that will be problem .	components, materials and energy sources
+C	1315.67	and that would be considerable problem .	components, materials and energy sources
+B	1316.96	so if we have to stick with current technologies and , the restrictions of what's is on the market today , you should keep it at this .	components, materials and energy sources
+B	1331.7	use big clear buttons .	components, materials and energy sources
+B	1333.74	not too many .	components, materials and energy sources
+B	1336.07	so maybe we'll loose few option options , but this is more important .	components, materials and energy sources
+B	1341.54	especially the important buttons , if you want to switch channel , change your volume , use teletext , it it has to work at once and more advanced options may be put it somewhere away on the remote , behind little little thing or touch screen .	components, materials and energy sources
+C	1354.78	not embed , but then with something like touch screen could could make more menu up pop up .	components, materials and energy sources
+B	1361.83	and , if you want to put on stand-by or change the channel , that should always be possible to do .	components, materials and energy sources
+B	1369.01	not first change menu options or switch something .	components, materials and energy sources
+B	1373.06	, as you already told , give some feedback .	components, materials and energy sources
+B	1376.68	if the user is pushing button he should the television or at least remote is reacting and not just that the batteries may be low .	components, materials and energy sources
+B	1385.24	and , , my conclusion is is less is more , keep it simple .	components, materials and energy sources
+B	1392.04	so maybe we should just ease down on the functionality to to keep it accessible on because you all know , if there are lot of function on the the television , some you you'll never know and never use , and therefore it's important if you want to change the volume or channel that is always accessible and easy and other functions that are not so important you we should consider just not using them or at least putting them somewhere on the remote where they're not in the way for the for the most important functions .	components, materials and energy sources
+D	1429.76	the idea about touch screen is very good .	discussion
+D	1437.92	because recently saw news item on t_v_ about new telephones for elder people .	discussion
+D	1450.27	they have like touch screen with really big pictures on it like call hang-up , and that's big ad advantage , because one the one hand you make the remote control compatible for elder users just by scaling up the pictures .	discussion
+D	1480.12	it's very visual intended .	discussion
+D	1488.69	what was to say more ?	discussion
+B	1490.48	maybe that's an option .	discussion
+B	1492.1	keep the primary buttons visible .	discussion
+B	1495.16	make remote that fits easily in the hands and for some design issues , put logo on it and maybe use it in some aesthetic aesthetic form .	discussion
+B	1505.51	but th the important buttons make them always accessible and pushable and clear and maybe use touch screen , or if that's will become too difficult just like televi some older telephones use maybe it's possible to to flip them open and just expand the number of options that are normally visible .	discussion
+D	1532.19	but but if you pick the the idea , the left idea then what's gonna be displayed on the touch screen ?	discussion
+C	1540.56	the extra functions .	discussion
+B	1541.6	the extra functions , you you just see menu from system functions or teletext functions , and you just choose one , and then all all the options will become available and you just scroll through them .	discussion
+D	1542.47	but like menu functions or .	discussion
+C	1555.87	wouldn't it be better to make just one big touch screen , one one small touch screen applet and i'll just make let's say fifteen buttons on it , and we have three of those , actually just menus with sub-menus , with or sub-items , sub-functions .	discussion
+B	1574.05	then i'd like to make proposal .	discussion
+B	1581.14	if you make one big touch screen , use the same concept as here , keep the buttons always available and use the lower part of the touch screen for the rest .	discussion
+C	1592.52	, like like the ipod idea that that we just saw .	discussion
+C	1596.64	you just have few selected buttons and few menus , and with this idea you could actually make several you can also improve later on .	discussion
+C	1610.46	that will be great .	discussion
+A	1613.32	so you t's will be better to have kinda total touch screen .	discussion
+C	1618.26	wou would actually go for the .	discussion
+B	1620.08	agree , but it's very important that they always make the same buttons accessible , so use just for special options part of the touch screen .	discussion
+B	1632.27	and so an elder designer picks up th the of an elder parents or grandparent picks up the remote from the little child and who's all in the systems functions , you'll have to have the possibility to turn off the t_v_ or to switch the channel without using all the menu structures to get back to the primary functions .	discussion
+D	1654.61	had another idea about maybe parental control .	discussion
+D	1660.79	like building in some pin code which allows parents to switch to all channels , but children if children don't the pin code , they can't switch to violent channels or th there's just ju just simple log-in , something like that .	discussion
+B	1675.77	wh is that possible to use or no ?	discussion
+C	1679.41	that is possible , that that actually depends on the television , but figure that would be , you you see the fi thing is when you buy remote , you you set the channels , the the channels are different on each te television , they aren't set in preset order , so if you lock on remote , let's say channel fifteen , channel fifteen on this television is different than channel fifteen on the other television , so that would be that would be actually the main concern .	discussion
+B	1682.73	, does it have to depend on the television ?	discussion
+B	1709.3	that he means that maybe by some option make that remote control and the t_v_ match , and then after that you can use some insert some passwords as being apparent that the children cannot use this change the settings of the t_v_ , like colour and then volume and mm-hmm .	discussion
+D	1731.49	th that , but maybe if you log in first as parent , you address the the channels and like , that's channel fifteen , that's vi violent channel , my ki my kids don't want my kids to watch that , then you set the priority to only parents , .	discussion
+B	1746.8	something like that .	discussion
+B	1755.31	but make it separate option in the menu , so that it's it's dif dis displayed from displayed here , so parents , you can de display it on the on the old style .	discussion
+C	1755.38	that would , that .	discussion
+D	1757.03	but , but but , that's just that's an an added feature .	discussion
+A	1766.46	but let's not go too wide about the those things , that's that why we're here .	discussion
+D	1770.03	th th those things are .	discussion
+A	1771.22	it's it's idea , but that's we wel later in the stage .	discussion
+A	1775.29	i've one little question about total touch screen or , partial , because elderly people may be not used to touch screen , so they want the the the normal functions like teletext , volume changing , to be , , kinda traditionals and the the the the other functions , the more difficult functions to be maybe on the touch screen , but to keep this as normal as possible , to keep it accessible .	discussion
+D	1810.45	but but if you display it on l_c_d_ screen with really big numbers that's just as just as easy .	discussion
+C	1819.21	do do agree , because , it's just not the same when you touch touch screen or when you touch button , but have to look at what's our target audience .	discussion
+B	1819.24	you can display actual buttons on the touch screens .	discussion
+A	1820.98	that's true , that's true .	discussion
+C	1830.49	we are aiming for younger people and they they chose so that's that's probably but they they they all have to be programmed to fit your t_v_ and that that is bit of tricky job .	discussion
+A	1832.92	that's true , .	discussion
+D	1833.0	age below forty .	discussion
+A	1835.46	, , that's good point .	discussion
+D	1838.58	and th those young people , .	discussion
+D	1840.47	you saw it in my marketing report , they like the new fancy , so touch screen , like microsoft al already developed something like that for multi-media applications .	discussion
+A	1843.91	they like the fancy , .	discussion
+D	1857.21	th we can do that too .	discussion
+A	1861.51	as you can see the minutes from the second meeting , this one , are are done .	discussion
+A	1871.77	i've added the this four things from the management board just to keep in mind .	discussion
+A	1877.55	each time had summary on what you told and what you personal think .	discussion
+A	1886.56	so that can be can be read out .	discussion
+A	1889.77	few things noticed were moment .	discussion
+A	1912.65	th the the main points in this in this meeting is how it's going to look with we must keep it simple , but have the opportunity to have more options and have them hidden , so they don't you don't have big thing full of buttons or and the point that you wanna use one controller for hypothetically each television , so you must the the the the functions , know , like the menus or the the parental control must be all by the done by the remote control and not by the television .	discussion
+A	1960.01	that's the point what we discussed .	discussion
+D	1962.9	, some of them .	discussion
+D	1965.06	the menus are not identical for all th for all t_v_s , so you have to display it on one t_v_ .	discussion
+B	1970.65	you can use when you how do you call it , synchronized , the remote and the t_v_ , then there's always , there are always possibilities to change the colour and the brightness and the volume and maybe we can look out if there's options that the remote in its memory can see what kinda t_v_ it is , from , it's philips , this and this and that , and then give the options that are capable the capable from the there are universal remotes and they all have functionality for all the t_v_s , so this wouldn't be extra feature to incorporate the men menus of these .	discussion
+D	1979.27	but that's not possible .	discussion
+A	2000.15	but you have an , but you have an international market range , so you have big range of .	discussion
+D	2000.77	add th that that's an opportunity .	discussion
+A	2017.5	and it's not too complex to do it .	discussion
+C	2026.16	actually use one of those when they are they are kinda kinda troublesome , but but the thing is whe when you start building something like this you have to build receiver into the into the remotes , because in order for the remote to process something from the t_v_ , like to synchronise and you have to send and receive , and that's .	discussion
+B	2047.83	mo no , you can just say the .	discussion
+D	2048.63	no no no .	discussion
+A	2050.34	just build it in .	discussion
+D	2050.36	he he he he me he means just just one other thing .	discussion
+D	2053.9	with the current remote controls , the universal ones , you have to press , you have to press code for t_v_ .	discussion
+B	2061.51	in codes , you you get book with codes .	discussion
+B	2064.56	you look up , have philips h_ fifty five and it says press code four five five and you press code four five five on the in the remote and it displays all your menu options .	discussion
+C	2074.56	, , that would be possible , .	discussion
+D	2077.5	now we just connect the t_v_ type to set of options , in just just in the memory , so that if you , like profile , so that if you touch in like one four one zero t_v_ the memory pops up the options .	discussion
+B	2083.91	memory in the in the remote .	discussion
+C	2103.49	that would be possible .	discussion
+D	2105.7	th don't think that's that takes lot of storage space or some just varia variables .	discussion
+C	2109.87	no , that wouldn't be , few variables .	discussion
+B	2112.46	if you look at the manuals from universal remotes , there are maybe three four hundreds t_v_s at maximum .	discussion
+B	2124.03	if you have all of them , all the old and new t_v_s summed up , so it is possible .	discussion
+C	2131.11	it is definitely po , firmware upgrade .	discussion
+D	2131.16	but , on the other hand on the other hand , if you have remote and buy new t_v_ that isn't incorporated in the remote new remote ?	discussion
+A	2132.71	we have five minutes to go .	discussion
+B	2141.4	then you have to buy new one , it's very good for marketing maybe , or an update , software update .	discussion
+D	2147.13	firmware upgrade , but from where ?	discussion
+B	2148.4	firmware update , you say .	discussion
+D	2152.99	maybe no may no , maybe we can incorporate some u_s_b_ or firewire connection , so that you can connect it to the p_c_ and download the newest firmware from from the internet .	discussion
+C	2153.59	that's maybe the cup holder .	discussion
+C	2166.98	not everybody has has p_c_ at home .	discussion
+C	2170.04	the most most people have , but not not everybody and .	discussion
+B	2171.72	at you can go back to the shop and they , ser and they can download it for you .	discussion
+D	2174.5	like service centre .	discussion
+C	2177.19	maybe something like service cen or you could you could actually look at the place-holder you talked about earlier , and you could probably make connection to an telephone line or internet connection .	discussion
+B	2188.25	already digital information is sent to the the standards , t_v_ connections , you can see what's programme is on on the new channels , so maybe they we can send that information along with standard t_v_ receiving .	discussion
+C	2203.08	then then it's be back to the building receiving if it's actually worth it to build it in , we could actually look at into it , but , it it would be bringing more costs with with it and , that would be probably best , .	discussion
+D	2218.65	it's most cheap or cheapest to just do the updates at the service centre or at the shop .	discussion
+B	2226.8	some it's good idea , .	discussion
+C	2229.6	like when you when you buy t_v_ you just ask 'll .	discussion
+D	2231.43	it's it's it's not lot of work , just one docking station where you put it in , press start , bling bling , updated .	discussion
+C	2239.13	that would be best , .	discussion
+D	2240.87	you don't buy t_v_ every week , new teev so .	discussion
+B	2242.21	let's save this in the meanwhile for which one are we going ?	discussion
+C	2243.61	exactly , so , my vote goes out to the right .	discussion
+B	2263.36	that one or your vote and your .	discussion
+D	2268.18	my vote too .	discussion
+D	2271.14	and your vote ?	discussion
+B	2272.13	was doubting about which one to take , but you've convinced me that if you di display buttons about the same as they would look on normal remote all elderly people will to do .	discussion
+D	2286.67	and also like clapping li like device that pops open .	discussion
+B	2292.76	opens up is too difficult or break it , don't get so .	discussion
+D	2295.08	too difficult , maybe it's easier to break it .	discussion
+D	2302.39	th th th that .	discussion
+A	2307.79	it's very sensitive .	discussion
+D	2310.56	like my telephone , it's it's sensitive too .	discussion
+A	2315.36	it's almost at the end .	closing
+A	2317.4	so we have now lunch break , finally , .	closing
+A	2321.51	after the lunch break it's back to individual work , once again thirty minutes .	closing
+A	2328.27	will put my minutes have updated them so they're updated in the shared folder too .	closing
+A	2335.36	thirty minutes , the failure .	closing
+A	2341.16	the specifi specific instructions for the next meeting you will all will receive at the the the email .	closing
+A	2350.98	don't think say much about it , so for your email and hopefully you get it done in the in the thirty minutes , and will see you after the lunch break and the thirty minutes .	closing
+D	2363.27	one question , how late do we have to get back be back here ?	closing
+B	2373.95	quarter to one maybe ?	closing
+D	2375.76	thirty minutes lunch break ?	closing
+A	2377.2	thirty minutes lunch break , .	closing
+A	2381.99	then would it be one o'clock .	closing
+A	2384.47	or we we ask our personal coach .	closing
+A	2388.94	that was very good session , we we ye , because all things are stored in smart board dot x_d_k_ and that's in no .	closing
+B	2391.74	is it possible to store this on the share documents or what 'kay , save it as an image on the res no , and use an image if possible .	closing
+D	2402.36	but but you can open from your pr from your laptop .	closing
+C	2414.63	maybe not export function .	closing
+A	2417.44	can you all have the the questionnaire again about the after work .	closing
+C	2425.07	g_ , j_ peg .	closing
+D	2428.61	paper size a_ four .	closing
+D	2432.81	in this directory .	closing
+B	2438.73	it's not connected to the to our p_c_s .	closing
+D	2445.65	it is connected .	closing
+C	2452.65	i'll just saved in my documents .	closing
+C	2456.66	in my own in my own messenger .	closing
+A	2463.48	project documents , .	closing
+B	2465.33	it gives the na .	closing
+B	2471.98	the questionnaire , fill in we fill out after lunch or .	closing
+A	2475.34	it's it's simply filling no , it's it's also filling out no , i'd do it after lunch .	closing
+A	2482.73	i'm hungry , so do it after lunch .	closing
+C	2483.89	aye , cheers .	closing
+B	2488.87	we can leave the p_c_ on , and return to the , bring to gotta bring it home .	closing
+A	2492.73	bring it to my personal room .	closing
+D	2495.57	to my exave executive aye .	closing
+A	2497.52	my executive big room with the with the panting .	closing

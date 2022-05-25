@@ -1,0 +1,381 @@
+i There 's all these interactions between these two and that 's part of why these guys had to work so hard on juggling everything around .
+but when it 's when there 's noise there too , it 's it 's pretty hard .
+So , , it 's a little hard because recognizers , to first order , work .
+So that 's th that 's the hard thing .
+
+, it 's clear that we , we are not with the real case that we 're looking at , we can't just look at reverberation in isolation
+I don't , it 's not clear to me how to reconcile , , what you 're saying , which is right , with the way I 've been looking at it .
+That it 's it 's all not very clear to me .
+
+We 're so this second that you 're saying now is system - wide second ?
+, so they 're all they 're all pretty close .
+So you would you 're You 're thinking to put the , , mel spectrum in before any of the noise removal ? or after ?
+We 're ta we 're pretty far out .
+It 's like , you 're looking at the VAD ,
+, so you 're you 're imagining more that you would come back here first for a while and then and then go up there ?
+Cuz that 's what you 're gonna be using ,
+And the reasons we 're doing the things we 're doing is because they don't work as as we 'd like .
+Boy , I bet they 're all doing nearly perfectly on this ,
+. We 're we 're doing some prediction of what
+
+, , it 's Conceptually , it my impression , again , you guys correct me if I 'm wrong , but my impression is that , , they want it as a double check .
+So it 's it 's a double check .
+Seems to me that if it 's a double check , they should give you a one or a zero .
+
+, it so it actually makes it dependent on the overall energy of the , the frame .
+So it 's just in terms of what data it 's depending on .
+It 's depending on the same data as the other .
+
+So right now nobody 's working on Aurora there .
+. They 're working on a different task .
+Cuz that was , we 'd been working up to that , , he would come here this week and we would
+Have you ever worked with the Mississippi State h , software ?
+There 's there 's not anybody OGI currently who 's who 's , , working with this
+We can For September , we can set up a work schedule and we can maybe work independently .
+And , , I was looking at some of the work that , , Sangita was doing on these TRAPS things .
+If we 're not working on that then we should work on something else and improve it ,
+
+In a sense that 's what we 're trying to deal with in this Aurora task .
+And and , , , in some sense we 're all doing fairly similar things .
+Right , usually it 's when , when the sol similarity measures , , don't go down as much .
+, here 's a here 's a , Here 's a generic and possibly useless thought , which is , , what do you really , in a sense the only s systems that make sense , , are ones that have something from top - down in th in them .
+
+This this smoothing is done on the estimate , , of what you 're going to subtract ? Or on the thing that has already had something subtracted ?
+there 's like There 's a bunch of tuning things to improve .
+There 's questions about various places where there 's an exponent , if it 's the right exponent , or ways that we 're estimating noise , that we can improve estimating noise .
+And like I was saying , the , the basic directions are , , there 's lots of little things , such as improve the noise estimator but the bigger things are adding on the neural net and , , the second stream . And then , , improving the VAD .
+
+, the other thing is that even though it 's months away , , it 's starting to seem to me now like November fifteenth is right around the corner .
+So wha what 's the significance of November fifteenth ?
+, in as far as wha what 's really there in the acoustics .
+
+So that 's most of this is , is operating parallel with this other .
+But they 're actually parallel - y doing some modifications also , .
+
+Once you start dealing with spontaneous speech , all the things you 're saying are really true .
+If you have read speech that 's been manually annotated , like TIMIT , then , , i you the phones are gonna be right , actually , for the most part .
+, if you go to spontaneous speech then it 's it 's trickier
+So it 's almost like there 's this mechanism that we have that , , when we 're hearing read speech and all the phonemes are there , we deal with that ,
+but start looking at , what are the kinds of confusions that you do make , , , between words if you want or or , , even phones in in read speech , say , , when there is noise .
+
+So that happened mid - week .
+It 's it 's it was updated yesterday ,
+, , , cuz we have we have , , half the , , data rate that they allow .
+, there 's the delays and the storage ,
+In which case , , potentially , , it could be big .
+, in which case , , H Hari or Hynek will need to , , push the case more about this .
+Y you passed the threshold or you didn't pass the threshold ,
+and what 's what 's the plan about that ?
+You wanna go to concepts , or have have concepts , actions , this thing .
+, we do this every day in this very gross way of running o a thousand experiments
+But , it 's a it 's it 's , it
+So so , , it doesn't really hurt them to do that , to put in discrimination at that level .
+
+Is the , the CVS mechanism working ?
+So has Has anybody tried remotely accessing the CVS using , , SSH ?
+But it 's So , right now it 's the mechanism with SSH .
+Then that 's using the CVS password mechanism and all that ,
+So w when you came in from Belgian Belgium , using SSH , , was it asking you for your own password into ICSI ?
+, it 's password protected .
+
+, , if you 're doing correlation , you 're just doing a simple , dot product , , with some weights which you happened to learn from this learn from the data .
+, so there 's w something you can download to just learn ?
+Because if e even the smallest organism that 's trying to learn to do anything , if it doesn't have any reward for doing or penal penalty for doing anything , then it 's just going to behave randomly .
+So whether you 're talking about something being learned through evolution or being learned through experience , it 's gotta have something come down to it that gives its reward or , , at least some reinforcement learning ,
+
+And , , but it 's not the main emphasis .
+, but in the current thing , , where you have this - matched , moderately - matched , and mis highly - mismatched , , the emphasis is somewhat on the on the - matched , but it 's only a marginal ,
+So you still if you were way , way off on the highly - mismatched , it would have a big effect .
+It 's , It 's like a medium - mismatch condition , .
+
+So they 're like , d they 're varying different parameters like the insertion penalty and other , and then seeing what 's the performance .
+, if you 're going for this thing where you have , little detectors that are looking at narrow bands , then what you 're going to be looking for should be some category that you can find with the narrow bands .
+, the standard answer about this thing is that if you 're trying to find the right system in some sense , whether you 're trying by categories or parameters , and your goal is discrimination , then having choices based on discrimination as opposed to , , unsupervised nearness of things , , is actually better .
+But it 's also essential that you wanna look at what are the confusions that you 're making and how can you come up with , , categories that , , can clarify these confusions .
+and , , this is a little harder because you 're not just trying to find parameters . You 're actually trying to find the the categories themselves .
+
+, I 've been I 've been train training a new VAD and a new feature net .
+So with this , , new stream would you train up a VAD on both features , somehow ?
+, there 's training and test ,
+No , , if it 's like the other things , there 's there 's data for training the H M Ms and data for testing it .
+But it 's trained on clean and
+Is it trained on clean and test on ?
+It 's training on a range between ten and twenty DB , , and testing between five and fifteen .
+They probably put training , almost certain they put training data there too .
+So , just so that I understand , they 're providing scripts and everything so that , , you push a button and it does training , and then it does test , and everything ?
+
+you may be called upon to help , , on account of , , all the work in this here has been , , with small vocabulary .
+because you 're more experienced with running the large vocabulary .
+it 's it 's , it depends how badly you do .
+That you haven't come across you haven't invented features which are actually gonna do badly for a significantly different task , particularly one with larger vocabulary .
+, the truth is , most of the applications they 're looking at are pretty small vocabulary .
+So again , if you 're if you get If it doesn't help you much , , for noisy versions of this of large vocabulary data , then , , , it may not hurt you that much .
+
+and then within that , I the idea was to freeze a certain set of options for now , to run it , , a particular way , and decide on what things are gonna be experimented with , as opposed to just experimenting with everything .
+There 's there 's some , , neat ideas for V A
+And there is also the idea of using TRAPS , maybe , for the VAD ,
+, Pratibha showed , when , she was at IBM , that it 's a good idea .
+And we may be able to revisit this idea about , , somehow modifying our features to work with
+
+The , , noise suppression , the re - synthesis of speech after suppression .
+because the interaction between that and noise is considerable .
+And we have the noise suppression that 's doing something about noise .
+So there 's this noise suppression thing , which is worked out
+It looks like it 'd be straightforward to , , remove the noise ,
+and So the noise is There is a range of different noises also which are selected randomly and added randomly , , to the files .
+And there are noises that are different from the noises used on TI - digits .
+And so if there 's noise in there , , our brain fills in and imagines what should be there .
+
+So finally it 's it 's , , Wiener filtering on FFT bins .
+We tried u applying this on mel bands , having spectral subtraction instead of wiener filtering .
+So that 's again , that 's the Wiener filtering , followed by , , that 's done at the FFT level .
+, th then the mel filter bank ,
+The the filtering is done in the frequency domain ?
+
+And it uses , , two steps , smoothing of the transfer function ,
+, it 's on the transfer function .
+, it 's on the transfer function for the Wiener filter .
+There 's even a question in my mind anyhow of whether th you should take the log or not .
+So , , the question is , how complex a function do you need ?
+
+And what she found was , sh , was there were five broad , broad categories , , corresponding to , , things like , , fricatives and , , vocalic , , and , , stops .
+, I understand that there 's this other constraint that you 're considering , is that you wanna have categories that , that would be straightforward for , say , a human being to mark if you had manual annotation .
+because to be discriminative you have to have categories and the only categories that we know of to use are these human sig significant categories that are significant to humans , like phonemes , things like that .
+, and and i it 's almost like you want categories if our if our , , , metric of goodness , , i if our
+And and somehow if that 's built into the loop of what the categories
+No , but the important part in there is that , , if you want to be discriminative , you have to have , , categories .
+And this the important categories are the words , and not the phones .
+
+, I gu I my point is that , , i in some of the work he 's doing in reverberation , one of the things that we 're finding is that , , it 's for the for an artificial situation , we can just deal with the reverberation and his techniques work really .
+But for the real situation , problem is , is that you don't just have reverberation , you have reverberation in noise .
+But now when you throw in the reverberation , it 's even worse ,
+Since any almost any real situation is gonna have , where you have the microphone distant , is going to have both things ,
+
+, maybe describe roughly what we are keeping constant for now ,
+So we are going to fix this for the moment and work on the other aspects of the whole system .
+So if you took the system the way it is now , the way it 's fro you 're gonna freeze it , and it ran it on the last evaluation , where it would it be ?
+, we were also esp essentially second , although there were , we had a couple systems and they had a couple systems .
+, so they 're gonna just deliver a system .
+So they have released their , , document , describing the system .
+And it but it 's not ready yet , the system ?
+When did they estimate that they would have that system available for download ?
+
+But what 'll happen is he 'll go back up there and , , Pratibha will come back from , , the east coast .
+So they 'll remotely access it from there .
+So that 'll that 'll be , , an issue .
+So , I 'll , I 'll actually after the meeting I 'll add the second stream to the VAD and maybe I 'll start with the feature net in that case .
+So we 'll have to grab this over CVS ?
+So they 'll probably assign it some low weight .
+So that 's the data that we 'll be running on ?
+, y anyway , you don't have to decide this second but thi think about it about what you would think would be the best way to work it . I 'll
+
+So that , , w possibly having entirely different optimal values for the usual twiddle factors
+, I 've been reading some literature about clustering of data .
+So she has , she has temporal patterns for , , a certain set of phonemes , from TIMIT ,
+And , , she does this agglomerative hierarchical clustering which , , is a clustering algorithm that , , starts with many , many different points many different clusters , corresponding to the number of data , , patterns that you have in the data .
+And then you can pick , , values anywhere along that tree to fix your set of clusters .
+because w you 're it 's like a it 's not a completely automatic way of clustering ,
+, and that 's that 's constraining your clustering to the set of phonemes that you already have .
+If you can put the words in to the loop somehow for determining goodness of your sets of clusters
+
+And if you don't include that in the model , it doesn't work very .
+, so I th certainly the thing that I would want to know about is whether we get really hurt , , on in insertion penalty , language model , scaling , sorts of things .
+It 's just a HMM , Gaussian mixture model .
+But the problem is that we build models of words in terms of phonemes and these models are really cartoon - ish ,
+So when you look at conversational speech , , you don't see the phonemes that you that you have in your word models .
+But but we 're not trying for models of words here .
+, and , you may not have word models , you have phone models , whatever ,
+, , it 's gonna be based on bad pronunciation models that you have of
+because we have some mechanism that allows for these word models , whatever those models are , to be munged , ,
+Language models are there and important
+
+And , , so I , we 've found in a lot of ways for quite a while that having a second stream , helps a lot .
+So adding this other stream in , that 's simple in some way .
+So this second stream , will it add latency to the system
+, which could be this one of these streams , or it can be something derived from these streams .
+
+OK , so we 're talking about discovering intermediate categories to , to classify .
+, and I 'm hoping to find other things of similarity and maybe use these things as the intermediate , intermediate categories that , , , I 'll later classify .
+If the issue is that we 're trying to come up with , , some intermediate categories which will then be useful for later , , then maybe it doesn't matter that we can't have enough
+
+And the input of this neural network would be somewhere between log mel bands or one of the earlier stages of the processing .
+And , , so the initial thing which came from , , the meeting that we had down south was , , that , , we 'll initially just put in a mel spectrum as the second one .
+, Tony Robinson used to do I was saying this before . he used to do mel , , spectra and mel cepstra .
+So that 's that 's put in , and , it may even end up with mel spectrum even though I 'm saying we could do much better , just because it 's simple .
+
+Since he 's going out of town like now , and I 'm going out town in a couple weeks , , and time is marching , , given all the mu many wonderful things we could be working on , what will we actually focus on ?
+the first step , that 's along time , which use recursion .
+We 're not talking about computation time here .
+And each one of them has a pattern over time , a one second window .
+, whereas maybe we want to just take a look at , , arbitrary windows in time , , of varying length , , and cluster those .
+but , , the representation of the data that I was thinking of , was using , , critical band , , energies , , over different lengths of time .
+
+And yet , I would gue I would that many of your recognition errors were coming from , , , pfft , screwing up on this distinction .
+correction if our metric of badness is word error rate then , , maybe we should be looking at words .
+but i if you go all the way to words , , that 's really , d w In many applications you wanna go further .
+, so the common right , the common wisdom is you can't do words because there 's too many of them ,
+, what you wanna do is build up these categories that are that are best for word recognition .
+because we have fast computers and picking the thing that has the best word error rate .
+where you take , , something about the error at the level of the word or some other it could be syllable but in some large unit ,
+And if that if that is if it , if that turns it into another word or different , or another pair of words , then it 's more likely to happen .
+
+, this software that these guys created was certainly a key part .
+So it might be a very thing to do , to just take the noise removal part of it and put that in front of what he 's looking at . And , , generate new files or whatever , and , and then do the reverberation part .
+the , , Wall Street Journal part ?
+Is is this part of the evaluation just a small part ,
+For the most part it 's it 's Gaussian mixtures .
+Right , but I me that maybe in some ways part of the difficulty is trying to deal with the with these phonemes .
+part of the difficulty is that a l a lot of the robustness that we have is probably coming from a much higher level .
+
+. So we 've been working like six weeks on the noise compensation and we end up with something that seems reasonable .
+Cuz one of the things that might be helpful , if you 've if you 've got time in all of this is , is if these guys are really focusing on improving , , all the digit , , maybe and you got the front - end from them , maybe you could do the runs for the
+, their They have a lot of options in their recognizer and the SVM is one of the things they 've done with it , but it 's not their more standard thing .
+You 've been thinking about this problem for a long time actually .
+, for for very , , reasons we 've looked for a while at syllables , and they have a lot of good properties ,
+
+This module , in principle , i , you would know whether it 's true , is somewhat independent from the rest of it .
+The LDA RASTA , , throws away high modulation frequencies .
+So that if you throw away high modulation frequencies , then you can downsample .
+So , since we 're not evidently throwing away useful information , let 's try to put in some useful information .
+So , , the standard way of doing that is take a look at the algorithms you 're looking at , but then throw in some discriminative aspect to it .
+
+It - no , it 's just downloadable from their from their web site .
+So I 'll point you to the web site and the mails corresponding .
+So sh shall we , like , add Chuck also to the mailing lists ?
+Because there 's a mailing list for this .
+So just you can see all this mails in the ISIP web site
+Mississippi web site .
+
+, I know one thing that happens is that you you , , you lose the , , , low energy phones .
+, if there 's added noise then low energy phones sometimes don't get heard .
+
+Actually I tried wh while when I installed the repository , I tried from Belgium .
+In in the program we don't re - synthesize and then re - analyze once again .
+But you have a re - synthesized thing that you that 's an option here .
+and then , , maybe you should just continue telling what else is in the form we have .
+It 's , , cheap , easy .
+but you don't worry about that , and just somehow feed it back through .
+, so that 's , , wh what I called a useless comments because I 'm not really telling you how to do it .
+
+No , I the VAD has its own set of features .
+Are those going to be parameters that are frozen , nobody can change ?
+, some of that may be , , a last minute rush thing because if the if our features are changing
+Somehow yo there 's hooks to put your features in and
+But it seems to me that the desire the desirable feature to have is something that , , is bottom - up .
+
+But , , there are plenty of issues to work on for the feature net @ @ .
+Just to ask him about the issue of , , different features having different kinds of , , scaling characteristics and so on .
+, and I if that , since you 're dealing with issues of robustness , , maybe this isn't right , but it 'd be something I 'd be concerned about .
+
+Right , and then in parallel with an a neural net . And then following neural net , some probably some orthogonalization .
+But structurally it seemed like the things the main things that we brought up that , , are gonna need to get worked on are , , a significantly better VAD , , putting the neural net on , , which , , we haven't been doing anything with , the , , neural net at the end there , and , , the , , opening up the second front .
+th the biggest we 've run into for storage is the neural net .
+And so I the issue there is , are we are we using neural - net - based TRAPS ,
+Cuz she also does the , the correlation - based , , TRAPS , with without the neural net , just looking at the correlation between
+Or a simple neural net ,
+I 've a new feature net ready also .
+No , . p two network , one VAD and one feature net .
+
+And and the on - line normalization as , in that s category .
+We have the on - line normalization and then we have the LDA RASTA .
+, but normalizing spectra instead of cepstra ?
+If yo if you don't normalize and if you don't normalize .
+And then if normalization helps , then y you have something to compare against , and say , " OK , this much effect " , you don't want to change six things and then see what happens .
+And then saying , particularly because we 've found in the past there 's all these these different results you get with slight modifications of how you do normalization .
+Normalization 's a very tricky , sensitive thing and you learn a lot .
+So , I would think you would wanna have some baseline that says , " OK , we don't normalize , this is what we get " , when we do this normalization , when we do that normalization .
+So ultimately we 'll wind up doing some normalization .
+
+so We we had a meeting with , with Hynek , , in which , , Sunil and Stephane , summarized where they were and , , talked about where we were gonna go .
+I 'm thinking of the Meeting Recorder
+, , maybe the thing to me might be I me I 'm you 've just been working on , , details of that since the meeting ,
+But I maybe the thing since you weren't yo you guys weren't at that meeting , might be just to , , recap , , the conclusions of the meeting .
+You 're talking about the meeting with Hynek ?
+So the meeting with Hynek that you guys just had was to decide exactly what you were gonna freeze in this system ?
+
+Cuz that happens before the mel conversion ,
+So , , to do it after the mel conversion , after the noise removal , after the mel conversion .
+but when we go to conversational , and then all of a sudden not all the phonemes are there , it doesn't really matter that much to us as humans
+, we understand the context of the situation when we 're having a conversation .
+
+, putting a nonlinearity on it is , , not that big a deal .
+, Guenter was putting a bunch of Wall Street Journal data on our disks .
+So this test may take quite a while to run , then . May - judging by the amount of data that he was putting on .
+. , I wouldn't imagine that the amount of testing data was that huge .
+That way you can get started asking Joe quickly while he 's while he 's maybe still , , putting in nails and screws and
+
+And after this step there is a further smoothing along frequency , which use a sliding window of twenty FFT bins .
+We just use the clean FFT bins .
+It 's like forty , thirty - five , twenty - five , like that .
+
+I don't s I didn't set up You can also set up a CVS server on a new port .
+It 's like , a main server , or d You can do a CVS server .
+Cuz there is an a way to set up anonymous CVS
+, you ha in this way you ca you have to set up a CVS server but then , , you can access it .
+You can access them and mostly if you if y the set the server is set up like this .
+Because a lot of the open source works with anonymous CVS
+
+Their their first system is fifty - four point something .
+And their second system is also fifty - three point something .
+And I 'm thinking if we if we do that , then we would probably , , at some point in the clustering algorithm find that we 've clustered things like , OK , thi this is a transition , , this is a relatively stable point .
+
+Are are people , , up at OGI grabbing code , via that ?
+, I remember the last time we talked about this , it was up in the air whether they were going to be taking , , people 's features and then running them or they were gonna give the system out or
+, w I there is , , time during which people are gonna make suggestions .
+So these sugges these this , , period during which people are gonna make suggestions is to know whether it is actually biased towards any set of features or
+But , , due to other reasons , like some people are going away , I 'm I 'm hoping it 's not pushed off for a l a long while .
+But if it if you don't if it doesn't help you much , , or to put it another way , if it helps some people a lot more than it helps other people , , if their strategies do , then
+And there is an , , archive of all the mails that has been gon that has gone , , between these people among these people .
+, but , even if you do , , diagnostic rhyme test things , , where there really isn't an any information like that , , people are still better in noise than they than they are in , , than the machines are .
+
+And , , one for silence and another one for schwa sounds .
+So , , if you looked if you were doing some coarse clustering , you probably would put those two sounds together .
+if you go and take any recognizer that 's already out there and you say , " how is it distinguishing between schwas and stops ? "
+
+Although , you haven't tested it actually on the German and Danish ,
+When you 're saying second , you 're comparing to the numbers that the , that the best system before got on , also without German and Danish ?
+And th the ranking actually didn't change after the German and Danish .
+ranking didn't before , but I 'm just asking where this is to where theirs was without the German and Danish ,
+
+Actually , let me int , Dave isn't here to talk about it , but let me just interject .
+And that 's , in the past we 've looked at , , and this is hard enough , the interaction between channel effects and , and additive noise , , so convolutional effects and additive effects .
+And we have , , the , , LDA that in principle is doing something about convolutional effects .
+because not only do you have these effects , but you also have some long time effects .
+And , , so Dave has something which , , is doing some things under some conditions with long time effects
+, so , you guys are closer to it than me , so correct me if I 'm wrong , but that what 's going on is that in both cases , some normalization is done to deal with convola convolutional effects .
+
+So if yo you can only do that if you have an account at ICSI ?
+, so she has , a TRAP for each one of the phonemes , , times fifteen , for each of the fifteen critical bands .
+because yo beforehand you have these TRAPS and you 're saying that these frames correspond to this particular phoneme .
+
+, , the , , the other parts of the system are the blocks that were already present before and that we did not modify a lot .
+
+but , there were two systems that were pretty close , that came from the same place .
+And , , if they haven't decided things like this , like what the parameters are gonna be for this , , when " deciding " is not just somebody deciding . , there should be some understanding behind the , , deciding , which means some experiments and . It it seems pretty tight to me .
+, we when y when you start looking at these results it usually is pretty intuitive ,
+
+And then you have this distance mej metric which , , measures how closely related they are .
+And you start , by merging the patterns that are most closely related .
+, what we wanna do is have something that , particularly in the presence of noise , , is better at distinguishing between , , categories that are actually close to one another , and hence , would probably be clustered together .
+
+, finally we end up with this configuration that works , , quite .
+Then finally , we compute delta and we put the neural network also .
+And finally frame dropping , which , would be a neural network also , used for estimated silence probabilities .
+OK , so just figure how to take the features from the final
+So I the f final system will be frozen by middle of , like , one more week maybe .
+I haven't exactly figured out , , the exact details for that
+because it tells you how your adjustments at the very low level affect the final goal .
+
+and , , iron out hassles that you have to , , tweak Joe about or whatever ,
+, I maybe Hari or Hynek , one of them , has to send a mail to Joe .
+, so maybe just CC Hari and say that you 've just been asked to handle the large vocabulary part here ,
+Would it be better if I asked Hari to ask Joe ?
+Why don't you just ask Joe but CC Hari , and then in the note say , " Hari , hopefully this is OK with you " .
+And then if Joe feels like he needs a confirmation , Hari can answer it .
+
+and there aren't at least a bunch of different versions going off in ways that differ trivially .
+but the initial thing is that cepstra and spectra behave differently ,
+Because , , you can imagine , , i if you remember from , from your quals , John Ohala saying that , , " buh " and " puh " differed , , not really cuz of voicing but because of aspiration .
+So these big categories that differ in huge obvious ways , we already know how to do .
+Y y this is more like , , how does LDA differ from PCA ?
+
