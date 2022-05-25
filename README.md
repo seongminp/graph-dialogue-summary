@@ -1,5 +1,8 @@
 # Dialogue Summarization
 
+Code for [**_Unsupervised Abstractive Dialogue Summarization with Word Graphs and POV Conversion_**](https://aclanthology.org/2022.wit-1.1/) (our submission to [WIT Workshop @ ACL2022](https://megagon.ai/2nd-workshop-on-deriving-insights-from-user-generated-text-wit/)).
+
+
 # Installation
 ```bash
 pip install [-e] .
