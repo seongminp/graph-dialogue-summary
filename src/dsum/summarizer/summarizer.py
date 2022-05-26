@@ -1,7 +1,7 @@
 import argparse
 from functools import reduce
 
-import mecab
+#import mecab
 import networkx as nx
 import numpy as np
 from networkx.readwrite import json_graph

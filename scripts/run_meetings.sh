@@ -5,7 +5,7 @@ echo "AMI (pre-Segmented)" &&
 python benchmarks/ami_segmented.py -d data/ami -s data/ami_segmented &&
 
 echo "AMI (POV conversion)" &&
-python benchmarks/ami.py -d data/ami && -c
+python benchmarks/ami.py -d data/ami -c &&
 
 echo "AMI (pre-Segmented, POV conversion)" &&
 python benchmarks/ami_segmented.py -d data/ami -s data/ami_segmented -c &&
