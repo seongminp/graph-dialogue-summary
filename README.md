@@ -2,6 +2,9 @@
 
 Code for [**_Unsupervised Abstractive Dialogue Summarization with Word Graphs and POV Conversion_**](https://aclanthology.org/2022.wit-1.1/), presented at [WIT Workshop @ ACL2022](https://megagon.ai/2nd-workshop-on-deriving-insights-from-user-generated-text-wit/).
 
+<p align="center">
+    <img src="overview.png" alt="overview" width="600"/>
+</p>
 
 # Installation
 ```bash
